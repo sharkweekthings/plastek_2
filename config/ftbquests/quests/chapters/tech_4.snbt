@@ -821,9 +821,16 @@
 		}
 		{
 			dependencies: ["20DB272F812BD9E1"]
-			description: ["&c&oThis reactor has the power to cause massive destruction if it overheats. It's heavily advised to build this a few hundred blocks away from your main base.&r&r"]
+			description: [
+				"&l&n&dThis video&r&r&r: "
+				""
+				"&b&nhttps://www.youtube.com/watch?v=RSQ-GDJgAKk&r&r by &6Lashmak&r might help you understand the &9Draconic Reactor&r a bit better."
+				""
+				"&c&oThis reactor has the power to cause massive destruction if it overheats. It's heavily advised to build this a few hundred blocks away from your main base.&r&r"
+			]
 			id: "70748E931AC07711"
 			shape: "diamond"
+			subtitle: "Big bada boom."
 			tasks: [{
 				id: "631C0ED6D5A064D6"
 				title: "Ok"

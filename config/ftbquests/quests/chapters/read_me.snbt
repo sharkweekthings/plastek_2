@@ -372,6 +372,8 @@
 				"&bAge 3&r: 100 Claims | 20 Chunk Loading"
 				"&bAge 4&r: 500 Claims | 50 Chunk Loading"
 				"&bAge 5&r: 1000 Claims | 100 Chunk Loading"
+				""
+				"You can also see various leaderboard stats by typing &b/leaderboards&r and tabbing through the various statistics."
 			]
 			hide_dependency_lines: true
 			icon: "minecraft:writable_book"
