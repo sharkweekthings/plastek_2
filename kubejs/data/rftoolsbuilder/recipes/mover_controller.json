@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:activator_rail"
+    },
+    "F": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "pattern": [
+    "iTo",
+    "CFC",
+    "oTi"
+  ],
+  "result": {
+    "item": "rftoolsbuilder:mover_controller"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "inventorypets:feed_bag"
+  },
+  "pattern": [
+    "OFO",
+    "ODO",
+    "OGO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "minecraft:string"
+    },
+    "G": {
+      "tag": "forge:chests"
+    },
+    "O": {
+      "item": "minecraft:leather"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PZP",
+    "EOE",
+    "LCL"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:ingots/netherite"
+    },
+    "E": {
+      "tag": "forge:gems/diamond"
+    },
+	"O": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+	"L": {
+      "tag": "forge:ingots/gold"
+    },
+	"C": {
+      "item": "minecraft:comparator"
+    },
+  "Z": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "item": "hostilenetworks:loot_fabricator"
+  }
+}

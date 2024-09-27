@@ -1,0 +1,482 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tarot_cards"
+	group: "1D085754C16989B5"
+	icon: {
+		Count: 1
+		id: "tarotcards:the_hanged_man"
+		tag: { }
+	}
+	id: "027C0482A92E6171"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1120FBB2E58D3AA6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B2856C74035E6BA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1EE5D298F460C458"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 22
+						}
+					}
+					id: "tarotcards:tarot_deck"
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "167A97727B90BFEA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B5447AB6339118D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "01475F427C1E74BA"
+				item: {
+					Count: 1
+					id: "tarotcards:death"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "1CC135677D48D728"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20DEDF7E1345E795"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3133587B9D34E176"
+				item: {
+					Count: 1
+					id: "tarotcards:judgement"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "683B8718B0CAABD8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "238CA55339679AF2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2AADA0E691AB0C6D"
+				item: {
+					Count: 1
+					id: "tarotcards:justice"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "27B40E70BA9E20A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46D5014A59FD3B25"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2CF57BF2649C7C44"
+				item: {
+					Count: 1
+					id: "tarotcards:strength"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "309A9AB2BD5E928B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CFC4500B3252FDD"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2209F20B78630635"
+				item: {
+					Count: 1
+					id: "tarotcards:temperance"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "6CBBA75DA496C312"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "601F745B7A5FAEB8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F758EF39EF1E828"
+				item: {
+					Count: 1
+					id: "tarotcards:the_chariot"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			id: "52D5532E14DDB1D9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C84B063D77E850A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "03C2E28ED3ED9340"
+				item: {
+					Count: 1
+					id: "tarotcards:the_devil"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			id: "14BD489ACF303855"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77BA6DADBA334B28"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "023321A28E49DC63"
+				item: {
+					Count: 1
+					id: "tarotcards:the_emperor"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			id: "00078FB97A8B66D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "090CC96362C97844"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "66D52BCA0BAAAFA8"
+				item: {
+					Count: 1
+					id: "tarotcards:the_empress"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "7052467FEE2F55E4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CC6736A58BBA262"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "35545592DD745951"
+				item: {
+					Count: 1
+					id: "tarotcards:the_fool"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "122798231655E938"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "14BE25B5908D06B1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3EBC52C726C5A9CD"
+				item: {
+					Count: 1
+					id: "tarotcards:the_hanged_man"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "0581DF1077CC4CFC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E76C6ECF84BAAF8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "33D6AF49644C8181"
+				item: {
+					Count: 1
+					id: "tarotcards:the_hermit"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "3D86A12AA7506FEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D0BB435F2AAE1C2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "177FF7FE579F9301"
+				item: {
+					Count: 1
+					id: "tarotcards:the_hierophant"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "1FF79DB6FD8F2279"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CC21FD36C0362F3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "419D3D77EC55CAC7"
+				item: {
+					Count: 1
+					id: "tarotcards:the_high_priestess"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			id: "7C271D708B2EF67A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F3D023C17A6931D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "56F6991044505C79"
+				item: {
+					Count: 1
+					id: "tarotcards:the_lovers"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "17868EE38D96D57C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "228920AAA5320510"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78C9E26703625E4C"
+				item: {
+					Count: 1
+					id: "tarotcards:the_magician"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			id: "5128F16F00D5DDA2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D18482951C1394C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "05F49B8DC6F5F09A"
+				item: {
+					Count: 1
+					id: "tarotcards:the_moon"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			id: "0DFDD22AE7C0B9A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "052E6E725C9D70B3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5DCFA0E6168EEB6E"
+				item: {
+					Count: 1
+					id: "tarotcards:the_star"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "6FA2852ED425569B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49B3D430A2EBB409"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "19EDAA260BFF96A2"
+				item: {
+					Count: 1
+					id: "tarotcards:the_sun"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "308E9DCE4C0AEAC1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "495D82772EAA6130"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1E35B9A88661539D"
+				item: {
+					Count: 1
+					id: "tarotcards:the_tower"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "492B4EB9DDE9BBBB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E08E548FB59769C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2C7BFC36ED12A721"
+				item: {
+					Count: 1
+					id: "tarotcards:the_world"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "63BDA83AB6224CFD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "54C65B55F2DE38AA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6AB1AD4ABD578C10"
+				item: {
+					Count: 1
+					id: "tarotcards:wheel_of_fortune"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+	]
+	title: "Tarot Cards"
+}

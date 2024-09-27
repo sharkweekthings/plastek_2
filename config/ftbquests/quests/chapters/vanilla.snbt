@@ -1,0 +1,65 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vanilla"
+	group: "79C502F79CD205E5"
+	icon: "minecraft:chest"
+	id: "41D954C3F57B4BF1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["77D669BAA352C3BE"]
+			id: "34E78D296FE5E2ED"
+			tasks: [{
+				id: "714593CBE3D7AE93"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77D669BAA352C3BE"]
+			id: "7AB5D4180DB09CC4"
+			tasks: [{
+				id: "3ACD417E17D10377"
+				item: "minecraft:barrel"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54B3B59FDFF1B9C7"]
+			description: [
+				"It's advised to get a &3Bamboo,&r and &3Wheat&r farm as soon as possible."
+				""
+				"You can &9Haunt&r &3Wheat&r with Create to make &3Straw&r, or you can use a Farmers Delight knife to cut grass."
+			]
+			id: "77D669BAA352C3BE"
+			subtitle: "Baskets are love, Baskets are life."
+			tasks: [{
+				id: "01EAE187DF4F2169"
+				item: "farmersdelight:basket"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			description: ["In order to make any Chests or Barrels you'll need to make alot of Baskets."]
+			id: "54B3B59FDFF1B9C7"
+			shape: "diamond"
+			tasks: [{
+				id: "4E7BD5F2DF5F831B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Sorry"
+			x: 0.5d
+			y: -2.5d
+		}
+	]
+	title: "Basic"
+}

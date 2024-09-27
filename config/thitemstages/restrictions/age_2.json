@@ -1,0 +1,38 @@
+{
+  "Restriction Data": {
+    "stage": "age_2",
+    "itemList": [],
+    "modList": [
+      "pneumaticcraft",
+      "pipez",
+      "industrialforegoing",
+      "createaddition",
+      "compressedcreativity",
+      "buildinggadgets2",
+      "scannable",
+      "biomancy",
+      "elevatorid",
+      "mythicbotany"
+    ],
+    "tagList": [
+      "p2:age_2_item"
+    ],
+    "exceptionList": [
+      {"tag": "p2:age_2_exception"}
+    ],
+    "containerList": []
+  },
+  "Settings": {
+    "advancedTooltips": "ALWAYS",
+    "itemTitle": "Unusable Item",
+    "pickupDelay": 15,
+    "hideInJEI": true,
+    "canPickup": false,
+    "containerListWhitelist": false,
+    "checkPlayerInventory": true,
+    "checkPlayerEquipment": true,
+    "destroyableBlocks": false,
+    "usableItems": false,
+    "usableBlocks": false
+  }
+}

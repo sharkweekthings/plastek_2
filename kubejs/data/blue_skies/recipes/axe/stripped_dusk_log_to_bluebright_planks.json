@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    }
+  ],
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "tag": "natprog:axe"
+    }
+  ],
+  "result": {
+    "item": "blue_skies:bdusk_planks",
+    "count": 1
+  },
+  "group": "planks"
+}

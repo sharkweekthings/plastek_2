@@ -1,0 +1,436 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bumblezone"
+	group: "7CE349CFA49357E1"
+	icon: "minecraft:beehive"
+	id: "54848B410CBEB52F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0A3527F0F480C3F5"
+			tasks: [{
+				id: "22DDA063A10EACD3"
+				item: {
+					Count: 1
+					id: "the_bumblezone:stinger_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.0d
+		}
+		{
+			id: "5DD4FF9F333405AA"
+			tasks: [{
+				id: "7FDCA294EC915E29"
+				item: {
+					Count: 1
+					id: "the_bumblezone:stingless_bee_helmet_1"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			id: "43C6E66B3B1FACBD"
+			tasks: [{
+				id: "429AD744408E237D"
+				item: {
+					Count: 1
+					id: "the_bumblezone:bumble_bee_chestplate_1"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			id: "05A6A33706FC3E2E"
+			tasks: [{
+				id: "3EC75F61818C4E7C"
+				item: {
+					Count: 1
+					id: "the_bumblezone:honey_bee_leggings_1"
+					tag: {
+						Damage: 0
+						pollinated: 1b
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			id: "32702F403982AEC0"
+			tasks: [{
+				id: "6BB3E360B5B8FCC5"
+				item: {
+					Count: 1
+					id: "the_bumblezone:carpenter_bee_boots_1"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			id: "5218FA5A48A9CF6F"
+			tasks: [{
+				id: "1CCE517F891E6AE6"
+				item: {
+					Count: 1
+					id: "the_bumblezone:stingless_bee_helmet_2"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			id: "7CA0016608AFF957"
+			tasks: [{
+				id: "352985181E656AFF"
+				item: {
+					Count: 1
+					id: "the_bumblezone:bumble_bee_chestplate_2"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.0d
+		}
+		{
+			id: "6AF3BB384A194F86"
+			tasks: [{
+				id: "4791E4F9C29F06CF"
+				item: {
+					Count: 1
+					id: "the_bumblezone:honey_bee_leggings_2"
+					tag: {
+						Damage: 0
+						pollinated: 1b
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 3.0d
+		}
+		{
+			id: "4FCAEEA2F7D8CB70"
+			tasks: [{
+				id: "67307E90114B1214"
+				item: {
+					Count: 1
+					id: "the_bumblezone:carpenter_bee_boots_2"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			id: "53F1654931A1F986"
+			tasks: [{
+				id: "416863BF537ECAE7"
+				item: {
+					Count: 1
+					id: "the_bumblezone:bumble_bee_chestplate_trans_1"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 4.0d
+		}
+		{
+			id: "7A9F5944A6A56FBB"
+			tasks: [{
+				id: "7877E3E66D1B4642"
+				item: {
+					Count: 1
+					id: "the_bumblezone:bumble_bee_chestplate_trans_2"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			description: [
+				"The main goal of the Bumblezone is to find the Queen Bee. "
+				""
+				"Once you talk to her, you will unlock access to the Honey Eye. "
+				""
+				"To enter the zone you'll need to throw an Ender Pearl at a Beehive/Nest, or push yourself in with a Piston."
+			]
+			id: "076887AC15495EA9"
+			shape: "diamond"
+			tasks: [{
+				id: "7BC292F04AB48EE0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Bumblezone"
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			id: "10A2EC5178748AE1"
+			shape: "square"
+			subtitle: "Approach a hive or nest."
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/is_near_beehive"
+				criterion: ""
+				id: "7AC72105DD637AF7"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			id: "6FD83D73839608CB"
+			subtitle: "Use a Piston to push yourself into the hive. "
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/teleport_to_bumblezone_piston"
+				criterion: ""
+				id: "3DD7BC3B2BF91918"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			id: "06FFF9CB4F100A9E"
+			subtitle: "Use an Ender Pearl to teleport inside the hive."
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/teleport_to_bumblezone_pearl"
+				criterion: ""
+				id: "541522A0C26099BB"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"6FD83D73839608CB"
+				"06FFF9CB4F100A9E"
+			]
+			dependency_requirement: "one_completed"
+			id: "02FA6ED146354DDD"
+			subtitle: "Dig all the way up or down, and out - then take a leap of faith to exit the Bumblezone."
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/teleport_out_of_bumblezone"
+				criterion: ""
+				id: "52BC38FA3A3489DD"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			id: "584BF9943C430FDF"
+			rewards: [{
+				id: "63FE3E8D3999F479"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "the_bumblezone:comb_cutter"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "3824C5ADB5DED80C"
+				item: "minecraft:honeycomb_block"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			id: "1815E51033FFAE77"
+			shape: "square"
+			tasks: [{
+				id: "11584733CCFA4608"
+				item: "the_bumblezone:honeycomb_brood_block"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			id: "004769F54B376A7F"
+			shape: "square"
+			tasks: [{
+				id: "3FDD5C02EF8FE57E"
+				item: "the_bumblezone:porous_honeycomb_block"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"584BF9943C430FDF"
+				"1815E51033FFAE77"
+				"004769F54B376A7F"
+			]
+			id: "1AA8E5FE661F949D"
+			shape: "square"
+			tasks: [{
+				id: "18015ECAC3070622"
+				title: "Blocks of The Bumblezone"
+				type: "checkmark"
+			}]
+			x: 13.5d
+			y: -1.5d
+		}
+		{
+			id: "5D4B9D6D1CC29CB2"
+			shape: "square"
+			tasks: [{
+				advancement: "the_bumblezone:structures/enter_throne_pillar"
+				criterion: ""
+				id: "7C2767E8BF8B44DA"
+				type: "advancement"
+			}]
+			x: 16.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5D4B9D6D1CC29CB2"]
+			description: [
+				"Have a meeting with the Queen. "
+				""
+				"Productive Bees offers a Bee Queen questline. To follow that, you can look at the Advancements tab."
+			]
+			id: "7BC3BB8449EE27E1"
+			shape: "square"
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/the_beginning"
+				criterion: ""
+				id: "716C218A32E3185F"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: -1.5d
+		}
+		{
+			description: ["This compass will lead you to a Cell Maze structure within The Bumblezone. "]
+			id: "0AC8D4B197321CA6"
+			tasks: [{
+				id: "6A1803444E211788"
+				item: {
+					Count: 1
+					id: "the_bumblezone:honey_compass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.5d
+		}
+		{
+			description: ["Search inside the Honey Cocoons for a chance to find another Honey Compass that will lead you to the Queen's Throne room."]
+			id: "12398B27815E82A2"
+			tasks: [{
+				advancement: "the_bumblezone:tools/obtain_throne_honey_compass"
+				criterion: ""
+				id: "6D0EF601399BF60A"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"7BC3BB8449EE27E1"
+				"076887AC15495EA9"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:old_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7CDB931060633823"
+			rewards: [{
+				id: "7B4711CA8E988973"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "4B37EB50A66035C7"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Honey Eye"
+			x: 19.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"If you feed a bee, or Brood Block you have a chance at getting the Protection of the Hive effect. "
+				""
+				"This will make bees defend you against other attackers. "
+			]
+			id: "6577B28919655D08"
+			tasks: [{
+				advancement: "the_bumblezone:effects/getting_protection"
+				criterion: ""
+				id: "6F7AE0658B37306A"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+	]
+	title: "Bumblezone"
+}

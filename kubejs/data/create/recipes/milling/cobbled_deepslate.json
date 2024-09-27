@@ -1,0 +1,21 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "natprog:cobbled_deepslate"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "chance": 0.35,
+      "count": 1,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.15,
+      "count": 1,
+      "item": "moremekanismprocessing:dust_zinc"
+    }
+  ]
+}

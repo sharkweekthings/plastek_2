@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IDI",
+    "IHI",
+    "III"
+  ],
+  "key": {
+    "H": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "D": {
+      "item": "minecraft:daylight_detector"
+    }
+  },
+  "result": {
+    "item": "productivebees:incubator"
+  }
+}

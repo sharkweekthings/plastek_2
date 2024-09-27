@@ -1,0 +1,900 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "7CE349CFA49357E1"
+	icon: "minecraft:grass_block"
+	id: "46BB3C275562D5E0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7E338FEF64DA4F93"
+			tasks: [{
+				advancement: "idas:bearclaw_inn"
+				criterion: ""
+				id: "29246D41CDE51F64"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "465D5A96DAE39A9D"
+			tasks: [{
+				advancement: "idas:pillager_fortress"
+				criterion: ""
+				id: "70DF854F90810D18"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["593641226E054274"]
+			description: ["IDAS Has some cool structures that contain blocks from Create, Quark, and Supplementaries. "]
+			id: "7536F33B46C770EE"
+			shape: "diamond"
+			tasks: [{
+				id: "3B5A1F788163111E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Integrated Dungeon's and Structures"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "775088A014763063"
+			tasks: [{
+				advancement: "idas:enchantingtower"
+				criterion: ""
+				id: "1832DEFFDFF17B05"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "5A190447B3D5D129"
+			tasks: [{
+				advancement: "idas:apothecary_abode"
+				criterion: ""
+				id: "36EA77195F7BE700"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "4BEAFCBF38664709"
+			tasks: [{
+				advancement: "idas:labyrinth"
+				criterion: ""
+				id: "502CFB6D9CFB3320"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "5BE8A1E9314737B5"
+			tasks: [{
+				advancement: "idas:tinkers_citadel"
+				criterion: ""
+				id: "173E99D92EEE85C5"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			id: "7D03C71BDED1CB10"
+			tasks: [{
+				advancement: "idas:desert_pyramid"
+				criterion: ""
+				id: "572A3075D3ACEF52"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "6CDDC09895D6048D"
+			tasks: [{
+				advancement: "idas:necromancers_spire"
+				criterion: ""
+				id: "79B594DE789CC51F"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "5AC3591A8A121667"
+			tasks: [{
+				advancement: "idas:fishermans_lodge"
+				criterion: ""
+				id: "503B867A531803B3"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "08349B6EBF62C0DE"
+			tasks: [{
+				advancement: "idas:tinkers_workshop"
+				criterion: ""
+				id: "72B66CB69F2131CE"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "79A5BB0BA9621F29"
+			tasks: [{
+				advancement: "idas:hunters_cabin"
+				criterion: ""
+				id: "224EFB20BF120EEC"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "3E89D1DC5740AC5A"
+			tasks: [{
+				advancement: "idas:archmages_tower"
+				criterion: ""
+				id: "734B19B0572E5C17"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "154315798B259BDB"
+			tasks: [{
+				advancement: "idas:witches_treestump"
+				criterion: ""
+				id: "7F0EF17254B2388A"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "5295DA67D33A97C6"
+			tasks: [{
+				advancement: "idas:ancient_mines"
+				criterion: ""
+				id: "7FD3439054A007A5"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "5C24FFC6AE94A392"
+			tasks: [{
+				advancement: "idas:nexus"
+				criterion: ""
+				id: "69D1318C5F14A76F"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "7026604B666324C0"
+			tasks: [{
+				advancement: "idas:redhorn_guild"
+				criterion: ""
+				id: "351C2BDA1E052A83"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "3007E96C0F867949"
+			tasks: [{
+				advancement: "idas:castle"
+				criterion: ""
+				id: "42D1B40272FA3A4E"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "3FA2011C27E7CF4A"
+			tasks: [{
+				advancement: "idas:wizardtower"
+				criterion: ""
+				id: "4EFB423738C17973"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "3F847E7D7C456293"
+			tasks: [{
+				advancement: "idas:ruins_of_the_deep"
+				criterion: ""
+				id: "0A600052F87966B3"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "525204AD9A9D0B69"
+			tasks: [{
+				advancement: "idas:winter_wagon"
+				criterion: ""
+				id: "2075BAB73D4AC7DA"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "70A771C0D55D70AD"
+			tasks: [{
+				advancement: "idas:dread_citadel"
+				criterion: ""
+				id: "27FE5F6E8E25DB60"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "470588164FAEB27F"
+			tasks: [{
+				advancement: "idas:sunken_ship"
+				criterion: ""
+				id: "027EA2379DE1820F"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["593641226E054274"]
+			description: ["Cataclysm offers various dungeons to explore, with bosses to challenge."]
+			id: "191C2BD1CDA914FE"
+			shape: "diamond"
+			tasks: [{
+				id: "619FE48B02BA3989"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Cataclysm"
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			id: "4CA3767DC4264048"
+			subtitle: "Actual Location: Nether"
+			tasks: [{
+				advancement: "cataclysm:find_soul_black_smith"
+				criterion: ""
+				id: "73013BCE7B6AA328"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			id: "1E3142133B14D625"
+			tasks: [{
+				advancement: "cataclysm:find_sunken_city"
+				criterion: ""
+				id: "4E087B063608FF2D"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			id: "20872779C897BE79"
+			tasks: [{
+				advancement: "cataclysm:find_cursed_pyramid"
+				criterion: ""
+				id: "0522B3D894325506"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			id: "57254793DC42F314"
+			subtitle: "Actual Location: The End"
+			tasks: [{
+				advancement: "cataclysm:find_ruined_citadel"
+				criterion: ""
+				id: "615427D664EFC8D0"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			id: "2BC700A5ED02EE73"
+			tasks: [{
+				advancement: "cataclysm:find_ancient_factory"
+				criterion: ""
+				id: "5E98B24FB953610F"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			id: "45ECC14C4A61BAFE"
+			subtitle: "Actual Location: Nether"
+			tasks: [{
+				advancement: "cataclysm:find_burning_arena"
+				criterion: ""
+				id: "43DD3ADA611290C1"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			id: "6CA023AE1E9CAFD5"
+			tasks: [{
+				advancement: "integrated_villages:airship_village"
+				criterion: ""
+				id: "77D1F68C9898A91B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "671A2F8C268BF72F"
+			tasks: [{
+				advancement: "integrated_villages:mediterranean_village"
+				criterion: ""
+				id: "5771B4CA19D82723"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "2835CC165D9D4B9D"
+			tasks: [{
+				advancement: "integrated_villages:kutcha_village"
+				criterion: ""
+				id: "6DEA69F4DBF30239"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "65607E3A63B44170"
+			tasks: [{
+				advancement: "integrated_villages:pirate_village"
+				criterion: ""
+				id: "4355AA6C4F67B170"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "7C15C9A0C52DC1EA"
+			tasks: [{
+				advancement: "integrated_villages:oasis_village"
+				criterion: ""
+				id: "427E49DE5740B8C0"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "4A6BDB04B0396CE9"
+			tasks: [{
+				advancement: "integrated_villages:tavern_village"
+				criterion: ""
+				id: "3471A07F03453662"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["593641226E054274"]
+			description: ["When Dungeons Arise has many dungeon like structures throughout the world. "]
+			id: "233149561DFC4428"
+			shape: "diamond"
+			tasks: [{
+				id: "5735A32A1DDEB508"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "When Dungeons Arise"
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			id: "3A610C1F05A4328C"
+			subtitle: "Bandit Village"
+			tasks: [{
+				advancement: "dungeons_arise:find_bandit_village"
+				criterion: ""
+				id: "4CC38096CD97DBAE"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			id: "4E3703A4BD7DEB68"
+			subtitle: "Bandit Towers"
+			tasks: [{
+				advancement: "dungeons_arise:find_bandit_towers"
+				criterion: ""
+				id: "7E38477A4E69292D"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -2.0d
+		}
+		{
+			id: "457F61DDB9416422"
+			subtitle: "Abandoned Temple"
+			tasks: [{
+				advancement: "dungeons_arise:find_abandoned_temple"
+				criterion: ""
+				id: "1DDC6E7D8096A17C"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -2.0d
+		}
+		{
+			id: "097FE4AC8FF38469"
+			subtitle: "Monastery"
+			tasks: [{
+				advancement: "dungeons_arise:find_monasteries"
+				criterion: ""
+				id: "2B3779C3F4D56AA9"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -2.0d
+		}
+		{
+			id: "22B4337775D1FE86"
+			subtitle: "Infested Temple"
+			tasks: [{
+				advancement: "dungeons_arise:find_infested_temple"
+				criterion: ""
+				id: "2CF21268161D1625"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -2.0d
+		}
+		{
+			id: "5FD0F2BF2AFB6FE0"
+			subtitle: "Bathhouse"
+			tasks: [{
+				advancement: "dungeons_arise:find_bathhouse"
+				criterion: ""
+				id: "73DF952D34AB0B49"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -2.0d
+		}
+		{
+			id: "05D205CC5A21A674"
+			subtitle: "Merchant Campsite"
+			tasks: [{
+				advancement: "dungeons_arise:find_merchant_campsite"
+				criterion: ""
+				id: "1B5CAD88134B3C78"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+		{
+			id: "160B9CADC228619C"
+			subtitle: "Illager Windmill"
+			tasks: [{
+				advancement: "dungeons_arise:find_illager_windmill"
+				criterion: ""
+				id: "568374622E6B718F"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			id: "7953461859E729A9"
+			subtitle: "Illager Campsite"
+			tasks: [{
+				advancement: "dungeons_arise:find_illager_campsite"
+				criterion: ""
+				id: "64C82D61E64893D9"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			id: "342AC2B2384DBF4F"
+			subtitle: "Illager Fort"
+			tasks: [{
+				advancement: "dungeons_arise:find_illager_fort"
+				criterion: ""
+				id: "1A852EBC4CA34557"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: -1.0d
+		}
+		{
+			description: ["{@pagebreak}"]
+			id: "5A9F993363A02B51"
+			subtitle: "Small Blimp"
+			tasks: [{
+				advancement: "dungeons_arise:find_small_blimp"
+				criterion: ""
+				id: "36F997DC4D8CF2F4"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -1.0d
+		}
+		{
+			id: "72D50DC28B41B8AA"
+			subtitle: "Mechanical Nest"
+			tasks: [{
+				advancement: "dungeons_arise:find_mechanical_nest"
+				criterion: ""
+				id: "4DF2756D767D7723"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: 0.0d
+		}
+		{
+			id: "7AC8B3122495E580"
+			subtitle: "Mining System"
+			tasks: [{
+				advancement: "dungeons_arise:find_mining_system"
+				criterion: ""
+				id: "0B06C3E250AFD212"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			id: "31097134EBE7F6C9"
+			subtitle: "Greenwood Pub"
+			tasks: [{
+				advancement: "dungeons_arise:find_greenwood_pub"
+				criterion: ""
+				id: "78829FA300FC548E"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			id: "463A9E43B9289ABB"
+			subtitle: "Plague Asylum"
+			tasks: [{
+				advancement: "dungeons_arise:find_plague_asylum"
+				criterion: ""
+				id: "3166D99AF6E61A73"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			id: "0BBA84B41E5BC5F5"
+			subtitle: "Ceryneian Hind"
+			tasks: [{
+				advancement: "dungeons_arise:find_ceryneian_hind"
+				criterion: ""
+				id: "34FB1185189B3B2B"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			id: "4BA28C8BD6784891"
+			subtitle: "Typhon"
+			tasks: [{
+				advancement: "dungeons_arise:find_typhon"
+				criterion: ""
+				id: "1F3C8172E05650CB"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			id: "2B5BCC35A76730DE"
+			subtitle: "Scorched Mines"
+			tasks: [{
+				advancement: "dungeons_arise:find_scorched_mines"
+				criterion: ""
+				id: "760E217907AAEB50"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: 1.0d
+		}
+		{
+			id: "5E197F13CE435C8A"
+			subtitle: "Foundry"
+			tasks: [{
+				advancement: "dungeons_arise:find_foundry"
+				criterion: ""
+				id: "6703630D39B74F57"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"{@pagebreak}"
+				"(new page placeholder text)"
+			]
+			id: "06A822A1EF0E7E91"
+			subtitle: "Undead Pirate Ship"
+			tasks: [{
+				advancement: "dungeons_arise:find_undead_pirate_ship"
+				criterion: ""
+				id: "4D6FEDB0CFF4B925"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 1.0d
+		}
+		{
+			id: "1256E20D8AAE4397"
+			subtitle: "Illager Corsair or Galley"
+			tasks: [{
+				advancement: "dungeons_arise:find_illager_corsair_or_illager_galley"
+				criterion: ""
+				id: "540C57840C4AB3ED"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			id: "60DCE330E6592BAB"
+			subtitle: "Wishing Well"
+			tasks: [{
+				advancement: "dungeons_arise:find_wishing_well"
+				criterion: ""
+				id: "7A7E15B86D8289E4"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 1.0d
+		}
+		{
+			id: "591A7925477CD4FB"
+			subtitle: "Coliseum"
+			tasks: [{
+				advancement: "dungeons_arise:find_coliseum"
+				criterion: ""
+				id: "404F1CF345A61069"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 1.0d
+		}
+		{
+			id: "0BFC569F38B83A34"
+			subtitle: "Keep Karya"
+			tasks: [{
+				advancement: "dungeons_arise:find_keep_kayra"
+				criterion: ""
+				id: "603E0F4D5F77B435"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -1.0d
+		}
+		{
+			id: "1D2D5491B6778323"
+			subtitle: "Shiraz Palace"
+			tasks: [{
+				advancement: "dungeons_arise:find_shiraz_palace"
+				criterion: ""
+				id: "26955490A5BEA2AD"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			id: "2A4905E70EBD6A78"
+			subtitle: "Heavenly Rider"
+			tasks: [{
+				advancement: "dungeons_arise:find_heavenly_rider"
+				criterion: ""
+				id: "50981D02E3E33365"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 2.0d
+		}
+		{
+			id: "691D407F907C8256"
+			subtitle: "Heavenly Conqueror"
+			tasks: [{
+				advancement: "dungeons_arise:find_heavenly_conqueror"
+				criterion: ""
+				id: "653DFBDD97E8E0D3"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 2.0d
+		}
+		{
+			id: "12E8201B79AB807E"
+			subtitle: "Heavenly Challenger"
+			tasks: [{
+				advancement: "dungeons_arise:find_heavenly_challenger"
+				criterion: ""
+				id: "237FE24FC7180E86"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 2.0d
+		}
+		{
+			id: "077EBDE3F413D4E3"
+			subtitle: "Aviary | Actual Location: The End"
+			tasks: [{
+				advancement: "dungeons_arise:find_aviary"
+				criterion: ""
+				id: "49DBB14A99EE5ABC"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 2.0d
+		}
+		{
+			id: "6778C02C99C9945C"
+			subtitle: "Small Praire House"
+			tasks: [{
+				advancement: "dungeons_arise:find_small_prairie_house"
+				criterion: ""
+				id: "1232E3838DAD0B47"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 3.0d
+		}
+		{
+			id: "12B7F409B78C7E6A"
+			subtitle: "Thornborn Towers"
+			tasks: [{
+				advancement: "dungeons_arise:find_thornborn_towers"
+				criterion: ""
+				id: "5EDB5337CB8AE8CF"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			id: "43380EABC59BE1B9"
+			subtitle: "Fishing Hut"
+			tasks: [{
+				advancement: "dungeons_arise:find_fishing_hut"
+				criterion: ""
+				id: "6B51418F78FD74FD"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 3.0d
+		}
+		{
+			id: "3AD2C681CF9693F4"
+			subtitle: "Giant Mushroom"
+			tasks: [{
+				advancement: "dungeons_arise:find_giant_mushroom"
+				criterion: ""
+				id: "14B70283F3924DA6"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 3.0d
+		}
+		{
+			id: "1FD9C40178318CEA"
+			subtitle: "Mushroom Mine"
+			tasks: [{
+				advancement: "dungeons_arise:find_mushroom_mines"
+				criterion: ""
+				id: "5EBC71A3F713FC40"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			id: "6E8F9766C047D705"
+			subtitle: "Lighthouse"
+			tasks: [{
+				advancement: "dungeons_arise:find_lighthouse"
+				criterion: ""
+				id: "59026F1562E7C891"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: 2.0d
+		}
+		{
+			id: "4980380E621F7391"
+			subtitle: "Mushroom House"
+			tasks: [{
+				advancement: "dungeons_arise:find_mushroom_house"
+				criterion: ""
+				id: "61355726F6967D58"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: 3.0d
+		}
+		{
+			id: "6044600B2A07417C"
+			subtitle: "Mushroom Village"
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "41043453A6E57811"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"This is the majority of new structures you can find in the overworld. "
+				""
+				"This is not all of the structures. You may run into various other surprises and useful structures as well."
+				""
+				"Happy Exploring!"
+			]
+			id: "593641226E054274"
+			shape: "diamond"
+			tasks: [{
+				id: "433643F4A4DFF7BD"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Structures of the Overworld"
+			x: 7.0d
+			y: -5.0d
+		}
+	]
+	title: "Overworld"
+}

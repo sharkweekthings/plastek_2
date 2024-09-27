@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    }
+  ],
+  "results": [
+    {
+      "amount": 900,
+      "fluid": "mob_grinding_utils:fluid_xp"
+    }
+  ]
+}

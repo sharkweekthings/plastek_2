@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    "I": {
+      "tag": "forge:gears/invar"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:blast_furnace"
+    },
+    "Y": {
+      "tag": "forge:sand"
+    }
+  },
+  "pattern": [
+    " X ",
+    "YCY",
+    "IPI"
+  ],
+  "result": {
+    "item": "thermal:machine_smelter"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,2917 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armor_1"
+	group: "590DDC7B00BCD5C7"
+	icon: {
+		Count: 1
+		id: "minecraft:iron_chestplate"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "56F850D81A7485BF"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5379B103AB57748A"
+			tasks: [{
+				id: "00F10EAE13026FD8"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_copper_metal_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			id: "651A6BE3D2E291A5"
+			tasks: [{
+				id: "082BB842815F8CEE"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_copper_metal_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			id: "07CB11C77E68CFFC"
+			tasks: [{
+				id: "14C448362DA7B3A1"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_copper_metal_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "0C9B7F783C1909FE"
+			tasks: [{
+				id: "6693674BF0DF385B"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_copper_metal_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			id: "7220A1B20B0B7310"
+			tasks: [{
+				id: "39E3DB8F5928EE66"
+				item: {
+					Count: 1
+					id: "minecraft:iron_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "070F78B4A0918C1E"
+			tasks: [{
+				id: "7A8BF4A800928231"
+				item: {
+					Count: 1
+					id: "minecraft:iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "1C510407ECB1BAAD"
+			tasks: [{
+				id: "0A9BD270B690257D"
+				item: {
+					Count: 1
+					id: "minecraft:iron_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "3ED5EF01FE30C05D"
+			tasks: [{
+				id: "3DD1688BF9BB3526"
+				item: {
+					Count: 1
+					id: "minecraft:iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "7E7C268463A0803D"
+			tasks: [{
+				id: "2449BD6D356A288B"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "1563F5B43AFF0E80"
+			tasks: [{
+				id: "284BB3A8C93EA98A"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "2F7CDF8BC974AB72"
+			tasks: [{
+				id: "366F6FBFEDCF33F0"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "2DF8D772F4BFCCDD"
+			tasks: [{
+				id: "097719125E665CE3"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "47034E05C9B0C4E2"
+			tasks: [{
+				id: "60A41F7BF737649D"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			id: "19483FCA7D006ADD"
+			tasks: [{
+				id: "2C3FF1F7C0431252"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			id: "7D828DC45E10B42B"
+			tasks: [{
+				id: "33D3B5F3538C4E9A"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			id: "16D80C561C2D0081"
+			tasks: [{
+				id: "35BB169AAEE77390"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			id: "03F0D2481164E4AA"
+			tasks: [{
+				id: "58B84050FF05E636"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:compressed_iron_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			id: "0FAAB13D77D6143F"
+			tasks: [{
+				id: "62ADA4FD1E2D5EF5"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:compressed_iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			id: "5013CD0D3BDFBE89"
+			tasks: [{
+				id: "0040CFEDDA6F2B59"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:compressed_iron_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			id: "1DE56EE52BBDDED6"
+			tasks: [{
+				id: "6A946BB9DC8D0AFA"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:compressed_iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			id: "335894DB3375B4AF"
+			tasks: [{
+				id: "320BD9D618A81FF7"
+				item: {
+					Count: 1
+					id: "botania:manasteel_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			id: "0C4028BB4098D9C1"
+			tasks: [{
+				id: "1DE5BDA966C5C7C4"
+				item: {
+					Count: 1
+					id: "botania:manasteel_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			id: "3BD40C1382D21EAC"
+			tasks: [{
+				id: "3F956F489BC97D18"
+				item: {
+					Count: 1
+					id: "botania:manasteel_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			id: "6D6343A68D702467"
+			tasks: [{
+				id: "092390802526347D"
+				item: {
+					Count: 1
+					id: "botania:manasteel_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			id: "490FC85867AC21FD"
+			tasks: [{
+				id: "7222FC007F2394FD"
+				item: {
+					Count: 1
+					id: "botania:manaweave_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			id: "02736039575347EC"
+			tasks: [{
+				id: "0D8910CC436E9868"
+				item: {
+					Count: 1
+					id: "botania:manaweave_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			id: "2D8842EDDFD04F46"
+			tasks: [{
+				id: "770EFADB5A2FE466"
+				item: {
+					Count: 1
+					id: "botania:manaweave_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			id: "12277314BAAF5937"
+			tasks: [{
+				id: "18856B7F3C37B1A4"
+				item: {
+					Count: 1
+					id: "botania:manaweave_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			id: "2874FBD637B80BE1"
+			tasks: [{
+				id: "66C02D74D14CD04F"
+				item: {
+					Count: 1
+					id: "immersive_armors:bone_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "4ED5ACEB33BFCFF6"
+			tasks: [{
+				id: "7966E1AA97CCEBE5"
+				item: {
+					Count: 1
+					id: "immersive_armors:bone_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "76D0DFAD399EE6A2"
+			tasks: [{
+				id: "7EC7B0C943A11EED"
+				item: {
+					Count: 1
+					id: "immersive_armors:bone_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "0228CABEB1C3F0C8"
+			tasks: [{
+				id: "2F0CDB0E8DF340C8"
+				item: {
+					Count: 1
+					id: "immersive_armors:bone_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "7A3CF99C9DD439A8"
+			tasks: [{
+				id: "0B9A662B7D30A59A"
+				item: {
+					Count: 1
+					id: "immersive_armors:wooden_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "11F5497B9989D1A9"
+			tasks: [{
+				id: "642AAC0D6E2BA28E"
+				item: {
+					Count: 1
+					id: "immersive_armors:wooden_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "6B106A61C4D4C197"
+			tasks: [{
+				id: "565393F304C9049E"
+				item: {
+					Count: 1
+					id: "immersive_armors:wooden_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "26B49E36B473A27B"
+			tasks: [{
+				id: "721D8EF3EBAACB95"
+				item: {
+					Count: 1
+					id: "immersive_armors:wooden_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "68C295F70F663DEB"
+			tasks: [{
+				id: "5D3B58A1A618BCB0"
+				item: {
+					Count: 1
+					id: "immersive_armors:warrior_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "0020F37953B40254"
+			tasks: [{
+				id: "0224C517D5C0CA4C"
+				item: {
+					Count: 1
+					id: "immersive_armors:warrior_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "78C96038D6CCFD95"
+			tasks: [{
+				id: "1CAA52F5B271E161"
+				item: {
+					Count: 1
+					id: "immersive_armors:warrior_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "3242DA804209E27C"
+			tasks: [{
+				id: "6412CC25636BE08F"
+				item: {
+					Count: 1
+					id: "immersive_armors:warrior_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "78458FAEEA9CF26A"
+			tasks: [{
+				id: "3E4C597E6927A78C"
+				item: {
+					Count: 1
+					id: "immersive_armors:heavy_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "73614A4F1CD507E6"
+			tasks: [{
+				id: "0543569936228F86"
+				item: {
+					Count: 1
+					id: "immersive_armors:heavy_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "54F4B4EF4042B823"
+			tasks: [{
+				id: "14BBA19FBB8C31AD"
+				item: {
+					Count: 1
+					id: "immersive_armors:heavy_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "5F5FC75AFAAF9332"
+			tasks: [{
+				id: "643D460593F2873E"
+				item: {
+					Count: 1
+					id: "immersive_armors:heavy_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			id: "7DCC9493928E8AAD"
+			tasks: [{
+				id: "419DE33C8D8891AC"
+				item: {
+					Count: 1
+					id: "immersive_armors:robe_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			id: "41A4C39DBC075E32"
+			tasks: [{
+				id: "1C89784B69088B0D"
+				item: {
+					Count: 1
+					id: "immersive_armors:robe_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "44AC0F5BB93B24CB"
+			tasks: [{
+				id: "2A24627C6F82543A"
+				item: {
+					Count: 1
+					id: "immersive_armors:robe_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "58EFB4EB29DF9193"
+			tasks: [{
+				id: "7ED9B26C3CE82DD1"
+				item: {
+					Count: 1
+					id: "immersive_armors:robe_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "03A96610B48AF339"
+			tasks: [{
+				id: "53BF4674ED0CADB3"
+				item: {
+					Count: 1
+					id: "immersive_armors:slime_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "2D943FBFEFFCC863"
+			tasks: [{
+				id: "3FEE256B82DADD26"
+				item: {
+					Count: 1
+					id: "immersive_armors:slime_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			id: "402C7A16806B6FD9"
+			tasks: [{
+				id: "315D9D3757C78BD9"
+				item: {
+					Count: 1
+					id: "immersive_armors:slime_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "1C9B575B0AFF51CF"
+			tasks: [{
+				id: "5200E79CE97BFDC8"
+				item: {
+					Count: 1
+					id: "immersive_armors:slime_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			id: "466186B68263D1F2"
+			tasks: [{
+				id: "34489065869564B4"
+				item: {
+					Count: 1
+					id: "immersive_armors:steampunk_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "4F9B76B43449D634"
+			tasks: [{
+				id: "6CF33A7B2CA1F572"
+				item: {
+					Count: 1
+					id: "immersive_armors:steampunk_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "3576D3761E286E58"
+			tasks: [{
+				id: "349AA640D88144B5"
+				item: {
+					Count: 1
+					id: "immersive_armors:steampunk_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "4BD7D34413BB17C4"
+			tasks: [{
+				id: "1279AA129CD77C0B"
+				item: {
+					Count: 1
+					id: "immersive_armors:steampunk_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			id: "51DC806B462BA317"
+			tasks: [{
+				id: "6583C6DABF254FC6"
+				item: {
+					Count: 1
+					id: "immersive_armors:prismarine_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "124A1FE3189D825C"
+			tasks: [{
+				id: "5FB2FF62D063E5E9"
+				item: {
+					Count: 1
+					id: "immersive_armors:prismarine_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "0C13C26F7D5DB1EE"
+			tasks: [{
+				id: "02A75F093F5C350F"
+				item: {
+					Count: 1
+					id: "immersive_armors:prismarine_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			id: "7DA40192DDC5B456"
+			tasks: [{
+				id: "6ADC2C020EB1371C"
+				item: {
+					Count: 1
+					id: "immersive_armors:prismarine_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "7F0C015E0F256FB6"
+			tasks: [{
+				id: "55B141025902ABE9"
+				item: {
+					Count: 1
+					id: "immersive_armors:divine_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			id: "700D8E4AD8327F49"
+			tasks: [{
+				id: "135A359DD911FEA0"
+				item: {
+					Count: 1
+					id: "immersive_armors:divine_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			id: "081971C21593BA6C"
+			tasks: [{
+				id: "7B56E2BE54FB29EB"
+				item: {
+					Count: 1
+					id: "immersive_armors:divine_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			id: "3CAB2DD77C9615A9"
+			tasks: [{
+				id: "7055DD4FCA78ED9D"
+				item: {
+					Count: 1
+					id: "immersive_armors:divine_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			id: "034B1D949C67C8FF"
+			tasks: [{
+				id: "7CCB5A0B47CDA223"
+				item: {
+					Count: 1
+					id: "immersive_armors:wither_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			id: "628D0A4FECC031DE"
+			tasks: [{
+				id: "546E0088A15C0A97"
+				item: {
+					Count: 1
+					id: "immersive_armors:wither_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			id: "0D4CBF13B4504427"
+			tasks: [{
+				id: "0AC5764F55AA370B"
+				item: {
+					Count: 1
+					id: "immersive_armors:wither_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "22DBC57BE9B4BCC5"
+			tasks: [{
+				id: "3F8FFD23E8EAB37E"
+				item: {
+					Count: 1
+					id: "immersive_armors:wither_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			id: "0ADB567CC875825F"
+			tasks: [{
+				id: "33F45DA407E20881"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_silver_metal_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			id: "6FC8A80BAEE98A25"
+			tasks: [{
+				id: "6BCD6B8B478CCA24"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_silver_metal_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			id: "0CB577A8D3093F3B"
+			tasks: [{
+				id: "1C302B60F758DAA3"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_silver_metal_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "0E37A92A7331C24A"
+			tasks: [{
+				id: "40DC23301C229336"
+				item: {
+					Count: 1
+					id: "iceandfire:armor_silver_metal_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			id: "08E4FB24329A4D15"
+			tasks: [
+				{
+					id: "3DD102813450DDD6"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "135CB757BD0D995B"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3DF119D3045F209C"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F821420A450734F"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "70DFDE4C1ADDDC77"
+			tasks: [
+				{
+					id: "50AD1C6E051907FB"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1DBF7A47181348BD"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C43F1C58C91008B"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AB9F665F7612DD0"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "75F8F902778E6EEB"
+			tasks: [
+				{
+					id: "0E02E5D6092EEA96"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2233842E88A3E5D9"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6ACC363903B7CEA1"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "369B7FDEC920EA6E"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "69766BD1CA2C3615"
+			tasks: [
+				{
+					id: "2C49AC7BC77940AD"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72029A66BFE4D333"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "190CE4CE923A22E4"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58D33938061B85F1"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "2D34AEDD03F95F30"
+			tasks: [
+				{
+					id: "1DA1D7C1EB7B01B6"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "598C9ABF2548FC7D"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "25506067044F34F7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C61010CF6C049C5"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "04F6D10529582FBB"
+			tasks: [
+				{
+					id: "4F0E2FB67C3151CC"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7AAEA6AE42C4E0A8"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0464E2F66C29B542"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C03B42C51B836BD"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:white_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "7317E6B1F914BA4C"
+			tasks: [
+				{
+					id: "6B11F6A36D6F7A9D"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A8E7406E513E27A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A125116766DD18C"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B83A4123F4F1D47"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			id: "4FC3FB15E6EB8B1D"
+			tasks: [
+				{
+					id: "59BE0EE1967D55B7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43C167885CAE9FE3"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34E9DBDD197FE470"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31C089FF9B91112B"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			id: "7C12F8FD0306885F"
+			tasks: [
+				{
+					id: "1139E7722ECB0E96"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3D6A294E73AB97BE"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E45409624D03052"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "439C3ACDF517090C"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			id: "40D78C62ACB0A824"
+			tasks: [
+				{
+					id: "49723080A17AB14D"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00C278F6E65C74F3"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40C02377E2C8CA66"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FD7A1EE7A0C1C9A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			id: "6EAFBB9CA65D4F0A"
+			tasks: [
+				{
+					id: "7C63E58EC3F471A4"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36D381F36079C850"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7CDB22659687C785"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A54F44F62753476"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			id: "1CBFB3F476A8A180"
+			tasks: [
+				{
+					id: "201EA7D6FD5A790F"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68C54EE824CD595D"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "148F649AFF5EEC44"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "062D628C8F5E8FFB"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			id: "75355B3E60E70687"
+			tasks: [
+				{
+					id: "4B7BD67AC7BF49C9"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B7457A6734EF9B7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30517C81197296B6"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DDFE7CCF7BDBCEE"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "57A8BFC4F4BBA25F"
+			tasks: [
+				{
+					id: "2D24EE1AF02F25C5"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72E9AE4BB055B813"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "797C6ADF040BD03F"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6EFB4189817521DA"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "76DE7644EEB98E79"
+			tasks: [
+				{
+					id: "21C81C3C774873B9"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3712E38E2A345DAD"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EF0D175B52CC735"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34E223AC13DA8FD3"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "437308F748EBAB14"
+			tasks: [
+				{
+					id: "3EE46785653F3EF8"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:amethyst_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6CAE14C3B281CB6A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:amethyst_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22B7DB2ADB79931A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:amethyst_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54A2CBF35D5995D3"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:amethyst_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			id: "2CCC02A8B768B3C4"
+			tasks: [
+				{
+					id: "2CD5BEC747D55DFC"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:quartz_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04E9367B2D60ACE7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:quartz_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27E7E802F6473998"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:quartz_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C7AC85CE7816ED1"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:quartz_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			id: "0D13409A83468E8F"
+			tasks: [
+				{
+					id: "56B949F376D5044F"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "587B6E4D1784C175"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A4937D4437F4D6A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EA5C195ACBC97D0"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			id: "0772842D84FF9A42"
+			tasks: [
+				{
+					id: "177FB609ADBB93B8"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "684078712CD936B8"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EADF9E9F824EF27"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DDF48CB65C6A0C4"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "7A3DEF37D895DC54"
+			tasks: [
+				{
+					id: "48A56990CEF40839"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "662ABB006C93E1F9"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0BB2E2556FD4B89B"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29DF3CF592C3A714"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:red_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "03774422960EF622"
+			tasks: [
+				{
+					id: "30AB9610068E6006"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6EE16F30C5F669D9"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "47FCA63FEF7000C2"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13F3CD52C73BA3A1"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			id: "6D124A9E42815DC4"
+			tasks: [
+				{
+					id: "630DE8EB105979F0"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B4DF42C30B4A82D"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4609AC2E11125C40"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "355B4ED56351AFC6"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			id: "4148295DAE1B76AD"
+			tasks: [
+				{
+					id: "1F0645994BB2E077"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5771F16ADC1F5B08"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "522FAFA69E0D91B9"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "240BD7D266001A46"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:blue_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			id: "20D5A3DB8CBAEFE5"
+			tasks: [
+				{
+					id: "72030946AB46CC21"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CBB987488712A62"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15B497B295131BE2"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2CD672352B3A08E8"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "4AE2D79CE5153637"
+			tasks: [
+				{
+					id: "4BB30B3DB5C00BBF"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "65716A86A773CA46"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15CA5E39300DF544"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74FA4B62D5628F18"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "3EF4706D41EE0C11"
+			tasks: [
+				{
+					id: "7EBD51B99A2EC4CB"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2CC80C394C34ACB2"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0BF1A75B231FD28A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "600CF2B8A2345E83"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:green_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "6C6A32E6DBD0916D"
+			tasks: [
+				{
+					id: "106302DAABFCCF9C"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B2649B832F4E4B5"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7533D284F79AEEB3"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2500F01FE2DB1115"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			id: "1952E4C31541549E"
+			tasks: [
+				{
+					id: "5BE0D95CD518455B"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54D1DB9BB3901FA7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F6B40AD2DFC01EC"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F25F1434275A1AE"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			id: "502612B9979012C9"
+			tasks: [
+				{
+					id: "5AF04F9B7BEF06CF"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "420CE2B8C9669719"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3CA6E25C4B31CD90"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0ECFDD8C01D9BD77"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gray_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			id: "6808520806698285"
+			tasks: [
+				{
+					id: "40456657E5B54EAD"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EF683936115FFA6"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50EDAFF667BAA671"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5385F28020DE154A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			id: "34F13C8355101A9C"
+			tasks: [
+				{
+					id: "731E836907684832"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_ninja_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "76DF6905E6DA1749"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_ninja_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EC432D8AAB18EDB"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:iron_ninja_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			id: "5A278EB984D55938"
+			tasks: [
+				{
+					id: "7F61B6CDB449AA74"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_ninja_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4200DA1184345C09"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_ninja_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1939B130C95089BA"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:steel_ninja_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "2A90A82F5446F214"
+			tasks: [
+				{
+					id: "19ACF25902798C71"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_ninja_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2827FF043743B19B"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_ninja_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "378C8B20E9DE17BB"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:gold_ninja_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			id: "54A28F0AD6174BF1"
+			tasks: [
+				{
+					id: "0F4CECB890413906"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_ninja_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A6BE40CFBEA4D9A"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_ninja_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00414595593D2165"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:diamond_ninja_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			id: "402B8C9C8EAC2249"
+			tasks: [
+				{
+					id: "75C881B5058C6BA6"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_ninja_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "272DE379F304D9D7"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_ninja_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A22EE566429F6C4"
+					item: {
+						Count: 1
+						id: "samurai_dynasty:netherite_ninja_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 9.0d
+		}
+		{
+			id: "2C083DFD1F7CC41F"
+			tasks: [{
+				id: "7DB500EAD4E118C6"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:ninja_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
+	]
+	title: "Armor"
+}

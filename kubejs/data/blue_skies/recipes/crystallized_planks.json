@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "blue_skies:logs/crystallized"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "blue_skies:crystallized_planks"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "item": "minecraft:bucket"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "bFb",
+    "iii"
+  ],
+  "result": {
+    "item": "rftoolsutility:tank"
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"A":{"tag":"forge:pellets/polonium"},"C":{"tag":"forge:circuits/ultimate"},"P":{"item":"mekanism:hdpe_sheet"},"W":{"tag":"forge:chests/wooden"},"X":{"item":"industrialforegoing:machine_frame_supreme"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["PWP","CXC","PAZ"],"result":{"item":"mekanism:modification_station"}}

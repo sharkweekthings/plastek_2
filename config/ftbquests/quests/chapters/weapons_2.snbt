@@ -1,0 +1,87 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "weapons_2"
+	group: "24F1909F4C56276F"
+	icon: "mysticalagriculture:supremium_sword"
+	id: "3124B752B83BE486"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "487EEFC1E98BA517"
+			tasks: [{
+				id: "318B8ED0A845C39C"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "361A496591BBDA14"
+			tasks: [{
+				id: "11659A50154D0357"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "264A11125E1351DA"
+			tasks: [{
+				id: "6B86D6660CC7756F"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "1E30C1608DAD6B9B"
+			tasks: [{
+				id: "59E64655FC8248F7"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "2144DE042623EF4D"
+			tasks: [{
+				id: "17E98461AA37220F"
+				item: "mysticalagriculture:supremium_sword"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+	]
+	title: "Weapons"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "Z": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "ror",
+    "GFG",
+    "rZr"
+  ],
+  "result": {
+    "item": "rftoolsutility:screen_controller"
+  }
+}

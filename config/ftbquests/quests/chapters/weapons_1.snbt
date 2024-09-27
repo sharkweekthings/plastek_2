@@ -1,0 +1,115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "weapons_1"
+	group: "590DDC7B00BCD5C7"
+	icon: {
+		Count: 1
+		id: "minecraft:iron_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "767A0C7B395A106A"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "778DEEF305E15414"
+			tasks: [{
+				id: "447FE4EB3FA59762"
+				item: {
+					Count: 1
+					id: "iceandfire:copper_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "4A0C19E750DC27D4"
+			tasks: [{
+				id: "2AB450BC2E906423"
+				item: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "004F5A63077CD3EE"
+			tasks: [{
+				id: "2009D39078D58436"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "086BEC473C31CA7F"
+			tasks: [{
+				id: "0E8B70E9AAB21125"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "59539C83AA8CD27C"
+			tasks: [{
+				id: "4A192DF4E63505F1"
+				item: {
+					Count: 1
+					id: "botania:manasteel_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "0DDA6F37CFDE166C"
+			tasks: [{
+				id: "7D727B9BDBF4A8FA"
+				item: {
+					Count: 1
+					id: "iceandfire:silver_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+	title: "Weapons"
+}

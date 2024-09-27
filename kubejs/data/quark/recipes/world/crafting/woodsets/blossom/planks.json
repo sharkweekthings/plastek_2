@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "quark:stripped_blossom_log"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "item": "quark:blossom_planks",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "blossom_wood"
+    }
+  ]
+}

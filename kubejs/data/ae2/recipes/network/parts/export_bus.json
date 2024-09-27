@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "item": "ae2:formation_core"
+    },
+    "c": {
+      "item": "minecraft:piston"
+    },
+    "v": {
+      "tag": "ae2:glass_cable"
+    }
+  },
+  "pattern": [
+    "aba",
+    " c ",
+    " v "
+  ],
+  "result": {
+    "item": "ae2:export_bus"
+  },
+  "show_notification": true
+}

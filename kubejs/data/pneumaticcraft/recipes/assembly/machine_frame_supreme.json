@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:assembly_drill",
+  "input": {
+    "item": "kubejs:box_of_supreme_machine_frame_parts"
+  },
+  "program": "drill",
+  "result": {
+    "item": "industrialforegoing:machine_frame_supreme"
+  }
+}

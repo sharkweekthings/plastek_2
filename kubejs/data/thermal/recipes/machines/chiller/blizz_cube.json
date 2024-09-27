@@ -1,0 +1,19 @@
+{
+  "type": "thermal:chiller",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    },
+    {
+      "item": "thermal:blizz_powder"
+    }
+  ],
+  "result": [
+    {
+      "item": "thermal:blizz_rod",
+      "count": 1
+    }
+  ],
+  "energy": 1000
+}

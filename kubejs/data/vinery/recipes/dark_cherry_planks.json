@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "vinery:stripped_dark_cherry_log"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "item": "vinery:dark_cherry_planks",
+    "count": 4
+  }
+}

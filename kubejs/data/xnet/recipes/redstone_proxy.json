@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "rrr",
+    "rFr",
+    "rrr"
+  ],
+  "result": {
+    "item": "xnet:redstone_proxy"
+  }
+}

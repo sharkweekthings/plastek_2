@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "biomesoplenty:mahogany_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "biomesoplenty:stripped_mahogany_log"
+    },
+    {
+      "item": "thermal:sawdust"
+    }
+  ]
+}

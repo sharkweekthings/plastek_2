@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "buildinggadgets2",
+  "key": {
+    "e": {
+      "tag": "forge:ender_pearls"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "l": {
+      "tag": "forge:gems/lapis"
+    },
+    "r": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "ili",
+    "ere",
+    "ili"
+  ],
+  "result": {
+    "item": "buildinggadgets2:gadget_destruction"
+  },
+  "show_notification": true
+}

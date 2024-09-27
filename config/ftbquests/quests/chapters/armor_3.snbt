@@ -1,0 +1,261 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armor_3"
+	group: "17D4659CA536FD99"
+	icon: {
+		Count: 1
+		id: "redstone_arsenal:flux_chestplate"
+		tag: { }
+	}
+	id: "664FC6B820D9C91C"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0CD1B468A92108D2"
+			tasks: [{
+				id: "60D5FF9282C12B19"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:pneumatic_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "2ADB5B2D0322ADDA"
+			tasks: [{
+				id: "048C0D3F53193B76"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:pneumatic_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "4ED14963390E3AE3"
+			tasks: [{
+				id: "0AB6634D9A240C7D"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:pneumatic_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "7E01F47BE6C45295"
+			tasks: [{
+				id: "12437FD17CD94F67"
+				item: {
+					Count: 1
+					id: "pneumaticcraft:pneumatic_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "507BB9B5DF08B020"
+			tasks: [{
+				id: "2A5C2ABD84184064"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_helmet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "69A8A4D903F95BA4"
+			tasks: [{
+				id: "54CBFC9360FC3B2C"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_chestplate"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			id: "018590D1591D6B85"
+			tasks: [{
+				id: "6C4D92D688B5A34F"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_leggings"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "7BA890ED9F71A068"
+			tasks: [{
+				id: "7DBC1F27DE6FFE71"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_boots"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			id: "4840E3665E499EE9"
+			tasks: [{
+				id: "2AF189BF3DD25F00"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:awakened_supremium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			id: "0D2A65F915D12455"
+			tasks: [{
+				id: "6FB3FFD2EB3C9FEB"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:awakened_supremium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "1DECDB75F7289387"
+			tasks: [{
+				id: "4D2BB493ECC1383A"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:awakened_supremium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "04A4ED0C57109943"
+			tasks: [{
+				id: "64AF724B954FF6A9"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:awakened_supremium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			id: "34116233DA033EA3"
+			tasks: [{
+				id: "64169F1026FE2CE6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									93136505
+									1362972427
+									-2026610439
+									1259735275
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_chestpiece"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			id: "2871C114B1C61EC8"
+			tasks: [{
+				id: "534BBA80CAC35352"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									866192912
+									936659539
+									-1104539478
+									861598029
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_chestpiece"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+	]
+	title: "Armor"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "pneumaticcraft:creative_compressed_iron_block"
+  },
+  "ingredients": [
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "thermal:rf_coil_augment"
+    },
+    {
+      "item": "thermal:rf_coil_augment"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    }
+  ],
+  "result": {
+    "item": "thermal:rf_coil_creative_augment"
+  },
+  "tier": "CHAOTIC",
+  "total_energy": 1024000000
+}

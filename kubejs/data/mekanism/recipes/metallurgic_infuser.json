@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"item":"minecraft:furnace"},"I":{"tag":"forge:ingots/iron"},"O":{"tag":"forge:ingots/osmium"},"R":{"tag":"forge:dusts/redstone"},"X":{"item":"industrialforegoing:machine_frame_advanced"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["IOI","RXR","I#Z"],"result":{"item":"mekanism:metallurgic_infuser"}}

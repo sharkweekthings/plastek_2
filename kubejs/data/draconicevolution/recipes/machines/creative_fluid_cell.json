@@ -1,0 +1,43 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "draconicevolution:creative_op_capacitor"
+  },
+  "ingredients": [
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "megacells:fluid_storage_cell_256m"
+    },
+    {
+      "item": "megacells:fluid_storage_cell_256m"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    }
+  ],
+  "result": {
+    "item": "ae2:creative_fluid_cell"
+  },
+  "tier": "CHAOTIC",
+  "total_energy": 1024000000
+}

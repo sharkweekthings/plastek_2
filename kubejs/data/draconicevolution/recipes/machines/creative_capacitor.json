@@ -1,0 +1,43 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "mekanism:creative_energy_cube"
+  },
+  "ingredients": [
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "ae2:creative_energy_cell"
+    },
+    {
+      "item": "powah:energy_cell_creative"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    }
+  ],
+  "result": {
+    "item": "draconicevolution:creative_capacitor"
+  },
+  "tier": "CHAOTIC",
+  "total_energy": 1024000000
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"ggg",
+	"cdc",
+	"zfy"
+  ],
+  "key": {
+	"c": {
+	  "item": "powah:capacitor_basic_tiny"
+	},
+	"g": {
+	  "item": "powah:dielectric_paste"
+	},
+	"f": {
+	  "item": "minecraft:bucket"
+	},
+	"d": {
+	  "item": "powah:dielectric_casing"
+	},
+	"z": {
+	  "item": "industrialforegoing:machine_frame_advanced"
+	},
+	"y": {
+	  "item": "create:precision_mechanism"
+	}
+  },
+  "result": {
+	"item": "powah:magmator_starter"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "item": "minecraft:dandelion"
+    }
+  ],
+  "result": [
+    {
+      "fluid": "industrialforegoing:latex",
+      "amount": 50
+    }
+  ],
+  "energy": 1400,
+  "experience": 0.15
+}

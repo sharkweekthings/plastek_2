@@ -1,0 +1,129 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "weapons_4"
+	group: "581F41F63919A6BC"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: {
+				energy: {
+					energy: 0
+				}
+				module_host: {
+					modules: [ ]
+					properties: { }
+					provider_id: [I;
+						435849333
+						-1293466892
+						-1939992432
+						1882153994
+					]
+				}
+			}
+		}
+		id: "draconicevolution:chaotic_sword"
+		tag: { }
+	}
+	id: "74A87A9951B85C86"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "687064720D087B28"
+			tasks: [{
+				id: "70E30A338FDA216B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									-1578843840
+									966870216
+									-1226558171
+									-613256387
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_sword"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "27976A2033D92133"
+			tasks: [{
+				id: "37EB4697C7489F41"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									1277843183
+									-1169469708
+									-1572187378
+									-288829285
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_bow"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "62B61E70F8DA9391"
+			tasks: [{
+				id: "36263F7EB5CB368A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									350580813
+									-405257138
+									-1453763795
+									1259628403
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_staff"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+	title: "Weapons"
+}

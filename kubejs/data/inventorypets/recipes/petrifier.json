@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"result": {
+		"item": "inventorypets:item_petrifier"
+	},
+	"ingredients": [
+		{
+			"tag": "inventorypets:legendary_pets"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		}
+	]
+}
+  
+

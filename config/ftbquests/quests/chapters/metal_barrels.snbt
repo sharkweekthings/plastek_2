@@ -1,0 +1,180 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "metal_barrels"
+	group: "79C502F79CD205E5"
+	icon: "metalbarrels:diamond_barrel"
+	id: "78876F296D5027F3"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "70D4C61F59D1B779"
+			tasks: [{
+				id: "1A0690106ECB7D19"
+				item: "metalbarrels:copper_barrel"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "430A69650AC1A8B5"
+			tasks: [{
+				id: "7012F96D85F545EE"
+				item: "metalbarrels:iron_barrel"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "1C47CAC9603122AD"
+			tasks: [{
+				id: "673711A02F61BAF3"
+				item: "metalbarrels:gold_barrel"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "42074AC99C543A39"
+			tasks: [{
+				id: "4E2A21D982FDD9C9"
+				item: "metalbarrels:diamond_barrel"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "260804AFB0D4F687"
+			tasks: [{
+				id: "27B9846578DD2D18"
+				item: "metalbarrels:obsidian_barrel"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "26672B36EF132314"
+			tasks: [{
+				id: "498C72584F9CE382"
+				item: "metalbarrels:silver_barrel"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "34BF546D0E289C38"
+			tasks: [{
+				id: "6A53F02B17203D90"
+				item: "metalbarrels:netherite_barrel"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "0119607F0752289B"
+			tasks: [{
+				id: "4502845F2FE674C4"
+				item: "metalbarrels:wood_to_copper"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "59008218E2A06BDD"
+			tasks: [{
+				id: "7FADC6B70D5ED07B"
+				item: "metalbarrels:copper_to_iron"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "5BD7636EB5DB461B"
+			tasks: [{
+				id: "5D52BA294C27B621"
+				item: "metalbarrels:iron_to_silver"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "3DF212F0179BA00A"
+			tasks: [{
+				id: "069CEC064C717B9C"
+				item: "metalbarrels:silver_to_gold"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "062EC8CDB428950A"
+			tasks: [{
+				id: "24D54AAE7DE7358C"
+				item: "metalbarrels:gold_to_diamond"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "45A8D7B50290DEAC"
+			tasks: [{
+				id: "544A4B31A777A5C5"
+				item: "metalbarrels:diamond_to_obsidian"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["461280BAD0A88E10"]
+			id: "02E6B946C350ED90"
+			tasks: [{
+				id: "432FEA13D9CF5400"
+				item: "metalbarrels:obsidian_to_netherite"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			description: ["With Metal Barrels you can upgrade you &3Wooden Barrel&r and increase storage capacity signifcantly. "]
+			id: "461280BAD0A88E10"
+			shape: "diamond"
+			tasks: [{
+				id: "596075E7BB9CD2E5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Metal Barrels"
+			x: 3.0d
+			y: -1.5d
+		}
+	]
+	title: "Metal Barrels"
+}

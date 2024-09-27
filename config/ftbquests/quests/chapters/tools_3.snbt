@@ -1,0 +1,543 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tools_3"
+	group: "17D4659CA536FD99"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: {
+				energy: {
+					energy: 0
+				}
+				module_host: {
+					modules: [ ]
+					properties: {
+						mining_speed: {
+							hud: 1b
+							value: 1.0d
+						}
+					}
+					provider_id: [I;
+						-307310687
+						1410221268
+						-1473647913
+						-156997645
+					]
+				}
+			}
+		}
+		id: "draconicevolution:draconic_pickaxe"
+		tag: { }
+	}
+	id: "04306E89701E7EE6"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0A0C7D94C99C96BE"
+			tasks: [{
+				id: "796C3A38B8B5DA66"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_pickaxe"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "0F30867E2D27A272"
+			tasks: [{
+				id: "5A19EABC4C343923"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_axe"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "492F6EDF88C75565"
+			tasks: [{
+				id: "432203B4A8B77BA5"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_shovel"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "0EA0989C0C436943"
+			tasks: [{
+				id: "763473983239A6A3"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_sickle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "1B794E275CD75CD3"
+			tasks: [{
+				id: "58867F3D3FDAE271"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_excavator"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "26A12567DF31B876"
+			tasks: [{
+				id: "5158F13DD412108E"
+				item: {
+					Count: 1
+					id: "redstone_arsenal:flux_hammer"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "1F708BDF5AC87370"
+			tasks: [{
+				id: "258212E0BA08E70A"
+				item: "mysticalagriculture:awakened_supremium_pickaxe"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			id: "6D4CC3215F952E26"
+			tasks: [{
+				id: "62626B2B5727E280"
+				item: "mysticalagriculture:awakened_supremium_axe"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			id: "5FBB413C311D5011"
+			tasks: [{
+				id: "767940D35E7B4C2B"
+				item: "mysticalagriculture:awakened_supremium_shovel"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			id: "421B3D089D4EBCE3"
+			tasks: [{
+				id: "785FACDACF19FBDF"
+				item: "mysticalagriculture:awakened_supremium_hoe"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "2424093150529BA4"
+			tasks: [{
+				id: "3228FA28D7BB402A"
+				item: "mysticalagriculture:awakened_supremium_shears"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			id: "1C03F592B085BB4A"
+			tasks: [{
+				id: "6F347294B6485D7D"
+				item: "mysticalagriculture:awakened_supremium_sickle"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			id: "34EF24806BD2B3EE"
+			tasks: [{
+				id: "47CD0676AAF9BEEB"
+				item: "mysticalagriculture:awakened_supremium_scythe"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			id: "468BC32A3202C93B"
+			tasks: [{
+				id: "21EF2A9A23148133"
+				item: "mysticalagradditions:awakened_supremium_paxel"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			id: "09EC7C9E84E2A771"
+			tasks: [{
+				id: "4EAC2AD0296DD848"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									1507489270
+									1901675204
+									-1430972219
+									1901144082
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_axe"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "2AFF0694B68B537B"
+			tasks: [{
+				id: "5903EC579F30C009"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									-2018533284
+									895568614
+									-1724310045
+									-268529390
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_pickaxe"
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			id: "3507A2789DBC398B"
+			tasks: [{
+				id: "389F3794CA4D5885"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									1006396947
+									1961313104
+									-1742105021
+									1390460370
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_shovel"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			id: "1523AA3BF03B8110"
+			tasks: [{
+				id: "49CAFCB49C49D673"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									-517224868
+									-899133967
+									-2006899678
+									-530980505
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_hoe"
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			id: "1E7EA0AA6FFC352C"
+			tasks: [{
+				id: "6BFBA8762E217C26"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									523302610
+									421020560
+									-1157365687
+									1735747276
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_axe"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			id: "12F31A0CFD60DB31"
+			tasks: [{
+				id: "1131CAC847CDB438"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									-1556571539
+									2020296464
+									-1649304141
+									1487514011
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_pickaxe"
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			id: "377469080239CA2B"
+			tasks: [{
+				id: "6B1244DE462238ED"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									226593056
+									1006128974
+									-1512125476
+									-867337631
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_shovel"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			id: "3712193C8E001117"
+			tasks: [{
+				id: "3EEF830AF245B690"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									-1335836434
+									-85702841
+									-1780704329
+									-332987832
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_hoe"
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			id: "78B438D78BB14680"
+			tasks: [{
+				id: "230CAC9DF9B706AE"
+				item: {
+					Count: 1
+					id: "industrialforegoing:infinity_drill"
+					tag: {
+						CanCharge: 1b
+						Energy: 0L
+						Fluid: {
+							Amount: 0
+							FluidName: "biofuel"
+						}
+						Selected: "POOR"
+						Special: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "2AB90E600DAEE58B"
+			tasks: [{
+				id: "13F49A0E7DF585D8"
+				item: {
+					Count: 1
+					id: "industrialforegoing:infinity_saw"
+					tag: {
+						CanCharge: 1b
+						Energy: 0L
+						Fluid: {
+							Amount: 0
+							FluidName: "biofuel"
+						}
+						Selected: "POOR"
+						Special: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "4A90A90B4C3D5974"
+			tasks: [{
+				id: "117E9F51DCEEFF62"
+				item: {
+					Count: 1
+					id: "industrialforegoing:infinity_hammer"
+					tag: {
+						Beheading: 0
+						CanCharge: 1b
+						Energy: 0L
+						Fluid: {
+							Amount: 0
+							FluidName: "biofuel"
+						}
+						Selected: "POOR"
+						Special: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+	]
+	title: "Tools"
+}

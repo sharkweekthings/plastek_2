@@ -1,0 +1,41 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/elementium"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "tag": "forge:gems/dragonstone"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "item": "botania:pixie_dust"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "mythicbotany:alfsteel_ingot",
+      "chance": 0.75
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot",
+      "chance": 0.3
+    }
+  ],
+  "experience": 0.2,
+  "energy": 25000
+}

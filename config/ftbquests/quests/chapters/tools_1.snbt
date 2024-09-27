@@ -1,0 +1,718 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tools_1"
+	group: "590DDC7B00BCD5C7"
+	icon: {
+		Count: 1
+		id: "minecraft:iron_pickaxe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2C478DCA97298D13"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"You might have hit a tree, maybe you hurt yourself, who knows. "
+				""
+				"Natural Progression changes up the early game slightly, so heres what you need to know:"
+				""
+				"In order to make your first tool, the Flint Axe -- you'll need to find Sticks and Pebbles on the ground. Place some Pebbles on your hotbar, and some in your offhand and start smashing them together. This should get you some Flint!"
+				""
+				"With Flint you can make a Flint Axe. "
+				""
+				"With a Flint Axe you can start chopping down trees, and killing mobs to get Bone. "
+				""
+				"To chop down a tree you should right click the tree to first strip it, then chop it. "
+				""
+				"To make 1 Plank you will need to craft the Hatchet together with the Stripped Log. When you get your first Saw, you will be able to turn 1 Stripped Log into 4 Planks."
+			]
+			id: "47B600AF3A91F036"
+			shape: "diamond"
+			subtitle: "Tree Punchers 101"
+			tasks: [{
+				id: "646FEB3E03098AA0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Sticks, Stones, and Bones"
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["47B600AF3A91F036"]
+			id: "29B8689F4BABE2A9"
+			shape: "square"
+			tasks: [{
+				id: "682750491BAC8CFD"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["29B8689F4BABE2A9"]
+			id: "6BB77F47FC3E6965"
+			shape: "square"
+			tasks: [{
+				id: "2549ACBBA9806BF4"
+				item: {
+					Count: 1
+					id: "natprog:flint_hatchet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["29B8689F4BABE2A9"]
+			id: "394E90D4A73CD20E"
+			shape: "square"
+			tasks: [{
+				id: "6317297578A537D7"
+				item: {
+					Count: 1
+					id: "natprog:flint_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6BB77F47FC3E6965"]
+			id: "089E5A8387186778"
+			shape: "square"
+			tasks: [{
+				id: "10EA471C22DCDAAB"
+				item: {
+					Count: 1
+					id: "natprog:bone_shard"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["089E5A8387186778"]
+			id: "02E8A57F9B96CEA9"
+			shape: "square"
+			tasks: [{
+				id: "075F62F6CF7528F0"
+				item: {
+					Count: 1
+					id: "natprog:bone_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["089E5A8387186778"]
+			id: "59407512A217AE6B"
+			shape: "square"
+			tasks: [{
+				id: "5426BD39841D4BF9"
+				item: {
+					Count: 1
+					id: "natprog:bone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			id: "04FB9C09400F9C90"
+			tasks: [{
+				id: "5D8AB06A5438472B"
+				item: {
+					Count: 1
+					id: "natprog:copper_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "4EC818A849D61B8B"
+			shape: "square"
+			tasks: [{
+				id: "27726F31A77D3811"
+				item: {
+					Count: 1
+					id: "iceandfire:copper_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "1E9BE701B5E51C9C"
+			shape: "square"
+			tasks: [{
+				id: "7BC537FE45B1816B"
+				item: {
+					Count: 1
+					id: "iceandfire:copper_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "0216F652856C97DE"
+			shape: "square"
+			tasks: [{
+				id: "20C37210E7B37AAC"
+				item: {
+					Count: 1
+					id: "minecraft:iron_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			id: "06414155DED4D2F2"
+			shape: "square"
+			tasks: [{
+				id: "1DB1C03DFCD119B7"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			id: "548895FEA0AB8009"
+			shape: "square"
+			tasks: [{
+				id: "768162C880356A9B"
+				item: {
+					Count: 1
+					id: "iceandfire:copper_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			id: "577726B9BC8B4186"
+			shape: "square"
+			tasks: [{
+				id: "47758560AB54D0B2"
+				item: {
+					Count: 1
+					id: "iceandfire:copper_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			id: "4AFF03A430507DBD"
+			tasks: [{
+				id: "41326EAAF8C296FA"
+				item: {
+					Count: 1
+					id: "natprog:iron_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			id: "147992C2FD0D2031"
+			shape: "square"
+			tasks: [{
+				id: "670B4DCC1E15CF65"
+				item: {
+					Count: 1
+					id: "minecraft:iron_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.5d
+		}
+		{
+			id: "3499E858EEFA6EB2"
+			shape: "square"
+			tasks: [{
+				id: "4FB1655E18527606"
+				item: {
+					Count: 1
+					id: "minecraft:iron_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.5d
+		}
+		{
+			id: "4A5342F08CD5D21D"
+			tasks: [{
+				id: "4C9A4B7F43E97E56"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.5d
+		}
+		{
+			id: "23D911160352885B"
+			tasks: [{
+				id: "7FF06AED87E3BF37"
+				item: {
+					Count: 1
+					id: "natprog:diamond_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.5d
+		}
+		{
+			id: "231358939AE05CAF"
+			tasks: [{
+				id: "11223564CD6D6A00"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			id: "729DFA90ED7E1ACE"
+			tasks: [{
+				id: "2D8790BD027459CB"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 8.5d
+		}
+		{
+			id: "24918F2C1D335A46"
+			tasks: [{
+				id: "3E676F56FF84D9F7"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 8.5d
+		}
+		{
+			id: "4A9D7282323248AB"
+			tasks: [{
+				id: "479F907906593216"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.1d
+		}
+		{
+			id: "04F8661111EC36C5"
+			tasks: [{
+				id: "1B4EA2A76F5B3C56"
+				item: {
+					Count: 1
+					id: "natprog:netherite_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 10.1d
+		}
+		{
+			id: "160DD5656DBFECCF"
+			tasks: [{
+				id: "538DCC74C18DC6B0"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.1d
+		}
+		{
+			id: "54FE62D357D827BC"
+			tasks: [{
+				id: "30822279FB836866"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 11.1d
+		}
+		{
+			id: "03A0B8C7C20D47CA"
+			tasks: [{
+				id: "7B8D2895CB77017E"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.1d
+		}
+		{
+			id: "2D5416BABE0CCD96"
+			shape: "square"
+			tasks: [{
+				id: "1F9766B7DA6C69BE"
+				item: {
+					Count: 1
+					id: "iceandfire:silver_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			id: "1F5D0EB248ED82F7"
+			shape: "square"
+			tasks: [{
+				id: "1B29B22A9AEB68FC"
+				item: {
+					Count: 1
+					id: "iceandfire:silver_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			id: "1B30586171734AB1"
+			shape: "square"
+			tasks: [{
+				id: "5428702C791083AE"
+				item: {
+					Count: 1
+					id: "iceandfire:silver_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 6.0d
+		}
+		{
+			id: "56BE817ADEAF99E4"
+			shape: "square"
+			tasks: [{
+				id: "4DD7CFB190E438FB"
+				item: {
+					Count: 1
+					id: "iceandfire:silver_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"4EC818A849D61B8B"
+				"1E9BE701B5E51C9C"
+				"548895FEA0AB8009"
+				"577726B9BC8B4186"
+			]
+			id: "1F6113D2234C39DD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "051DE49E631BB543"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					icon: "supplementaries:sign_post_oak"
+					id: "490C82F9B0A8FE7F"
+					title: "Unlock Silver Equipment"
+					type: "custom"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "5B642F100A4ABFA3"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Unlock Silver Equipment"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"2D5416BABE0CCD96"
+				"1F5D0EB248ED82F7"
+				"1B30586171734AB1"
+				"56BE817ADEAF99E4"
+			]
+			id: "06F8EC95A7718D92"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0496254C3AAF4F11"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					icon: "supplementaries:sign_post_oak"
+					id: "50BB767BE0A838E9"
+					title: "Unlock Iron Equipment"
+					type: "custom"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "7E14E53810F76FD6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Unlock Iron Equipment"
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"59407512A217AE6B"
+				"02E8A57F9B96CEA9"
+			]
+			id: "7F1D40E3D99C5160"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56734A499CFD0DB3"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					icon: "supplementaries:sign_post_oak"
+					id: "699561E15B00A29C"
+					title: "Unlock Copper Equipment"
+					type: "custom"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "29D6DF8C70218C70"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Unlock Copper Equipment"
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0216F652856C97DE"
+				"06414155DED4D2F2"
+				"147992C2FD0D2031"
+				"3499E858EEFA6EB2"
+			]
+			id: "47CDFFB62C641DEB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06F378783A3B46E0"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					icon: "supplementaries:sign_post_oak"
+					id: "2CC85F92B9FFD451"
+					title: "Unlock All Other Equipment"
+					type: "custom"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "27795493BEEE7A9F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Unlock All Other Equipment"
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"7F1D40E3D99C5160"
+				"1F6113D2234C39DD"
+				"06F8EC95A7718D92"
+			]
+			description: [
+				" Make sure to consume your &bMiner's Certificate&r. This will unlock the ability to use &6Ultiminer&r by holding down the &a`&r button. "
+				""
+				"&cWARNING&r: While &6Ultiminer&r is a great way to mine a lot of blocks at once, it consumes a significant amount of food when you use it. "
+				""
+				"If you want to mine a lot of blocks you can get a &bFeeding Upgrade&r for your &bBackpack&r and throw a lot of food in there. "
+			]
+			id: "656B3891DDB47892"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A642F1A03F54654"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64B8B0AA4BEE9C76"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+				{
+					id: "5F740B2B2E62A45D"
+					item: {
+						Count: 1
+						id: "ultimine_addition:miner_certificate"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "3A2F6475F9A683EE"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Unlock Ultiminer"
+			x: 7.0d
+			y: 3.0d
+		}
+	]
+	title: "Tools"
+}

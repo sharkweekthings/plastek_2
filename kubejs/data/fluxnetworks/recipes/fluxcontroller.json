@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fluxnetworks",
+  "pattern": [
+    "bcb",
+    "fxf",
+    "bzb"
+  ],
+  "key": {
+    "c": {
+      "item": "fluxnetworks:flux_core"
+    },
+    "b": {
+      "item": "fluxnetworks:flux_block"
+    },
+    "f": {
+      "item": "fluxnetworks:flux_dust"
+    },
+    "z": {
+      "item": "create:precision_mechanism"
+    },
+    "x": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    }
+  },
+  "result": {
+    "item": "fluxnetworks:flux_controller"
+  }
+}

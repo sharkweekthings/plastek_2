@@ -1,0 +1,465 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "read_me"
+	group: "32144DBD66776AC0"
+	icon: "minecraft:oak_sign"
+	id: "002703EC44A65616"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Thank you for checking out &6Plastek 2&r!  I hope you enjoy the pack. "
+				""
+				"If you have any questions, or would like to provide any feedback / bugs, feel free to join the Discord:"
+				""
+				"&bhttps://discord.gg/Tt8sGvQRH4&r"
+				""
+				"The quests in this pack are designed to give you a working product via automation, but not necessarily the best method."
+				""
+				"It's up to you and your creativity to make better automations!"
+			]
+			icon: "minecraft:oak_sign"
+			id: "3842A04BB4A957D9"
+			shape: "square"
+			subtitle: "<3"
+			tasks: [{
+				id: "70BE71F8F05B9C4F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Welcome!"
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3842A04BB4A957D9"]
+			description: [
+				"Yup, that's right. You're starting with &clower health&r, and &cless HP regen&r than normal. Don't worry though, &6Farmer's Delight&r and &6Pam's Harvestcraft&r are both in the pack along with &6Spice of Life: Carrot&r. "
+				""
+				"That means there will be many different foods you can eat. &aThe more unique foods that you eat, the more your HP will increase&r."
+				""
+				"This pack has a total of &a1,536 different foods&r you can make. To account for uncraftable items, you will gain &a1 Heart&r for each milestone &aup to 1,400 foods&r."
+				""
+				"You might find additional HP boosts through the mods listed in the \"Power\" quest. "
+			]
+			icon: "artifacts:crystal_heart"
+			id: "0174B8D037486CC7"
+			shape: "square"
+			tasks: [{
+				id: "5E8B402074D527F0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Health"
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0174B8D037486CC7"]
+			description: [
+				"Your character can attain additional power through &6Artifacts&r, &6Inventory Pets&r, &6Relics&r, &6Nameless Trinkets&r, &6Tarot Cards&r, and &6Everlasting Abilities&r. "
+				""
+				"You can find all of these throughout the world. "
+				""
+				"For &6Everlasting Abilities&r the equip cost has been inflated significantly, and you are only allowed to equip 4 total abilities. "
+			]
+			icon: {
+				Count: 1
+				id: "aether:valkyrie_gloves"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "59518B193D9F7836"
+			shape: "square"
+			tasks: [{
+				id: "04DD70F89B27E461"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Power"
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["59518B193D9F7836"]
+			description: [
+				"Playing on a server or with friends? No problem! The &adifficulty scaling works on a per player, per age scaling system within a large radius&r. If you are light years ahead of your friends who are just starting, and you are in their general vicinity, &athe monsters will balance out to somewhere in between your levels&r."
+				""
+				"Upon entering each new age the &cmonster difficulty will increase&r, and continue to rise at a rate of 0.15 per Minecraft day&c; the difficulty will increase until it reaches the cap for the respective Age. "
+				""
+				"&bAge 1&r: Starts at 20"
+				"&bAge 2&r: Starts at 35, caps at 50"
+				"&bAge 3&r: Starts at 60, caps at 75"
+				"&bAge 4&r: Stats at 100, caps at 10000"
+				"&bAge 5&r: Starts at 500, caps at 10000&r"
+				""
+				"A &cZombie&r in &bAge 1&r has 26 HP"
+				"A &cZombie&r in &bAge 2&r has 31 HP and caps around 36 HP"
+				"A &cZombie&r in &bAge 3&r has 38 HP and caps around 44 HP"
+				"A &cZombie&r in &bAge 4&r has 52 HP and caps around 100 HP"
+				"A &cZombie&r in &bAge 5&r has 100 HP and &cgains additional armor&r with each increase of the &cdifficulty cap; which goes up to 10,000&r."
+				""
+				"Many mobs will spawn with armor on, and have various abilities normal &6Minecraft&r mobs do not. Some mobs might &crifle through your chests and throw items on the ground&r, some may &cthrow Ender Pearls&r, some may &cbreak blocks&r, &cclimb ladders&r, and more. "
+			]
+			icon: "plushies:zombie_villager_plushie"
+			id: "7DA184125BC90240"
+			shape: "square"
+			tasks: [{
+				id: "460C73B41FFB058B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Mobs"
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2953D10883305166"]
+			description: [
+				"Progression is gated behind various quests, and &6Totally Harmonius Item Stages&r. &aAs you make your way through the pack you will unlock new mods and mod features&r."
+				""
+				"&aStorage is not gated&r, so you could in theory build an AE2 system in Age 1, but you wouldn't have any real way of powering it until Age 2."
+			]
+			icon: "minecraft:map"
+			id: "57A6C5F1F66202C7"
+			shape: "square"
+			tasks: [{
+				id: "3C872594DA9F9BF0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Progression"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57A6C5F1F66202C7"]
+			description: ["The &avarious Resource Generators&r in this pack are &6Mob Grinding Utils&r, &6Hostile Neural Networks&r, &6Resource Chickens&r, &6Productive Bees&r, and &6Mystical Agriculture&r. "]
+			icon: "mysticalagradditions:insanium_essence"
+			id: "0A3BE2D164E4F854"
+			shape: "square"
+			tasks: [{
+				id: "094D7B5E63515907"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Resource Generation"
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0A3BE2D164E4F854"]
+			description: ["This adventure will take you through &6The Bumblezone&r, &9Blue Skies&r, &cThe Nether&r, &bAether&r, &eDimensional Dungeons&r, &aAlfheim&r, and &dThe End&r! "]
+			icon: "aether:aether_portal_frame"
+			id: "3F93CF6B70529166"
+			shape: "square"
+			tasks: [{
+				id: "68736F50E343B879"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Dimensions"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F93CF6B70529166"]
+			description: ["Super Side Quests offers a few different completely optional (&o&abut sometimes useful&r&r) quest lines for you to enjoy and complete."]
+			icon: {
+				Count: 1
+				id: "minecraft:wooden_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "092D2D9BBD18EB72"
+			shape: "square"
+			tasks: [{
+				id: "7B6D820009636631"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Optional Quests"
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["47BD1CC1D06A34DF"]
+			id: "576F9F679631AB49"
+			shape: "hexagon"
+			subtitle: "This shape is only used in the Main Progression Quest Journal tab."
+			tasks: [{
+				id: "60D45721C73A8E8B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Main Progression"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["092D2D9BBD18EB72"]
+			hide_dependency_lines: true
+			id: "47BD1CC1D06A34DF"
+			shape: "rsquare"
+			subtitle: "This shape is used as the shape to represent all other shapes."
+			tasks: [{
+				id: "0CF21407C8DB4555"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Quest Shapes"
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["47BD1CC1D06A34DF"]
+			description: ["It is intended to have to complete all or most of this quest shape."]
+			id: "7D67FB6BC04B6B7E"
+			shape: "square"
+			tasks: [{
+				id: "444DEE1333E4D2E8"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Main Quest"
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47BD1CC1D06A34DF"]
+			description: [
+				"A Major Advancement could be a progression in materials, technology, or location. "
+				""
+				"These quests should contain a &bBag of Tears&r, and sometimes a &dBag of Hopes and Dreams&r. "
+				""
+				"The &dBag of Hopes and Dreams&r is the same as the &bBag of Tears&r, except a few of the better items have a slightly higher success rate. "
+			]
+			id: "74E5A584646FC35D"
+			shape: "gear"
+			tasks: [{
+				id: "1ECECE173ECA7282"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Major Advancement"
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47BD1CC1D06A34DF"]
+			description: ["Quests that may support your adventure, but shouldn't be necessary."]
+			id: "341EAF79D87E5CCD"
+			tasks: [{
+				id: "7376799C40A17552"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Side Quest"
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47BD1CC1D06A34DF"]
+			description: ["This shape represents a quest to recover certain special items if lost."]
+			id: "57981D417D475021"
+			shape: "heart"
+			tasks: [{
+				id: "54397C2C965C8288"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Reclaimable Item"
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["092D2D9BBD18EB72"]
+			description: ["Most crops and trees have a season associated with them. &cIf the crop is not in season&r, it will &l&cnot&r&r grow. You can counter this by using &aGreenhouse Glass&r (&oany Green Stained Glass&r) "]
+			hide_dependency_lines: true
+			icon: "minecraft:wheat_seeds"
+			id: "672220A1E0B85F2D"
+			shape: "square"
+			tasks: [{
+				id: "3CEC1A64A4F543E5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Crops"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["092D2D9BBD18EB72"]
+			description: [
+				"Whoops. Did you just die? "
+				""
+				"That might happen a lot, especially early on. The mobs are pretty vicious. "
+				""
+				"Don't worry though. If you die, a &aTombstone will be created that contains all of your items where you perished&r. Just use the key on it, and you will get everything back."
+				""
+				"&aSometimes you might even be granted a special key that will let you teleport back&r. You can also craft this key by combining your Grave Key and an Ender Pearl in a crafting window."
+			]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "tombstone:decorative_grave_cross"
+				tag: {
+					model_texture: 0
+				}
+			}
+			id: "545937C5689C339F"
+			shape: "square"
+			tasks: [{
+				id: "55B8B88EFBA1D4BB"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Death"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["092D2D9BBD18EB72"]
+			description: [
+				"Don't forget to set a home with &a/sethome <name>&r no brackets. &aIf you dont put a name you can just use /home&r, otherwise you'll need to &a/home <name>&r. This command has a 5 minute cooldown."
+				""
+				"Each Age will unlock an additional quantity of home points. "
+				""
+				"&bAge 1&r: 1"
+				"&bAge 2&r: 3"
+				"&bAge 3&r: 6"
+				"&bAge 4&r: 10"
+				"&bAge 5&r: 20"
+				""
+				"You can use the &a/back&r command to go back through your various teleports (5 minute cooldown)"
+				""
+				"The &a/rtp&r command randomly teleports you somewhere within 25,000 blocks (10 minute cooldown)"
+				""
+				"If you're playing on a server, you can use the &a/tpa <name>&r command to teleport to a friend. This TP must be approved by the person  you are trying to TP to."
+				""
+				"&aF7&r will enable Light Overlays which will show potential for monster spawns."
+				""
+				"&aF9&r will cycle between various chunk view modes, being able to view the chunk grid, or the region grid. "
+			]
+			hide_dependency_lines: true
+			icon: "rftoolsutility:creative_screen"
+			id: "7C437754A4ECF3C2"
+			shape: "square"
+			tasks: [{
+				id: "06405AEDABBD97CA"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Fancy Features"
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["092D2D9BBD18EB72"]
+			description: [
+				"Don't forget to create or join an FTB Teams. "
+				""
+				"This will unlock features like Land Claim and Chunk Loading. "
+				""
+				"Each age you will unlock additional claims and force loading. "
+				""
+				"&bAge 1&r: 10 Claims | 0 Chunk Loading"
+				"&bAge 2&r: 50 Claims | 10 Chunk Loading"
+				"&bAge 3&r: 100 Claims | 20 Chunk Loading"
+				"&bAge 4&r: 500 Claims | 50 Chunk Loading"
+				"&bAge 5&r: 1000 Claims | 100 Chunk Loading"
+			]
+			hide_dependency_lines: true
+			icon: "minecraft:writable_book"
+			id: "4A2336D2932CBBAF"
+			shape: "square"
+			tasks: [{
+				id: "2E072492462F9A37"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "FTB Teams"
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"672220A1E0B85F2D"
+				"545937C5689C339F"
+				"4A2336D2932CBBAF"
+				"7C437754A4ECF3C2"
+			]
+			description: [
+				"You will need to complete various tasks in each dimension to unlock a few of the End Remastered Eyes which will be used on the End Portal Frame to get to The End."
+				""
+				"&3Honey Eye&r - Bumblezone"
+				"&3Nether Eye&r - The Nether"
+				"&3Alf Eye&r - Alfheim"
+				"&3Dimensional Eye&r - Dimensional Dungeons"
+				"&3Spirit Eye&r - Create your first Spiritfire"
+				"&3Thermal Paste Eye&r - Make your first Finished PCB"
+				"&3Plastic Eye&r - Make your first Plastic Sheet"
+				"&3Dragon Eye&r - Alfheim"
+				"&3Sky Eye&r - Blue Skies"
+				"&3Insanium Eye&r - Make your first Insanium"
+				"&3Aether Eye&r - The Aether"
+				"&3Infused Eye&r - Created in a Draconic tiered Infusion Crafter."
+			]
+			icon: "minecraft:end_portal_frame"
+			id: "30F9D708441CB9FC"
+			shape: "square"
+			tasks: [{
+				id: "42F32BB1BB0E0A79"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The End"
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7DA184125BC90240"]
+			description: [
+				"Nope. "
+				""
+				"Nothing special about ores this time. All ores use the vanilla, or the mod defaults for Y locations! "
+				""
+				"Some ores have been disabled to prevent duplicate ores, and some ores have been renamed and been given a different loot table. "
+			]
+			icon: "minecraft:iron_ore"
+			id: "2953D10883305166"
+			shape: "square"
+			tasks: [{
+				id: "1C501EBA82CC3C3C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Ores"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["47BD1CC1D06A34DF"]
+			description: [
+				"Starts a quest chain. "
+				""
+				"Sometimes the chain won't be necessary and you can skip ahead, or do your own thing."
+			]
+			id: "09EE7BF567B5482D"
+			shape: "diamond"
+			tasks: [{
+				id: "4CAC6942D055A85F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Quest Initiator"
+			x: -2.5d
+			y: 3.5d
+		}
+	]
+	title: "Read Me!"
+}

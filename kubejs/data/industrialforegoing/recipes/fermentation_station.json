@@ -1,0 +1,45 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:fermentation_station"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "b": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "g": {
+            "item": "create:precision_mechanism"
+          },
+          "p": {
+            "tag": "forge:plastic"
+          },
+          "w": {
+            "tag": "minecraft:logs"
+          }
+        },
+        "pattern": [
+          "pwp",
+          "wgw",
+          "pbp"
+        ],
+        "result": {
+          "item": "industrialforegoing:fermentation_station"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

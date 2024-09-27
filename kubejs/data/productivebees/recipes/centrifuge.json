@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "IGI",
+    "IVI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "G": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "V": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "item": "productivebees:centrifuge"
+  }
+}

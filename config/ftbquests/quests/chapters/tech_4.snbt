@@ -1,0 +1,1541 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_4"
+	group: "581F41F63919A6BC"
+	icon: "mekanism:pellet_polonium"
+	id: "6D1963B94511AE72"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"257402EE12A0291C"
+				"5318695938952BC3"
+			]
+			id: "6AC02C5DEB6F3E4F"
+			shape: "gear"
+			tasks: [{
+				id: "5E1710B0176E7836"
+				item: "mekanism:pellet_polonium"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3032B2494462540C"
+				"3D5A3EC91F698A7C"
+				"4DA133B6119B5276"
+			]
+			id: "0913BD7E65A1B516"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2481B0EFB2FD46FB"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1AF23C132A63C048"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "18861092CB772D09"
+				item: "mekanism:hdpe_sheet"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "29E38569A0067D91"
+			tasks: [{
+				id: "07160B848F4BB040"
+				item: "mekanism:electrolytic_separator"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "4B68D55D4F73EC58"
+			tasks: [{
+				id: "45070EA90F572E09"
+				item: "mekanism:rotary_condensentrator"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "55CF4733EE222587"
+			tasks: [{
+				id: "170A5B984890A04D"
+				item: "mekanism:chemical_oxidizer"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "260D0A8DA557458A"
+			tasks: [{
+				id: "4ADDC54FAFF64AF6"
+				item: "mekanism:chemical_infuser"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "710306F7465BB3E1"
+			tasks: [{
+				id: "780E3A7D469B8974"
+				item: "mekanism:chemical_infuser"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "0C481B280BEC851B"
+			subtitle: "This is where your Ore or Raw metal journey begins."
+			tasks: [{
+				id: "71DDBC5AD8D7E3C0"
+				item: "mekanism:chemical_dissolution_chamber"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"29E38569A0067D91"
+				"55CF4733EE222587"
+				"4B68D55D4F73EC58"
+				"710306F7465BB3E1"
+				"260D0A8DA557458A"
+				"0C481B280BEC851B"
+			]
+			description: [
+				"This is just a quick run down on roughly what to do with the machines below, to produce Sulfuric Acid. "
+				""
+				"#1 Electrolytic Separator - Pumping water into this will produce Hydrogen and Oxygen"
+				""
+				"#2 Rotary Condensentrator - Pumping water into this will produce Water Vapor"
+				""
+				"#3 Chemical Oxidizer - Placing Sulfur Dust into this machine will result in Sulfur Dioxide"
+				""
+				"#4 Chemical Infuser - On one side, pump the Oxygen from a Electrolytic Separator, on the other side pump in the Sulfur Dioxide from your Chemical Oxidizer to produce Sulfur Trioxide."
+				""
+				"#5 Chemical Infuser - On one side, pump the Water Vapor from a Rotary Condensentrator, on the other side pump in the Sulfur Trioxide from the last Chemical Infuser. "
+				""
+				"This should net you some Sulfuric Acid! "
+			]
+			icon: "mekanism:sulfuric_acid_bucket"
+			id: "76E824CE8DB0B85A"
+			tasks: [{
+				id: "6D72E578156E3FAF"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Sulfuric Acid"
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "0EE63E32A3330E0C"
+			tasks: [{
+				id: "587B8ECFDF995CCE"
+				item: "mekanism:chemical_washer"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "14D800D7D52B7B22"
+			tasks: [{
+				id: "53BEE7771A5CDF2F"
+				item: "mekanism:chemical_crystallizer"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "737114B9AD2F1F1A"
+			tasks: [
+				{
+					count: 33L
+					id: "211C6CBD0F2802B0"
+					item: { Count: 33, id: "mekanism:thermal_evaporation_block" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7535FF525242660E"
+					item: { Count: 2, id: "mekanism:thermal_evaporation_valve" }
+					type: "item"
+				}
+				{
+					id: "4AA65C0F4CDED016"
+					item: "mekanism:thermal_evaporation_controller"
+					type: "item"
+				}
+			]
+			title: "Thermal Evaporation"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "2989038259B5375D"
+			tasks: [{
+				count: 4L
+				id: "2D419A717D69EF75"
+				item: "mekanismgenerators:advanced_solar_generator"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "1780549A40E0E565"
+			tasks: [{
+				id: "63860D1E74320D62"
+				item: "mekanism:electrolytic_separator"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "39992D39F80E3E56"
+			tasks: [{
+				id: "07C0D28D8683F9A7"
+				item: "mekanism:electrolytic_separator"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "608FA202E225BDFD"
+			tasks: [{
+				id: "089E165D51082769"
+				item: "mekanism:chemical_infuser"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "77D410BDD7749612"
+			tasks: [{
+				id: "0A437DF3BE736BD8"
+				item: "mekanism:chemical_injection_chamber"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"737114B9AD2F1F1A"
+				"39992D39F80E3E56"
+				"1780549A40E0E565"
+				"608FA202E225BDFD"
+				"77D410BDD7749612"
+			]
+			description: [
+				"This is just a quick run down on roughly what to do with the machines below, to produce Hydrogen Chloride. "
+				""
+				"#1 Electrolytic Separator - Pumping water into this will produce Hydrogen and Oxygen"
+				""
+				"#1 Thermal Evaporation Plant - Sending water to the Thermal Evaporation Plant will create Brine.  Adding 4 Solar Generators to your Plant will significantly increase the production speed."
+				""
+				"#2 Electrolytic Separator - Send Brine to a Electrolytic Separator and that will create Sodium and Chlorine"
+				""
+				"#3 Electrolytic Separator - Sending Water to another Separator will create Hydrogen and Oxygen"
+				""
+				"#4 Chemical Infuser - Send Chlorine from one of the Electrolytic Separators, and Hydrogen from the other.  "
+				""
+				"This should net you some Hydrogen Chloride!"
+			]
+			icon: "mekanism:hydrogen_chloride_bucket"
+			id: "43EF2658175AD5F2"
+			tasks: [{
+				id: "1ADC34B07B5CB8A6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Hydrogen Chloride"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "0A11C12D7487D990"
+			tasks: [{
+				id: "303E8DA03AF7AC86"
+				item: "mekanism:purification_chamber"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A11C12D7487D990"]
+			description: [
+				"This one is easy. "
+				""
+				"Either send some excess Oxygen to the machine, or setup another Electrolytic Separator and use the Oxygen from that. "
+			]
+			icon: "mekanism:oxygen_bucket"
+			id: "6AB5CC77CFE5CC53"
+			tasks: [{
+				id: "61A46F3CFE188D17"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Liquid Oxygen"
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "1D6CAA69CB978747"
+			tasks: [{
+				id: "36071DD607B6B063"
+				item: "mekanism:crusher"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "5FAB4375BFFBFBB2"
+			tasks: [{
+				id: "67AEFFCD9BAD588A"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19BBCC3FA516AAC9"]
+			id: "6BFD9A6287578463"
+			tasks: [{
+				id: "002723439011D7F2"
+				item: "mekanism:energized_smelter"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Start by turning &3Uranium Ingots&r into &3Yellow Cake Uranium&r by putting the ingots in an &9Enrichment Chamber&r."
+				""
+				"Move the &3Yellow Cake Uranium&r into a &9Chemical Oxidizer&r to get &3Uranium Oxide&r. "
+				""
+				"On one side of a &9Chemical Infuser&r pump in the &3Uranium Oxide&r. "
+				""
+				"On the other side, pump in &3Hydrofluoric Acid&r to create &3Uranium Hexafluoride&r. "
+				""
+				"You can make the &3Hydrofluoric Acid&r by adding &3Fluorite&r and &3Sulfuric Acid&r to a &3Chemical Dissolution Chamber&r. "
+				""
+				"Pump the &3Uranium Hexafluoride&r into a &9Isotopic Centrifuge&r to get &3Fissile Fuel&r."
+			]
+			id: "4774F1D6D5913E27"
+			shape: "diamond"
+			tasks: [{
+				id: "5EB68351F4D35D22"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Fissile Fuel"
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4774F1D6D5913E27"]
+			id: "654A9DB073BF3B71"
+			shape: "square"
+			tasks: [{
+				id: "3B5B0740280A28C8"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4774F1D6D5913E27"]
+			id: "6E53EDEB5AA8133F"
+			shape: "square"
+			tasks: [{
+				id: "2B8BBA59E1E561D8"
+				item: "mekanism:chemical_oxidizer"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4774F1D6D5913E27"]
+			id: "7849FC2D40C6F16E"
+			shape: "square"
+			tasks: [{
+				id: "6C440A878465A74D"
+				item: "mekanism:chemical_dissolution_chamber"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4774F1D6D5913E27"]
+			id: "002771C6C75C33D1"
+			shape: "square"
+			tasks: [{
+				id: "744F2662C9AB0708"
+				item: "mekanism:chemical_infuser"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4774F1D6D5913E27"]
+			id: "6178AC0772C215BB"
+			shape: "square"
+			tasks: [{
+				id: "6C8068D9B70FF3E5"
+				item: "mekanism:isotopic_centrifuge"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 6.5d
+		}
+		{
+			description: [
+				"You are free to make the Fission Reactor any size you see fit for your &3Pollonium&r production needs."
+				""
+				"The examples provided will be using a 4 wide 5 tall setup, it's strongly advised to make a much bigger setup to produce Polonium faster."
+				""
+				"You should definitely wait to turn everything on until the &9Fission Reactor&r is 100% full of coolant. Then you can start messing with the flow rate."
+				""
+				"&c&oYou wouldnt want this to explode and destroy your base would you?&r&r"
+				""
+				"&oFor more advanced knowlege, check out this useful source: &bhttps://wiki.aidancbrady.com/wiki/Fission_Reactor_Tutorial&r&r"
+			]
+			id: "49C6B1723284E0CA"
+			shape: "diamond"
+			tasks: [{
+				id: "7821958C250EE960"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Fission"
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["49C6B1723284E0CA"]
+			description: [
+				"This example uses &367 Fission Reactor Casing&r, 8 Fission Fuel Assembly&3, &34 Control Rod Assembly&r, and &34 Fission Reactor Ports&r."
+				"&r"
+				"The &3Control Rod Assembly&r must sit on the top of each column of &3Fission Fuel Assemblies&r. "
+				""
+				"One port should be for your coolant input."
+				""
+				"One port should be for your &3Fissile Fuel&r input. "
+				""
+				"One port should be for  your &3Nuclear Waste&r output. (&osee: Making &3Polonium&r&r)"
+				""
+				"One port should be for your &3Steam&r output. (&o&9Industrial Turbine&r&r)"
+				""
+				""
+				"{image:kubejs:textures/mekanism/mekanism_fission.png width:200 height:200 align:center}"
+			]
+			id: "5318695938952BC3"
+			shape: "square"
+			tasks: [
+				{
+					id: "3E8963C4557C1B46"
+					item: "mekanismgenerators:fission_reactor_casing"
+					type: "item"
+				}
+				{
+					id: "7023CF8D28ED31B2"
+					item: "mekanismgenerators:fission_reactor_port"
+					type: "item"
+				}
+				{
+					id: "4EEC44A1B70708BC"
+					item: "mekanismgenerators:control_rod_assembly"
+					type: "item"
+				}
+				{
+					id: "34FD62ECEC6722B8"
+					item: "mekanismgenerators:fission_fuel_assembly"
+					type: "item"
+				}
+			]
+			title: "Fission Reactor"
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			description: [
+				"Pump the &3Nuclear Waste&r from your &9Fission Reactor&r into a &9Solar Neutron Activator&r to get &3Polonium&r. "
+				""
+				"Pump &3Fluorite Dust&r, and &3Polonium&r into a &9Pressurized Reaction Chamber&r to get &3Polonium Pellets&r."
+			]
+			id: "1886958B213FC51A"
+			shape: "diamond"
+			tasks: [{
+				id: "3E3951A6A7B029CD"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Polonium"
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1886958B213FC51A"]
+			id: "07EB1F830ACAA9D3"
+			shape: "square"
+			tasks: [{
+				id: "38B7D7F5FDB56BC6"
+				item: "mekanism:solar_neutron_activator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1886958B213FC51A"]
+			id: "257402EE12A0291C"
+			shape: "square"
+			tasks: [{
+				id: "1604DCCB958D857C"
+				item: "mekanism:pressurized_reaction_chamber"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5318695938952BC3"]
+			description: [
+				"This example uses &3128 Turbine Casing&r, &333 Turbine Vent&r, &310 Turbine Blades&r, &38 Pressure Disperser&r, &36 Saturating Condensers&r, &33 Electromagnetic Coil&r, &35 Turbine Rotor&r, &31 Turbine Valve&r, and &31 Rotational Complex&r"
+				""
+				"The examples provided will be using a 5 wide 9 tall setup."
+				""
+				"After building your basic frame with &3Turbine Casing&r, you will want to place down the &35 Turbine Rotors&r, followed by the &3Turbine Blades&r. On the top rotor, place down &31 Rotational Complex&r and surround it with &3Pressure Dispersers&r. For next layer you'll want to place &36 Saturating Condensers&r along with the &33 Electromagnetic Coils&r as shown in the second image."
+				""
+				"Now you can fill in your frame with casing, or &3Structural Glass&r, and as for the top 3 layers - just surround all sides in &3Turbine Vents&r, including the top."
+				""
+				"No vents:"
+				"{image:kubejs:textures/mekanism/mekanism_turbine_1.png width:175 height:200 align:center}"
+				""
+				"Top layer no vents:"
+				"{image:kubejs:textures/mekanism/mekanism_turbine_2.png width:175 height:200 align:center}"
+			]
+			id: "497844182791F3F5"
+			shape: "square"
+			tasks: [
+				{
+					id: "70EC1C75C8941B00"
+					item: "mekanismgenerators:turbine_casing"
+					type: "item"
+				}
+				{
+					id: "23E44FDDE9640608"
+					item: "mekanismgenerators:reactor_glass"
+					type: "item"
+				}
+				{
+					id: "7B0633E777D0C801"
+					item: "mekanismgenerators:turbine_rotor"
+					type: "item"
+				}
+				{
+					id: "6A4A95B45A6DB66F"
+					item: "mekanismgenerators:turbine_blade"
+					type: "item"
+				}
+				{
+					id: "7E5D2AEDA7E20C16"
+					item: "mekanismgenerators:turbine_vent"
+					type: "item"
+				}
+				{
+					id: "382847A10931A898"
+					item: "mekanismgenerators:saturating_condenser"
+					type: "item"
+				}
+				{
+					id: "7E697189AE356036"
+					item: "mekanismgenerators:electromagnetic_coil"
+					type: "item"
+				}
+				{
+					id: "5960E143AE23FF6F"
+					item: "mekanism:pressure_disperser"
+					type: "item"
+				}
+				{
+					id: "0B074D4CB03497E8"
+					item: "mekanismgenerators:turbine_valve"
+					type: "item"
+				}
+				{
+					id: "7A22C269C0A775F4"
+					item: "mekanismgenerators:rotational_complex"
+					type: "item"
+				}
+			]
+			title: "Industrial Turbine"
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["37AE1CD5B128B1EC"]
+			description: [
+				"#1 Put &3Water&r in a &9Electrolytic Separator&r to create &3Hydrogen&r and &3Oxygen&r."
+				""
+				"#2 Send &3Water&r, &3Hydrogen&r, and the &3Bio Fuel&r into a &9Pressurized Reaction Chamber&r which will create &3Substrate&r and &3Ethylene&r."
+				""
+				"#3 Send &3Ethylene&r, &3Oxygen&r, and &3Substrate&r to another &9Pressurized Reaction Chamber&r and this should create the &3HDPE Pellet&r."
+				""
+				"#4 Now you'll need to use another &9Enrichment Chamber&r to turn the pellets into sheets."
+			]
+			id: "49FBB3232CB4E50B"
+			shape: "diamond"
+			tasks: [{
+				id: "0FB87CDC23DF92D4"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making HDPE"
+			x: -10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["49FBB3232CB4E50B"]
+			id: "3032B2494462540C"
+			shape: "square"
+			tasks: [{
+				id: "61A9CC6AB9B8E411"
+				item: "mekanism:pressurized_reaction_chamber"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["49FBB3232CB4E50B"]
+			id: "4DA133B6119B5276"
+			shape: "square"
+			tasks: [{
+				id: "20E61BD69A7FB7E0"
+				item: "mekanism:pressurized_reaction_chamber"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["49FBB3232CB4E50B"]
+			id: "3D5A3EC91F698A7C"
+			shape: "square"
+			tasks: [{
+				id: "5DF5A9462F7C7B16"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"While not absolutely necessary to complete the pack, it's a cool setup to make, and it allows you to multiple various ores."
+				""
+				"Click on the buckets to see the corresponding steps."
+				""
+				"You will need to make the &9Thermal Evaporation Plants&r for the &9Fission Reactor&r."
+			]
+			id: "19BBCC3FA516AAC9"
+			shape: "diamond"
+			tasks: [{
+				id: "63A88BF7D020774A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Multiplying Ore"
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F2FF5DF80793563"]
+			description: [
+				"You'll need a lot of &3Chaos Shards&r for future crafting. "
+				""
+				"If you don't want to keep hunting down the Chaos Dragon you can make some Chaos Bees, so you'll want to save your first set of &3Chaos Shards&r."
+				""
+				"To get a Chaos Bee Spawn Egg you will need to do the following: "
+				""
+				"- Squish &3Draconic Bees&r with a &3Piston&r into a &9Bottler&r, just like the Blizz in Age 3."
+				""
+				"- Put the Draconic gene sample in a &9Centrifuge&r, repeat until you have about 5 genes."
+				""
+				"- Make a 100% gene sampled &3Honey Treat&r"
+				""
+				"- Use the 100% gene sampled &3Honey Treat&r, and an &3Egg&r in the &9BaBee Incubator&r to get the &3Draconic Bee Spawn Egg&r"
+				""
+				"- Use the &3Draconic Spawn Egg&r to make a &3Draconium Spawn Egg&r in a &9Wyvern Tier injector&r or better"
+				""
+				"- Use the &3Draconium Spawn Egg&r to make an &3Awakened Spawn Egg&r in a &9Draconic Tier injector&r or better"
+				""
+				"- Use the &3Awakened Spawn Egg&r to make a &3Chaos Spawn Egg&r in a &9Chaotic Tier injector&r"
+			]
+			id: "20DB272F812BD9E1"
+			shape: "square"
+			tasks: [{
+				id: "7D4DAD9842FB72C5"
+				item: "draconicevolution:chaos_shard"
+				type: "item"
+			}]
+			title: "Chaos Shard"
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"20DB272F812BD9E1"
+				"6AC02C5DEB6F3E4F"
+			]
+			id: "63B78D88FBAB6378"
+			shape: "square"
+			tasks: [{
+				id: "2954316B8C7ABDFC"
+				item: "draconicevolution:chaotic_crafting_injector"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["70748E931AC07711"]
+			description: [
+				"Before turning the reactor on, you will need to charge it up to start creating the &bContainment Field&r. "
+				""
+				"- &bContainment Field Strength&r needs to reach 50%"
+				"- &bEnergy Saturation&r needs to reach 50%"
+				"- &bCore Temperature&r needs to reach 2000C"
+				""
+				"Before clicking \"&bActivate&r\" you will want to make sure that the &9Flux Gate&r inputting power into your reactor is set to the value you hope won't cause a meltdown. "
+				""
+				"If you've had success in activating your reactor, let everything balance out before you start adjusting the &9Flux Gate's&r input/output. "
+				""
+				"You want to try and keep your &bContainment Field Strength&r at around 50% while not letting the &bCore Temp&r reach &c8000c&r. By adjusting the input/outputs, it will re-balance using more shield, and providing more heat, which should in turn help you generate more power. "
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_reactor_3.png width:200 height:175 align:center}"
+			]
+			id: "3AD87E8909BCBC81"
+			shape: "square"
+			tasks: [{
+				id: "07692BB0537720FA"
+				item: "draconicevolution:reactor_core"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["70748E931AC07711"]
+			description: [
+				"The &3Reactor Stabilizers&r should be on the 4th block out from the center of the &9Draconic Reactor Core&r on all 4 sides:"
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_reactor_2.png width:210 height:100 align:center}"
+			]
+			id: "11C121B8781C237E"
+			shape: "square"
+			tasks: [{
+				count: 4L
+				id: "01203FB60BEB1DA7"
+				item: { Count: 4, id: "draconicevolution:reactor_stabilizer" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["70748E931AC07711"]
+			description: [
+				"From the bottom, the order should be:"
+				""
+				"1) Power source (&o&9Powah Reactors&r or &9Fission Reactors&r work great&r)"
+				"2) &9Flux Gate&r"
+				"3) &9Reactor Energy Injector&r"
+				""
+				"on the 4th block above the &9Reactor Energy Injector&r place the &9Reactor Energy Core&r."
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_reactor_1.png width:175 height:200 align:center}"
+			]
+			id: "37FECF3B30F8693B"
+			shape: "square"
+			tasks: [{
+				id: "771ED35AA658A9FE"
+				item: "draconicevolution:reactor_injector"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["20DB272F812BD9E1"]
+			description: ["&c&oThis reactor has the power to cause massive destruction if it overheats. It's heavily advised to build this a few hundred blocks away from your main base.&r&r"]
+			id: "70748E931AC07711"
+			shape: "diamond"
+			tasks: [{
+				id: "631C0ED6D5A064D6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Draconic Power"
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"In order to get your first &3Chaos Shard&r you will need to defeat the Chaos Dragon (see The End quests)."
+				""
+				"The Chaos Dragon is extremely difficult. "
+				""
+				"&l&nArmor&r&r"
+				"You should come prepared with Draconic Evolution Chest armor, and/or a fully upgraded Mek Suit."
+				""
+				"&l&nWeapon&r&r"
+				"You will need to have a Draconic Evolution weapon. It's also advised to have it fully equipped with Modules. "
+			]
+			id: "4F2FF5DF80793563"
+			shape: "diamond"
+			tasks: [{
+				id: "747DF60FF79707D1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Draconic Evolution"
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0C481B280BEC851B"]
+			id: "2872933910C4D524"
+			shape: "circle"
+			tasks: [{
+				id: "536E14AC2896FD80"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Put The Ore Here"
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6AC02C5DEB6F3E4F"]
+			description: [
+				"To make sure you have enough room for the &9Tier 8 Energy Core&r:"
+				""
+				"You will want to place the &9Energy Core&r 7 blocks off the ground, with 7 blocks clearance above it. "
+				""
+				"If your stabilizers are in place, and after you place the core you can interact with it. "
+				""
+				"&aAs long as you have the blocks on your person, you can click \"Assemble Core\" and it will automatically create the structure for you.&r"
+			]
+			id: "22D857CB50825475"
+			shape: "square"
+			tasks: [{
+				id: "5370328D0292D3B7"
+				item: "draconicevolution:energy_core"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6AC02C5DEB6F3E4F"]
+			description: [
+				"To make sure you have enough room for the &9Tier 8 Energy Core&r: "
+				""
+				"You will want to place your Stabilizers on the 9th block out from the center of the core on all 4 sides."
+			]
+			id: "5935154E3ACC3B66"
+			shape: "square"
+			tasks: [{
+				id: "17CD438655A72E31"
+				item: "draconicevolution:energy_core_stabilizer"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["03E9A8AC1713B8EC"]
+			id: "5070AAA6B4E95E1B"
+			shape: "square"
+			tasks: [{
+				id: "243028A829DF6E52"
+				item: "mekanism:enrichment_chamber"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3E51009DB1BEC2C7"
+				"28646211F8A6E9CC"
+				"53CDC1CB571F1C6C"
+				"2C3D337FBD338C8D"
+			]
+			id: "03E9A8AC1713B8EC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "78539753ED2869A3"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F9D956A37642BB6"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "4228D038C6F332FF"
+				item: "thermal:phytogro"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0C3E1DF490C610F6"]
+			id: "3E51009DB1BEC2C7"
+			shape: "square"
+			tasks: [{
+				id: "402E8F39AF12B6D2"
+				item: "farmersdelight:organic_compost"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 6.0d
+		}
+		{
+			id: "28646211F8A6E9CC"
+			shape: "square"
+			tasks: [{
+				id: "6AABA75779C3A461"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["33B551E159E28880"]
+			id: "53CDC1CB571F1C6C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A17DAEFC7A5D0BF"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "184488027101E15A"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:dusts/apatite"
+					}
+				}
+				title: "Apatite Dust"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["33B551E159E28880"]
+			id: "2C3D337FBD338C8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "704FFDD8FEFA3D68"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "425C6200F174E7F7"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:dusts/niter"
+					}
+				}
+				title: "Niter Dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5BE612CEC404C431"]
+			id: "0C3E1DF490C610F6"
+			shape: "square"
+			tasks: [
+				{
+					id: "19F2475242542484"
+					item: "minecraft:dirt"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "43835A553C237666"
+					item: "farmersdelight:straw"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4F28D8D1459B097C"
+					item: "minecraft:rotten_flesh"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "06031F3E784F36A4"
+					item: "minecraft:bone_meal"
+					type: "item"
+				}
+			]
+			title: "Organic CompOOst"
+			x: -11.5d
+			y: 7.0d
+		}
+		{
+			description: ["You'll want to look at Mystical Agriculture or Productive Bees for both &3Apatite&r and &3Niter&r."]
+			id: "33B551E159E28880"
+			shape: "diamond"
+			tasks: [{
+				id: "1B684172E8B917AB"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Apatite and Niter"
+			x: -9.0d
+			y: 7.5d
+		}
+		{
+			description: [
+				"The &3Straw&r can be obtained by &9Haunting&r &3Wheat,&r while the &3Rotten Flesh&r would come from your &9Mob Grinder&r, Mystical Agriculture, or Hostile Neural Networks. "
+				""
+				"&3Dirt&r and &3Bone Meal&r should already be covered."
+			]
+			id: "5BE612CEC404C431"
+			shape: "diamond"
+			tasks: [{
+				id: "181CE1F7898EDD12"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Organic Compost"
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["5070AAA6B4E95E1B"]
+			id: "37AE1CD5B128B1EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3682B7F8EFE77453"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "312A5944E30D9465"
+				item: "mekanism:bio_fuel"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["49FBB3232CB4E50B"]
+			id: "3A74D6472D314485"
+			shape: "square"
+			tasks: [{
+				id: "054907F6FCE8C7B8"
+				item: "mekanism:electrolytic_separator"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70748E931AC07711"]
+			description: [
+				"Power Input:"
+				"{image:kubejs:textures/draconicevolution/draconic_reactor_5.png width:175 height:200 align:center}"
+				"Using another &3I/O Crystal&r and a &9Flux Gate&r we are able to input power from our &9Energy Core&r. By clicking on the &9Flux Gate&r you can adjust the flow rate of the power input."
+				""
+				"Power Output:"
+				"{image:kubejs:textures/draconicevolution/draconic_reactor_4.png width:175 height:200 align:center}"
+				"Similarly another &3I/O Crystal&r and &9Flux Gate&r is used to output power as well. This can connect to the back of any of the &9Reactor Stabilizers&r. It's advised to store the power in your &9Energy Core&r."
+			]
+			id: "5C3A27D756D02394"
+			shape: "square"
+			tasks: [{
+				id: "43760E50DBA145FA"
+				item: "draconicevolution:flux_gate"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["70748E931AC07711"]
+			description: [
+				"The only fuel the &9Draconic Reactor&r will accept is &3Awakened Draconium&r."
+				""
+				"I suggest adding it in block form, but you can also add ingots, and nuggets."
+			]
+			id: "4AD5103CA2ABFDD7"
+			shape: "square"
+			subtitle: "Fuel Up"
+			tasks: [{
+				id: "63270979E0347F6D"
+				item: "draconicevolution:awakened_draconium_block"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"22D857CB50825475"
+				"5935154E3ACC3B66"
+			]
+			description: ["For Tier 1 you will only need &31 Energy Core&r, and &34 Stabilizers&r."]
+			icon: "draconicevolution:draconium_block"
+			id: "67703589194E23C7"
+			subtitle: "Stores: 45,500,000 OP"
+			tasks: [{
+				id: "6C1F49731FD7F0E9"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Tier 1"
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["67703589194E23C7"]
+			description: [
+				"You will need to add &31 Draconium Block&r to each side of the core for Tier 2."
+				""
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t2.png width:175 height:200 align:center}"
+			]
+			icon: "draconicevolution:draconium_block"
+			id: "5D1943BF0BD4F19C"
+			subtitle: "Stores: 273,000,000 OP"
+			tasks: [{
+				count: 6L
+				id: "2B2D6E6E574B9D71"
+				item: "draconicevolution:draconium_block"
+				type: "item"
+			}]
+			title: "Tier 2"
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5D1943BF0BD4F19C"]
+			description: [
+				"For Tier 3 you will need to form a 3x3 cube around the core with 20 additional blocks. "
+				""
+				"Current Total:"
+				"&326 Draconium Blocks&r"
+				""
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t3.png width:175 height:200 align:center}"
+			]
+			icon: "draconicevolution:draconium_block"
+			id: "5E4514281CBAFCCD"
+			subtitle: "Stores: 1,640,000,000 OP"
+			tasks: [{
+				count: 20L
+				id: "606893994D42C791"
+				item: "draconicevolution:draconium_block"
+				type: "item"
+			}]
+			title: "Tier 3"
+			x: 6.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5E4514281CBAFCCD"]
+			description: [
+				"Now you will need an additional &328 Draconium Blocks&r, as well as &326 Redstone Blocks&r. "
+				""
+				"You will need to remove the &3Draconium Blocks&r from the core and form a cube of &3Redstone Blocks&r around the core."
+				""
+				"Using the &354 Draconium Blocks&r cover each &3Redstone Block&r."
+				""
+				"Current Total:"
+				"&354 Draconium Blocks&r"
+				"&326 Redstone Blocks&r"
+				""
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t4.png width:175 height:200 align:center}"
+			]
+			icon: "draconicevolution:draconium_block"
+			id: "5EE39E05D33EED34"
+			subtitle: "Stores: 9,880,000,000 OP"
+			tasks: [
+				{
+					count: 28L
+					id: "267C3C65EA3B7410"
+					item: "draconicevolution:draconium_block"
+					type: "item"
+				}
+				{
+					count: 26L
+					id: "507B42463835D486"
+					item: "minecraft:redstone_block"
+					type: "item"
+				}
+			]
+			title: "Tier 4"
+			x: 7.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5EE39E05D33EED34"]
+			description: [
+				"Going forward the &9Energy Cores Stabilizers&r will need to be upgraded. You can make an &9Advanced Stabilizer&r by putting 9 of them together in a 3x1x3 pattern. This will change the appearance to a larger stabilizer. This means that you're going to need an additional &332 Energy Core Stabilizers&r."
+				""
+				"You'll need to remove the &3Draconium Blocks&r surrounding the &3Redstone Blocks&r, and replace them with the additional &354 Redstone Blocks&r."
+				""
+				"Now, using the &390 Draconium Blocks&r you will need to surround the &3Redstone Blocks&r."
+				""
+				"Current Total:"
+				"&336 Energy Core Stabilizers&r"
+				"&390 Draconium Blocks&r"
+				"&380 Redstone Blocks&r"
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t5.png width:175 height:200 align:center}"
+				""
+				"&3Advanced Stabilizer&r:"
+				"{image:kubejs:textures/draconicevolution/draconic_advanced_stabilizer.png width:175 height:200 align:center}"
+			]
+			icon: "draconicevolution:draconium_block"
+			id: "0B1F629B9DFBE2BA"
+			subtitle: "Stores: 59,300,000,000 OP"
+			tasks: [
+				{
+					count: 32L
+					id: "4A4D034BE7BC11BC"
+					item: "draconicevolution:energy_core_stabilizer"
+					type: "item"
+				}
+				{
+					count: 36L
+					id: "5449DAF0D0C12F7A"
+					item: { Count: 36, id: "draconicevolution:draconium_block" }
+					type: "item"
+				}
+				{
+					count: 54L
+					id: "599FBE09E4107FAE"
+					item: { Count: 54, id: "minecraft:redstone_block" }
+					type: "item"
+				}
+			]
+			title: "Tier 5"
+			x: 8.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0B1F629B9DFBE2BA"]
+			description: [
+				"Take off the layer of &3Draconium Block&r, replace it with the &398 Redstone Block&r, then surround the &3Redstone Block&r with the 150 Draconium Block."
+				""
+				"Current Total:"
+				"&336 Energy Core Stabilizer&r"
+				"&3150 Draconium Block&r"
+				"&3178 Redstone Block&r"
+				""
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t6.png width:175 height:200 align:center}"
+			]
+			icon: "draconicevolution:draconium_block"
+			id: "492D6BF8C24C52F2"
+			subtitle: "Stores: 356,000,000,000 OP"
+			tasks: [
+				{
+					count: 60L
+					id: "4E8A106F691F4116"
+					item: "draconicevolution:draconium_block"
+					type: "item"
+				}
+				{
+					count: 98L
+					id: "3A9C8C7825D5B23C"
+					item: "minecraft:redstone_block"
+					type: "item"
+				}
+			]
+			title: "Tier 6"
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["492D6BF8C24C52F2"]
+			description: [
+				"Strip the &3Draconium Blocks&r off, replace with the &3150 Redstone Blocks&r, then just surround the &3Redstone Blocks&r with the &3210 Draconium Blocks&r."
+				""
+				"Current Total:"
+				"&336 Energy Core Stabilizer&r"
+				"&3210 Draconium Block&r"
+				"&3328 Redstone Block&r"
+				""
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t7.png width:190 height:200 align:center}"
+			]
+			icon: "draconicevolution:draconium_block"
+			id: "6089575B5D8D523D"
+			subtitle: "Stores: 2,140,000,000,000 OP"
+			tasks: [
+				{
+					count: 60L
+					id: "6E2A7674DED35B6B"
+					item: { Count: 60, id: "draconicevolution:draconium_block" }
+					type: "item"
+				}
+				{
+					count: 150L
+					id: "394A82D7B6472929"
+					item: "minecraft:redstone_block"
+					type: "item"
+				}
+			]
+			title: "Tier 7"
+			x: 10.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6089575B5D8D523D"]
+			description: [
+				"Now you're going to have to remove all of the &3Draconium&r and &3Redstone Blocks&r to expose the &3Energy Core&r. You will be using the same pattern as the previous Tiers; except now you will be doing that with the &3786 Draconium Blocks.&r Once all the &3Draconium Blocks&r are placed, surround them with the &38 Awakened Draconium Blocks&r. "
+				""
+				"That's it! You now have an infinite (pretty much) mana battery!"
+				""
+				"Current Total: "
+				"&3786 Draconium Block&r"
+				"&3378 Awakened Draconium Block&r"
+				""
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_energy_t8.png width:175 height:200 align:center}"
+			]
+			icon: "draconicevolution:awakened_draconium_block"
+			id: "0FC633357A7AC228"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2F62F757F1BE709D"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72A17131655BF83E"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			subtitle: "Stores: A redonkulous amount"
+			tasks: [
+				{
+					count: 576L
+					id: "71FB4B0131B75A42"
+					item: "draconicevolution:draconium_block"
+					type: "item"
+				}
+				{
+					count: 378L
+					id: "51349547E7690A7D"
+					item: "draconicevolution:awakened_draconium_block"
+					type: "item"
+				}
+			]
+			title: "Tier 8"
+			x: 11.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"22D857CB50825475"
+				"5935154E3ACC3B66"
+			]
+			description: [
+				"Place &3Glass&r on top of an &9Energy Pylon&r which will allow you to input / output from your core."
+				""
+				"Input (&oPutting power into the &9Energy Core&r&r):"
+				"{image:kubejs:textures/draconicevolution/draconic_energy_input.png width:200 height:200 align:center}"
+				"If you're using Draconic Evolution Crystals to move power, make sure to set your I/O Mode to \"Output from Block.\""
+				""
+				"Output (&oTaking power out of the &9Energy Core&r&r):"
+				"{image:kubejs:textures/draconicevolution/draconic_energy_output.png width:200 height:200 align:center}"
+				"If you're using &3Draconic Evolution Crystals&r to move power, make sure to set your I/O Mode to \"Input from Block.\""
+			]
+			id: "3E722615DED5C967"
+			tasks: [
+				{
+					id: "30CFD3B196FF86F2"
+					item: "draconicevolution:energy_pylon"
+					type: "item"
+				}
+				{
+					id: "768AAC0E1EC64FD0"
+					item: "minecraft:glass"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3AD87E8909BCBC81"]
+			description: [
+				"Now you have Polonium, and a massive quantity of power. You're ready to start making Anti-Matter! "
+				""
+				"Just pump energy and Polonium into the Super Critical Phase Shifter to produce Anti-Matter Pellets."
+			]
+			id: "27B63658469BEC98"
+			shape: "diamond"
+			tasks: [{
+				id: "65C04196337B1E3D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Antimatter"
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["27B63658469BEC98"]
+			id: "13B259277B0DFD6D"
+			tasks: [{
+				id: "42814E5B5865A2FC"
+				item: "mekanismgenerators:reactor_glass"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["27B63658469BEC98"]
+			id: "4646B32C8184F6DC"
+			tasks: [{
+				id: "7769EDE2061575A6"
+				item: "mekanism:sps_casing"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["27B63658469BEC98"]
+			id: "3A5F38EB071C55C6"
+			tasks: [{
+				id: "5ABDB067BFB6C85C"
+				item: "mekanism:supercharged_coil"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["27B63658469BEC98"]
+			id: "50ADCB631509EAF6"
+			tasks: [{
+				id: "06057BDA04F1870B"
+				item: "mekanism:sps_port"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["16FB1CE7AF3E0490"]
+			id: "5D8542C39BDECE33"
+			shape: "gear"
+			tasks: [{
+				id: "40FAB3F5EA8B5AD3"
+				item: "mekanism:pellet_antimatter"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["27B63658469BEC98"]
+			id: "16FB1CE7AF3E0490"
+			tasks: [{
+				id: "3287449D01ECC340"
+				item: "mekanism:chemical_crystallizer"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 4.0d
+		}
+	]
+	title: "Tech"
+}

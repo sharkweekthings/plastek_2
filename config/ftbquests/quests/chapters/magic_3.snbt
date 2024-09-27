@@ -1,0 +1,83 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_3"
+	group: "17D4659CA536FD99"
+	icon: "hyperbox:hyperbox"
+	id: "6950C1A2AC950402"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0AD061E0DCEC0C37"]
+			id: "27C03B8564B94DBD"
+			tasks: [{
+				id: "65834CF852FA25E6"
+				item: "mysticalagriculture:awakening_pedestal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0AD061E0DCEC0C37"]
+			id: "2EBAE6C5FC48D0F4"
+			tasks: [{
+				id: "2C2408D527E70AAB"
+				item: "mysticalagriculture:awakening_altar"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24970532B3564278"]
+			id: "20DA5BAB1D325AFE"
+			tasks: [{
+				id: "4FE0C84C266C1F92"
+				item: "hyperbox:hyperbox"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			description: ["Used for Awakened Supremium"]
+			id: "142F748A6A78F106"
+			shape: "diamond"
+			tasks: [{
+				id: "0F6F35991BCCA756"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Mystical Agriculture - Awakened"
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			description: ["It's a lot smaller on the outside than it is on the inside."]
+			id: "24970532B3564278"
+			shape: "diamond"
+			tasks: [{
+				id: "6087E436C140B744"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Hyperbox"
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["142F748A6A78F106"]
+			id: "0AD061E0DCEC0C37"
+			tasks: [{
+				id: "6350C428F996C203"
+				item: "mysticalagriculture:cognizant_dust"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+	]
+	title: "Magic"
+}

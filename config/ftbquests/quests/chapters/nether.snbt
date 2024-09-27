@@ -1,0 +1,272 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "7CE349CFA49357E1"
+	icon: "minecraft:netherrack"
+	id: "404E439CF37F2D04"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"In order to make a &9Nether Portal&r you will need &3Infused Nether Stone&r. "
+				""
+				"Just toss some &3Livingrock&r into a &9Spirit Fire&r to get &3Otherstone&r, then take the &3Otherstone&r, and throw it into the &9Spirit Fire&r to get &3Nether Stone&r."
+				""
+				"Craft a block together with &34 Jelly Babies&r to make &3Infused Nether Stone.&r "
+				""
+				"The portal shape should be the size of any normal &9Nether Portal&r."
+			]
+			id: "0321498986476F76"
+			shape: "diamond"
+			tasks: [{
+				id: "26AA71BCA0F9FAB1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Nether"
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["47984FF791D026AD"]
+			id: "0D35A5FC37D6C459"
+			shape: "square"
+			subtitle: "Enter The Nether."
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "17CDC31CC4864D66"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "60A0FAE7414BD7EC"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "34CCFFCB232E1E1B"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "28C912E5EBFC72D8"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "3C1DFCB07C3FE641"
+				item: "minecraft:magma_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "38A805B0E3647B36"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "4F9F8B25C4BF84AB"
+				item: "minecraft:soul_sand"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"19192FC4F74E6D8D"
+				"38A805B0E3647B36"
+				"3AD7D1B002F01561"
+				"60A0FAE7414BD7EC"
+				"28C912E5EBFC72D8"
+			]
+			id: "2932DE02633EEB66"
+			shape: "square"
+			tasks: [{
+				id: "3F7BCC0E5D57B998"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Blocks of the Nether"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			icon: "minecraft:spawner"
+			id: "363F553DE3572AB0"
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: "minecraft:spawner"
+				id: "04125699214DF902"
+				type: "kill"
+				value: 5L
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "1F88C1114B20C5FE"
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:ghast"
+				icon: "minecraft:spawner"
+				id: "6580CBE3EB0AB122"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "12AAD238F8D4219B"
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: "minecraft:spawner"
+				id: "697334282601B3D6"
+				type: "kill"
+				value: 5L
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "3AD7D1B002F01561"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "02DF8B35FC29D502"
+				item: "mysticalagriculture:soulstone"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "583FF4FF1FE79444"
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:strider"
+				icon: "minecraft:spawner"
+				id: "69305C7B56BC43F6"
+				type: "kill"
+				value: 5L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "19192FC4F74E6D8D"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "186966277BFC2CD3"
+				item: "minecraft:crimson_nylium"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "3C66AAFAFA7765BF"
+			shape: "square"
+			tasks: [{
+				entity: "quark:foxhound"
+				id: "366E49F4D73C9E0D"
+				type: "kill"
+				value: 5L
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "4E26C96108C58FD6"
+			shape: "square"
+			tasks: [{
+				entity: "born_in_chaos_v1:firelight"
+				id: "3706D9273E424CC0"
+				type: "kill"
+				value: 5L
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"2932DE02633EEB66"
+				"1F95E0516F86BF51"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:nether_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7B6B2FA6C46C7C6B"
+			rewards: [{
+				id: "500B7EC5E3558AA0"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "08BCFEC4A9F6AD6B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Nether Eye"
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"363F553DE3572AB0"
+				"4E26C96108C58FD6"
+				"12AAD238F8D4219B"
+				"583FF4FF1FE79444"
+				"3C66AAFAFA7765BF"
+				"1F88C1114B20C5FE"
+				"0321498986476F76"
+			]
+			id: "1F95E0516F86BF51"
+			shape: "square"
+			tasks: [{
+				id: "32A89538BFDFCBD5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Mobs of the Nether"
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0321498986476F76"]
+			id: "47984FF791D026AD"
+			shape: "square"
+			tasks: [{
+				id: "7552CEFCF458CDBB"
+				item: "kubejs:infused_nether_stone"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+	]
+	title: "Nether"
+}

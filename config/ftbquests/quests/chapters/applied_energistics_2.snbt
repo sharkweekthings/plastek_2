@@ -1,0 +1,1003 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "applied_energistics_2"
+	group: "79C502F79CD205E5"
+	icon: "ae2:controller"
+	id: "49003CDC4D5E6B69"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"For this section we're only going to some storage basics of AE2."
+				""
+				"If you want to learn more advanced AE2 you can read their &bofficial source&r at &ahttps://appliedenergistics.org&r, "
+				""
+				"or "
+				""
+				"Check out &bChosen Architect's Guide to Applied Energistics 2&r: &ahttps://www.youtube.com/watch?v=ay0Js2TkI1E&r"
+			]
+			id: "2C8346B524BDED63"
+			shape: "diamond"
+			tasks: [{
+				id: "1574C70AE2E3DE80"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Applied Energistics 2"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["548134C655C0099F"]
+			id: "2AFF651107625D6F"
+			tasks: [{
+				id: "31F47B21AAD58F0A"
+				item: "ae2:charger"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["548134C655C0099F"]
+			id: "4C73AA4122EE923B"
+			tasks: [{
+				id: "7186687EC5BEFFB8"
+				item: "ae2:inscriber"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C8346B524BDED63"]
+			description: [
+				"The &9Inscriber Presses&r can be found in &9Sky Stone Meteors&r in the Overworld. "
+				""
+				"These will be put inside your &9Inscribers&r to allow you to create &3Printed Silicon&r and various circuits."
+			]
+			id: "101BF6AB164779BA"
+			shape: "diamond"
+			tasks: [{
+				id: "2A829A5FE889BC5E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Inscribers"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["101BF6AB164779BA"]
+			id: "42EA6FC61F5F3A15"
+			tasks: [{
+				id: "4B1DC1E7721BAA9A"
+				item: "ae2:calculation_processor_press"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["101BF6AB164779BA"]
+			id: "636B1D9E31363968"
+			tasks: [{
+				id: "25FEC785FC57C4B5"
+				item: "ae2:engineering_processor_press"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["101BF6AB164779BA"]
+			id: "7986BAA9680F3A10"
+			tasks: [{
+				id: "0144EF117C9BEB15"
+				item: "ae2:logic_processor_press"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["101BF6AB164779BA"]
+			id: "3FCFD5FC50AE9F5D"
+			tasks: [{
+				id: "60E1D096AC915802"
+				item: "ae2:silicon_press"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2C8346B524BDED63"]
+			description: [
+				"The first machines you will build for Applied Energistics 2 begins here. "
+				""
+				"To get some &3Fluix&r you'll need to throw &3Redstone&r, &3Nether Quartz&r, and &3Charged Certus Quartz&r in some water. "
+			]
+			id: "548134C655C0099F"
+			shape: "diamond"
+			tasks: [{
+				id: "659CA97B2E35D306"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Starter Machines"
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["548134C655C0099F"]
+			id: "66C01F1D69682A72"
+			tasks: [{
+				id: "71940BFCA63E1CAB"
+				item: "ae2:fluix_crystal"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["548134C655C0099F"]
+			id: "6E691472309458FE"
+			tasks: [{
+				id: "7696595A5EB8E0CA"
+				item: "ae2:charged_certus_quartz_crystal"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2AFF651107625D6F"]
+			id: "1680A01BDF81DFF4"
+			tasks: [
+				{
+					id: "16BC5149CC845E9A"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ae2:glass_cable"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7622B00267F9DEB6"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ae2:covered_cable"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19F2842FF337FDE1"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ae2:covered_dense_cable"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "137B78C5BC0558F4"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ae2:smart_cable"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "442AFEBCCE10AAE2"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "ae2:smart_dense_cable"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Cables"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2C8346B524BDED63"]
+			description: ["Your main hub will consist of the &9Controller&r, and at least a basic &3ME Terminal&r. "]
+			id: "2B2F8641381D7441"
+			shape: "diamond"
+			tasks: [{
+				id: "7339880B784E914E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Main Hub"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2B2F8641381D7441"
+				"1680A01BDF81DFF4"
+			]
+			id: "23E97C25D6EA44AC"
+			tasks: [{
+				id: "61B41900AEFCA7D6"
+				item: "ae2:controller"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2B2F8641381D7441"]
+			id: "4465A8B965C1443F"
+			tasks: [{
+				id: "67A40C588996B14C"
+				item: "ae2:terminal"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2B2F8641381D7441"]
+			id: "787DBD8150E20D11"
+			tasks: [{
+				id: "6AA97D7E3B0CAEB4"
+				item: "ae2:drive"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4465A8B965C1443F"]
+			id: "7294019AAC840A83"
+			tasks: [
+				{
+					id: "231C0CAF3EA4B60D"
+					item: "ae2:crafting_terminal"
+					type: "item"
+				}
+				{
+					id: "41EE4E17DF877833"
+					item: "merequester:requester_terminal"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["787DBD8150E20D11"]
+			id: "3BB33A67415D3006"
+			tasks: [{
+				id: "63E233E05C46701D"
+				item: "ae2:cell_component_1k"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3BB33A67415D3006"]
+			id: "6C28C15808BDDD23"
+			tasks: [{
+				id: "01CC5AC6EFF86FEB"
+				item: "ae2:cell_component_4k"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6C28C15808BDDD23"]
+			id: "2C9A29B43F76A7BB"
+			tasks: [{
+				id: "1A21F2D7D356C60D"
+				item: "ae2:cell_component_16k"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["43B08155AED45B02"]
+			id: "6DE3B1252E5267DB"
+			tasks: [{
+				id: "6E67C40D5A99CA07"
+				item: "ae2:cell_component_256k"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6DE3B1252E5267DB"]
+			hide_dependency_lines: true
+			id: "2F63560C16CE35A5"
+			tasks: [{
+				id: "458BD126AF211053"
+				item: "megacells:cell_component_1m"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C9A29B43F76A7BB"]
+			id: "43B08155AED45B02"
+			tasks: [{
+				id: "3D62895794CB5BC8"
+				item: "ae2:cell_component_64k"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2F63560C16CE35A5"]
+			id: "7FB746AC27E60CB0"
+			tasks: [{
+				id: "6FF3F7B434FAD25E"
+				item: "megacells:cell_component_4m"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7FB746AC27E60CB0"]
+			id: "42FD41E7E74D1C8A"
+			tasks: [{
+				id: "194CACF9AB7E8308"
+				item: "megacells:cell_component_16m"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["42FD41E7E74D1C8A"]
+			id: "41473CEDEB452B42"
+			tasks: [{
+				id: "5467CDE3F3177C97"
+				item: "megacells:cell_component_64m"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["41473CEDEB452B42"]
+			id: "12EC831EDBD921F9"
+			tasks: [{
+				id: "0F72807702D827AF"
+				item: "megacells:cell_component_256m"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2F63560C16CE35A5"]
+			hide_dependency_lines: true
+			id: "160B178171F9D521"
+			tasks: [{
+				id: "51FE3B2627406D3D"
+				item: "megacells:bulk_cell_component"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6DE3B1252E5267DB"]
+			hide_dependency_lines: true
+			id: "4E81AB960B47437A"
+			tasks: [{
+				id: "59F9057EEBC4D9C4"
+				item: "megacells:radioactive_cell_component"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			description: [""]
+			id: "06AC697FE7E1EF25"
+			tasks: [
+				{
+					id: "62115B999AD33D75"
+					item: "ae2:item_cell_housing"
+					type: "item"
+				}
+				{
+					id: "14D10F1F86AF49ED"
+					item: "ae2:fluid_cell_housing"
+					type: "item"
+				}
+				{
+					id: "27AABA5EE0FD7A10"
+					item: "appmek:chemical_cell_housing"
+					type: "item"
+				}
+			]
+			title: "AE2 Cell Housings"
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			id: "64161C5ADF596884"
+			tasks: [
+				{
+					id: "511D9F6C1F8B7C1E"
+					item: "megacells:mega_item_cell_housing"
+					type: "item"
+				}
+				{
+					id: "36CD459D643A56BA"
+					item: "megacells:mega_fluid_cell_housing"
+					type: "item"
+				}
+				{
+					id: "504ACB82B0E53DF8"
+					item: "megacells:mega_chemical_cell_housing"
+					type: "item"
+				}
+			]
+			title: "MEGA Cell Housings"
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C8346B524BDED63"]
+			description: [
+				"A basic Auto Crafting setup would involve a few &3Crafting Storage&r, a &3Co-Processing Unit&r, &3Molecular Assemblers&r, and some &3ME Pattern Providers&r."
+				""
+				"The video in the previous quest is a great guide on helping you build one if you aren't sure how."
+			]
+			id: "7587FF4328E1616E"
+			shape: "diamond"
+			tasks: [{
+				id: "0C4B4AD202FC3F76"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Auto Crafting"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7587FF4328E1616E"]
+			id: "795BF6723C292E24"
+			tasks: [{
+				id: "720D31A3AB58F58C"
+				item: "ae2:1k_crafting_storage"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7587FF4328E1616E"]
+			id: "42F208797098C8AC"
+			tasks: [{
+				id: "29C65607B5D164B0"
+				item: "ae2:blank_pattern"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7587FF4328E1616E"]
+			id: "055AE4EA56894320"
+			tasks: [
+				{
+					id: "2995F7FBD4220973"
+					item: "ae2:crafting_accelerator"
+					type: "item"
+				}
+				{
+					id: "21954F497D915431"
+					item: "megacells:mega_crafting_accelerator"
+					type: "item"
+				}
+			]
+			title: "Co Processing Units"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7587FF4328E1616E"]
+			id: "452FB61CC01801F0"
+			tasks: [
+				{
+					id: "22C310F462DB0D68"
+					item: "ae2:crafting_monitor"
+					type: "item"
+				}
+				{
+					id: "0156DFFC67463DD0"
+					item: "megacells:mega_crafting_monitor"
+					type: "item"
+				}
+			]
+			title: "Crafting Monitors"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7587FF4328E1616E"]
+			id: "087FE753B9C8BBEB"
+			tasks: [{
+				id: "758EE2DE4E0BA180"
+				item: "ae2:molecular_assembler"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4465A8B965C1443F"
+				"7587FF4328E1616E"
+			]
+			id: "3164DB55ECAA5766"
+			tasks: [
+				{
+					id: "4C4E555C7406A944"
+					item: "ae2:pattern_encoding_terminal"
+					type: "item"
+				}
+				{
+					id: "274893E370179425"
+					item: "ae2:pattern_access_terminal"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7294019AAC840A83"]
+			id: "3E1E98A688951D74"
+			tasks: [{
+				id: "34FA2C65301E7BA4"
+				item: "ae2:wireless_crafting_terminal"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["091B89D60410154D"]
+			id: "667B667367878D69"
+			tasks: [{
+				id: "217FFAC9490194D0"
+				item: "aeinfinitybooster:infinity_card"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5C348A69A6BA0B77"]
+			id: "60CF56DB590C90C2"
+			tasks: [{
+				id: "6AEF0938671A5BC8"
+				item: "ae2:basic_card"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["60CF56DB590C90C2"]
+			id: "43968B90F7EE4037"
+			tasks: [{
+				id: "760571D88CFD5ADF"
+				item: "ae2:redstone_card"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["60CF56DB590C90C2"]
+			id: "32E0250CA57238AC"
+			tasks: [{
+				id: "41C058113BCC79A3"
+				item: "ae2:capacity_card"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["60CF56DB590C90C2"]
+			id: "1D8402F4A129B2AE"
+			tasks: [{
+				id: "6794738EA71973FB"
+				item: "ae2:void_card"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["60CF56DB590C90C2"]
+			id: "6E859E76DDD181DA"
+			tasks: [{
+				id: "5A5CC98B2D459864"
+				item: "ae2:crafting_card"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7959860BAD4D97CE"]
+			id: "74A06ACE9AAF0769"
+			tasks: [{
+				id: "5CDC68D8571A6FCB"
+				item: "ae2:advanced_card"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["74A06ACE9AAF0769"]
+			id: "64EB55823595ADFE"
+			tasks: [{
+				id: "38C3800C108B4E11"
+				item: "ae2:fuzzy_card"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["74A06ACE9AAF0769"]
+			id: "3F769D9D22FFBB6B"
+			tasks: [{
+				id: "696052D0EE87D922"
+				item: "ae2:speed_card"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["74A06ACE9AAF0769"]
+			id: "2DAB512B01F9B92D"
+			tasks: [{
+				id: "755A9F2C4C14D31C"
+				item: "ae2:inverter_card"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["74A06ACE9AAF0769"]
+			id: "2918E66C39B6DFDC"
+			tasks: [{
+				id: "516043741F35516E"
+				item: "ae2:equal_distribution_card"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["74A06ACE9AAF0769"]
+			id: "286EF07D87C5DF98"
+			tasks: [{
+				id: "5CB9CE64882E95B4"
+				item: "ae2:energy_card"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3DF7FB9B6773720E"]
+			id: "091B89D60410154D"
+			tasks: [{
+				id: "1D65B92052EF596E"
+				item: "ae2:wireless_booster"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3DF7FB9B6773720E"]
+			id: "15068CDF3DDBA1EB"
+			tasks: [{
+				id: "52E1428A6D0C5F09"
+				item: "ae2:wireless_access_point"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3DF7FB9B6773720E"]
+			id: "6F9584F86F688E75"
+			tasks: [{
+				id: "3F85339AC961B651"
+				item: "ae2:wireless_receiver"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			description: ["The ME Storage Cells from AE2 Things are able to store items without an item limit."]
+			id: "3CA5DE63287220CF"
+			tasks: [{
+				id: "1F5E6E144A9F8ACA"
+				item: "ae2things:disk_housing"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3BB33A67415D3006"]
+			id: "52646CAA3542B21D"
+			tasks: [{
+				id: "22D1087220D3EFDB"
+				item: {
+					Count: 1
+					id: "ae2things:disk_drive_1k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C28C15808BDDD23"]
+			id: "7C113FBFC745B3FE"
+			tasks: [{
+				id: "017C0D4DA56E6D96"
+				item: {
+					Count: 1
+					id: "ae2things:disk_drive_4k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C9A29B43F76A7BB"]
+			id: "1C82815B553673B6"
+			tasks: [{
+				id: "3AA12CA78611F134"
+				item: {
+					Count: 1
+					id: "ae2things:disk_drive_16k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["43B08155AED45B02"]
+			id: "172EEAC00BA3F878"
+			tasks: [{
+				id: "67EF64D3954C2614"
+				item: {
+					Count: 1
+					id: "ae2things:disk_drive_64k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6DE3B1252E5267DB"]
+			id: "15F7BA7734A6112D"
+			tasks: [{
+				id: "6B4F8A9443571386"
+				item: {
+					Count: 1
+					id: "ae2things:disk_drive_256k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			description: [
+				"Lets you access your Network from far away, and eventually across dimensions! "
+				""
+				"Each &3Wireless Card&r added increses the power usage. "
+			]
+			id: "3DF7FB9B6773720E"
+			shape: "diamond"
+			tasks: [{
+				id: "678AC5E272AB5778"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Wireless Potential"
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			description: ["Basic Upgrade Cards for the Applied Energistics 2 network."]
+			id: "5C348A69A6BA0B77"
+			shape: "diamond"
+			tasks: [{
+				id: "397ACCA2B48AB0D6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Basic Upgrades"
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			description: ["Advanced Upgrade Cards for the Applied Energistics 2 network."]
+			id: "7959860BAD4D97CE"
+			shape: "diamond"
+			tasks: [{
+				id: "6A9E5709EFCBDE00"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Advanced Upgrades"
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			id: "7DDD184D3B75C45D"
+			tasks: [{
+				id: "3283B55746827C81"
+				item: "ae2:pattern_provider"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7986BAA9680F3A10"]
+			id: "09B9D15F64CE4096"
+			tasks: [{
+				id: "6E22960297266FDF"
+				item: "ae2:printed_logic_processor"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["636B1D9E31363968"]
+			id: "29ACBE86A30BD1EA"
+			tasks: [{
+				id: "1D25ACA2FB7C3566"
+				item: "ae2:printed_engineering_processor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["42EA6FC61F5F3A15"]
+			id: "1F0B324B7604840D"
+			tasks: [{
+				id: "7BECDED4AF9AD9B6"
+				item: "ae2:printed_calculation_processor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["09B9D15F64CE4096"]
+			id: "7B8F782221B049C3"
+			tasks: [{
+				id: "30F37AEF29D5562D"
+				item: "ae2:logic_processor"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1F0B324B7604840D"]
+			id: "3129BE7D86089B83"
+			tasks: [{
+				id: "2BF6904D6A83D90C"
+				item: "ae2:calculation_processor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["29ACBE86A30BD1EA"]
+			id: "695A0E781A1005C7"
+			tasks: [{
+				id: "39E75D9A8777760D"
+				item: "ae2:engineering_processor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3FCFD5FC50AE9F5D"]
+			id: "2C3BE62A5DF952CA"
+			tasks: [{
+				id: "5502DD216AA624B0"
+				item: "ae2:silicon"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2C3BE62A5DF952CA"]
+			id: "061AE24C870D1D5B"
+			tasks: [{
+				id: "26DAAC8B5F503937"
+				item: "ae2:printed_silicon"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1680A01BDF81DFF4"]
+			id: "6A8A21DE1C2AC30C"
+			tasks: [
+				{
+					id: "5E420418DCEEF451"
+					item: "ae2:import_bus"
+					type: "item"
+				}
+				{
+					id: "66C652698075A0F5"
+					item: "ae2:export_bus"
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	title: "Applied Energistics 2"
+}

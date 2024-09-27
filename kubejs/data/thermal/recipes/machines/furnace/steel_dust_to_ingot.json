@@ -1,0 +1,12 @@
+{
+  "type": "thermal:furnace",
+  "ingredient": {
+    "tag": "forge:dusts/steel",
+    "count": 1
+  },
+  "result": {
+    "item": "samurai_dynasty:steel_ingot"
+  },
+  "experience": 0.3,
+  "energy_mod": 2.0
+}

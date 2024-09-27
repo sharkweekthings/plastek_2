@@ -1,0 +1,640 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "main_progression"
+	group: "32144DBD66776AC0"
+	icon: "statues:player_statue_spawn_egg"
+	id: "1DDECC0A3D638715"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["30F9D708441CB9FC"]
+			description: [
+				"To start Age 1 you will need to click through all of the Read Me quests."
+				""
+				"&a&oHere is a clickable link for where you should start next&r: &r"
+				""
+				"{ \"text\": \"Sticks, Stones and Bones\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"47B600AF3A91F036\" } } "
+			]
+			icon: "create:precision_mechanism"
+			id: "3A56D7945D8B8C54"
+			rewards: [
+				{
+					id: "0AD86D3C71A8A971"
+					item: {
+						Count: 1
+						id: "eccentrictome:tome"
+						tag: {
+							"eccentrictome:mods": {
+								ae2: {
+									0: {
+										Count: 1b
+										id: "ae2:guide"
+									}
+								}
+								aether: {
+									0: {
+										Count: 1b
+										id: "aether:book_of_lore"
+									}
+								}
+								apotheosis: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "apotheosis:apoth_chronicle"
+										}
+									}
+								}
+								botania: {
+									0: {
+										Count: 1b
+										id: "botania:lexicon"
+										tag: {
+											"botania:elven_unlock": 1b
+										}
+									}
+								}
+								buildinggadgets2: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+										}
+									}
+								}
+								dimdungeons: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "dimdungeons:guide_book"
+										}
+									}
+								}
+								industrialforegoing: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "industrialforegoing:industrial_foregoing"
+										}
+									}
+								}
+								irons_spellbooks: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "irons_spellbooks:iss_guide_book"
+										}
+									}
+								}
+								mysticalagriculture: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "mysticalagriculture:guide"
+										}
+									}
+								}
+								pneumaticcraft: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "pneumaticcraft:book"
+										}
+									}
+								}
+								productivebees: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "productivebees:guide"
+										}
+									}
+								}
+								rftoolsbase: {
+									0: {
+										Count: 1b
+										id: "rftoolsbase:manual"
+									}
+								}
+								sebastrnlib: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+										}
+									}
+								}
+								solcarrot: {
+									0: {
+										Count: 1b
+										id: "solcarrot:food_book"
+									}
+								}
+								storagenetwork: {
+									0: {
+										Count: 1b
+										id: "patchouli:guide_book"
+										tag: {
+											"patchouli:book": "storagenetwork:network_book"
+										}
+									}
+								}
+								theoneprobe: {
+									0: {
+										Count: 1b
+										id: "theoneprobe:probenote"
+									}
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					icon: "supplementaries:sign_post_oak"
+					id: "370EFDCA51E22621"
+					title: "Start Age 1"
+					type: "custom"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "3BF7DE17EF648F93"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Age 1"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3A56D7945D8B8C54"
+				"55F9A14778CDE8EB"
+			]
+			description: ["To start Age 2 you will need to craft a Precision Mechanism."]
+			icon: "industrialforegoing:machine_frame_supreme"
+			id: "21AEBF159A033102"
+			rewards: [{
+				icon: "supplementaries:sign_post_oak"
+				id: "3BDF4315261148F8"
+				title: "Start Age 2"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "55E2D4CAEFDAF62E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Age 2"
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"21AEBF159A033102"
+				"63548B7EDFFB2F9C"
+				"02002232A2E37340"
+				"1D9F4F8797E85F23"
+				"357E3AD70337910B"
+			]
+			description: ["To start Age 3 you will need to craft 1 of each type of Machine Frame."]
+			icon: "pneumaticcraft:printed_circuit_board"
+			id: "399379D6E1029527"
+			rewards: [{
+				icon: "supplementaries:sign_post_oak"
+				id: "66EB2D3DCD1C6A4F"
+				title: "Start Age 3"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0D42FADC8E847B8E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Age 3"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"399379D6E1029527"
+				"3358AA85460F3437"
+			]
+			description: ["To start Age 4 you will need to craft a Finished PCB."]
+			icon: "draconicevolution:reactor_core"
+			id: "1336CBEE426C4F5A"
+			rewards: [{
+				icon: "supplementaries:sign_post_oak"
+				id: "0C65D4EE9C314A07"
+				title: "Start Age 4"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1831369C8316C90F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Age 4"
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"1336CBEE426C4F5A"
+				"5D8542C39BDECE33"
+			]
+			description: ["To start Age 5 you will need to craft an Antimatter Pellet."]
+			icon: "ae2:creative_item_cell"
+			id: "605AD830BC9CB508"
+			rewards: [{
+				icon: "supplementaries:sign_post_oak"
+				id: "7734F29B02A3CAC7"
+				title: "Start Age 5"
+				type: "custom"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "68F4AA9784D436C4"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Age 5"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			description: ["The story ties Plastek and Plastek 2 together."]
+			icon: "handcrafted:stackable_book"
+			id: "748D248A8A809914"
+			tasks: [{
+				id: "33803F27F94D82A9"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Story So Far"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["748D248A8A809914"]
+			description: [
+				"It's been about 50,000 years since the discovery of &bPlastim&r. A material thought to be a super plastic, &cturned out to be disasterous&r for the entire world, for centuries to follow. "
+				""
+				"When the unstable elements &bSharkinite&r and &bWeekonium&r were discovered, combining various plastics together created &bPlastim&r. It was strong, durable, seemingly eco-friendly, but it wasn't. It was a ticking time bomb, and when the world finally met it's timer, disaster struck everywhere. &bPlastim&r was part of everything from your basic utensils, to advanced cybertronik artificial limb replacements, and to the core of most peoples homes. "
+				""
+				"&bPlastim&r released a toxin worse than a &6Mekanism&r &9Fission Reactor&r&c going nuclear in your base&r.  This toxin destroyed the crops, people, wildlife, weirdly, the &4Piglin&r seemed resistant to it, though. "
+				""
+				"Remnants of &bPlastim&r can be found throughout the ocean today. It's no longer toxic to us, and for some reason the &9Market People&r trade really good items for &bPlastim Scrap&r. "
+				""
+				"To obtain the scrap from &bPlastic Bottles&r and &bPlastic Bags&r, you'll need to find a way to crush them up so you can get that sweet, non toxic, &bPlastim Scrap&r and buy stuff from a &9Market&r person. "
+			]
+			id: "1262B64803792801"
+			subtitle: "The World"
+			tasks: [{
+				id: "266E45AE7B5D8C5D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Part 1"
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3A56D7945D8B8C54"]
+			icon: {
+				Count: 1
+				id: "eccentrictome:tome"
+				tag: {
+					"eccentrictome:mods": {
+						ae2: {
+							0: {
+								Count: 1b
+								id: "ae2:guide"
+							}
+						}
+						aether: {
+							0: {
+								Count: 1b
+								id: "aether:book_of_lore"
+							}
+						}
+						apotheosis: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "apotheosis:apoth_chronicle"
+								}
+							}
+						}
+						botania: {
+							0: {
+								Count: 1b
+								id: "botania:lexicon"
+								tag: {
+									"botania:elven_unlock": 1b
+								}
+							}
+						}
+						buildinggadgets2: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+								}
+							}
+						}
+						dimdungeons: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "dimdungeons:guide_book"
+								}
+							}
+						}
+						industrialforegoing: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "industrialforegoing:industrial_foregoing"
+								}
+							}
+						}
+						mysticalagriculture: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "mysticalagriculture:guide"
+								}
+							}
+						}
+						pneumaticcraft: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "pneumaticcraft:book"
+								}
+							}
+						}
+						productivebees: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "productivebees:guide"
+								}
+							}
+						}
+						rftoolsbase: {
+							0: {
+								Count: 1b
+								id: "rftoolsbase:manual"
+							}
+						}
+						sebastrnlib: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+								}
+							}
+						}
+						solcarrot: {
+							0: {
+								Count: 1b
+								id: "solcarrot:food_book"
+							}
+						}
+						storagenetwork: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "storagenetwork:network_book"
+								}
+							}
+						}
+					}
+				}
+			}
+			id: "1096E237173C58B8"
+			rewards: [{
+				id: "26531E901728F94B"
+				item: {
+					Count: 1
+					id: "eccentrictome:tome"
+					tag: {
+						"eccentrictome:mods": {
+							ae2: {
+								0: {
+									Count: 1b
+									id: "ae2:guide"
+								}
+							}
+							aether: {
+								0: {
+									Count: 1b
+									id: "aether:book_of_lore"
+								}
+							}
+							apotheosis: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "apotheosis:apoth_chronicle"
+									}
+								}
+							}
+							botania: {
+								0: {
+									Count: 1b
+									id: "botania:lexicon"
+									tag: {
+										"botania:elven_unlock": 1b
+									}
+								}
+							}
+							buildinggadgets2: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+									}
+								}
+							}
+							dimdungeons: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "dimdungeons:guide_book"
+									}
+								}
+							}
+							industrialforegoing: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "industrialforegoing:industrial_foregoing"
+									}
+								}
+							}
+							irons_spellbooks: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "irons_spellbooks:iss_guide_book"
+									}
+								}
+							}
+							mysticalagriculture: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "mysticalagriculture:guide"
+									}
+								}
+							}
+							pneumaticcraft: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "pneumaticcraft:book"
+									}
+								}
+							}
+							productivebees: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "productivebees:guide"
+									}
+								}
+							}
+							rftoolsbase: {
+								0: {
+									Count: 1b
+									id: "rftoolsbase:manual"
+								}
+							}
+							sebastrnlib: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+									}
+								}
+							}
+							solcarrot: {
+								0: {
+									Count: 1b
+									id: "solcarrot:food_book"
+								}
+							}
+							storagenetwork: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "storagenetwork:network_book"
+									}
+								}
+							}
+							theoneprobe: {
+								0: {
+									Count: 1b
+									id: "theoneprobe:probenote"
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			subtitle: "You only need to complete this if you lost your Eccentric Tome."
+			tasks: [{
+				id: "77CB955D2CC3D347"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Eccentric Tome Recovery"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["748D248A8A809914"]
+			description: [
+				"Plastim wreaked havoc across many planets and dimensions, as well. This resulted in the creation, or discovery of new dimensions. "
+				""
+				"&6The Bumblezone&r - The &9Council of Bee Queens&r made it clear that no &bPlastim&r was to be allowed within the walls of the great hive. However, as a result of this, people thought a war would be coming soon and quickly banded together to steel all of the hives &bGold&r. Now &bGold&r can be scattered throughout the &3Overworld&r. The bees really didn't care. "
+				""
+				"&aTwilight Forest&r - &bPlastim&r completely decimated the &aTwilight Forest&r, turning it into a desolate wasteland of pure nothingness. The portal is now blocked by over 6 million &bPlastim&r blocks, after the &9Great Tower of Tim&r collapsed at the portal entrance. &dShaun&r, a powerful wizard attempted to cast a spell into the portal to be able to re-enter at a later point, but instead of creating a safe barrier at the entrance, he caused a rift in the Overworld opening various portals to the &bEverbright&r, and &3Everdawn&r, and ultimately leading to the discovery of &bThe Aether&r. "
+				""
+				"&0The Otherside&r - &bPlastim&r proved to be completely disasterous to the inhabitants of the &0Otherside&r. Even before the toxins released, &bPlastim&r was known to instantly kill any creature that came within 5 feet of it. With the monster population down, many people attempted to live here. This lead to massive structures being built underground. Due to the nature of &0The Otherside&r, once the toxins released, they never dissipated leaving the entire dimension unexplorable, even with the strongest protective gear, and resistances. "
+				""
+				"&bAlfheim&r - Like the &6Bumblezone&r the inhabitants of &bAlfheim&r refused to allow &bPlastim&r into their lands. As the planets were being destroyed, it was discovered that dragons had the ability to teleport home, which happened to be &bAlfheim&r. Now &bAlfheim&r is the only place populated with dragons. "
+				""
+				"&eAd Astra Planets&r - It eventually got to a point where many of the planets were fully stripped of their resources during the great Shark Week. It was a full week dedicated to dismantling every planet block by block searching for any remnants of &bSharkinite&r, and &bWeekonium&r. Even if the technology to build a rocket was still around today, you would find nothing up there but vast emptiness. "
+			]
+			id: "7EA5B0F8D6DC5F9E"
+			subtitle: "Planets and Dimensions"
+			tasks: [{
+				id: "11C05E6B57453D81"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Part 2"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["748D248A8A809914"]
+			description: [
+				"When the &bPlastim&r toxins hit, it mutated many people, and animals giving them extremely long lifespans, but left to roam the world mindlessly, becoming increasingly aggressive. "
+				""
+				"There hasn't been many adventurers, so many of these hostile monsters roam the planet today. "
+			]
+			id: "1FD9F68B6770093C"
+			subtitle: "The Hostile Mobs"
+			tasks: [{
+				id: "3E66DA86F6C63715"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Part 3"
+			x: 4.0d
+			y: -2.5d
+		}
+	]
+	title: "Main Progression"
+}

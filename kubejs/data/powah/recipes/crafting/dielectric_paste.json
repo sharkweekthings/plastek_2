@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "minecraft:blaze_powder"
+	},
+	{
+	  "item": "thermal:tar"
+	},
+	{
+	  "item": "thermal:tar"
+	},
+	{
+	  "item": "minecraft:clay_ball"
+	},
+	{
+	  "item": "minecraft:clay_ball"
+	},
+	{
+	  "item": "minecraft:bone_meal"
+	}
+  ],
+  "result": {
+	"item": "powah:dielectric_paste",
+	"count": 16
+  }
+}

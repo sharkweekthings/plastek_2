@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "I": {
+      "tag": "forge:gears/copper"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:bucket"
+    },
+    "Y": {
+      "tag": "forge:glass"
+    }
+  },
+  "pattern": [
+    " X ",
+    "YCY",
+    "IPI"
+  ],
+  "result": {
+    "item": "thermal:machine_bottler"
+  },
+  "show_notification": true
+}

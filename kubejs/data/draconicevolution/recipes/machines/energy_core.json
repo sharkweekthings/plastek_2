@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:ingots/draconium"
+    },
+    "B": {
+      "item": "draconicevolution:wyvern_energy_core"
+    },
+    "C": {
+      "item": "draconicevolution:wyvern_core"
+    },
+    "Z": {
+      "tag": "forge:pellets/polonium"
+    },
+    "V": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  },
+  "pattern": [
+    "AZA",
+    "BCB",
+    "AVA"
+  ],
+  "result": {
+    "item": "draconicevolution:energy_core"
+  }
+}

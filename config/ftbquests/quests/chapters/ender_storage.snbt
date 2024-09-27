@@ -1,0 +1,65 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ender_storage"
+	group: "79C502F79CD205E5"
+	icon: "enderstorage:ender_chest"
+	id: "104314095EFC1C80"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["220F9312DF7229A1"]
+			id: "32E84C12F9EC500A"
+			tasks: [{
+				id: "2B47DEF0CA0F6F53"
+				item: "enderstorage:ender_chest"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["220F9312DF7229A1"]
+			id: "16FD204C04CCFD3E"
+			tasks: [{
+				id: "451749436C21BF1E"
+				item: "enderstorage:ender_tank"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["220F9312DF7229A1"]
+			id: "5D002D5DB49DF539"
+			tasks: [{
+				id: "7B2F0DB6384EFAB3"
+				item: "enderstorage:ender_pouch"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Ender Storage allows you to share a storage between dimensions."
+				""
+				"After crafting a &3Ender Pouch&r, &3Ender Chest&r, or &3Ender Tank&r - you can color code it with dye. "
+				""
+				"If you create a &3Ender Tank&r and paint it with &33 Red Dyes&r any other &3Ender Tank&r that shares the same color pattern will be able to access the source tank."
+			]
+			id: "220F9312DF7229A1"
+			shape: "diamond"
+			tasks: [{
+				id: "652CFF6468813DB0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Ender Storage"
+			x: -0.5d
+			y: -1.5d
+		}
+	]
+	title: "Ender Storage"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "rrr",
+    "TFT",
+    "rrr"
+  ],
+  "result": {
+    "item": "rftoolsutility:dialing_device"
+  }
+}

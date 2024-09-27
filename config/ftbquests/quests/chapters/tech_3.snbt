@@ -1,0 +1,1551 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_3"
+	group: "17D4659CA536FD99"
+	icon: "pneumaticcraft:printed_circuit_board"
+	id: "476F292CB1E0BB2F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"5AB74CE087267BCC"
+				"557DF7E5E2D70A6D"
+				"0FC8B43992F6D95A"
+			]
+			description: ["Take 2 Capacitors, 2 Transistors, and an Unassembled PCB to create a Printed Circuit Board."]
+			id: "3358AA85460F3437"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "44487C75B04E4DDF"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "10B460EE4DA823A4"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "4795D57CD6D0F94E"
+				item: "pneumaticcraft:printed_circuit_board"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"6784ACF6AFDED809"
+				"214A0C7F846D6BB6"
+				"77CFDF8D207BCBCD"
+			]
+			id: "5AB74CE087267BCC"
+			shape: "gear"
+			tasks: [{
+				id: "47287323D6F03E4C"
+				item: "pneumaticcraft:capacitor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"6784ACF6AFDED809"
+				"031ACAE3FA8229E4"
+				"6BE969A6B22627DD"
+			]
+			id: "557DF7E5E2D70A6D"
+			shape: "gear"
+			tasks: [{
+				id: "5741C1488D581A02"
+				item: "pneumaticcraft:transistor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["55E9628CA0AE489F"]
+			id: "0FC8B43992F6D95A"
+			shape: "square"
+			tasks: [{
+				id: "4C77821FA2536975"
+				item: "pneumaticcraft:unassembled_pcb"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			id: "6784ACF6AFDED809"
+			shape: "square"
+			tasks: [{
+				id: "653C75C815D2ABDB"
+				item: "pneumaticcraft:plastic"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"42C5F9D33F541BF5"
+				"4063868168C7789A"
+				"2EECD9AB2F9EFAD9"
+				"663386196480984B"
+				"057745DE07957E8D"
+			]
+			id: "214A0C7F846D6BB6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "669F96A9AF9958D9"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12B63BCB6F13CF50"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "004C20BC85E080B0"
+				item: "kubejs:blue_paste"
+				type: "item"
+			}]
+			title: "Blue Paste"
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["42C5F9D33F541BF5"]
+			id: "77CFDF8D207BCBCD"
+			shape: "square"
+			tasks: [{
+				id: "27332666A8827BC1"
+				item: "createaddition:electrum_wire"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"42C5F9D33F541BF5"
+				"67C5D82D38F4B9E9"
+				"686B392F6C8E27C8"
+				"37A2D0F01A61C8E5"
+				"12B96CBC3632CA9C"
+			]
+			id: "031ACAE3FA8229E4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "58C4F5126B37B027"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "09FDADB336070A89"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "1E90C9D07C1DB843"
+				item: "powah:dielectric_paste"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["42C5F9D33F541BF5"]
+			id: "6BE969A6B22627DD"
+			shape: "square"
+			tasks: [{
+				id: "52751AD83053C362"
+				item: "createaddition:electrum_wire"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["42C5F9D33F541BF5"]
+			id: "25F7DB64565C1723"
+			tasks: [{
+				id: "7C708BE9950CB5A2"
+				item: "create:mechanical_saw"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"42C5F9D33F541BF5"
+				"68719429ACED5F02"
+				"6AEE3FDC9203750B"
+			]
+			id: "3A1F40DB1DA83113"
+			shape: "square"
+			tasks: [{
+				id: "4C7A90F8591534C5"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:plates/electrum"
+					}
+				}
+				title: "Electrum Plate"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["175837212DD34F5C"]
+			description: ["Using an Assembly Laser program you can assembly an Empty PCB into an Unassembled PCB."]
+			id: "55E9628CA0AE489F"
+			shape: "square"
+			tasks: [
+				{
+					id: "4C107CA373F3DF07"
+					item: "pneumaticcraft:assembly_controller"
+					type: "item"
+				}
+				{
+					id: "533CB4091B7579A5"
+					item: "pneumaticcraft:assembly_platform"
+					type: "item"
+				}
+				{
+					id: "3AD95494125D1912"
+					item: "pneumaticcraft:assembly_io_unit_export"
+					type: "item"
+				}
+				{
+					id: "0AEE400A37360DF4"
+					item: "pneumaticcraft:assembly_io_unit_import"
+					type: "item"
+				}
+				{
+					id: "582D024EC866B1C5"
+					item: "pneumaticcraft:assembly_laser"
+					type: "item"
+				}
+			]
+			title: "Laser Assembly"
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1501FECBEF32DC81"]
+			id: "175837212DD34F5C"
+			shape: "square"
+			tasks: [{
+				id: "4C8BC29ADFFE4C95"
+				item: "pneumaticcraft:empty_pcb"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5982694A2EC8436E"]
+			id: "2740D53EB79D2A45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41CC40FEAFCEB96C"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "401AFBA39FEE6BE4"
+				item: "pneumaticcraft:plastic"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2163B9DF8FA581B3"]
+			description: [""]
+			id: "36BCC95632B3E17F"
+			shape: "square"
+			tasks: [{
+				id: "2951813460AB29F0"
+				item: "create:copper_sheet"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3F2DCBCB72FBDB27"]
+			id: "0502971F26FFFC17"
+			shape: "square"
+			tasks: [{
+				id: "47057C086660CEF5"
+				item: "thermal:emerald_dust"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"23BD152B3F432E2D"
+				"36BCC95632B3E17F"
+				"2740D53EB79D2A45"
+			]
+			description: ["1 Emerald Dust, 1 Green Dye, 1 Plastic Sheet inside an Induction Smelter will create an Empty PCB."]
+			id: "1501FECBEF32DC81"
+			shape: "square"
+			tasks: [{
+				id: "4FB1EFF2FB5992E3"
+				item: "thermal:machine_smelter"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["259254777B3E46B5"]
+			id: "3F2DCBCB72FBDB27"
+			shape: "square"
+			tasks: [{
+				id: "5680AA4252C5BF75"
+				item: "thermal:machine_pulverizer"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5F1933DE37FD717A"]
+			id: "259254777B3E46B5"
+			shape: "square"
+			tasks: [{
+				id: "109AB7B1B36CB45E"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5982694A2EC8436E"]
+			description: [
+				""
+				"{image:kubejs:textures/pneumaticcraft/pneumatic_heat_frame.png width:200 height:150 align:center}"
+			]
+			id: "31281033D881A064"
+			shape: "square"
+			tasks: [{
+				id: "64126254C36BD204"
+				item: "pneumaticcraft:heat_frame"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"65B1271CD4BA7576"
+				"3AACA22DC552E7EE"
+			]
+			id: "5982694A2EC8436E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CADE1429AEFC1CF"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "1113D15DF05590A7"
+				item: "pneumaticcraft:plastic_bucket"
+				type: "item"
+			}]
+			title: "Bucket of Molten Plastic"
+			x: 10.5d
+			y: -4.0d
+		}
+		{
+			id: "1B0B1092990D0097"
+			shape: "circle"
+			tasks: [{
+				id: "4CEAC75910C0AD78"
+				item: "minecraft:barrel"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"533C78AA70021871"
+				"0D978606646FA6CF"
+			]
+			description: [""]
+			id: "65B1271CD4BA7576"
+			shape: "square"
+			tasks: [{
+				id: "3A3E68FBC5016BD0"
+				item: "pneumaticcraft:thermopneumatic_processing_plant"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			id: "3AACA22DC552E7EE"
+			shape: "square"
+			tasks: [{
+				id: "1856CAB4747ED895"
+				item: "industrialforegoing:plastic"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			id: "0E8E15B8AE58DDB0"
+			shape: "square"
+			tasks: [{
+				id: "2BC529AFDD0AE30C"
+				item: "industrialforegoing:latex_processing_unit"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"533C78AA70021871"
+				"0E8E15B8AE58DDB0"
+			]
+			id: "0C3289A26B165F2E"
+			shape: "square"
+			tasks: [{
+				id: "2B6DBD640B748A32"
+				item: "industrialforegoing:dryrubber"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			id: "240163541E3DCE2D"
+			shape: "square"
+			tasks: [{
+				id: "3B678499881617FC"
+				item: "thermal:machine_furnace"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			icon: "industrialforegoing:latex_bucket"
+			id: "222FAEC10BDED91E"
+			shape: "square"
+			tasks: [{
+				id: "2EEBEE5ECD26914F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Latex"
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			icon: "minecraft:water_bucket"
+			id: "5F2D974C18CA878B"
+			shape: "square"
+			tasks: [{
+				id: "7A859B4049784C92"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Water"
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			id: "752E7910FF7C55DC"
+			shape: "square"
+			tasks: [{
+				id: "18EC1E544D3155F0"
+				item: "industrialforegoing:fluid_extractor"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["533C78AA70021871"]
+			description: ["Be sure to double check JEI on this one. Oak isn't the only tree that you can produce Latex from. All of the Vanilla trees should work."]
+			id: "397E94EE8CC06B15"
+			shape: "square"
+			subtitle: "Double check JEI!"
+			tasks: [{
+				id: "5D7A9BF2A67E7B03"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"To make a &3Capacitor&r it will be &33 Electrum Wire&r, 1&3 Plastic Sheet&r, and &31 Blue Paste&r"
+				""
+				"To make a &3Transistor&r it will be &33 Electrum Wire&r, &31 Plastic Sheet&r, and &31 Dielectric Paste&r"
+			]
+			id: "42C5F9D33F541BF5"
+			shape: "diamond"
+			tasks: [{
+				id: "670B8F98267BA01E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Capacitors and Transistors"
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Putting a &9Fluid Extractor&r on a &3Log&r will get you some &3Latex&r."
+				""
+				"Put &3Latex&r, and some &3water&r into a &9Latex Processing Unit&r to get &3Dry Rubber&r"
+				""
+				"Put the &3Dry Rubber&r into a &9Redstone Furnace&r and you will get &3Plastic&r"
+				""
+				"Place the &3Plastic&r inside a &9Thermopneumatic Processing Plant&r, with some &3LPG&r or &3Biodiesel&r to create &3Molten Plastic&r. "
+				""
+				"You can then use a &3Bucket&r (or a Pneumaticcraft Fluid Tank) to bucket out &3Molten Plastic&r. "
+				""
+				"With your &3Molten Plastic&r bucket in hand, place it inside a &9Barrel&r with a &9Heat Frame&r attached. As long as heat is provided to the &9Heat Frame&r, the contents inside the barrel should convert to &3Plastic Sheets&r."
+			]
+			id: "533C78AA70021871"
+			shape: "diamond"
+			tasks: [{
+				id: "43663CCAA4EC7969"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Plastic Sheets"
+			x: 11.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0B0BACB04C57C765"]
+			id: "67C5D82D38F4B9E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "390E8673DF5CCA5F"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "0A2AF4ECC551FEFA"
+				item: "thermal:tar"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03B64D8086B7A23C"]
+			id: "686B392F6C8E27C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0875134CCD9D8C7B"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "116F63B32FE94F84"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "37A2D0F01A61C8E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CCBE6E579DC3362"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "01864C43D212691F"
+				item: "minecraft:blaze_powder"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "0B0BACB04C57C765"
+			shape: "square"
+			tasks: [{
+				id: "2634A3C617CA8D34"
+				item: "thermal:machine_pyrolyzer"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"To automate or at least semi automate &3Clay&r you can do a few different things. "
+				""
+				"1 - Resource Chickens"
+				""
+				"2 - Biomancy"
+				""
+				"3 - Mystical Agriculture"
+				""
+				"4 - Wash sand "
+				""
+				"5 - Use crushing wheels on gravel"
+			]
+			id: "03B64D8086B7A23C"
+			shape: "diamond"
+			tasks: [{
+				id: "0C6EC633896062E3"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Clay"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22DF88B8D5959F37"]
+			id: "52DB0DF8E3DA7C5D"
+			tasks: [{
+				id: "011D6FC1F7B915BD"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["22DF88B8D5959F37"]
+			id: "21CBE25D0C38CA23"
+			tasks: [{
+				id: "5CDBC10A111413D6"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["22DF88B8D5959F37"]
+			id: "4903B985DF095E83"
+			tasks: [{
+				id: "6897FE719965138D"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			description: ["If you put a Blaze Rod in a Pulverizer you will get 3 Blaze Rods!"]
+			id: "2AA037FFEA3B467C"
+			shape: "circle"
+			tasks: [{
+				id: "031AD298B4FC2184"
+				item: "thermal:machine_pulverizer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			id: "79DF65D3F8A97464"
+			tasks: [{
+				id: "6E32F237F46934CA"
+				item: "minecraft:blaze_rod"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			id: "243A09CF9251DD67"
+			tasks: [{
+				id: "0700047F55147B03"
+				item: "hostilenetworks:loot_fabricator"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			id: "108D96D23011BF3C"
+			tasks: [{
+				id: "5AC654D370304FD9"
+				item: "hostilenetworks:sim_chamber"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			id: "22DDF3B706A0C243"
+			tasks: [{
+				id: "08467C1064C08890"
+				item: "hostilenetworks:prediction_matrix"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			id: "6D62898216B4B4BF"
+			tasks: [{
+				id: "4668F30444C453AB"
+				item: "hostilenetworks:blank_data_model"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1AFCF5AE4FF9D78F"]
+			id: "43DBA7A7ACAC3ABA"
+			tasks: [{
+				id: "620B30276AE4FE8C"
+				item: "hostilenetworks:deep_learner"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"With a little help from Hostile Neural Networks we can make quick work of &3Blaze Powder&r. "
+				""
+				"You'll need to craft a &3Model Framework&r and click on a Blaze with it."
+				""
+				"Put the &3Model Framework&r into a &9Deep Learner&r, then go out and kill some &3Blazes&r.  The more &3Blazes&r you kill, the better your &3Predictions&r will be, which means more resources. "
+				""
+				"You can check the status of your kills on the &9Deep Learner&r. "
+				""
+				"Once you're satisfied with the kills place the &3Model Framework&r inside a &9Simulation Chamber&r with some &3Prediction Matrixes&r and let the simulation run."
+				""
+				"Once some &3Predictions&r have been successful you can collect your &3Generalized Prediction&r, or &3Blaze Predictions&r. "
+				""
+				"These &3Predictions&r can then be placed in a &9Loot Fabricator&r to get your loot. "
+			]
+			id: "1AFCF5AE4FF9D78F"
+			shape: "diamond"
+			tasks: [{
+				id: "0044E7033A1B83B3"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Blaze Powder"
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"If you have leftover &3Flint&r from your &3Iron Nugget&r automation you can &9Haunt&r it (like &9Washing&r but with &9Soul Fire&r). "
+				""
+				"By &9Haunting&r &3Flint&r you can convert it into &3Coal&r. "
+				""
+				"Take the &3Coal&r, put it in a &9Pyrolyzer&r to get &3Tar&r, &3Coke&r, and &3Heavy Oil&r."
+			]
+			id: "22DF88B8D5959F37"
+			shape: "diamond"
+			tasks: [{
+				id: "560DD104579386F8"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Coke"
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6F5A6CB8C37F7B72"]
+			description: [
+				"Don't be fooled by Just Enough Resources UI."
+				""
+				"In this pack a Blizz will not drop the Blizz Cube, instead it will drop Blizz Powder. You will need to put the powder into a Blast Chiller in order to turn it into a cube."
+			]
+			id: "4063868168C7789A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50935F460601CD47"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "5FE8ACB3DD462659"
+				item: "thermal:blizz_rod"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4A9FAB46A7A52C28"]
+			id: "2EECD9AB2F9EFAD9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CFC3B58AD614083"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "346858588E523B1C"
+				item: "thermal:rosin"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["36F260F9D11A333C"]
+			id: "663386196480984B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "234EBAD408D8BA32"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "596FC516A014296D"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			description: [
+				"To automate or at least semi automate &3Clay&r you can do a few different things. "
+				""
+				"1 - Resource Chickens"
+				""
+				"2 - Biomancy"
+				""
+				"3 - Mystical Agriculture"
+				""
+				"4 - Wash sand "
+				""
+				"5 - Use crushing wheels on gravel"
+			]
+			id: "36F260F9D11A333C"
+			shape: "diamond"
+			tasks: [{
+				id: "2EC5D1A7053C47DF"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Clay"
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0E2A102030F7E67D"]
+			id: "4A9FAB46A7A52C28"
+			shape: "square"
+			tasks: [{
+				id: "5A3EBC091E6F6EE7"
+				item: "thermal:machine_refinery"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["59F6DB53A1CD6C24"]
+			id: "02A862783D3BFF85"
+			shape: "square"
+			tasks: [{
+				id: "203E0F01E63C8F8A"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "0506257EEA5565CD"
+			tasks: [{
+				id: "79F44AE8733BE049"
+				item: "productivebees:centrifuge"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "0531146B98B51ADC"
+			tasks: [{
+				id: "6F42FD28310CB62A"
+				item: {
+					Count: 1
+					id: "productivebees:configurable_honeycomb"
+					tag: {
+						EntityTag: {
+							type: "productivebees:blizz"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "070F2F50A2C725D3"
+			tasks: [{
+				id: "7A14C7BF511F6F56"
+				item: {
+					Count: 1
+					id: "productivebees:spawn_egg_configurable_bee"
+					tag: {
+						EntityTag: {
+							type: "productivebees:blizz"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "00B1AA644B213814"
+			tasks: [{
+				id: "5A9024A9D828B955"
+				item: {
+					Count: 1
+					id: "productivebees:spawn_egg_configurable_bee"
+					tag: {
+						EntityTag: {
+							type: "productivebees:blazing"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "5AF194C6F7216A45"
+			tasks: [{
+				id: "1F2F714135526D08"
+				item: "productivebees:incubator"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "562A6E2C361C8B56"
+			tasks: [{
+				id: "3786D6F6360BBF11"
+				item: "minecraft:egg"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			icon: "productivebees:honey_treat"
+			id: "3EC84BD2381E308A"
+			tasks: [{
+				id: "0FDE846801E18E1C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "100% Gene Sampled Honey Treat"
+			x: 5.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			description: [""]
+			icon: {
+				Count: 1
+				id: "productivebees:gene"
+				tag: {
+					productivebees_gene_attribute: "temper"
+					productivebees_gene_purity: 100
+					productivebees_gene_value: 1
+				}
+			}
+			id: "288724BE8D132587"
+			tasks: [{
+				id: "1212EA87287F4449"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Gene Sample"
+			x: 6.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "55907255D7BC4E4A"
+			tasks: [{
+				id: "49EB230B106F6FE4"
+				item: "productivebees:centrifuge"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "64806A2B1372C8CE"
+			tasks: [{
+				id: "0FAAFD5436988A02"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Squashed Bee Material"
+			x: 8.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "7B486B3E08BDA2AA"
+			tasks: [{
+				id: "0C1E1F4B2996D7DA"
+				item: "productivebees:bottler"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "5C98D8A7F1B6E4F0"
+			tasks: [{
+				id: "2D8BF5884B8EF1B0"
+				item: "minecraft:piston"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			id: "5DB5B8CC800C3B9D"
+			tasks: [{
+				id: "7A2F2AE1D8D56FBA"
+				item: "minecraft:glass_bottle"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			icon: {
+				Count: 1
+				id: "productivebees:spawn_egg_configurable_bee"
+				tag: {
+					EntityTag: {
+						type: "productivebees:blazing"
+					}
+				}
+			}
+			id: "588141E97CBF9EE5"
+			tasks: [{
+				id: "642F28D15A20E62A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Squish Blazing Bees"
+			x: 10.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			icon: {
+				Count: 1
+				id: "productivebees:spawn_egg_configurable_bee"
+				tag: {
+					EntityTag: {
+						type: "productivebees:magmatic"
+					}
+				}
+			}
+			id: "4B17A4D49B2439F8"
+			tasks: [{
+				id: "15A303B46151579F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Magmatic Bee"
+			x: 11.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["59B7D90D42BAD997"]
+			icon: "productivebees:spawn_egg_nomad_bee"
+			id: "6B9F30BA5933E289"
+			tasks: [{
+				id: "5574DDDD5E66BD4C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Nomad Bee"
+			x: 11.0d
+			y: -8.0d
+		}
+		{
+			description: [
+				"You can get your &3Blizz&r from Mystical Agriculture if you want, or you could have some fun with Bees! "
+				""
+				"First you'll need at least 1 Nomad Bee and 1 Magmatic Bee. "
+				""
+				"Breed them together to get a Blazing Bee."
+				""
+				"Using a &3Piston&r, smash the bee into a &9Bottler&r machine loaded with &3Glass Bottles&r. This should get you some &3Squashed Bee Material&r."
+				""
+				"Put the &3Squashed Bee Material&r into a &9Centrifuge&r to get a &3Blazing Gene Sample&r. "
+				""
+				"You need to combine about &35 Blazing Gene Samples&r and &31 Honey Treat&r to make a &3100% Gene Sampled Honey Treat&r."
+				""
+				"Take your 100% Gene Sampled Honey Treat and place it inside a &9BaBee Incubator&r with an &3Egg&r. This will turn into a &3Blazing Bee Spawn Egg&r. "
+				""
+				"You can now craft a &3BizBee Spawn Egg&r by surrounding the &3Blazing Bee Spawn Egg&r with &3Blizz Powder&r in the crafting window."
+				""
+				"Now you should have the BizBee to start producing &3Blizz Powder&r. "
+			]
+			id: "59B7D90D42BAD997"
+			shape: "diamond"
+			tasks: [{
+				id: "6A172C92FA81FE8B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Blizz Powder"
+			x: 12.5d
+			y: -8.5d
+		}
+		{
+			description: ["Making &3Rosin&r is as simple as placing an &9Arboreal Extractor&r on &3Spruce&r, &3Acacia&r, &3Oak&r, or &3Cherry&r trees to get &3Resin&r, then pipe the &3Resin&r into a &9Fractionating Still&r. "]
+			id: "59F6DB53A1CD6C24"
+			shape: "diamond"
+			tasks: [{
+				id: "76605CDFD0F1140C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Rosin"
+			x: -2.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["18E15180BB073CE4"]
+			id: "48568321D1EDA99F"
+			shape: "square"
+			tasks: [{
+				id: "42C75365760CFDA2"
+				item: "draconicevolution:wyvern_crafting_injector"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["25BF7011F4DA3634"]
+			description: ["{image:kubejs:textures/draconicevolution/draconic_fusion_2.png width:300 height:150 align:center}"]
+			id: "595E1100FCC59BB8"
+			shape: "square"
+			tasks: [{
+				id: "40CF7719A6790255"
+				item: "draconicevolution:crafting_core"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["25BF7011F4DA3634"]
+			id: "7122E2516D7031DC"
+			shape: "square"
+			tasks: [{
+				id: "4E9275CF04141966"
+				item: "draconicevolution:generator"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"If you plan on taking on the Chaos Dragon it's strongly advised you do some work on Draconic Evolution. "
+				""
+				"To start you'll need to make a &9Fusion Crafter&r by crafting a &9Fusion Crafting Core&r, as well as &98 Draconium Fuision Crafting Injectors&r. "
+				""
+				"For now, we'll just be using &94 Injectors&r on each side, but you'll eventually want to have 5 on each side to be able to craft most things. "
+				""
+				"Place the &9Fusion Crafter Core&r in what will be the center of your setup. "
+				""
+				"Place the &94 injectors&r about 3 blocks away on the left and right side of the &9Fusion Crafting Core&r. "
+				""
+				"The injectors can be placed growing up in a cross pattern with an open space in the middle. "
+				""
+				"Supply the injectors with power (crystals or pipes should work), and you should be ready to go. "
+				""
+				"In this age, you can advance up to Draconic tier, here is each tier in order: "
+				""
+				"Draconium > Wyvern > Draconic > Chaotic"
+			]
+			id: "25BF7011F4DA3634"
+			shape: "diamond"
+			tasks: [{
+				id: "642CED4C80969FC6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Fusion Crafting"
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["25BF7011F4DA3634"]
+			description: [
+				""
+				"{image:kubejs:textures/draconicevolution/draconic_fusion_1.png width:175 height:200 align:center}"
+			]
+			id: "18E15180BB073CE4"
+			shape: "square"
+			tasks: [{
+				count: 8L
+				id: "30D2B0A603D2EBB4"
+				item: "draconicevolution:basic_crafting_injector"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["48568321D1EDA99F"]
+			id: "3891B1B37D73E60D"
+			shape: "square"
+			tasks: [{
+				id: "6B8564928F9E944D"
+				item: "draconicevolution:awakened_crafting_injector"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02A862783D3BFF85"]
+			id: "0E2A102030F7E67D"
+			shape: "square"
+			tasks: [{
+				id: "04AE63C41F0F3411"
+				item: "thermal:device_tree_extractor"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			id: "12B96CBC3632CA9C"
+			tasks: [{
+				id: "464698AE686A426E"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			id: "057745DE07957E8D"
+			tasks: [{
+				id: "276481204507101F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["42C5F9D33F541BF5"]
+			description: [
+				"You might have some gold from the Washing station. "
+				""
+				"If not you can make a Gold Seed, Gold Bee, or Gold Chicken."
+			]
+			id: "68719429ACED5F02"
+			shape: "square"
+			tasks: [{
+				id: "3BC09D0E58034165"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:ingots/gold"
+					}
+				}
+				title: "Gold Ingot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["42C5F9D33F541BF5"]
+			description: ["You'll need Silver Seeds, or a Silver Chicken to automate Silver. "]
+			id: "6AEE3FDC9203750B"
+			shape: "square"
+			tasks: [{
+				id: "43FF9205A881369F"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:ingots/silver"
+					}
+				}
+				title: "Silver Ingot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "6F5A6CB8C37F7B72"
+			shape: "square"
+			tasks: [{
+				id: "02DB4C0302658408"
+				item: "thermal:machine_chiller"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"0502971F26FFFC17"
+				"0636C23543C46A46"
+			]
+			id: "23BD152B3F432E2D"
+			shape: "square"
+			tasks: [{
+				id: "6F71AE24977A56EF"
+				item: "kubejs:green_paste"
+				type: "item"
+			}]
+			title: "Green Paste"
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			id: "0636C23543C46A46"
+			tasks: [{
+				id: "4E7C8995BCEBEB48"
+				item: "minecraft:green_dye"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				"By now you should have a few options for &3Copper&r. "
+				""
+				"If you don't want more chickens, you can use &3Drowned Predictions&r, or you can get some Mystical Agriculture seeds. "
+			]
+			id: "2163B9DF8FA581B3"
+			shape: "diamond"
+			tasks: [{
+				id: "4F50A0CC3F0019C9"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "We Need More Copper"
+			x: 6.5d
+			y: -6.5d
+		}
+		{
+			description: ["You will need Mystical Agriculture seeds, or get Evoker / Vindicator predictions in order to get &3Emeralds&r."]
+			id: "5F1933DE37FD717A"
+			shape: "diamond"
+			tasks: [{
+				id: "6F9324AED86932E5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Emeralds"
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			description: ["You can put LPG or Biodiesel into the Thermopneumatic Processing Plant to get Molten Plastic."]
+			icon: "pneumaticcraft:biodiesel_bucket"
+			id: "0D978606646FA6CF"
+			shape: "square"
+			tasks: [{
+				id: "7661EA5FF6E43095"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "LPG or Biodiesel"
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["2740D53EB79D2A45"]
+			icon: {
+				Count: 1
+				id: "endrem:undead_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4F72648C1D7D7A5C"
+			rewards: [{
+				id: "400F1EC0975175F1"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "5CA361B51B3A5441"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Plastic Eye"
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3358AA85460F3437"]
+			icon: {
+				Count: 1
+				id: "endrem:cold_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4A3F4A5032108C6E"
+			rewards: [{
+				id: "6F74DA64CA733354"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "62FBE2AE22576F42"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Thermal Paste Eye"
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3891B1B37D73E60D"]
+			icon: {
+				Count: 1
+				id: "endrem:wither_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "473EAD107B45FD26"
+			rewards: [{
+				id: "1250BEDE2C3EFEA5"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "18ED2FCF1FEF243A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Infused Eye"
+			x: 4.5d
+			y: 0.5d
+		}
+	]
+	title: "Tech"
+}

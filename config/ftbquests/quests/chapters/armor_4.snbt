@@ -1,0 +1,104 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armor_4"
+	group: "581F41F63919A6BC"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: {
+				energy: {
+					energy: 0
+				}
+				module_host: {
+					modules: [ ]
+					properties: { }
+					provider_id: [I;
+						368411240
+						-802599876
+						-1651219460
+						-1418109803
+					]
+				}
+			}
+		}
+		id: "draconicevolution:chaotic_chestpiece"
+		tag: { }
+	}
+	id: "2B11D873526BB310"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "713B36DC59015C77"
+			tasks: [{
+				id: "37136376D2604B2A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									75600963
+									1962951493
+									-1304197694
+									-1821529140
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_chestpiece"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "710BD3452368B4BA"
+			tasks: [{
+				id: "157FC03C7FFA1CAD"
+				item: "mekanism:mekasuit_helmet"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "05228CCB56639B93"
+			tasks: [{
+				id: "1D05C379FFA58944"
+				item: "mekanism:mekasuit_bodyarmor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "20AD771EF83EFD91"
+			tasks: [{
+				id: "705A92D3E039490E"
+				item: "mekanism:mekasuit_pants"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "39CB37EEB96990FF"
+			tasks: [{
+				id: "17438A33409C34CA"
+				item: "mekanism:mekasuit_boots"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+	]
+	title: "Armor"
+}

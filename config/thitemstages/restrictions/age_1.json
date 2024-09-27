@@ -1,0 +1,46 @@
+{
+  "Restriction Data": {
+    "stage": "age_1",
+    "itemList": [],
+    "modList": [
+      "create",
+      "silentgear",
+      "silentcompat",
+      "apotheosis",
+      "trashcans",
+      "constructionwand",
+      "prettypipes",
+      "ppfluids",
+      "mob_grinding_utils",
+      "minecraft",
+      "resourcechickens",
+      "glassential",
+      "productivebees",
+      "botania",
+      "occultism",
+      "mysticalagriculture"
+
+    ],
+    "tagList": [
+      "p2:age_1_item"
+    ],
+    "exceptionList": [
+      {"tag": "p2:age_1_exception"},
+      {"tag": "minecraft:doors"}
+    ],
+    "containerList": []
+  },
+  "Settings": {
+    "advancedTooltips": "ALWAYS",
+    "itemTitle": "Unusable Item",
+    "pickupDelay": 15,
+    "hideInJEI": true,
+    "canPickup": false,
+    "containerListWhitelist": false,
+    "checkPlayerInventory": true,
+    "checkPlayerEquipment": true,
+    "destroyableBlocks": false,
+    "usableItems": false,
+    "usableBlocks": false
+  }
+}

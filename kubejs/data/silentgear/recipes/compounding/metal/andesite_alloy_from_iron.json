@@ -1,0 +1,21 @@
+{
+  "type": "silentgear:compounding/metal",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "create:andesite_alloy"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "tag": "forge:ingots/brass"
+  },
+  "result": [
+    {
+      "item": "create:brass_sheet",
+      "count": 2
+    }
+  ]
+}

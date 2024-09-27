@@ -1,0 +1,1000 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_2"
+	group: "24F1909F4C56276F"
+	icon: "industrialforegoing:machine_frame_supreme"
+	id: "2A8778F1FFAAF743"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5B890C2C08EBCD41"]
+			id: "63548B7EDFFB2F9C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F9E3478BBC6158F"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "69F38B5A5E0E20DF"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "723630BB06260361"
+				item: "industrialforegoing:machine_frame_pity"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["36C67C1117E8986D"]
+			id: "02002232A2E37340"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "15E8B726E0D27211"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27A7A2AC112C53D7"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "45A38DF4D69330BC"
+				item: "industrialforegoing:machine_frame_simple"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6272AE823423CC4E"
+				"4B91C26BF35D9C77"
+			]
+			id: "1D9F4F8797E85F23"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FBE5793481293F6"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72963BC53AB23AE5"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "1BC156C4A184B409"
+				item: "industrialforegoing:machine_frame_advanced"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["09746EBDE4B1BEF6"]
+			id: "357E3AD70337910B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3857CAC1838C8650"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C62B24CC16C4C9B"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "4F4E48E75C48F5EF"
+				item: "industrialforegoing:machine_frame_supreme"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1F1CF0B3239C4DB1"
+				"7A57CFD291FD0F3E"
+				"7FA4F8F8457F5063"
+				"1827A285E5E2F199"
+			]
+			id: "5B890C2C08EBCD41"
+			shape: "square"
+			tasks: [
+				{
+					id: "2829622F7BF71945"
+					item: "create:deployer"
+					type: "item"
+				}
+				{
+					id: "3D20A1C32606196D"
+					item: "create:mechanical_saw"
+					type: "item"
+				}
+				{
+					id: "7C475330E187564D"
+					item: "create:deployer"
+					type: "item"
+				}
+				{
+					id: "5F1447A9B8D78623"
+					item: "create:deployer"
+					type: "item"
+				}
+				{
+					id: "564644EEA48B199C"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+			]
+			title: "Sequenced Assembly: Pity Machine Frame"
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4388077AB25A92E0"]
+			id: "1F1CF0B3239C4DB1"
+			shape: "square"
+			tasks: [{
+				id: "6ABB195D64282F9E"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4388077AB25A92E0"]
+			id: "7A57CFD291FD0F3E"
+			shape: "square"
+			tasks: [{
+				id: "1B6B445B576746ED"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4388077AB25A92E0"]
+			id: "7FA4F8F8457F5063"
+			shape: "square"
+			tasks: [{
+				id: "624325B0455EBADA"
+				item: "kubejs:wooden_gear"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4388077AB25A92E0"]
+			id: "1827A285E5E2F199"
+			shape: "square"
+			tasks: [{
+				id: "1E1AA5FC2F3B16D2"
+				item: "create:iron_sheet"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["47C9B5D9C49F8EA7"]
+			description: [
+				"For the quest we just need to make the smallest configuration of the &9Pressure Chamber&r which is 3x3x3. You can build it up to a 5x5x5 though if you need it to be bigger."
+				""
+				"When placing the &3Pressure Chamber Interface&r in the multi-block, the yellow will be for output, and the blue for input. "
+				""
+				"In the image, the &3Pressure Chamber Valve&r is in the back hooked up to some &9Air Compressors&r. "
+				""
+				"Don't forget to put &3Security Upgrades&r in any Pneumaticcraft machine that you're able to!"
+				""
+				""
+				"{image:kubejs:textures/pneumaticcraft/pneumaticcraft_pressure.png width:200 height:150 align:center}"
+			]
+			id: "36C67C1117E8986D"
+			shape: "square"
+			tasks: [
+				{
+					count: 22L
+					id: "4E3EEBA343351D75"
+					item: "pneumaticcraft:pressure_chamber_wall"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "28D272D84628E31C"
+					item: "pneumaticcraft:pressure_chamber_interface"
+					type: "item"
+				}
+				{
+					id: "7F18E6FA8AFE9860"
+					item: "pneumaticcraft:pressure_chamber_valve"
+					type: "item"
+				}
+				{
+					id: "626ECB6467055A70"
+					item: "pneumaticcraft:pressure_chamber_glass"
+					type: "item"
+				}
+			]
+			title: "Pressure Chamber"
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			id: "6773061D47C9C3DF"
+			tasks: [{
+				id: "739278D14FFD4278"
+				item: "minecraft:hopper"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			id: "4EC8DBDF3F5CCE3B"
+			tasks: [{
+				id: "35F330A45B49388B"
+				item: "minecraft:barrel"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["63B15CDA3C3C18A4"]
+			id: "47C9B5D9C49F8EA7"
+			shape: "square"
+			tasks: [
+				{
+					id: "7C27D0F378C2A040"
+					item: "create:sturdy_sheet"
+					type: "item"
+				}
+				{
+					id: "79F5C8A4C86238BF"
+					item: "industrialforegoing:machine_frame_pity"
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6B8E6F64C74B4191"
+				"37E3F9F843C3A055"
+			]
+			description: [
+				"Start with 1 Bone Meal, then "
+				"Deploy (Powdered Obsidian)"
+				"Spout (Lava)"
+				"Press"
+				"Press"
+			]
+			id: "63B15CDA3C3C18A4"
+			shape: "square"
+			tasks: [
+				{
+					id: "2564E03F365FB651"
+					item: "create:deployer"
+					type: "item"
+				}
+				{
+					id: "7D6F9D807609EB8E"
+					item: "create:spout"
+					type: "item"
+				}
+				{
+					id: "27E56AE762D426FF"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+				{
+					id: "43CED91F9479A63D"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+			]
+			title: "Sequenced Assembly: Sturdy Sheet"
+			x: -6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["50596320C575B78F"]
+			id: "6B8E6F64C74B4191"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6663F3C22C4DC3F0"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "78BCBEDA611AB2CD"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["74DE9F7ABB40AA80"]
+			id: "37E3F9F843C3A055"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "453FB51048A83F69"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "431FBC2C5F14EC47"
+				item: "create:powdered_obsidian"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["50442279240DDA69"]
+			id: "50596320C575B78F"
+			shape: "square"
+			tasks: [{
+				id: "24B14FAA9560FFFB"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["74DE9F7ABB40AA80"]
+			id: "34EFE231881FA2F8"
+			shape: "square"
+			tasks: [{
+				count: 2L
+				id: "460B08C67C42CD27"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["74DE9F7ABB40AA80"]
+			id: "185703883BA0E9A4"
+			shape: "square"
+			tasks: [{
+				id: "167B3EBC6654C593"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["74DE9F7ABB40AA80"]
+			id: "290660244DBBB1CF"
+			shape: "square"
+			tasks: [{
+				id: "3F27F65B329DC78A"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["74DE9F7ABB40AA80"]
+			id: "2406AE60006228F5"
+			shape: "square"
+			tasks: [{
+				id: "19D78C48F06B2428"
+				item: "minecraft:magma_block"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7471D82A1BA8D570"
+				"6563FEC158B7F077"
+			]
+			description: [
+				"Mixing the Acid and Liquid Fertilizer together will give you Etching Acid. "
+				""
+				"You need Etching Acid for Advanced Machine Frames, as well as Printed Circuit Boards."
+			]
+			id: "6A9F8EC2983416A2"
+			shape: "square"
+			tasks: [{
+				id: "0DDE4BBAFFD5F006"
+				item: "pneumaticcraft:fluid_mixer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "6272AE823423CC4E"
+			shape: "square"
+			tasks: [
+				{
+					id: "328B0D5CE914D38D"
+					item: "create:spout"
+					type: "item"
+				}
+				{
+					id: "248DAA89D00ADED3"
+					item: "industrialforegoing:machine_frame_simple"
+					type: "item"
+				}
+			]
+			title: "Spout It All Out"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6A9F8EC2983416A2"]
+			icon: "pneumaticcraft:etching_acid_bucket"
+			id: "4B91C26BF35D9C77"
+			shape: "gear"
+			tasks: [{
+				id: "4E3824B566460E8F"
+				item: "pneumaticcraft:etching_acid_bucket"
+				type: "item"
+			}]
+			title: "Etching Acid"
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3BB54A2C62D6FCAF"]
+			description: ["The mob farm from Age 1 should have plenty of Fluid XP."]
+			icon: "mob_grinding_utils:fluid_xp_bucket"
+			id: "6AF4F643F48334B1"
+			shape: "square"
+			tasks: [{
+				id: "6CA8CB746C10399E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Fluid XP"
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["52A9EE1B30F5303C"]
+			icon: "sliceanddice:fertilizer_bucket"
+			id: "7471D82A1BA8D570"
+			shape: "square"
+			tasks: [{
+				id: "52809D5D1846EE60"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Liquid Fertilizer"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["790B71E97CEF6D92"]
+			icon: "biomancy:acid_bucket"
+			id: "6563FEC158B7F077"
+			shape: "square"
+			tasks: [{
+				id: "047744A903C418F1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Acid"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3BB54A2C62D6FCAF"]
+			icon: "pneumaticcraft:lpg_bucket"
+			id: "548D201B35F09AA2"
+			shape: "square"
+			tasks: [{
+				id: "23B075A5A90CC57F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "LPG"
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"3BB54A2C62D6FCAF"
+				"6AF4F643F48334B1"
+				"548D201B35F09AA2"
+			]
+			id: "790B71E97CEF6D92"
+			shape: "square"
+			tasks: [{
+				id: "4FA80B4AC0180710"
+				item: "pneumaticcraft:fluid_mixer"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3BB54A2C62D6FCAF"]
+			description: [
+				"You should use up to &94 Refinery Outputs&r to store each fluid, and help retain heat on the machine. "
+				""
+				"Once the refinery is filled up with &3Crude Oil&r and it reaches at least 100 degrees it will refine into 4 different fluids:"
+				""
+				"&3Diesel&r"
+				"&3Kerosene&r"
+				"&3Gasoline&r"
+				"&3LPG&r"
+				""
+				"The trapdoors you see in the image assist in insulating the refinery."
+				""
+				""
+				"{image:kubejs:textures/pneumaticcraft/pneumatic_refinery.png width:200 height:200 align:center}"
+			]
+			id: "378155911EDFB625"
+			shape: "square"
+			tasks: [
+				{
+					id: "678CA803F5C7EF4E"
+					item: "pneumaticcraft:refinery"
+					type: "item"
+				}
+				{
+					id: "4D58689D30D358E5"
+					item: "pneumaticcraft:refinery_output"
+					type: "item"
+				}
+			]
+			title: "You're So Refine"
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3BB54A2C62D6FCAF"]
+			icon: "pneumaticcraft:oil_bucket"
+			id: "619F057715E5431F"
+			shape: "square"
+			tasks: [{
+				id: "20C3EC932F90EC0A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Crude Oil"
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			description: [
+				"If you don't want to go out, find oil and move it closer to base, you can always get yourself some Oily Bees! "
+				""
+				"Just head out to the Deep Ocean biome with your boat, fishing rod, and some bee cages. Once you've caught yourself some Oily Bees you will need to make a little home for them. "
+			]
+			icon: {
+				Count: 1
+				id: "productivebees:spawn_egg_configurable_bee"
+				tag: {
+					EntityTag: {
+						type: "productivebees:oily"
+					}
+				}
+			}
+			id: "666F4E6C2C34A2CB"
+			tasks: [{
+				id: "1F17FA7E2F97C647"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Oily Bee"
+			x: -1.5d
+			y: 8.5d
+		}
+		{
+			id: "47682B9D5AF320D8"
+			tasks: [{
+				id: "35854DBD67EE7769"
+				item: "productivebees:centrifuge"
+				type: "item"
+			}]
+			title: "Centrifuge"
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["26D25A67CF2380E6"]
+			description: ["You will need to progress in Biomancy to make any Bio-Alchemical Fertilizer."]
+			id: "4E53BF05F72DC512"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "161E140607856403"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "57D739F060B9035C"
+				item: "biomancy:fertilizer"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["26D25A67CF2380E6"]
+			icon: "mob_grinding_utils:fluid_xp_bucket"
+			id: "299E76AB46AB5D90"
+			shape: "square"
+			tasks: [{
+				id: "2BC19D795B90BEAC"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Fluid XP"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["26D25A67CF2380E6"]
+			description: [
+				""
+				"In the example the &9Thermopneumatic Processing Plant&r is on the ground and has Industrial Foregoing &3Plastic&r, a &3Dispenser Upgrade&r, and a &3Security Upgrade&r. A &3Heat Pipe&r used to transfer heat comes out of the back of the processing plant, while a &3Vortex Tube&r with the red side touching the &3Heat Pipe&r begins the heating process. "
+				""
+				"Once the plant reaches 100 degrees it will begin mixing &3Bio Diesel&r or &3LPG&r, and Industrial Foregoing &3Plastic&r to get &3Molten Plastic&r."
+				""
+				" "
+				"{image:kubejs:textures/pneumaticcraft/pneumatic_thermo.png width:200 height:150 align:center}"
+			]
+			id: "52A9EE1B30F5303C"
+			shape: "square"
+			tasks: [{
+				id: "711EB31667C7A48B"
+				item: "pneumaticcraft:thermopneumatic_processing_plant"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "68C8F1782C968DDB"
+			tasks: [{
+				id: "09816FE4A417EA7F"
+				item: "minecraft:beehive"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2D1FAA0187DF7378"]
+			description: ["{image:kubejs:textures/pneumaticcraft/pneumatic_laser_drill.png width:250 height:200 align:center}"]
+			id: "09746EBDE4B1BEF6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B0FF2CDB2B6172D"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "3CCD378C23558366"
+					item: "pneumaticcraft:assembly_controller"
+					type: "item"
+				}
+				{
+					id: "3571E7B665426792"
+					item: "pneumaticcraft:assembly_platform"
+					type: "item"
+				}
+				{
+					id: "1E633DD9808315A1"
+					item: "pneumaticcraft:assembly_io_unit_export"
+					type: "item"
+				}
+				{
+					id: "2427F06CFE129D7A"
+					item: "pneumaticcraft:assembly_io_unit_import"
+					type: "item"
+				}
+				{
+					id: "67519E4CDE4B3EE8"
+					item: "pneumaticcraft:assembly_drill"
+					type: "item"
+				}
+			]
+			title: "Assembly Drill"
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"1F761F428F0BDCEF"
+				"1A7E8699016A89A9"
+				"6D02D1091AF8E946"
+				"7F850B9715DE3AF8"
+				"7EA1BE0F4E6AFD53"
+				"54E1F8B94D391B57"
+			]
+			id: "2D1FAA0187DF7378"
+			shape: "square"
+			tasks: [{
+				id: "331BBD969931BAA7"
+				item: "kubejs:box_of_supreme_machine_frame_parts"
+				type: "item"
+			}]
+			title: "Box of Supreme Machine Frame Parts"
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["280BB7C5FD073093"]
+			id: "6D02D1091AF8E946"
+			shape: "square"
+			tasks: [{
+				id: "2DF25903B68A6031"
+				item: "pneumaticcraft:compressed_iron_gear"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["280BB7C5FD073093"]
+			id: "1F761F428F0BDCEF"
+			shape: "square"
+			tasks: [{
+				id: "3CCD65E5E923F119"
+				item: "kubejs:empty_box"
+				type: "item"
+			}]
+			title: "Empty Box"
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["280BB7C5FD073093"]
+			id: "1A7E8699016A89A9"
+			shape: "square"
+			tasks: [{
+				id: "0301962F8099A441"
+				item: "industrialforegoing:machine_frame_advanced"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["280BB7C5FD073093"]
+			id: "7F850B9715DE3AF8"
+			shape: "square"
+			tasks: [{
+				id: "3973429B570633AB"
+				item: "create:sturdy_sheet"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["280BB7C5FD073093"]
+			id: "7EA1BE0F4E6AFD53"
+			shape: "square"
+			tasks: [{
+				count: 3L
+				id: "636BAC80224EDF20"
+				item: { Count: 3, id: "create:iron_sheet" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"280BB7C5FD073093"
+				"09AE7AE3082523FB"
+			]
+			description: ["{@pagebreak}"]
+			id: "54E1F8B94D391B57"
+			shape: "square"
+			tasks: [{
+				id: "338DAD76FA8E54D6"
+				item: "thermal:diamond_gear"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			description: [
+				"You'll need to setup a &9Sequenced Assembly&r for the &9Pity Machine Frame&r. "
+				""
+				"Start with 1 &3Brass Casing&r"
+				"Deploy (Any plank)"
+				"Saw "
+				"Deploy (&3Wooden Gear&r) "
+				"Deploy (&3Iron Sheet&r) "
+				"Press"
+			]
+			id: "4388077AB25A92E0"
+			shape: "diamond"
+			tasks: [{
+				id: "131D1BA4D1D5041F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making a Pity Machine Frame"
+			x: -11.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"If you wash a &3Magma Block&r you will get &3Obsidian&r."
+				""
+				"Send the &3Obsidian&r through some &9Crushing Wheels&r to get &3Powdered Obsidian&r."
+			]
+			id: "74DE9F7ABB40AA80"
+			shape: "diamond"
+			tasks: [{
+				id: "7E91A57DE4D2154C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Powdered Obsidian"
+			x: -6.0d
+			y: 9.0d
+		}
+		{
+			description: [
+				"To make &3Acid&r you'll need to put &3Crude Oil&r into a Pneumaticcraft &9Refinery&r which will get you &3Diesel&r, &3Kerosene&r, &3Gasoline&r, and &3LPG&r."
+				""
+				"Feed the &3LPG&r and some &3Fluid XP&r to a Pneumaticcraft &9Fluid Mixer&r to get &3Acid&r."
+			]
+			id: "3BB54A2C62D6FCAF"
+			shape: "diamond"
+			tasks: [{
+				id: "45EB05E5EF628A93"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Acid"
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			description: ["To make &3Liquid Fertilizer&r you will need to put &3Bio-Alchemical Fertilizer&r from Biomancy and some &3Water&r in a &9Thermopneumatic Processing Plant&r."]
+			id: "26D25A67CF2380E6"
+			shape: "diamond"
+			tasks: [{
+				id: "319939A9D8591ADF"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Liquid Fertilizer"
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			description: [
+				"You'll need to craft together an &3Empty Box&r, &3Advanced Machine Frame&r, &3Compressed Iron Gear&r, &3Sturdy Sheet&r, &33 Iron Sheet&r, and some &3Pressure Chamber Glass&r to get the &3Supreme Machine Frame Parts Box&r."
+				""
+				"Place the parts box in your &9Drill Assembly&r to get a &3Supreme Machine Frame&r."
+			]
+			id: "280BB7C5FD073093"
+			shape: "diamond"
+			tasks: [{
+				id: "4EEA818EB8636057"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making a Box of Machine Parts"
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["68C8F1782C968DDB"]
+			id: "42DBEC4DF9FF15AD"
+			tasks: [{
+				id: "105AE12586CFE044"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "productivebees:advanced_beehives"
+					}
+				}
+				title: "Any Advanced Beehive"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			id: "7D5189CE8795DE03"
+			tasks: [{
+				id: "0B30C72A4ADD2DC1"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "productivebees:expansion_boxes"
+					}
+				}
+				title: "Any Expansion Box"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			description: [
+				"A Mob Grinder should be a great way to get some &3Bone.&r You can also make yourself a Bone Chicken for some &3Bone Meal&r."
+				""
+				"Later you willl be able to use Hostile Neural Networks, Mystical Agriculture, and Productive Bees."
+			]
+			id: "50442279240DDA69"
+			shape: "diamond"
+			tasks: [{
+				id: "1A57CE18CEF67147"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Bone"
+			x: -7.0d
+			y: 6.0d
+		}
+		{
+			description: [
+				"You may not be able to make &3Diamond&r just yet, but you shouldn't need the supreme frames until later anyways."
+				""
+				"You'll soon be able to use Mystical Agriculture and Productive Bees if you aren't already. "
+				""
+				"If you're swimming in coal, you can turn 8 blocks of coal into a &3Diamond&r in the &9Pressure Chamber&r as well. "
+			]
+			id: "09AE7AE3082523FB"
+			shape: "diamond"
+			tasks: [{
+				id: "0CFE80EC2D0FFE73"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Diamond"
+			x: 7.0d
+			y: 5.5d
+		}
+	]
+	title: "Tech"
+}

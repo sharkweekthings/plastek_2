@@ -1,0 +1,845 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "music_discs"
+	group: "1D085754C16989B5"
+	icon: "minecraft:music_disc_13"
+	id: "31392E1B75058B4D"
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1B97B058B91D5919"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78950F0E8C01CDA7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "772AA253ABAE3DF4"
+				item: "minecraft:music_disc_13"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2E54E4FF3ED87A2E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A8C6253881BE4A4"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "28959A9EBBE32BAF"
+				item: "minecraft:music_disc_cat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "2785A94A3532F6ED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57A49BB36890A619"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0FF558683A7F26A7"
+				item: "minecraft:music_disc_blocks"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "29D7BFB1E5BDD0DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A45941732F94243"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7B7C40128A32C578"
+				item: "minecraft:music_disc_chirp"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "66BDAD9D6D2D4CCF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "686C4E6D58458869"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7945C335C9A690FA"
+				item: "minecraft:music_disc_far"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "49A40F5653CB0C44"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02FF073FB19D9D47"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5A47D77937493B6B"
+				item: "minecraft:music_disc_mall"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "557E33AD7B688BE2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61AB773D1831BCF9"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57FE28B4BFA7CA0A"
+				item: "minecraft:music_disc_mellohi"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "25BD35BC2CF242CA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5230767CA7B23279"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5CA184D971EDE4E4"
+				item: "minecraft:music_disc_stal"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "6C99F6D1DC862A4F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "097CAB1AB24172F7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3BB7B98E19CE7AD6"
+				item: "minecraft:music_disc_strad"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "0EC65BBB7394D1F0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42A0AFBBC28A1B9A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1F795ADC19B30D12"
+				item: "minecraft:music_disc_11"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "7EE8B1356221244E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49D2D49A18853F20"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "076B8AD443DC3513"
+				item: "minecraft:music_disc_wait"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "05D1C3AC17FE8C6A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3709D5711DE02C8B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "55D00B504F691979"
+				item: "minecraft:music_disc_otherside"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "7B10BF3477DA2734"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1237EE37F5193EAD"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "25C87E8AB8FF4E8D"
+				item: "minecraft:music_disc_5"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "7730F5EA9103AC9E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "221FFD8BB52C2C78"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "39D627A829600070"
+				item: "minecraft:music_disc_pigstep"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "14C45038A86C5492"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60DA36F039197B81"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "471E12415F0E6713"
+				item: "minecraft:music_disc_relic"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "769202A6D18568DA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CC44551B2D99186"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5D82F17A38F10FA4"
+				item: "quark:music_disc_endermosh"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "0636D7E824A2C3F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CFA532B7DB055C2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "76034AE39596DA21"
+				item: "quark:music_disc_chatter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "567FB3DCF73B6D50"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44BC9BC2BD7106E1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "23FB45017BF4FD6D"
+				item: "quark:music_disc_crickets"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "2C5EBA1820B93EC2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3516C6C245425DC9"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "68EFDF6171513B19"
+				item: "quark:music_disc_clock"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "558B1EDDAF8F6FA1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B71A76BD69AD586"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "085328698D4596EE"
+				item: "quark:music_disc_fire"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "74B588839ACA2632"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "545876957745C0A5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "266C6611162DEEAE"
+				item: "quark:music_disc_wind"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "0C3C243567C5CFB3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38EDBE581FC999A8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "42391C4175E85DC8"
+				item: "quark:music_disc_rain"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "6D80630C53E9E5E8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D9612BFB37CB737"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3CFC8A3C8CA2D0F7"
+				item: "quark:music_disc_ocean"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "24C2636D6E796A3F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65D3F5BC790F9013"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78630FDA2636734F"
+				item: "quark:music_disc_drips"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "114C3CABF4694D65"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "620A69B834C324FE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4A10A548D81E007C"
+				item: "the_bumblezone:music_disc_flight_of_the_bumblebee_rimsky_korsakov"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "11F3B311C3CD4CAB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00786FC4373093A1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "25480FEB186E76AC"
+				item: "the_bumblezone:music_disc_honey_bee_rat_faced_boy"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "593CC02973FBE990"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3ED5EF35FFE8A946"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "62FCFE256FA9A79E"
+				item: "the_bumblezone:music_disc_la_bee_da_loca"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "5293EC41B54B7985"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D7F0EA3C0DE7E3C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5BF5794B0CE8FADA"
+				item: "the_bumblezone:music_disc_bee_laxing_with_the_hom_bees"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			id: "65D2BC122354E1C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41381539E1817889"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "033DFAB4092C2811"
+				item: "the_bumblezone:music_disc_bee_ware_of_the_temple"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "7E77F732386BEAC4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "212704572676D703"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "690A421ACEAB778F"
+				item: "the_bumblezone:music_disc_knowing_renren"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			id: "4F0432B01BAD7B4B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6635EC4FE99A693C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A8B90EEB973A93B"
+				item: "the_bumblezone:music_disc_radiance_renren"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			id: "2AB2F1755DA79A76"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "247BEEA87884F400"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0CB338EAB5280C6F"
+				item: "the_bumblezone:music_disc_life_renren"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "7642AEC6F88F3C6B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03BAFEE2D5D1522B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3A1E31B1099B7D94"
+				item: "the_bumblezone:music_disc_drowning_in_despair"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "3FB7E60E79F129B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15A74C0559FCB34B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "505143572E2658AE"
+				item: "the_bumblezone:music_disc_a_last_first_last"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "2F2E208C6B85C768"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F647164A84455D3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6FFA3EC5EBA90ED5"
+				item: "mowziesmobs:music_disc_petiole"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "3F81F48B9B67524F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68A475F3928A9701"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "235559318DE7ACF2"
+				item: "idas:music_disc_slither"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "06D2A96B5BA80A23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AA733C9FC0FF16B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7C371FAF1B576822"
+				item: "idas:music_disc_calidum"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "1A4E74FDD2D17658"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13D899A95A71D7CB"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "68214440013A7CB2"
+				item: "biomesoplenty:music_disc_wanderer"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "1FE7C82CECFB6850"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16F679A810507C60"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "599241971EE7CD2D"
+				item: "botania:record_gaia_1"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "3F12047AE4B0F28B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "537725A7B63E9D36"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "54D0C3184AD865DE"
+				item: "botania:record_gaia_2"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "64F4067D16760A09"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A5D7FED374FBD2E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "249D27A094E8AFE8"
+				item: "blue_skies:population"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "442D5E63B4C5BF24"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1759B3A17A676467"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "33D424E2D6167980"
+				item: "blue_skies:blinding_rage"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "1D53DA5D312BBEB0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42CA63D9A5A63E16"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "11E27528A0F28BC2"
+				item: "blue_skies:defying_starlight"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "354971DAE40DC3CC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C5F98221A4DBF3E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1FA4424D139E90EE"
+				item: "blue_skies:venomous_encounter"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "5115FE3FFDA6B35D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "228E8CA3B30FC6E4"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3F566EBE916051B0"
+				item: "aether:music_disc_aether_tune"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "6105723ECFED384F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15330A63F0DD5D2B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78A813F392712966"
+				item: "aether:music_disc_ascending_dawn"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "588275F697B0D97E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D0BAE877478E97D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6A3100DF10942617"
+				item: "cataclysm:music_disc_netherite_monstrosity"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "1ACFBE26907FD5B2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D8E182D6ABCD735"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "786C8FDC7BE19FEE"
+				item: "cataclysm:music_disc_ender_guardian"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "46E0AC7D57E7FFAF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "642663ABB76EF78C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "091A8B95F740978B"
+				item: "cataclysm:music_disc_ignis"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			id: "7EFE6B546CC6A6BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53750A20357ACD15"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5F579A855E736DBE"
+				item: "cataclysm:music_disc_the_harbinger"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			id: "254EE026FED1A479"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32CB7C58E484D758"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "08CE47627028467E"
+				item: "cataclysm:music_disc_the_leviathan"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			id: "1CE66ED235F51EC2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76B6B8BB541142F7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10BB82B57AEBD136"
+				item: "cataclysm:music_disc_ancient_remnant"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+	]
+	title: "Music Discs"
+}

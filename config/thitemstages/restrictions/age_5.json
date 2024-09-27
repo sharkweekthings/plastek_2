@@ -1,0 +1,27 @@
+{
+  "Restriction Data": {
+    "stage": "age_5",
+    "itemList": [],
+    "modList": [],
+    "tagList": [
+      "p2:age_5_item"
+    ],
+    "exceptionList": [
+      {"tag": "p2:age_5_exception"}
+    ],
+    "containerList": []
+  },
+  "Settings": {
+    "advancedTooltips": "ALWAYS",
+    "itemTitle": "Unusable Item",
+    "pickupDelay": 15,
+    "hideInJEI": true,
+    "canPickup": false,
+    "containerListWhitelist": false,
+    "checkPlayerInventory": true,
+    "checkPlayerEquipment": true,
+    "destroyableBlocks": false,
+    "usableItems": false,
+    "usableBlocks": false
+  }
+}

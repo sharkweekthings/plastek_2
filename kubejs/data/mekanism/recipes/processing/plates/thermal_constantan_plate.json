@@ -1,0 +1,1 @@
+{"type":"mekanism:compressing","chemicalInput":{"amount":1,"gas":"mekanism:osmium"},"itemInput":{"ingredient":{"tag":"forge:ingots/constantan"}},"output":{"count":3,"item":"thermal:constantan_plate"}}

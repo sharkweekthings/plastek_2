@@ -1,0 +1,1 @@
+{"type":"mekanism:compressing","chemicalInput":{"amount":1,"gas":"mekanism:osmium"},"itemInput":{"ingredient":{"tag":"forge:ingots/gold"}},"output":{"count":4,"item":"create:golden_sheet"}}

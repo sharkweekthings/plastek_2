@@ -1,0 +1,1257 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aether"
+	group: "7CE349CFA49357E1"
+	icon: "aether:aether_portal_frame"
+	id: "5FEECE6159D922DE"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "38C77DACEF76F7A3"
+			tasks: [{
+				id: "319A982A3689CA85"
+				item: {
+					Count: 1
+					id: "aether:skyroot_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			id: "03001C0AFEACEF4E"
+			tasks: [{
+				id: "317644243BBE3E21"
+				item: {
+					Count: 1
+					id: "aether:skyroot_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			id: "4535083DE3E949BE"
+			tasks: [{
+				id: "30DE6BE425529B4A"
+				item: {
+					Count: 1
+					id: "aether:skyroot_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.5d
+		}
+		{
+			id: "29BCA664A839ED7E"
+			tasks: [{
+				id: "07DD5361BFB0FFBB"
+				item: {
+					Count: 1
+					id: "aether:skyroot_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.5d
+		}
+		{
+			id: "2BB4B923281678B8"
+			tasks: [{
+				id: "0914105C7FE75FB8"
+				item: {
+					Count: 1
+					id: "aether:holystone_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			id: "44DFF408D8E9F28F"
+			tasks: [{
+				id: "3720676C39F58814"
+				item: {
+					Count: 1
+					id: "aether:holystone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			id: "1E219EC35B250272"
+			tasks: [{
+				id: "7247CA38E7A01D43"
+				item: {
+					Count: 1
+					id: "aether:holystone_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			id: "02C89EF27C726D78"
+			tasks: [{
+				id: "75AFA92001080151"
+				item: {
+					Count: 1
+					id: "aether:holystone_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			id: "369FF8A86751EDCD"
+			tasks: [{
+				id: "0FE681ED20CBE429"
+				item: {
+					Count: 1
+					id: "aether:zanite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "216D58291C33051C"
+			tasks: [{
+				id: "4A7D7BEFB64AAC2B"
+				item: {
+					Count: 1
+					id: "aether:zanite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "6F0CCA3DA01F810C"
+			tasks: [{
+				id: "2733579F0C6E1249"
+				item: {
+					Count: 1
+					id: "aether:zanite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "52BCECCB10A6E8D8"
+			tasks: [{
+				id: "74E6F912367A4581"
+				item: {
+					Count: 1
+					id: "aether:zanite_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "0D6970EC5F893993"
+			tasks: [{
+				id: "0BC9112C489A97DC"
+				item: {
+					Count: 1
+					id: "aether:gravitite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			id: "23C3A6658764BA6B"
+			tasks: [{
+				id: "67EFCD860EF95956"
+				item: {
+					Count: 1
+					id: "aether:gravitite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			id: "6FFE79F9BF108A21"
+			tasks: [{
+				id: "3D1754DAC13CBA42"
+				item: {
+					Count: 1
+					id: "aether:gravitite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			id: "6F0F8E574BC93429"
+			tasks: [{
+				id: "60C25F0574B96A64"
+				item: {
+					Count: 1
+					id: "aether:gravitite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			id: "603C591DD5DC59ED"
+			tasks: [{
+				id: "62B0CFD178409F6F"
+				item: {
+					Count: 1
+					id: "aether:zanite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "1FD294EF6EFDBD62"
+			tasks: [{
+				id: "40F10B4FC8F1B5D5"
+				item: {
+					Count: 1
+					id: "aether:zanite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			id: "0912634CCD5491A0"
+			tasks: [{
+				id: "619F7D3D1445B553"
+				item: {
+					Count: 1
+					id: "aether:zanite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			id: "3FB999D11F363575"
+			tasks: [{
+				id: "00F37C41301FFB64"
+				item: {
+					Count: 1
+					id: "aether:zanite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			id: "5E62FA9D7C89CE78"
+			tasks: [{
+				id: "5401BDB9CC3956F4"
+				item: {
+					Count: 1
+					id: "aether:gravitite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			id: "0EE1C246870668FA"
+			tasks: [{
+				id: "074210EDB24E0BE5"
+				item: {
+					Count: 1
+					id: "aether:gravitite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+		{
+			id: "74EAF22F59DB384D"
+			tasks: [{
+				id: "23CD9B72F73058CE"
+				item: {
+					Count: 1
+					id: "aether:gravitite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			id: "37D94DC09BC91AAE"
+			tasks: [{
+				id: "56CCB4274D46DBB0"
+				item: {
+					Count: 1
+					id: "aether:gravitite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			id: "605E8C4A4CD60BDA"
+			tasks: [{
+				id: "2F139F0F9387FF1B"
+				item: {
+					Count: 1
+					id: "aether:skyroot_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			id: "298C35C8B37C596E"
+			tasks: [{
+				id: "18A29E306E560C62"
+				item: {
+					Count: 1
+					id: "aether:holystone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			id: "2333F0D2115D32E3"
+			tasks: [{
+				id: "543D71F3F31F8688"
+				item: {
+					Count: 1
+					id: "aether:zanite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "762F348921E1BF08"
+			tasks: [{
+				id: "292F920AF2BC6825"
+				item: {
+					Count: 1
+					id: "aether:gravitite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["483E7C2F49BBBAA3"]
+			id: "0D3E1F6DE2809DEE"
+			shape: "square"
+			subtitle: "Enter the Aether."
+			tasks: [{
+				advancement: "aether:enter_aether"
+				criterion: ""
+				id: "3478B4E3E3020E46"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"The Aether Portal Frame can be constructed in the same basic shape as a Nether portal. "
+				""
+				"You'll need to use Glowstone blocks as the frame, and pour a Bucket of Water to light it."
+			]
+			id: "7F6C916CD6C735FF"
+			rewards: [{
+				icon: "supplementaries:sign_post_oak"
+				id: "2BD3AAFE9A21EE30"
+				title: "Unlock Aether Equipment"
+				type: "custom"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1ACF1C57D70FF47A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Aether"
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			id: "066467E4823CBC24"
+			shape: "square"
+			tasks: [
+				{
+					count: 128L
+					id: "3088210677C84708"
+					item: "aether:skyroot_log"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "50BF3FEEBB2D1FF6"
+					item: "aether:golden_oak_log"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "7236A01FCDA35230"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "6E448F472351EF0A"
+				item: "aether:aether_dirt"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "7F5DB7A2FAF29DC5"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "28E647E085754530"
+				item: "aether:holystone"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7F6C916CD6C735FF"]
+			id: "483E7C2F49BBBAA3"
+			shape: "square"
+			subtitle: "Build an Aether Portal."
+			tasks: [{
+				advancement: "aether:the_aether"
+				criterion: ""
+				id: "3651E6D7E1571AA8"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			description: ["This one isn't as common, but you can find it inside the islands if you mine around."]
+			id: "122ED62E307C47D2"
+			shape: "square"
+			tasks: [{
+				count: 64L
+				id: "69FEE8BED873E673"
+				item: "aether:icestone"
+				type: "item"
+			}]
+			title: "64x Icestone"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"7F5DB7A2FAF29DC5"
+				"7236A01FCDA35230"
+				"066467E4823CBC24"
+				"122ED62E307C47D2"
+			]
+			id: "7798C9A4C4F49A72"
+			shape: "square"
+			tasks: [{
+				id: "687BC80B7E5E12C0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Blocks of the Aether"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			id: "5BCA672B6AACC589"
+			shape: "square"
+			tasks: [{
+				entity: "aether:valkyrie"
+				id: "5FA705AD3B058FE7"
+				type: "kill"
+				value: 5L
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			id: "7FDF4B5A5348079A"
+			shape: "square"
+			tasks: [{
+				entity: "iceandfire:cockatrice"
+				id: "1E5D8A94D0C22917"
+				type: "kill"
+				value: 5L
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "3BEF6926D2756EB3"
+			shape: "square"
+			tasks: [
+				{
+					entity: "aether:blue_swet"
+					id: "4F3C0E4FD29B22C3"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "aether:golden_swet"
+					id: "0A220EFAF9659C43"
+					type: "kill"
+					value: 5L
+				}
+			]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "0897CA9CA0EB0F7A"
+			shape: "square"
+			tasks: [{
+				entity: "aether:moa"
+				id: "1141825ABD355B32"
+				type: "kill"
+				value: 5L
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "6DE017BFFE339BDA"
+			shape: "square"
+			tasks: [
+				{
+					entity: "aether:phyg"
+					id: "7C36096259B7D03C"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "aether:flying_cow"
+					id: "4C501229678E6E36"
+					type: "kill"
+					value: 5L
+				}
+			]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3BEF6926D2756EB3"
+				"5BCA672B6AACC589"
+				"6DE017BFFE339BDA"
+				"7FDF4B5A5348079A"
+				"0897CA9CA0EB0F7A"
+				"0D3E1F6DE2809DEE"
+			]
+			id: "717AF1AC76C7BF56"
+			shape: "square"
+			tasks: [{
+				id: "51F03B7C259496A2"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Slayther"
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0D3E1F6DE2809DEE"]
+			description: [
+				"The &6Slider&r will move around the room gaining speed as you do damage to it. "
+				""
+				"The only way to do any damage is to use a pick axe."
+			]
+			id: "494C2037579B3BCB"
+			shape: "gear"
+			tasks: [{
+				advancement: "aether:bronze_dungeon"
+				criterion: ""
+				id: "1E4A2AB92F576040"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["59867522AC65408D"]
+			description: [
+				"The &6Valkyrie Queen&r uses basic melee attacks, but hits very hard. "
+				""
+				"Netherite or better gear is suggested. "
+				""
+				"Anything that increases your attack range will help make the fight easier."
+			]
+			id: "7E3409C2AC004328"
+			shape: "gear"
+			tasks: [{
+				advancement: "aether:silver_dungeon"
+				criterion: ""
+				id: "75E23BBC5D92D067"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2A8CD6FAFEB9B45C"]
+			description: [
+				"The &6Sun Spirit&r cannot be damaged with basic weapons. "
+				""
+				"In order to damage the boss, you will need to wait for Ice Crystals to be launched, and hit them with your sword toward the Sun Spirt. This will spawn an add that you can attack with your sword. "
+			]
+			id: "188497DE4C468D17"
+			shape: "gear"
+			tasks: [{
+				advancement: "aether:gold_dungeon"
+				criterion: ""
+				id: "032A7EB00516DBA9"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0D3E1F6DE2809DEE"]
+			description: [
+				"This dungeon can be located underground. "
+				""
+				"Sentry Mobs will be activated as you adventure through the dungeon and will explode on you."
+			]
+			id: "65F4EC0821069176"
+			shape: "square"
+			tasks: [{
+				id: "1DF02668F461F86D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Bronze Dungeon"
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0D3E1F6DE2809DEE"]
+			description: [
+				"This dungeon can be located floating on clouds in the sky. "
+				""
+				"The Valkyrie that inhabit this dungeon are non aggressive, but will fight back if they are attacked. You will need to kill regular Valkyrie until you get 10 Victory Medals. "
+			]
+			id: "59867522AC65408D"
+			shape: "square"
+			tasks: [{
+				id: "205925F91B1D415C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Silver Dungeon"
+			x: 11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0D3E1F6DE2809DEE"]
+			description: [
+				"This dungeon can be located by finding islands that have many Golden Oak trees. "
+				""
+				"The dungeon is only 1 room that consists of the &6Sun Spirit&r that deals heavy fire damage. "
+			]
+			id: "2A8CD6FAFEB9B45C"
+			shape: "square"
+			tasks: [{
+				id: "18C9F7E5DDBE2BDA"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Gold Dungeon"
+			x: 13.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["494C2037579B3BCB"]
+			description: [
+				"Agility Cape - Step assist +1"
+				""
+				"Cloud Staff - Summons clouds next to you that fire ice balls at the mobs you fight"
+				""
+				"Flaming Sword - Sets mobs on fire"
+				""
+				"Hammer of Kingbdogz - Melee weapon that can shoot projectiles"
+				""
+				"Lightning Knife - Throw the knife, and lightning will hit the spot it lands."
+				""
+				"Phoenix Bow - Sets mobs on fire"
+				""
+				"Sentry Boots - Protect you from fall damage"
+				""
+				"Shield of Repulsion - Reflects projectiles back at the attacker"
+				""
+				"Swet Cape - Lets you ride the Swet mob"
+				""
+				"Valkyrie Lance - Increases Reach"
+			]
+			id: "0C95B5412A9B24A2"
+			tasks: [
+				{
+					id: "340E9F453D447DFF"
+					item: "aether:agility_cape"
+					type: "item"
+				}
+				{
+					id: "21BCF3DB5FBB26C0"
+					item: {
+						Count: 1
+						id: "aether:cloud_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "53A2F3EE56CF9520"
+					item: {
+						Count: 1
+						id: "aether:flaming_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D6E77E705822DA2"
+					item: {
+						Count: 1
+						id: "aether:hammer_of_kingbdogz"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74490FFC49739EFD"
+					item: "aether:lightning_knife"
+					type: "item"
+				}
+				{
+					id: "78980C9197EB74E6"
+					item: {
+						Count: 1
+						id: "aether:phoenix_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "370BC27F839C1416"
+					item: {
+						Count: 1
+						id: "aether:sentry_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0789CF02C40E0901"
+					item: {
+						Count: 1
+						id: "aether:shield_of_repulsion"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20A0541E06C629EF"
+					item: "aether:swet_cape"
+					type: "item"
+				}
+				{
+					id: "26A4AEA918669A3A"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_lance"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Bronze Loot"
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7E3409C2AC004328"]
+			description: [
+				"Holy Sword - +15 damage to Undead mobs"
+				""
+				"Invisibility Cloak - Makes you invisible"
+				""
+				"Lightning Sword - Enemies you hit are also struck with lightning"
+				""
+				"Neptune armor - swim faster"
+				""
+				"Regeneration Stone - Provides regeneration"
+				""
+				"Valkyire armor and gloves - Full set gives temporary flight"
+				""
+				"Valkyrie Cape - Slowfall"
+				""
+				"Valkyrie Tools - Increased reach"
+			]
+			id: "38C03655038C3024"
+			tasks: [
+				{
+					id: "593B7EE016C2A9D6"
+					item: {
+						Count: 1
+						id: "aether:holy_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E278475981BE8E5"
+					item: "aether:invisibility_cloak"
+					type: "item"
+				}
+				{
+					id: "0BCC5165EB244988"
+					item: {
+						Count: 1
+						id: "aether:lightning_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FBD2B6B0814F20B"
+					item: "aether:regeneration_stone"
+					type: "item"
+				}
+				{
+					id: "10C54C7DE98487C8"
+					item: "aether:valkyrie_cape"
+					type: "item"
+				}
+			]
+			title: "Silver Loot"
+			x: 12.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["188497DE4C468D17"]
+			description: [
+				"Iron Bubble - Breathe underwater"
+				""
+				"Lifeshard - Permanent Extra HP"
+				""
+				"Phoenix armor - Swim in lava with full fire resistance. DON'T swim in water unless you want Obsidian armor"
+				""
+				"Pig Slayer - Massive damage to pig type mobs"
+				""
+				"Sun Altar - Control time in Aether"
+				""
+				"Vampire Blade - Lifesteal"
+			]
+			id: "4AE7053795DC6692"
+			tasks: [
+				{
+					id: "585FADFA76245EF2"
+					item: "aether:iron_bubble"
+					type: "item"
+				}
+				{
+					id: "48E932E94F377B67"
+					item: "aether:life_shard"
+					type: "item"
+				}
+				{
+					id: "03E3D427D59AA7BE"
+					item: {
+						Count: 1
+						id: "aether:pig_slayer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71CAFA64EB2977A3"
+					item: "aether:sun_altar"
+					type: "item"
+				}
+				{
+					id: "7A2844C815B98B84"
+					item: {
+						Count: 1
+						id: "aether:vampire_blade"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Golden Loot"
+			x: 14.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"188497DE4C468D17"
+				"7798C9A4C4F49A72"
+				"717AF1AC76C7BF56"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:magical_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6C2D7E8B643C1E19"
+			rewards: [{
+				id: "5B734B582AD40F26"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "4B21A14957E2E066"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Aether Eye"
+			x: 15.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7E3409C2AC004328"]
+			id: "7CF00AF1BF6BA5B4"
+			subtitle: "Temporary flight"
+			tasks: [
+				{
+					id: "57C5400AE47095D6"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "33198971C3D84016"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E8267F16FB3DA92"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B1125D7672ACDC3"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F97CD6DBB7A4D5D"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_gloves"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Valkyrie Gear"
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7E3409C2AC004328"]
+			id: "6E4DD857895D928A"
+			tasks: [
+				{
+					id: "4760D0B5587D6DBD"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "162771819BA780F1"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46E593AFC6767A02"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0DF2EEBF8ED8925F"
+					item: {
+						Count: 1
+						id: "aether:valkyrie_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Valkyrie Tools"
+			x: 12.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7E3409C2AC004328"]
+			id: "59B786BFD145032C"
+			subtitle: "Various swimming benefits"
+			tasks: [
+				{
+					id: "14631A971E035467"
+					item: {
+						Count: 1
+						id: "aether:neptune_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1138D80D1AAE4344"
+					item: {
+						Count: 1
+						id: "aether:neptune_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4233F523D1889D92"
+					item: {
+						Count: 1
+						id: "aether:neptune_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "350F8415AF778032"
+					item: {
+						Count: 1
+						id: "aether:neptune_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31FB84490F706028"
+					item: {
+						Count: 1
+						id: "aether:neptune_gloves"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Neptune Gear"
+			x: 11.5d
+			y: 5.5d
+		}
+	]
+	title: "Aether"
+}

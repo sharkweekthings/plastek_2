@@ -1,0 +1,1365 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "blue_skies"
+	group: "7CE349CFA49357E1"
+	icon: "blue_skies:everbright_portal"
+	id: "0533870062B9032A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "39D84A0C4BA45E21"
+			tasks: [{
+				id: "3FD6679B4037F7B2"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 12.5d
+		}
+		{
+			id: "6273576A40A944EE"
+			tasks: [{
+				id: "570075603D1A8826"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 12.5d
+		}
+		{
+			id: "53F9FE4C356DEE25"
+			tasks: [{
+				id: "4266F82F8E41A5B3"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 12.5d
+		}
+		{
+			id: "314E6E8CBA5C2C83"
+			tasks: [{
+				id: "7436FB857CFC1FB3"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.5d
+		}
+		{
+			id: "3856987746039DCF"
+			tasks: [{
+				id: "046AC5D66BDE513E"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.5d
+		}
+		{
+			id: "0F046545FE07B290"
+			tasks: [{
+				id: "49F4E23FD3EE9407"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.5d
+		}
+		{
+			id: "1C8AF2556BAA9D36"
+			tasks: [{
+				id: "1CA05F9E245A739C"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.5d
+		}
+		{
+			id: "05C09CCEC186BED0"
+			tasks: [{
+				id: "710A2E87D99EA2AE"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 13.5d
+		}
+		{
+			id: "65B10784EBA49352"
+			tasks: [{
+				id: "25E54DF59A39C235"
+				item: {
+					Count: 1
+					id: "blue_skies:pyrope_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			id: "3245B5C7ED45E60D"
+			tasks: [{
+				id: "64CF01F582989308"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 12.5d
+		}
+		{
+			id: "4033AC85EB5FCE22"
+			tasks: [{
+				id: "66B418141222E0D5"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 12.5d
+		}
+		{
+			id: "73E3A9982360451A"
+			tasks: [{
+				id: "5DA50B492A781CC8"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 12.5d
+		}
+		{
+			id: "18770AC5E72F9B5C"
+			tasks: [{
+				id: "172A1577BB53742D"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 12.5d
+		}
+		{
+			id: "09D39F1E79503DBD"
+			tasks: [{
+				id: "5CF9791B8B41618A"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 13.5d
+		}
+		{
+			id: "2A7BC6E8506FE1AC"
+			tasks: [{
+				id: "41FCA640728F9F24"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 13.5d
+		}
+		{
+			id: "0051F6E405E9F0DB"
+			tasks: [{
+				id: "0344CF4AB4C9A3EE"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 13.5d
+		}
+		{
+			id: "038DE6240811F622"
+			tasks: [{
+				id: "2F539C21473D5CEB"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 13.5d
+		}
+		{
+			id: "6A3F6D1ACD1458AE"
+			tasks: [{
+				id: "01587DAA62A3BCDF"
+				item: {
+					Count: 1
+					id: "blue_skies:aquite_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 13.5d
+		}
+		{
+			id: "1FEBE0001263A408"
+			tasks: [{
+				id: "2FA48EF0CF253152"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 15.0d
+		}
+		{
+			id: "0A5A2EAC21B9068B"
+			tasks: [{
+				id: "33651A4E5FA9A34D"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 15.0d
+		}
+		{
+			id: "7CB856393472A4E6"
+			tasks: [{
+				id: "78B7A71F3CF8AB73"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 15.0d
+		}
+		{
+			id: "230090BA20E60F89"
+			tasks: [{
+				id: "3ED25D29733DB210"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 15.0d
+		}
+		{
+			id: "4BA72B097FCECA08"
+			tasks: [{
+				id: "06E953B61B0A3E9C"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 16.0d
+		}
+		{
+			id: "2F996A1AE82E3171"
+			tasks: [{
+				id: "26E301AD8AFC54AD"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 16.0d
+		}
+		{
+			id: "5F2EC21883C448F7"
+			tasks: [{
+				id: "37F3A55FCB8C5588"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 16.0d
+		}
+		{
+			id: "10F7A1C756B951CE"
+			tasks: [{
+				id: "36C116830F5ECF15"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 16.0d
+		}
+		{
+			id: "4207D88E56FF1400"
+			tasks: [{
+				id: "5D8E65DF75D853DC"
+				item: {
+					Count: 1
+					id: "blue_skies:diopside_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 16.0d
+		}
+		{
+			id: "2A2A783E6585AA50"
+			tasks: [{
+				id: "07D5606B91FBB854"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 12.5d
+		}
+		{
+			id: "0E85F9F7D530C0C7"
+			tasks: [{
+				id: "2B7BDAE7ED0C3DC4"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 12.5d
+		}
+		{
+			id: "3F96B2AA7448FE79"
+			tasks: [{
+				id: "28386B055012B50B"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: 12.5d
+		}
+		{
+			id: "47E37A08D791BFC3"
+			tasks: [{
+				id: "74A374A50508B144"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: 12.5d
+		}
+		{
+			id: "7BA9CFAC44887E79"
+			tasks: [{
+				id: "1D60D7D63A636ADD"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 13.5d
+		}
+		{
+			id: "402E23046CAC5C44"
+			tasks: [{
+				id: "1DBB6175F6AA98EE"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 13.5d
+		}
+		{
+			id: "63224D93C923DE90"
+			tasks: [{
+				id: "3B27B25747AD3C8B"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 13.5d
+		}
+		{
+			id: "76AB61FF53816217"
+			tasks: [{
+				id: "299909CAAD3525B7"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 13.5d
+		}
+		{
+			id: "4A338500C4FA8839"
+			tasks: [{
+				id: "0F56B4AEEAE75810"
+				item: {
+					Count: 1
+					id: "blue_skies:horizonite_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.0d
+			y: 13.5d
+		}
+		{
+			id: "504ACE01FDBB422B"
+			tasks: [{
+				id: "339042B861AE9663"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			id: "4E6785170E5961D0"
+			tasks: [{
+				id: "4F648104668FAFFF"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			id: "730A1F876645F84F"
+			tasks: [{
+				id: "4B220F4B65410229"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 15.0d
+		}
+		{
+			id: "2612F8DAB0DE02B0"
+			tasks: [{
+				id: "47087EF8004670D5"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 15.0d
+		}
+		{
+			id: "0B6D43F58204B118"
+			tasks: [{
+				id: "1327743A378A09C4"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 16.0d
+		}
+		{
+			id: "36B726E1DA355FFE"
+			tasks: [{
+				id: "37F6A5D0FBD8CB76"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 16.0d
+		}
+		{
+			id: "5E70527E45872EAE"
+			tasks: [{
+				id: "2614FD283BB9A390"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 16.0d
+		}
+		{
+			id: "3C291DC6EDB92207"
+			tasks: [{
+				id: "366E6D320D5268AA"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 16.0d
+		}
+		{
+			id: "166C6D939BDCB88D"
+			tasks: [{
+				id: "3595974BB7FE83D2"
+				item: {
+					Count: 1
+					id: "blue_skies:charoite_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["5B256F72991302FF"]
+			id: "3B6D684D01D54D7D"
+			shape: "square"
+			subtitle: "Find an Everbright Portal."
+			tasks: [{
+				advancement: "blue_skies:everbright/enter"
+				criterion: ""
+				id: "52E66A9B1EB31C30"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["49D45A2688092BD8"]
+			id: "7F4A871DB08C7DEA"
+			shape: "square"
+			subtitle: "Find an Everdawn portal."
+			tasks: [{
+				advancement: "blue_skies:everdawn/enter"
+				criterion: ""
+				id: "53F2BB9B649C879D"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3B6D684D01D54D7D"]
+			id: "7E93B8CAF3C68DEB"
+			shape: "square"
+			subtitle: "Enter Everbright."
+			tasks: [{
+				advancement: "blue_skies:everbright/get_wood"
+				criterion: ""
+				id: "53172F5C447EB204"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7F4A871DB08C7DEA"]
+			id: "410721BB738011E8"
+			shape: "square"
+			subtitle: "Enter Everdawn."
+			tasks: [{
+				advancement: "blue_skies:everdawn/get_wood"
+				criterion: ""
+				id: "4402D333B65A0E38"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"221144BAFF24BA5E"
+				"021C8AC6ACB33466"
+				"13290D4A3183D7CC"
+				"557FF7BBA5A560DF"
+				"144257D2C7787E5D"
+				"7F4A871DB08C7DEA"
+			]
+			id: "0D4DA9FE536029FC"
+			shape: "square"
+			tasks: [{
+				advancement: "blue_skies:everdawn/kill_bug"
+				criterion: ""
+				id: "30C43F97BD882235"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 8.0d
+		}
+		{
+			id: "13290D4A3183D7CC"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:venom_spider"
+				id: "4763AF80B1D07D7A"
+				type: "kill"
+				value: 5L
+			}]
+			x: 10.5d
+			y: 6.0d
+		}
+		{
+			id: "021C8AC6ACB33466"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:nyctofly"
+				id: "3D0741A1443F4E7C"
+				type: "kill"
+				value: 5L
+			}]
+			x: 11.5d
+			y: 6.0d
+		}
+		{
+			id: "221144BAFF24BA5E"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:emberback"
+				id: "2D6652CD149F13A6"
+				type: "kill"
+				value: 5L
+			}]
+			x: 12.5d
+			y: 6.0d
+		}
+		{
+			id: "557FF7BBA5A560DF"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:infested_swarmer"
+				id: "12EC68431E6A899A"
+				type: "kill"
+				value: 5L
+			}]
+			x: 11.0d
+			y: 7.0d
+		}
+		{
+			id: "144257D2C7787E5D"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:nested_spider"
+				id: "3ABC23C263B93A0C"
+				type: "kill"
+				value: 5L
+			}]
+			x: 12.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7F4A871DB08C7DEA"]
+			description: [
+				"Phase 1:"
+				""
+				"The &6Alchemist&r will cycle between 4 different attacks. "
+				"     1) Spawn Lingering Poison in the 4 corners of the room."
+				"     2) Will launch 3 arrows in different directions."
+				"     3) Can blind you."
+				"     4) Summons a line of 0 to 11 spikes in the direction of a player."
+				""
+				""
+				""
+				"Phase 2:"
+				""
+				"Starts when The &6Alchemist&r gets to 50% health. "
+				""
+				"He will gain an additional 2 attacks:"
+				"     1) Will begin regenerating rapidly that last a few seconds. Hitting him will interrupt this."
+				"     2) Turns the water fountains into lava fountains."
+			]
+			id: "2CBAD72537422860"
+			shape: "square"
+			subtitle: "Defeat the Alchemist."
+			tasks: [{
+				advancement: "blue_skies:everdawn/kill_alchemist"
+				criterion: ""
+				id: "43C755D516082C9E"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"7F4A871DB08C7DEA"
+				"08E6D2171704BB4E"
+				"0138F6B2A015D054"
+				"1BF762DB1E758487"
+				"196652729D94B8E5"
+			]
+			id: "46BD48C45B78423F"
+			shape: "square"
+			tasks: [{
+				id: "11DE174E250971DC"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Blocks of Everdawn"
+			x: 11.5d
+			y: 5.0d
+		}
+		{
+			id: "1BF762DB1E758487"
+			shape: "square"
+			tasks: [
+				{
+					count: 128L
+					id: "603E84047241B75C"
+					item: "blue_skies:dusk_log"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "24994CCE142C4D25"
+					item: "blue_skies:maple_log"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "17FED21DEA29075C"
+					item: "blue_skies:crystallized_log"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "750A851AA3C56314"
+					item: "blue_skies:lunar_log"
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			id: "196652729D94B8E5"
+			shape: "square"
+			tasks: [
+				{
+					count: 128L
+					id: "5E78A5B23FC79B15"
+					item: "blue_skies:lunar_cobblestone"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "1472F948ED590C13"
+					item: "blue_skies:vitreous_moonstone"
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: 4.0d
+		}
+		{
+			id: "0138F6B2A015D054"
+			shape: "square"
+			tasks: [
+				{
+					count: 64L
+					id: "3D98D546A1333F43"
+					item: "blue_skies:crystal_sand"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "33616B7843E02FDA"
+					item: "blue_skies:crystal_sandstone"
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7F4A871DB08C7DEA"]
+			description: [
+				"Progressing beyond this point is not required for the eye. "
+				""
+				"The Poison dungeon is located in a strangely shaped tree. Inside of it you will find a spider lair. "
+				""
+				"The dungeon consists of 4 floors, with each floor containing a dungeon key. You will use these keys on the Poison Keystone to start the boss battle. "
+			]
+			id: "5E0B915D29D51895"
+			subtitle: "Enter the Poison dungeon."
+			tasks: [{
+				advancement: "blue_skies:everdawn/enter_poison_dungeon"
+				criterion: ""
+				id: "645394E486BB40D0"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7F4A871DB08C7DEA"]
+			description: ["This is a large spider that can crawl up on the ceiling. The spider will charge at you, and can be stunned if you use a shield to intercept the charge."]
+			id: "2FB283D5C0F8BF95"
+			subtitle: "Defeat Arachnarch."
+			tasks: [{
+				advancement: "blue_skies:everdawn/kill_arachnarch"
+				criterion: ""
+				id: "2B4906A6CFA757D4"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["4712148D2C8BC653"]
+			id: "49D45A2688092BD8"
+			shape: "diamond"
+			tasks: [{
+				id: "00681205F39707F9"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Everdawn"
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4712148D2C8BC653"]
+			id: "5B256F72991302FF"
+			shape: "diamond"
+			tasks: [{
+				id: "6F5860BBE47D74E1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Everbright"
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"3B6D684D01D54D7D"
+				"2DC82B770D5892AF"
+				"1973721D58ED6973"
+				"547010BEFC00C441"
+				"3EB5CC13EAD9A76C"
+			]
+			id: "5CEACB87BC9FC91E"
+			shape: "square"
+			tasks: [{
+				id: "40D13A0619B8C4F0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Blocks of Everbright"
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			id: "2DC82B770D5892AF"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "1E16F57DBD6C9495"
+				item: "blue_skies:turquoise_dirt"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "08E6D2171704BB4E"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "108742345A563404"
+				item: "blue_skies:lunar_dirt"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			id: "1973721D58ED6973"
+			shape: "square"
+			tasks: [
+				{
+					count: 64L
+					id: "3264BB31D32EAD4B"
+					item: "blue_skies:midnight_sand"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "79150DD81BFB9BBB"
+					item: "blue_skies:midnight_sandstone"
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "547010BEFC00C441"
+			shape: "square"
+			tasks: [
+				{
+					count: 128L
+					id: "64FD475079B5EDFB"
+					item: "blue_skies:bluebright_log"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "5C069D6965518811"
+					item: "blue_skies:starlit_log"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "3025BADB2379D8F6"
+					item: "blue_skies:frostbright_log"
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "3EB5CC13EAD9A76C"
+			shape: "square"
+			tasks: [{
+				count: 128L
+				id: "2ED427FF573DF922"
+				item: "blue_skies:turquoise_cobblestone"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3B6D684D01D54D7D"
+				"66BB9CF23FEF201D"
+				"7D141A2FCED027B3"
+				"68AF2DFB4020DB36"
+				"2C6BE4EF091FACBC"
+				"15076B13879F49E0"
+			]
+			id: "6383CFA4224B1464"
+			shape: "square"
+			tasks: [{
+				id: "4475FDD707D44CF4"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Paint the Land Bright"
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			id: "66BB9CF23FEF201D"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:azulfo"
+				id: "759E002BAE1283CC"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			id: "7D141A2FCED027B3"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:stardust_ram"
+				id: "4EB95C5C117784BE"
+				type: "kill"
+				value: 5L
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			id: "68AF2DFB4020DB36"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:diophyde_prowler"
+				id: "5A2635383BDBA47C"
+				type: "kill"
+				value: 5L
+			}]
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			id: "2C6BE4EF091FACBC"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:reindeer"
+				id: "1F217084CE29F472"
+				type: "kill"
+				value: 5L
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3B6D684D01D54D7D"]
+			description: [
+				"Phase 1:"
+				""
+				"The &6Summoner&r will teleport around the room while shooting spheres, and summoning adds. "
+				""
+				"Phase 2: "
+				""
+				"The &6Summoner&r will now he will begin to regenerate, summon lightning, and continue to summon adds."
+			]
+			id: "2C18FFC651E5F277"
+			shape: "square"
+			subtitle: "Defeat the Summoner."
+			tasks: [{
+				advancement: "blue_skies:everbright/kill_summoner"
+				criterion: ""
+				id: "109D166E945BCADA"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["3B6D684D01D54D7D"]
+			description: [
+				"Progressing beyond this point is not required for the eye. "
+				""
+				"The structure is a massive green building that's very easy to see when it's close."
+				""
+				"The dungeon consists of 4 floors, with each floor containing a dungeon key. You will use these keys on the Nature Keystone to start the boss battle. "
+			]
+			id: "43000CF72B1A972D"
+			subtitle: "Enter the Nature dungeon."
+			tasks: [{
+				advancement: "blue_skies:everbright/enter_nature_dungeon"
+				criterion: ""
+				id: "5D40B3CC2A4E6A7E"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3B6D684D01D54D7D"]
+			description: [
+				"This boss summons walls that will shield him from any attacks. When the walls are up the boss will summon various adds and roots. "
+				""
+				"The walls will need to be attacked with an axe."
+			]
+			id: "6CA5CF038A2FF495"
+			subtitle: "Defeat Starlit Crusher"
+			tasks: [{
+				advancement: "blue_skies:everbright/kill_starlit_crusher"
+				criterion: ""
+				id: "2D88A345502557AD"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 11.0d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"2C18FFC651E5F277"
+				"2CBAD72537422860"
+				"6383CFA4224B1464"
+				"0D4DA9FE536029FC"
+				"5CEACB87BC9FC91E"
+				"46BD48C45B78423F"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:black_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3DF01DE6EF5DDE9E"
+			rewards: [{
+				id: "6FDF0D1167564FCA"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "5EB50CFD8CE1EAF0"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Sky Eye"
+			x: 8.5d
+			y: 10.0d
+		}
+		{
+			description: [
+				"Blue Skies adds two dimensions. Everbright, and Everdawn. "
+				""
+				"To enter them, you'll need to find a Gatekeeper in the Overworld, trade him some Emeralds for a Zeal Lighter, and find the Gatekeeper's portal frame which should be close by. Light the frame like you would a Nether portal."
+				""
+				"Tools and Weapons from the Overworld do not work properly in either dimension. "
+				""
+				"You'll want to craft yourself a new set of Blue Skies specific gear when you enter."
+				""
+				"Armor still works, so if you have stronger armor you may have some extra protection."
+				""
+				"The main goal of the pack will be to defeat "
+			]
+			id: "4712148D2C8BC653"
+			rewards: [{
+				icon: "supplementaries:sign_post_oak"
+				id: "3D681E9785A8EE01"
+				title: "Unlock Blue Skies Equipment"
+				type: "custom"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "587E2BA80D2B79EF"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Blue Skies"
+			x: 8.5d
+			y: -0.5d
+		}
+		{
+			id: "15076B13879F49E0"
+			shape: "square"
+			tasks: [{
+				entity: "blue_skies:whistleshell_crab"
+				id: "62CFD50E80C8DE0F"
+				type: "kill"
+				value: 5L
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+	]
+	title: "Blue Skies"
+}

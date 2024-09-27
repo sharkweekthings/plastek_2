@@ -1,0 +1,38 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/copper"
+        },
+        {
+          "tag": "forge:dusts/copper"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/zinc"
+        },
+        {
+          "tag": "forge:dusts/zinc"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "samurai_dynasty:steel_ingot"
+    },
+    {
+      "item": "samurai_dynasty:steel_ingot",
+      "chance": 0.3
+    }
+  ],
+  "experience": 0.2,
+  "energy": 10000
+}

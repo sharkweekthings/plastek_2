@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","key":{"#":{"tag":"forge:gems/diamond"},"A":{"tag":"mekanism:alloys/reinforced"},"E":{"item":"mekanism:energy_tablet"},"X":{"item":"industrialforegoing:machine_frame_supreme"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["AE ","AX#","AEZ"],"result":{"item":"mekanism:laser"}}

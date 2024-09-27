@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "i": {
+      "item": "create:super_glue"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#i#",
+    " # "
+  ],
+  "result": {
+    "item": "pneumaticcraft:compressed_iron_gear"
+  },
+  "show_notification": true
+}

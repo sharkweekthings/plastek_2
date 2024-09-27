@@ -1,0 +1,18 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks",
+      "count": 1
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "kubejs:wooden_gear",
+      "count": 2
+    }
+  ]
+}

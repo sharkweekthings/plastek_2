@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "waystones:warp_stone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DVD",
+    "EGE",
+    "DVD"
+  ],
+  "key": {
+    "G": {
+      "tag": "balm:emeralds"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "D": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "V": {
+      "tag": "forge:ingots/terrasteel"
+    }
+  }
+}

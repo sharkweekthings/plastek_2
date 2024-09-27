@@ -1,0 +1,1599 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "inventory_pets"
+	group: "1D085754C16989B5"
+	icon: {
+		Count: 1
+		id: "inventorypets:pet_banana"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4DAB8146EF7E7415"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "64A62D442E17B675"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "728CABD81A0F1E50"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3931D5404D709C4F"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_blaze"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "31644ECD3F4DB620"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FAC415FF72666BD"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "186AE041C0A9525D"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_creeper"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "3CF001B00E232E5D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "227FA3256F440893"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "62A6848F97001367"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_enderman"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "1543721735040878"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E888BDB5C05FF13"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "63100903AFF6507B"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_ghast"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "52EF5580B5B9DCFD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60460B47E3853E47"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4A32439C9D1FE480"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_iron_golem"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "31DF988BF58A5FA2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41B9856A7D7CC166"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3B2BB66370730F86"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_magma_cube"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "542979AC9BCE34E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E5BE4C0B357CD1E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5B6CEC91F19D26A7"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_snow_golem"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "45526BABD3AC2576"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61D03D969D6A0645"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12020C681599808D"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_spider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "084CC18B3C557469"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52C898D9195152D2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E006E902599E673"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_chicken"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "77B349F76609B1D5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AB1F9CA8A07BC06"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53149A416A7C8AF4"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_cow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "502671A8E8345B05"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B0B7A080D33E644"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4701DD9375C87B1B"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_mooshroom"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "1B6334343FC992C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01AFCE35DFB85A99"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5670E53F53F6FD0E"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_ocelot"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "5A04C223E55D93E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BAF17C73C0E39D2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0B2D2654FC0BC5ED"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_pig"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "0B0FC3B3AE652F20"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "35ED392E5606E484"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2EA43B22FB010FEC"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_sheep"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "152F7ADA510A3255"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E59D9D6F06C7AA7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6B9301EFB1D6271C"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_squid"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "02138682FB617849"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "71FA6C5101E69CCE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4B412C300C5D23B8"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_anvil"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "5240992CE85E113A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16C9A1A83ED5CF92"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4C95D57E65DC25EF"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_bed"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "220F4EA3F5313067"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CCE3544897BBDCA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "15ABB17824391F93"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_brewing_stand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "2ED8826821212E22"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A2BCC516D28A9A4"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1681CED648D4FBD9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 27
+						}
+					}
+					id: "inventorypets:pet_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "317F2B865ED611B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11BB1D37EF59097A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5E0483159C3D4C2C"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_crafting_table"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "72A44C9D50364860"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38953108F76F48DE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "34B913A53B7491C3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 54
+						}
+					}
+					id: "inventorypets:pet_double_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "012CA7A807B788B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CD9FDF2433994F1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0747D26E17B880A2"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_enchanting_table"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "306AD02531CE0FB7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13176CCE6A6DA3FE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E8143F37C1A255B"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_ender_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "0A4846FDA7A83044"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "162A0AD1345ACA61"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "663768EDC08FCAA2"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_furnace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "3E85AC2A82E84E7A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4300B2107AF6F75D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6194BAC1D6EE67BD"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_jukebox"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "7327D983A6443144"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "597409C5E5E2B3C3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7229DE0DF629CB8F"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_lead"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "752D788618FFB9D6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D7B4FD71EA1EE73"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4528D03750EDAEE7"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_nether_portal"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "47DD1785A846C8EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4656CF7D85B841B6"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "58C0FA748E3F1E33"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_saddle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "474A8AC1C1341B7C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A4EA4001917EF51"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6170C5A93D9D7A1D"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_end_portal"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "19C82447940CCCFC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "414054BC037F6791"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57DC95DE993B28A6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 27
+						}
+					}
+					id: "inventorypets:pet_sated_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "6399CDEAE766A49C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2BA2E1EABD4313B0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "483A6356EEAF8FBB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 54
+						}
+					}
+					id: "inventorypets:pet_sated_double_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "33A2F926CAFB3203"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3993F3126B3F7E6C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E0527ABDB669A8A"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_banana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "68A69DE7B20CFEAA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C996EEDACE10EC3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "23058F22546BB452"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_biome"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "6634A4D40B23002F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1050EA1CA83AB2EC"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "47BFBDC452983DF7"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_flying_saddle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "39B59388501FD7A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12E92E455953AE37"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "740585CF8A118FC8"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_grave"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "6B980B12E6E86A20"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6512165AA38FB34A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0CB1460F1458E6D4"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_loot"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "6C5A2D6D7B28BA41"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46572667B29C1288"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "310F88596F4C4EA0"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_meta"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "1EF3364B2D282B65"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6EAF23B8480688CA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "031861CF61F20F09"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_mickerson"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "63EA39F0A0419D52"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22F2B66B14E895AC"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "047587469CED0E4E"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_pingot"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "3A205219339354A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "018255CE6CEED264"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A7924B28BD6C895"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_purplicious_cow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "48492EFFFAFD71E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B6716563DF4880B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E8E1001733B0E76"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_qcm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "3060F0690D7D1BAD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B00B6954554BA29"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6DBE2E72F1688EA9"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_quiver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "0698E81C25279749"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1DBF96551E48E931"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "459A0B67F6CC55B7"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_sponge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "1C39EC31E8A9B1EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A33399FDD6114DF"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3D21CB34B2CDB924"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_cobblestone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "398CF7C934F12457"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E4941A1CC09F5B8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "795D0CC7F2612A15"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_dirt"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "2493A2435E6F984D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09BFFC232D7BF2B4"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "331F43091822E8F6"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_juggernaut"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "4216D8122FC3E3E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61080D8444FBC5F0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D470B1E46938683"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_illuminati"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "4865F67152A03535"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C31E1AC44222FD2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3020923871CF6CA8"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_siamese"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "0994AD0244F27A45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B1B288ABB512C5D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "45C9530D1FB034C9"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_apple"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "69FFD41626A4B3E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "561C8B84C5915799"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "73160C16DEA0B2EF"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_cheetah"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "7A52E32C701B0406"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28C7F07808A1DC82"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2699E8A3F4D5ABFD"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_house"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "0C7034478B381502"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "772C096A57090BCA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "20D27D01C93CE712"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_pacman"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "13733C238DC26866"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "727478694719B83F"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10F191736C892F20"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_pixie"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "2B5470E5112F0D04"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "097E97187CBD74AA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "21567B98740DD460"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_silverfish"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			id: "370714FC17E88428"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E6E27EBC2E1B03B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A594E1E37359C9D"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_torch"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "47B155CB8EC5F0E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06BAE69FD72EC6AF"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "48F9B859D89F0B1E"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_wolf"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "098BC0E80B07F281"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70E779494216D83C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5DF160DA847256E6"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_dubstep"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "38BEAE665FB24F65"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "66CF7866F7C9322B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "461651ED3F2C80A5"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_heart"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "5C3B968E55EEDD44"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DEBE017AB6E403C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5BEFB14CC23B00EE"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_moon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "78C1331769BA0F90"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30442D64C84298F5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7ADF312D5C35748F"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			id: "12EC48B97A896868"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62557686708D8987"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53F05464E1E0F729"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_april_fool"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			id: "3D1BBE1B5305371A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C80998BDF0A79EC"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6CBD872A6DD07F23"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_christmas_tree"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			id: "0368FF7178378CA8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08D2DC72893A9C2C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "47E3640DF8B6E6BC"
+				item: "inventorypets:pet_menorah"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			id: "32D191BED7B458FC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "608BC165B816985A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "56D311D4AC45CA18"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_mishumaa_saba"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "046B8B78C7E3A1F2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "495C0255664D0AD8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E15097269173835"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_politically_correct"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "3C68D4968372EFF1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7248EBDD4E2D156B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3BD16B94F2906C63"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_black_hole"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "2BACF54B492A246F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56DCE83CB17C88D1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "75218589DCAFE0B1"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_cloud"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "39D40E3440BDFE6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "687A5F83CAF37FCA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C67FFC2A4ED086B"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_pufferfish"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			id: "58BB29F7844F7714"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A4DF550B976B89E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E5C37A3B615EF98"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_slime"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			id: "5518CB74A58BABB2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61D0B5EEAED452D2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5FA3E525B5273B6A"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_sun"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			id: "797A2A7AAF8D0C8C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CE4F6FAAF1F7C7A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3DE73CA9CEAFC2F6"
+				item: {
+					Count: 1
+					id: "inventorypets:pet_wither"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.0d
+		}
+	]
+	title: "Inventory Pets"
+}

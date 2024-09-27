@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","key":{"C":{"tag":"forge:circuits/ultimate"},"I":{"tag":"forge:ingots/lead"},"T":{"item":"mekanism:basic_chemical_tank"},"X":{"item":"industrialforegoing:machine_frame_supreme"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["IZI","CXC","ITI"],"result":{"item":"mekanism:isotopic_centrifuge"}}

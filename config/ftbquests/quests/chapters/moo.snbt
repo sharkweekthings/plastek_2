@@ -1,0 +1,806 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "moo"
+	group: "19728293E5F01751"
+	icon: "farmingforblockheads:market"
+	id: "3A3E3EB8EEF30018"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1CF13509DFB91E2B"]
+			id: "6EEBED8A78540A3B"
+			tasks: [{
+				id: "2A718D858D523ACA"
+				item: "farmingforblockheads:market"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "18379E21C70B2772"
+			tasks: [{
+				id: "0FEF90C9D5FB764C"
+				item: "cookingforblockheads:cow_jar"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "58C371195E59DEF7"
+			tasks: [{
+				id: "76E2F892F4C3B4E3"
+				item: "cookingforblockheads:cooking_table"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "4C7030DC9AEAC502"
+			tasks: [{
+				id: "78A4015C5432850B"
+				item: "cookingforblockheads:sink"
+				type: "item"
+			}]
+			x: -15.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "3086828251F5BC6E"
+			tasks: [{
+				id: "4F2AAAEC7E2623AA"
+				item: "cookingforblockheads:counter"
+				type: "item"
+			}]
+			x: -13.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "377462CE0A173C07"
+			tasks: [{
+				id: "546BB73D3D40D9D7"
+				item: "cookingforblockheads:corner"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "027CEDB2A18D464C"
+			tasks: [{
+				id: "02AD9EAD5FBB644B"
+				item: "cookingforblockheads:cabinet"
+				type: "item"
+			}]
+			x: -15.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "2033FE511BAC6616"
+			tasks: [{
+				id: "4E2ED914928A45D3"
+				item: "cookingforblockheads:hanging_corner"
+				type: "item"
+			}]
+			x: -13.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "68B299DCF526FB2C"
+			tasks: [
+				{
+					id: "7A76CF1A7DFBD94D"
+					item: "cookingforblockheads:tool_rack"
+					type: "item"
+				}
+				{
+					id: "23070C519028239A"
+					item: "cookingforblockheads:spice_rack"
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "18047105E8BE0C35"
+			tasks: [{
+				id: "044414953EDB9B72"
+				item: "cookingforblockheads:toaster"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "2D84B54BA5891C11"
+			tasks: [{
+				id: "7373E130F79DF7A0"
+				item: "cookingforblockheads:fruit_basket"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "1B3DDFC48FD31D68"
+			tasks: [{
+				id: "755149B352D8CD51"
+				item: "cookingforblockheads:crafting_book"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4C310CF30DD887FD"]
+			id: "2E12D425C205CDBC"
+			tasks: [{
+				id: "6B6F1E80CD0AE0D3"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypotstiers:elite_normal"
+					}
+				}
+				title: "Elite Botany Pot"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["006EC724C42A91BF"]
+			id: "4C310CF30DD887FD"
+			tasks: [{
+				id: "06605A209732893D"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypots:basic_botany_pots"
+					}
+				}
+				title: "Botany Pot"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"4C310CF30DD887FD"
+				"006EC724C42A91BF"
+			]
+			id: "644BAA2A03614FC5"
+			tasks: [{
+				id: "3FF4D3D7D6DFBA8A"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypots:hopper_botany_pots"
+					}
+				}
+				title: "Hopper Botany Pot"
+				type: "item"
+			}]
+			title: "Hopper Botany Pot"
+			x: -13.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["644BAA2A03614FC5"]
+			id: "5ED68A2AF28C4E7F"
+			tasks: [{
+				id: "5086693B89D166D6"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypotstiers:elite_hopper"
+					}
+				}
+				title: "Elite Hopper Botany Pot"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2E12D425C205CDBC"]
+			id: "2288864C907E2F6A"
+			tasks: [{
+				id: "078B243BA95304DF"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypotstiers:ultra_normal"
+					}
+				}
+				title: "Ultra Botany Pot"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5ED68A2AF28C4E7F"]
+			id: "5DCB2F889DCB70EC"
+			tasks: [{
+				id: "43DCFC64DC962E50"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypotstiers:ultra_hopper"
+					}
+				}
+				title: "Ultra Hopper Botany Pot"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2288864C907E2F6A"]
+			id: "3FCB085E15333155"
+			tasks: [{
+				id: "0D921D056CD0D492"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypotstiers:creative_normal"
+					}
+				}
+				title: "Creative Botany Pot"
+				type: "item"
+			}]
+			title: "Creative Botany Pot"
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5DCB2F889DCB70EC"]
+			id: "08AC396C43405580"
+			tasks: [{
+				id: "2C6907DDDE2E73F0"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botanypotstiers:creative_hopper"
+					}
+				}
+				title: "Creative Hopper Botany Pot"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "182A45821CFBE4CC"
+			tasks: [{
+				id: "7BC55C88172FAE6E"
+				item: "pamhc2foodcore:bakewareitem"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "1D279EE3FD97C60A"
+			tasks: [{
+				id: "43952076D30F0ECE"
+				item: "pamhc2foodcore:cuttingboarditem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "1D354F2A4AB5DC19"
+			tasks: [{
+				id: "497B8D7ADB9C6D65"
+				item: "pamhc2foodcore:juiceritem"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "3469755EB7A2D1B7"
+			tasks: [{
+				id: "0F43207CC926CC39"
+				item: "pamhc2foodcore:grinderitem"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "0DD7A17C24E39863"
+			tasks: [{
+				id: "42BB6DB20D9648F0"
+				item: "pamhc2foodcore:mixingbowlitem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "35CB1D973B1F65EC"
+			tasks: [{
+				id: "3E6FE86A173FAF61"
+				item: "pamhc2foodcore:potitem"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "2C68ECBDC3D94DC0"
+			tasks: [{
+				id: "3790BC068488396B"
+				item: "pamhc2foodcore:rolleritem"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "38FECBA91E96B5A4"
+			tasks: [{
+				id: "1038E153E695BFF4"
+				item: "pamhc2foodcore:saucepanitem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "1931EF55784EC8C2"
+			tasks: [{
+				id: "1FDD802276D63EE9"
+				item: "pamhc2foodcore:skilletitem"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6B9AA9E37CD9A3D8"]
+			id: "4D4383C60BE226C5"
+			tasks: [{
+				id: "0980338F41E99563"
+				item: "industrialforegoing:mob_imprisonment_tool"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6BB3BEBFE518D0F2"]
+			id: "6DA2080C54F4CE27"
+			tasks: [
+				{
+					id: "181D3CE5EAE21B71"
+					item: "industrialforegoing:plant_gatherer"
+					type: "item"
+				}
+				{
+					id: "6AF32187657F72AD"
+					item: "industrialforegoing:plant_fertilizer"
+					type: "item"
+				}
+				{
+					id: "49BE259AC3174652"
+					item: "industrialforegoing:plant_sower"
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6BB3BEBFE518D0F2"]
+			id: "030E9D56A7187D5D"
+			tasks: [
+				{
+					id: "34FA12B3CDAB95B2"
+					item: "industrialforegoing:animal_rancher"
+					type: "item"
+				}
+				{
+					id: "511ABCC5D3C4B6B9"
+					item: "industrialforegoing:animal_feeder"
+					type: "item"
+				}
+				{
+					id: "6B588497A6A67F24"
+					item: "industrialforegoing:animal_baby_separator"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "461AEA9EDC2D6571"
+			tasks: [{
+				id: "4DCECCD0BC87E14F"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "vinery:wine_racks"
+					}
+				}
+				title: "Wine Rack"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "2BDB9D73D4AE56F3"
+			tasks: [{
+				id: "29DEAE208B534848"
+				item: "vinery:fermentation_barrel"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "48C406CA28322B65"
+			tasks: [{
+				id: "368172F03DBC4084"
+				item: "vinery:apple_press"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "137199BC8533B5EF"
+			tasks: [{
+				id: "4ADF35197312FE4E"
+				item: "vinery:grapevine_pot"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "2A2486A2A7804F3D"
+			tasks: [{
+				id: "7F4FFEBEE77FA3C8"
+				item: "vinery:wine_box"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "0653A6567DC6A131"
+			tasks: [{
+				id: "7B4A0544D8A613EE"
+				item: {
+					Count: 1
+					id: "vinery:winemaker_apron"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "2E57E660DEE21612"
+			tasks: [{
+				id: "1637E9EE2942EB3D"
+				item: {
+					Count: 1
+					id: "vinery:winemaker_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5A5896C947DA8A15"]
+			id: "0AEAB74A699CAA47"
+			tasks: [{
+				id: "284D9A873AFDF9B4"
+				item: {
+					Count: 1
+					id: "vinery:winemaker_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["17B3B5D1CD42BA6C"]
+			id: "6B9AA9E37CD9A3D8"
+			tasks: [{
+				id: "0A2F634CF33CFF5C"
+				item: {
+					Count: 1
+					id: "resourcechickens:animal_net"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "785F282A8EEC5896"
+			tasks: [{
+				id: "5E06141D1E205F40"
+				item: {
+					Count: 1
+					id: "farmersdelight:skillet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "457E7092CC8E7D98"
+			tasks: [{
+				id: "47231C0665AF5F65"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["58C012AD3D76A5CF"]
+			id: "024D4778D762F8C8"
+			tasks: [{
+				id: "12462289AB604EE2"
+				item: "farmersdelight:stove"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "3D151424DB84BC31"
+			tasks: [{
+				id: "067955D18FC244B2"
+				item: "farmersdelight:cutting_board"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["598EFD7817B6EBD9"]
+			id: "65EDCA06F77476F2"
+			tasks: [{
+				id: "32B1771B29C81EEE"
+				item: "sliceanddice:slicer"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["598EFD7817B6EBD9"]
+			id: "6A7F05F10FD79204"
+			tasks: [{
+				id: "189435A767D34D6E"
+				item: "sliceanddice:sprinkler"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["34DA5277D437B0E4"]
+			id: "4110425AB97554F6"
+			tasks: [{
+				id: "12EBC808D8921E7A"
+				item: "appliedcooking:kitchen_station"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6F51530CCB2F4539"]
+			id: "76D5C746A2431485"
+			tasks: [{
+				id: "57EE7DCD4BF0C948"
+				item: "cookingforblockheads:fridge"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			description: ["With Vinery you can make your very own wine that will produce useful potion effects. "]
+			id: "5A5896C947DA8A15"
+			shape: "diamond"
+			tasks: [{
+				id: "21285815E92A0EBB"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Become a Wine Maker"
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			description: ["Cooking For Blockheads offers a wide range of utility for all of your cooking needs."]
+			id: "58C012AD3D76A5CF"
+			shape: "diamond"
+			subtitle: "Make me a sandwich!"
+			tasks: [{
+				id: "0D1D554F6991659E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Keep Your Kitchen Clean"
+			x: -14.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Auto Harvest and Ranch with Industrial Foregoing. "
+				""
+				"Upgrades for this mod will unlock in Age 2."
+			]
+			id: "6BB3BEBFE518D0F2"
+			shape: "diamond"
+			tasks: [{
+				id: "5721E1DF3FCDC9CA"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Smarter Farming"
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			description: ["Various ways to capture mobs"]
+			id: "17B3B5D1CD42BA6C"
+			shape: "diamond"
+			tasks: [{
+				id: "6223501674125146"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Gotta Catch Em All"
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			description: ["Tier up your &3Botany Pots&r to blazing fast speeds. "]
+			id: "006EC724C42A91BF"
+			shape: "diamond"
+			tasks: [{
+				id: "4E65DEE120F0E76F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Better Botany Potting"
+			x: -14.5d
+			y: -4.0d
+		}
+		{
+			description: ["Slice and Dice will allow you to automate various cutting recipes. It also has a Sprinkler that will let you rain down some Water, Lava or (I forgot what else)."]
+			id: "598EFD7817B6EBD9"
+			shape: "diamond"
+			tasks: [{
+				id: "12F0AFE6B28F4507"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Slice and Dice"
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			description: ["The Market people deal primarily in Plastic Shards. They sell a range of useful items."]
+			id: "1CF13509DFB91E2B"
+			shape: "diamond"
+			tasks: [{
+				id: "09E668CA5F88A89C"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Market"
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			description: ["This device will let you connect your AE2 and Cooking For Blockheads together."]
+			id: "34DA5277D437B0E4"
+			shape: "diamond"
+			tasks: [{
+				id: "284CF3ECE86E53F1"
+				title: "Cooking With AE2"
+				type: "checkmark"
+			}]
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Most of the kitchen necessities will need to be purchased through the Market people. "
+				""
+				"&3Cow in a Jar&r still needs to be crafted by dropping an &3Anvil&r on a Cow to squish it into a &3Bottle.&r "
+			]
+			id: "6F51530CCB2F4539"
+			shape: "diamond"
+			tasks: [{
+				id: "2B42EB3D6B70D7A2"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Kitchen Necessities"
+			x: -2.5d
+			y: -4.0d
+		}
+	]
+	title: "Moo"
+}

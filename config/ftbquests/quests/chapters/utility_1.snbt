@@ -1,0 +1,1030 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utility_1"
+	group: "590DDC7B00BCD5C7"
+	icon: "mob_grinding_utils:saw"
+	id: "2A3072E85B1CBD72"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "24A8814CC8433279"
+			tasks: [{
+				id: "4F9258E61CE74553"
+				item: "mob_grinding_utils:saw"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "66FAE762D522916C"
+			tasks: [{
+				id: "7BA5E700FDCEACAA"
+				item: "mob_grinding_utils:fan"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "250F0B681A727263"
+			tasks: [{
+				id: "505839C2D2B24B05"
+				item: "mob_grinding_utils:tank"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			description: ["{@pagebreak}"]
+			id: "0DEBA1ACBB61FBAC"
+			tasks: [{
+				id: "030B2966787118B6"
+				item: "mob_grinding_utils:absorption_hopper"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "3EAB70EBD6734F1B"
+			tasks: [{
+				id: "03F61D9F9CF0D937"
+				item: "mob_grinding_utils:xpsolidifier"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "6DBB07D40A8E9088"
+			tasks: [{
+				id: "604F25D767F74868"
+				item: "mob_grinding_utils:solid_xp_mould_baby"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "582DD969488D2771"
+			subtitle: "Creates Dreadful Dirt"
+			tasks: [{
+				id: "73604A95B69279D0"
+				item: "mob_grinding_utils:rotten_egg"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "4CBC2DB7FD8FF6A8"
+			subtitle: "Creates Delightful Dirt"
+			tasks: [{
+				id: "5561FE26DD4E8950"
+				item: "mob_grinding_utils:golden_egg"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			description: ["A great way to start getting Fluid XP. "]
+			id: "390EC93A12C269A2"
+			shape: "diamond"
+			tasks: [{
+				id: "3C2B37DEBA653F7D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Basic Mob Grinding"
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "5CB79C65D8683FE2"
+			tasks: [
+				{
+					id: "215817D4E72EF0B9"
+					item: "mob_grinding_utils:fan_upgrade_height"
+					type: "item"
+				}
+				{
+					id: "2AA5406D4F13004E"
+					item: "mob_grinding_utils:fan_upgrade_width"
+					type: "item"
+				}
+				{
+					id: "42BBAE7BF19F3E53"
+					item: "mob_grinding_utils:fan_upgrade_speed"
+					type: "item"
+				}
+			]
+			title: "Mob Fan  Upgrades"
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "01FA0330638E1E2D"
+			tasks: [
+				{
+					id: "2F278FEDAA8E43EF"
+					item: "mob_grinding_utils:saw_upgrade_fire"
+					type: "item"
+				}
+				{
+					id: "45296174ADD2AA24"
+					item: "mob_grinding_utils:saw_upgrade_smite"
+					type: "item"
+				}
+				{
+					id: "777F4C69A937F7EE"
+					item: "mob_grinding_utils:saw_upgrade_arthropod"
+					type: "item"
+				}
+				{
+					id: "7897B5B9FC8DFB6C"
+					item: "mob_grinding_utils:saw_upgrade_beheading"
+					type: "item"
+				}
+				{
+					id: "4A939BF9E1811FF0"
+					item: "mob_grinding_utils:saw_upgrade_looting"
+					type: "item"
+				}
+				{
+					id: "4DB12346BD201B2D"
+					item: "mob_grinding_utils:saw_upgrade_sharpness"
+					type: "item"
+				}
+			]
+			title: "Mob Masher Upgrades"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "6176D989C45A039D"
+			tasks: [{
+				id: "450DEC02BD668E41"
+				item: "mob_grinding_utils:absorption_upgrade"
+				type: "item"
+			}]
+			title: "Absorption Hopper Upgrades"
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "69673A3ED5118A1B"
+			tasks: [{
+				id: "3507524784C4108D"
+				item: "mob_grinding_utils:xp_solidifier_upgrade"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "17216037560F136E"
+			tasks: [{
+				id: "58BFADD2E108C691"
+				item: "mob_grinding_utils:spawner_upgrade_height"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "23B7CA5E844C6734"
+			tasks: [{
+				id: "63905BB95A891721"
+				item: "mob_grinding_utils:spawner_upgrade_width"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "17E08445888F8BD1"
+			tasks: [{
+				id: "0C9885DE3F795DC7"
+				item: "mob_grinding_utils:tinted_glass"
+				type: "item"
+			}]
+			title: "Tinted Glass"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["390EC93A12C269A2"]
+			id: "28EE664D92AE7B88"
+			tasks: [{
+				id: "26E2AFD8BFFD3ECC"
+				item: "mob_grinding_utils:xp_tap"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5DF7C48372A976DE"]
+			id: "0B7A100346CBE481"
+			tasks: [{
+				id: "286354B983713053"
+				item: "trashcans:item_trash_can"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5DF7C48372A976DE"]
+			id: "0B08AD2D55178363"
+			tasks: [{
+				id: "7BAD1E90DD79E19C"
+				item: "trashcans:liquid_trash_can"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5DF7C48372A976DE"]
+			id: "18AC895E66DE971A"
+			tasks: [{
+				id: "155C3C0127AD255F"
+				item: "trashcans:energy_trash_can"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5DF7C48372A976DE"]
+			id: "781C44C1E4333A50"
+			tasks: [{
+				id: "61900075796771B3"
+				item: "trashcans:ultimate_trash_can"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["51D699D294441A9F"]
+			id: "2B2916C99BE7E178"
+			tasks: [{
+				id: "0C8A674885F41782"
+				item: "create:fluid_tank"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			description: ["Disposing of Items, Fluids, and Energy safely."]
+			id: "5DF7C48372A976DE"
+			shape: "diamond"
+			tasks: [{
+				id: "41FC7FFC54895F2F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Trash Cans"
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			description: [
+				"Glass that's useful. "
+				""
+				"Check JEI @glassential for pane and door variants. "
+			]
+			id: "78F101D025C293AB"
+			shape: "diamond"
+			tasks: [{
+				id: "6C97D591AF90344F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Glassential"
+			x: -9.5d
+			y: 1.5d
+		}
+		{
+			description: ["This is just one way to store liquids. "]
+			id: "51D699D294441A9F"
+			shape: "diamond"
+			tasks: [{
+				id: "4DCA35B453C475F2"
+				title: "Create"
+				type: "checkmark"
+			}]
+			title: "Create Basics"
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			description: [
+				"Apotheosis is a powerful mod that will let you find, and power your gear giving it various modifiers. "
+				""
+				"To put an gem into your gear with a socket, you will need to use the &9Smithing Table&r. "
+				""
+				"Use the &9Salvaging Table&r to break down gear with modifiers to get rarity materials."
+				""
+				"Use the &9Gem Cutting Table&r to upgrade your gems. "
+				""
+				"Use the &9Reforging Table&r to give your gear modifiers."
+			]
+			id: "58E712AAC0CAC553"
+			shape: "diamond"
+			tasks: [{
+				id: "13DBF863A5A2579B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Apotheosis"
+			x: -9.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["58E712AAC0CAC553"]
+			id: "2671665131D752E7"
+			tasks: [{
+				id: "41AB37518C5BE840"
+				item: "apotheosis:salvaging_table"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["58E712AAC0CAC553"]
+			id: "497A03991C6F7CEA"
+			tasks: [{
+				id: "1E67D1F44BB2B81A"
+				item: "apotheosis:gem_cutting_table"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["58E712AAC0CAC553"]
+			id: "332A095318E27E5B"
+			tasks: [
+				{
+					id: "5D13101C6BE6BB6E"
+					item: "apotheosis:simple_reforging_table"
+					type: "item"
+				}
+				{
+					id: "03382F70984713D3"
+					item: "apotheosis:reforging_table"
+					type: "item"
+				}
+			]
+			title: "Reforging"
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["58E712AAC0CAC553"]
+			id: "655809C660C668D0"
+			tasks: [{
+				id: "075A9C193D58C0C4"
+				item: "minecraft:smithing_table"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3757965889271C76"]
+			id: "4921553067663BFF"
+			tasks: [{
+				id: "26F9028DDF5EF1CC"
+				item: {
+					Count: 1
+					id: "constructionwand:stone_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3757965889271C76"]
+			id: "5211B4475CB3CB26"
+			tasks: [{
+				id: "166278265057E687"
+				item: {
+					Count: 1
+					id: "constructionwand:iron_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3757965889271C76"]
+			id: "1E3ADE74E93D9E23"
+			tasks: [{
+				id: "147D3BA6F5EFDE94"
+				item: {
+					Count: 1
+					id: "constructionwand:diamond_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3757965889271C76"]
+			id: "53377A431E36FE25"
+			tasks: [{
+				id: "40905A2A61B99606"
+				item: {
+					Count: 1
+					id: "constructionwand:infinity_wand"
+					tag: {
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			description: ["Building tools to help design your base."]
+			id: "3757965889271C76"
+			shape: "diamond"
+			tasks: [{
+				id: "5D1AA236D2A82E16"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Construction Wands"
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "2612FA10B2DF8994"
+			tasks: [
+				{
+					id: "114086609AACB7AB"
+					item: "prettypipes:low_crafting_module"
+					type: "item"
+				}
+				{
+					id: "130D4B25CBF294D5"
+					item: "prettypipes:medium_crafting_module"
+					type: "item"
+				}
+				{
+					id: "7B34C18B1B7D6EFA"
+					item: "prettypipes:high_crafting_module"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "15C58594E42A5F70"
+			tasks: [
+				{
+					id: "34ED8EA719154B0C"
+					item: "prettypipes:low_extraction_module"
+					type: "item"
+				}
+				{
+					id: "7C2450AEF2EB54DB"
+					item: "prettypipes:medium_extraction_module"
+					type: "item"
+				}
+				{
+					id: "4DEF9E360DA0BD97"
+					item: "prettypipes:high_extraction_module"
+					type: "item"
+				}
+			]
+			title: "Extraction Modules"
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "5BA9D55CC23DA906"
+			tasks: [{
+				id: "2A1770E169D56702"
+				item: "prettypipes:filter_increase_modifier"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "6B2055E2C71FB3E9"
+			tasks: [{
+				id: "715312E3308457B9"
+				item: "prettypipes:damage_filter_modifier"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "3A60B380E3FE7D90"
+			tasks: [{
+				id: "0940E5FC735E85A9"
+				item: "prettypipes:nbt_filter_modifier"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "28AF12A0807E629F"
+			tasks: [{
+				id: "4D8F539C532CD4E1"
+				item: "prettypipes:mod_filter_modifier"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "35E37560CB0F64B6"
+			tasks: [{
+				id: "5E6F8766E2C10619"
+				item: "prettypipes:tag_filter_modifier"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "02EECBFF8BDD65C5"
+			tasks: [
+				{
+					id: "405A69B0EA5A10A0"
+					item: "prettypipes:low_filter_module"
+					type: "item"
+				}
+				{
+					id: "25A81418BAE34E7E"
+					item: "prettypipes:medium_filter_module"
+					type: "item"
+				}
+				{
+					id: "070FB801CBCC2743"
+					item: "prettypipes:high_filter_module"
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "4574D07EEC56BFE3"
+			tasks: [
+				{
+					id: "3F2B1D352A20E5E5"
+					item: "prettypipes:low_high_priority_module"
+					type: "item"
+				}
+				{
+					id: "5AD5B7383B30173C"
+					item: "prettypipes:medium_high_priority_module"
+					type: "item"
+				}
+				{
+					id: "56C9F750132CCDEB"
+					item: "prettypipes:high_high_priority_module"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["673D9E8425C53084"]
+			id: "2C1E8B6C1B9FCA19"
+			tasks: [{
+				id: "1F69F4542C262AF9"
+				item: "prettypipes:blank_module"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "3EFF68114584AD2E"
+			tasks: [
+				{
+					id: "3AF0B59DDDB75FA6"
+					item: "prettypipes:low_low_priority_module"
+					type: "item"
+				}
+				{
+					id: "2B08D1EE4F1D7FA3"
+					item: "prettypipes:medium_low_priority_module"
+					type: "item"
+				}
+				{
+					id: "2DCBDEFC177D8482"
+					item: "prettypipes:high_low_priority_module"
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "302F005F23242748"
+			tasks: [{
+				id: "255D69D2F7CFA25A"
+				item: "prettypipes:redstone_module"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "55E9CBC1A2457135"
+			tasks: [
+				{
+					id: "5AA5754CD52A9B43"
+					item: "prettypipes:low_retrieval_module"
+					type: "item"
+				}
+				{
+					id: "3B887A55C6765EE3"
+					item: "prettypipes:medium_retrieval_module"
+					type: "item"
+				}
+				{
+					id: "50C65A1D2F935ECF"
+					item: "prettypipes:high_retrieval_module"
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "67C3342A596879DC"
+			tasks: [{
+				id: "663771AD829BFA58"
+				item: "prettypipes:round_robin_sorting_modifier"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "43E598CA34EC33A3"
+			tasks: [{
+				id: "38449A933237D0BA"
+				item: "prettypipes:random_sorting_modifier"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "402C9C6CB1C36C58"
+			tasks: [
+				{
+					id: "4F83D1AAC3158143"
+					item: "prettypipes:low_speed_module"
+					type: "item"
+				}
+				{
+					id: "36008EA01A71F539"
+					item: "prettypipes:medium_speed_module"
+					type: "item"
+				}
+				{
+					id: "26C8F49ADA9C3351"
+					item: "prettypipes:high_speed_module"
+					type: "item"
+				}
+			]
+			title: "Speed Increase Modules"
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "3613D2EEE4800C05"
+			tasks: [{
+				id: "471752C357C736C6"
+				item: "prettypipes:stack_size_module"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "6D7B3A1727C1DFBA"
+			tasks: [
+				{
+					id: "7D45F5A73BDEFF27"
+					item: "ppfluids:low_fluid_extraction_module"
+					type: "item"
+				}
+				{
+					id: "6B73303974FAF3B5"
+					item: "ppfluids:medium_fluid_extraction_module"
+					type: "item"
+				}
+				{
+					id: "217DB146FD75B1A6"
+					item: "ppfluids:high_fluid_extraction_module"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "0EE5221E3581DDAB"
+			tasks: [
+				{
+					id: "2F1469ACC21CE8C9"
+					item: "ppfluids:low_fluid_filter_module"
+					type: "item"
+				}
+				{
+					id: "42430CC598AD1C28"
+					item: "ppfluids:medium_fluid_filter_module"
+					type: "item"
+				}
+				{
+					id: "282B547942F0BEEB"
+					item: "ppfluids:high_fluid_filter_module"
+					type: "item"
+				}
+			]
+			title: "Low Fluid Filter"
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C1E8B6C1B9FCA19"]
+			id: "15EFF00F4603431A"
+			tasks: [
+				{
+					id: "281E0A92682795F4"
+					item: "ppfluids:low_fluid_retrieval_module"
+					type: "item"
+				}
+				{
+					id: "0CB78078A97B448C"
+					item: "ppfluids:medium_fluid_retrieval_module"
+					type: "item"
+				}
+				{
+					id: "287DBCBDC1179DFD"
+					item: "ppfluids:high_fluid_retrieval_module"
+					type: "item"
+				}
+			]
+			title: "Fluid Retrieval Modules"
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["673D9E8425C53084"]
+			id: "32BA0492B406EADB"
+			tasks: [{
+				id: "3910B854066CF7D0"
+				item: "prettypipes:wrench"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["673D9E8425C53084"]
+			id: "41BFECB6F65570B3"
+			tasks: [{
+				id: "33884DC7C1819DA5"
+				item: "ppfluids:fluid_pipe"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["673D9E8425C53084"]
+			id: "779971D5444A34FB"
+			tasks: [{
+				id: "01232F9447F5163B"
+				item: "prettypipes:pipe"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: ["Early game piping system for items and fluids."]
+			id: "673D9E8425C53084"
+			shape: "diamond"
+			tasks: [{
+				id: "1AF8EC1503562B82"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Pretty Pipes"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: ["Purchase Dust from the Market to upgrade your resources to make even stronger gear."]
+			id: "4DDBEBEF99D08776"
+			shape: "diamond"
+			tasks: [{
+				id: "7762599147B4CE77"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Silent Gear - Material Grader"
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4DDBEBEF99D08776"]
+			id: "3F68E4ECBDE7D4D4"
+			tasks: [{
+				id: "188816EC23846D3D"
+				item: "silentgear:material_grader"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["51D699D294441A9F"]
+			id: "59D10B3DA8C28866"
+			tasks: [
+				{
+					id: "11B637FF4FEB911E"
+					item: "create:belt_connector"
+					type: "item"
+				}
+				{
+					id: "0821C0D49E846622"
+					item: "create:shaft"
+					type: "item"
+				}
+			]
+			title: "You Rotate Me Right Round"
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["51D699D294441A9F"]
+			description: ["Craft a Gearbox by itself to convert it to a Verticle Gearbox. "]
+			id: "68214954F101DF08"
+			tasks: [{
+				id: "530CD2CCAF945EF2"
+				item: "create:gearbox"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["78F101D025C293AB"]
+			id: "2E76FAE21C60D6DB"
+			tasks: [
+				{
+					id: "65B58254F72C2AE7"
+					item: "glassential:glass_dark_ethereal"
+					type: "item"
+				}
+				{
+					id: "0DABAC92D47BA088"
+					item: "glassential:glass_dark_ethereal_reverse"
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78F101D025C293AB"]
+			id: "735A261440C62675"
+			tasks: [
+				{
+					id: "2A04066BDB424771"
+					item: "glassential:glass_ethereal"
+					type: "item"
+				}
+				{
+					id: "7A2EAADF851F0E30"
+					item: "glassential:glass_ethereal_reverse"
+					type: "item"
+				}
+			]
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78F101D025C293AB"]
+			id: "5A357EB5B49ABF73"
+			tasks: [{
+				id: "329DA158CB4D6847"
+				item: "glassential:glass_ghostly"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78F101D025C293AB"]
+			id: "15B652F3E9260677"
+			tasks: [{
+				id: "1334A3D51E7E46B8"
+				item: "glassential:glass_light"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78F101D025C293AB"]
+			id: "6CE5AC0F6448E04D"
+			tasks: [{
+				id: "11767D79431552FE"
+				item: "glassential:glass_redstone"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["58E712AAC0CAC553"]
+			id: "5DACCB1CF94E7820"
+			tasks: [{
+				id: "3B9EDAB2B4B53A65"
+				item: "apotheosis:augmenting_table"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+	]
+	title: "Utility"
+}

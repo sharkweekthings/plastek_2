@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "scanner",
+  "key": {
+    "b": {
+      "item": "minecraft:iron_bars"
+    },
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "q": {
+      "tag": "forge:gems/quartz"
+    },
+    "r": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "i i",
+    "brb",
+    "gqg"
+  ],
+  "result": {
+    "item": "scannable:scanner"
+  }
+}

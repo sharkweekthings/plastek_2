@@ -1,0 +1,43 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "botania:astrolabe"
+  },
+  "ingredients": [
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "draconicevolution:chaotic_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_core"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    }
+  ],
+  "result": {
+    "item": "create:handheld_worldshaper"
+  },
+  "tier": "CHAOTIC",
+  "total_energy": 1024000000
+}

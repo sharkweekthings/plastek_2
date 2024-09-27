@@ -1,0 +1,387 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end_eyes"
+	group: "1D085754C16989B5"
+	icon: {
+		Count: 1
+		id: "endrem:nether_eye"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "320A26FC41362EE6"
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Can be obtained after you defeat the Alchemist and Summoner bosses located in Everbright and Everdawn."]
+			id: "6C7964C6A4F30674"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4353C918536BCC59"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "42AF938C727A13E7"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Sky Eye"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			description: ["Can be obtained after you make your first Printed Circuit Board."]
+			id: "349060F64218C12C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20058584DF312BC7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78DA4283334BFD84"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "4AB0396B4A7FAAB2"
+			invisible: true
+			subtitle: "Cannot be obtained"
+			tasks: [{
+				id: "05DD0CCEB27FA317"
+				item: {
+					Count: 1
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			description: ["Can be obtained by killing 1 of each type of dragon (Ice, Fire, and Lightning)"]
+			id: "2421D9E88B1C5B58"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "689224F30C2938B2"
+					table_id: 5124368461700878780L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5AC4AE7E943B56B8"
+					table_id: 5124368461700878780L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "098F1285564DBE62"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Dragon Eye"
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			description: ["Can be obtained by completing the Blocks of the Nether, and the Mobs of the Nether quest lines. "]
+			id: "742EA21C6DB25291"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "054C921AB403D377"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "79F312601984725C"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			description: ["Can be obtained by having a meeting with a Queen Bee in The Bumblezone."]
+			id: "420C44B5CD424AEC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1EDA07A42113D1CB"
+					table_id: 5124368461700878780L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FF48679FED05F54"
+					table_id: 5124368461700878780L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5DB0D477F04CEA5E"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "1B98C457A823C585"
+			invisible: true
+			subtitle: "Cannot be obtained"
+			tasks: [{
+				id: "295717FD00E27F1E"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			description: ["Can be obtained by crafting 8 Insanium Essence around an Orb of the Summoner."]
+			id: "20788815179D5B06"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03A058E70DAB72E0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "754AA9CEDA3A74A0"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			id: "7C7B6B414E7CA9D4"
+			invisible: true
+			subtitle: "Cannot be obtained"
+			tasks: [{
+				id: "2049AA450AA182D0"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "2E6468A7B7740BE8"
+			invisible: true
+			subtitle: "Cannot be obtained"
+			tasks: [{
+				id: "6A4C9B7789C7481E"
+				item: {
+					Count: 1
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			description: ["Can be obtained after you clear the Bronze, Gold, and Silver Dungeons located in The Aether."]
+			id: "43F5981C8E7B0B1B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BB3A36039973DCA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5F5B0C3D2D045487"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Aether Eye"
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			description: ["Can be obtained by infusing various materials together inside a Draconic Tiered Fusion Injector."]
+			id: "7914F1F9D9E4E42A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "203F7BB6A7C9612D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "51DA8D6068C6F51A"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			description: ["Can be obtained after you make your first Plastic Sheet."]
+			id: "3E2C5D29534DCF37"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C52C73DFB90F256"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3316722A8F999D4B"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			description: ["Can be obtained by throwing a Demon's Dream Fruit into the Spirit Fire. "]
+			id: "4D49DB740FDB82F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11B2B7FB6013EE0A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "023621EAF62A8EA1"
+				item: {
+					Count: 1
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			description: ["Can be obtained after entering the Alfheim portal."]
+			id: "48BDEA7AA0FEC4A2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FA0DED1D9A5C09A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "55F299E64F9F5D67"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: ["Can be obtained in chests located inside of Dimensional Dungeons. "]
+			id: "6B41174603B189EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F9B4662415F1825"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3BB18D7F5969B80C"
+				item: {
+					Count: 1
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Dimensional Eye"
+			x: 3.5d
+			y: 0.0d
+		}
+	]
+	title: "End Eyes"
+}

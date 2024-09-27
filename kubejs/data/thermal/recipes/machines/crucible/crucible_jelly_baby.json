@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "mob_grinding_utils:solid_xp_baby"
+  },
+  "result": [
+    {
+      "fluid": "mob_grinding_utils:fluid_xp",
+      "amount": 1000
+    }
+  ],
+  "energy": 40000
+}

@@ -1,0 +1,51 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:fluid_sieving_machine"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "a": {
+            "tag": "forge:gears/gold"
+          },
+          "b": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "c": {
+            "item": "industrialforegoing:pink_slime"
+          },
+          "g": {
+            "item": "minecraft:iron_bars"
+          },
+          "p": {
+            "tag": "forge:plastic"
+          },
+          "v": {
+            "item": "create:precision_mechanism"
+          }
+        },
+        "pattern": [
+          "pcp",
+          "gvg",
+          "aba"
+        ],
+        "result": {
+          "item": "industrialforegoing:fluid_sieving_machine"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

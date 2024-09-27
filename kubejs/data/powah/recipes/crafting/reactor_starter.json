@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"ulu",
+	"lcl",
+	"zly"
+  ],
+  "key": {
+	"u": {
+	  "item": "powah:uraninite"
+	},
+	"l": {
+	  "item": "powah:capacitor_basic_tiny"
+	},
+	"c": {
+	  "item": "powah:dielectric_casing"
+	},
+	"z": {
+	  "item": "industrialforegoing:machine_frame_advanced"
+	},
+	"y": {
+	  "item": "create:precision_mechanism"
+	}
+  },
+  "result": {
+	"item": "powah:reactor_starter",
+	"count": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "gTg",
+    "rFr",
+    "OOO"
+  ],
+  "result": {
+    "item": "rftoolsbuilder:shield_block1"
+  },
+  "show_notification": true
+}

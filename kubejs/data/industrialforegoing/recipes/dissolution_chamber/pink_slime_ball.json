@@ -1,0 +1,14 @@
+{
+  "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "inputFluid": "{Amount:300,FluidName:\"mob_grinding_utils:fluid_xp\"}",
+  "output": {
+    "count": 1,
+    "item": "industrialforegoing:pink_slime"
+  },
+  "processingTime": 200
+}

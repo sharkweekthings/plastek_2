@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    }
+  ],
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_maple_wood"
+    },
+    {
+      "tag": "natprog:axe"
+    }
+  ],
+  "result": {
+    "item": "blue_skies:maple_planks",
+    "count": 1
+  },
+  "group": "planks"
+}

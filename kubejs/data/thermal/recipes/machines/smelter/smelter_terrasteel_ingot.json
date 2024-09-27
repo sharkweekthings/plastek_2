@@ -1,0 +1,41 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/manasteel"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "tag": "forge:gems/mana_diamond"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "item": "botania:mana_pearl"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "botania:terrasteel_ingot",
+      "chance": 0.75
+    },
+    {
+      "item": "botania:terrasteel_ingot",
+      "chance": 0.3
+    }
+  ],
+  "experience": 0.2,
+  "energy": 15000
+}

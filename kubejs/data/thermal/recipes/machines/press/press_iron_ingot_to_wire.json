@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "tag": "forge:ingots/iron"
+  },
+  "result": [
+    {
+      "item": "createaddition:iron_wire",
+      "count": 2
+    }
+  ]
+}

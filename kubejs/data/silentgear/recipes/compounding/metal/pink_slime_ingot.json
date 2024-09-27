@@ -1,0 +1,21 @@
+{
+  "type": "silentgear:compounding/metal",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "item": "industrialforegoing:pink_slime"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "industrialforegoing:pink_slime_ingot"
+  }
+}

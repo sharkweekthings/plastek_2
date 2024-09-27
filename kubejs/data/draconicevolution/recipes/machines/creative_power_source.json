@@ -1,0 +1,44 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "thermal:rf_coil_creative_augment"
+  },
+  "ingredients": [
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "create:creative_crate"
+    },
+    {
+      "item": "draconicevolution:creative_capacitor"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    {
+      "item": "draconicevolution:chaotic_energy_core"
+    }
+  ],
+  "result": {
+    "item": "draconicevolution:creative_op_capacitor",
+    "count": 3
+  },
+  "tier": "CHAOTIC",
+  "total_energy": 1024000000
+}

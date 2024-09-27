@@ -1,0 +1,1962 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utility_3"
+	group: "17D4659CA536FD99"
+	icon: "draconicevolution:module_core"
+	id: "2DBF2A3E4D1C9A43"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1E98FF7C34F7DF37"]
+			id: "73A50F6C974AAA37"
+			tasks: [{
+				id: "4FC216CFBDDCF380"
+				item: "rangedpumps:pump"
+				type: "item"
+			}]
+			title: "Ranged Pump"
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5377D37E0BE5C28F"]
+			id: "6CFB2522CDAAF4D8"
+			tasks: [
+				{
+					id: "2C612D09F23CC168"
+					item: "rftoolsutility:crafter1"
+					type: "item"
+				}
+				{
+					id: "6AD6A131571F0788"
+					item: "rftoolsutility:crafter2"
+					type: "item"
+				}
+				{
+					id: "28898F8DE9B9746A"
+					item: "rftoolsutility:crafter3"
+					type: "item"
+				}
+			]
+			title: "Auto Crafting"
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5377D37E0BE5C28F"]
+			id: "2A44FF46B0DBA035"
+			tasks: [{
+				id: "3943F9A97FEC1F3E"
+				item: "rftoolsbuilder:builder"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5377D37E0BE5C28F"]
+			id: "092FFCF408050E20"
+			tasks: [{
+				id: "7AF42A4345112A0F"
+				item: "rftoolsutility:screen_controller"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "7E1B71A6BE3D9BAE"
+			tasks: [{
+				id: "15230CB5A93E564B"
+				item: {
+					Count: 1
+					id: "rftoolsutility:text_module"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "325C7DF6E8CBB50E"
+			tasks: [
+				{
+					id: "03E3FAD01F573B3F"
+					item: {
+						Count: 1
+						id: "rftoolsutility:energy_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68BD2202A6CC7B52"
+					item: {
+						Count: 1
+						id: "rftoolsutility:energyplus_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "049B29264AA8F8B5"
+			tasks: [
+				{
+					id: "7EDF5483E3678FFE"
+					item: {
+						Count: 1
+						id: "rftoolsutility:inventory_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2CDE7659F694028E"
+					item: {
+						Count: 1
+						id: "rftoolsutility:inventoryplus_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "475178DFA6A6589C"
+			tasks: [{
+				id: "63EBA8F38D0E0541"
+				item: {
+					Count: 1
+					id: "rftoolsutility:clock_module"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "45498E786CDAFD00"
+			tasks: [
+				{
+					id: "376B1A2C21018C6C"
+					item: {
+						Count: 1
+						id: "rftoolsutility:fluid_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00292F90B045DE25"
+					item: {
+						Count: 1
+						id: "rftoolsutility:fluidplus_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "36A33831CD87C96F"
+			tasks: [{
+				id: "0D9C18C41C129A83"
+				item: {
+					Count: 1
+					id: "rftoolsutility:machineinformation_module"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "20D8E7DA108FE50E"
+			tasks: [{
+				id: "77D509DB2061CD24"
+				item: {
+					Count: 1
+					id: "rftoolsutility:computer_module"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "1650EBB48CF5A6B3"
+			tasks: [{
+				id: "0F7C11E3D8F8B758"
+				item: {
+					Count: 1
+					id: "rftoolsutility:button_module"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "234EEE838C577283"
+			tasks: [{
+				id: "52E47B1C0A19B6D7"
+				item: {
+					Count: 1
+					id: "rftoolsutility:redstone_module"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "020F4D2D364C2DE8"
+			tasks: [
+				{
+					id: "5472A4C723C0BC6C"
+					item: {
+						Count: 1
+						id: "rftoolsutility:counter_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F1CA80E7137C5D0"
+					item: {
+						Count: 1
+						id: "rftoolsutility:counterplus_module"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "1B758EAA8FA9630B"
+			tasks: [{
+				id: "45A54465E0C577E5"
+				item: {
+					Count: 1
+					id: "rftoolsutility:screen_link"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["092FFCF408050E20"]
+			id: "35ED42011970DAFC"
+			tasks: [{
+				id: "2F4413F0F795DBB6"
+				item: "rftoolsutility:screen"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "3C545FDBFA8F6CFF"
+			tasks: [{
+				id: "189CE3474027619B"
+				item: "rftoolsbuilder:shape_card_def"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "5BF51D67A8DBC8F1"
+			tasks: [{
+				id: "70BF1DA7D7ACB9F2"
+				item: "rftoolsbuilder:shape_card_liquid"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "19975C234127808B"
+			tasks: [{
+				id: "608F124C3D9AAEC8"
+				item: "rftoolsbuilder:shape_card_pump"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "5ED1851C48BD21D5"
+			tasks: [{
+				id: "4C3540F024BDB32D"
+				item: "rftoolsbuilder:shape_card_quarry"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "72F5CACFD4170E7C"
+			tasks: [
+				{
+					id: "3CE470476C8A4BCF"
+					item: "rftoolsbuilder:shape_card_quarry_clear"
+					type: "item"
+				}
+				{
+					id: "2F286F72F2FAEDF1"
+					item: "rftoolsbuilder:shape_card_quarry_clear_fortune"
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "3F77D366C6BEAC33"
+			tasks: [
+				{
+					id: "31B33A9452CFA6BF"
+					item: "rftoolsbuilder:shape_card_quarry_clear_fortune"
+					type: "item"
+				}
+				{
+					id: "1BFEC190B58B875F"
+					item: "rftoolsbuilder:shape_card_quarry_fortune"
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "4CC7116F92F8AE2B"
+			tasks: [
+				{
+					id: "54E577D6B2E08197"
+					item: "rftoolsbuilder:shape_card_quarry_clear_silk"
+					type: "item"
+				}
+				{
+					id: "4B7248916E75DD03"
+					item: "rftoolsbuilder:shape_card_quarry_silk"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["2A44FF46B0DBA035"]
+			id: "5EDACECF24F633D7"
+			tasks: [{
+				id: "09C408857816BCB8"
+				item: "rftoolsbuilder:shape_card_void"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "04E9CFA8A33FE3CD"
+			tasks: [{
+				id: "3500C0AFA328AF62"
+				item: "powah:furnator_starter"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "0A4C4C2D8552BCAD"
+			tasks: [{
+				id: "5D4581EE08133A0E"
+				item: "powah:furnator_basic"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "7202D8CAD08DCA8C"
+			tasks: [{
+				id: "1240C88EB23136E4"
+				item: "powah:magmator_starter"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "0B8805D067BA073E"
+			tasks: [{
+				id: "4D8452BEDED23E18"
+				item: "powah:magmator_basic"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "485F1E90FC9CFE3C"
+			tasks: [{
+				id: "2F086411D0C1FD09"
+				item: "powah:thermo_generator_starter"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "492FE5DDC9A339B0"
+			tasks: [{
+				id: "78C18F6C50DED79E"
+				item: "powah:thermo_generator_basic"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "2D9C6F50A37D1A42"
+			tasks: [{
+				id: "03C6DFB4EAB2FA74"
+				item: "pneumaticcraft:pneumatic_dynamo"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "6B175EC66DFED793"
+			tasks: [{
+				id: "157DE8E346572D87"
+				item: "thermal:dynamo_stirling"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "079D7B1BA2B0BF0C"
+			tasks: [{
+				id: "71241D8C11B628FD"
+				item: "thermal:dynamo_compression"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "2FB83C5BE726A88D"
+			tasks: [{
+				id: "770566DD53A4C66C"
+				item: "thermal:dynamo_magmatic"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "3185CF3D066CA796"
+			tasks: [{
+				id: "41A4997128B51B7D"
+				item: "thermal:dynamo_numismatic"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "172AE3E1E073936E"
+			tasks: [{
+				id: "1BE70B6CA89B1268"
+				item: "thermal:dynamo_lapidary"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "24DB7FC2A9312BBE"
+			tasks: [{
+				id: "1DCC18FF642AC1CA"
+				item: "thermal:dynamo_disenchantment"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["28585B1F1C74B5DA"]
+			id: "79C04CE5A9E78593"
+			tasks: [{
+				id: "22309DAD40419647"
+				item: "thermal:dynamo_gourmand"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "67F7EB019ADFEF85"
+			tasks: [{
+				id: "585F0F413636C5FB"
+				item: "powah:reactor_starter"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "449B254D596128C8"
+			tasks: [{
+				id: "210F4E5393DC3FCC"
+				item: "powah:reactor_basic"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2C373587D4956B73"]
+			id: "6209B8FCD8FBE4FF"
+			tasks: [{
+				id: "4E42645154B7FFCD"
+				item: "powah:reactor_hardened"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["128BF3327F23CFB6"]
+			id: "2348FF9DC7A05FFD"
+			tasks: [{
+				id: "2DC501CC33DE896C"
+				item: "powah:reactor_blazing"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0B2E00DA9A1F6556"]
+			id: "48B16BECBAAEC0C9"
+			tasks: [{
+				id: "7E3B2978B65EDEEE"
+				item: "powah:reactor_niotic"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5AC82648F1226DD8"]
+			id: "252629ECA04AF22B"
+			tasks: [{
+				id: "25AF7E8D654FE90F"
+				item: "powah:reactor_spirited"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4564DBEFC14B952C"]
+			id: "425D3471A251E629"
+			tasks: [{
+				id: "7FCDA511B8696146"
+				item: "powah:reactor_nitro"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "2C373587D4956B73"
+			tasks: [{
+				id: "1FB006F7454D4A67"
+				item: "powah:steel_energized"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "128BF3327F23CFB6"
+			tasks: [{
+				id: "2EC14F83037F0712"
+				item: "powah:crystal_blazing"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "0B2E00DA9A1F6556"
+			tasks: [{
+				id: "752B0FCB33229BD6"
+				item: "powah:crystal_niotic"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "5AC82648F1226DD8"
+			tasks: [{
+				id: "3A6EC54222F1A1CA"
+				item: "powah:crystal_spirited"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "4564DBEFC14B952C"
+			tasks: [{
+				id: "152972FA08F8F002"
+				item: "powah:crystal_nitro"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "59D79CD4059F943E"
+			tasks: [
+				{
+					id: "545CFAEB26660D12"
+					item: "powah:energy_cable_starter"
+					type: "item"
+				}
+				{
+					id: "67AC05D21CF0BC60"
+					item: "powah:energy_cable_basic"
+					type: "item"
+				}
+				{
+					id: "326A042454E650BD"
+					item: "powah:energy_cable_hardened"
+					type: "item"
+				}
+				{
+					id: "5D21E596F61A6899"
+					item: "powah:energy_cable_blazing"
+					type: "item"
+				}
+				{
+					id: "503ED362673A7856"
+					item: "powah:energy_cable_niotic"
+					type: "item"
+				}
+				{
+					id: "3955090EE2B94CC6"
+					item: "powah:energy_cable_spirited"
+					type: "item"
+				}
+				{
+					id: "38445E0D0801D1CA"
+					item: "powah:energy_cable_nitro"
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "60F7344E6B4F312B"
+			tasks: [
+				{
+					id: "5DE0EA9B33C21A1C"
+					item: "powah:energy_cell_starter"
+					type: "item"
+				}
+				{
+					id: "7D830824E2D3FDA8"
+					item: "powah:energy_cell_basic"
+					type: "item"
+				}
+				{
+					id: "1ADA4AD3A5657C47"
+					item: "powah:energy_cell_hardened"
+					type: "item"
+				}
+				{
+					id: "6BC24E4F12DA8939"
+					item: "powah:energy_cell_blazing"
+					type: "item"
+				}
+				{
+					id: "22D96477C48D0AF1"
+					item: "powah:energy_cell_niotic"
+					type: "item"
+				}
+				{
+					id: "1D57F25EA1670B98"
+					item: "powah:energy_cell_spirited"
+					type: "item"
+				}
+				{
+					id: "735A748BB2E167A9"
+					item: "powah:energy_cell_nitro"
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "2FD071C988B1DA3D"
+			tasks: [
+				{
+					id: "38E8C0287A9D0DDE"
+					item: "powah:ender_cell_starter"
+					type: "item"
+				}
+				{
+					id: "0529849A37EAB28D"
+					item: "powah:ender_cell_basic"
+					type: "item"
+				}
+				{
+					id: "78E9652907C62FC0"
+					item: "powah:ender_cell_hardened"
+					type: "item"
+				}
+				{
+					id: "60E2BF64EF4D6478"
+					item: "powah:ender_cell_blazing"
+					type: "item"
+				}
+				{
+					id: "0C12178EDCF1BF7D"
+					item: "powah:ender_cell_niotic"
+					type: "item"
+				}
+				{
+					id: "52727BBDE2ADAF9D"
+					item: "powah:ender_cell_spirited"
+					type: "item"
+				}
+				{
+					id: "245D857D9E3518BC"
+					item: "powah:ender_cell_nitro"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "17D6B2A80ADD6DF4"
+			tasks: [
+				{
+					id: "1090303E33D8AFDD"
+					item: "powah:ender_gate_starter"
+					type: "item"
+				}
+				{
+					id: "51F92978716569F7"
+					item: "powah:ender_gate_basic"
+					type: "item"
+				}
+				{
+					id: "314E82D4AB1648F2"
+					item: "powah:ender_gate_hardened"
+					type: "item"
+				}
+				{
+					id: "7FAA7A4E2483C87E"
+					item: "powah:ender_gate_blazing"
+					type: "item"
+				}
+				{
+					id: "22D45ACE2F3EB043"
+					item: "powah:ender_gate_niotic"
+					type: "item"
+				}
+				{
+					id: "1463241F6FF657D6"
+					item: "powah:ender_gate_spirited"
+					type: "item"
+				}
+				{
+					id: "1EAD7FA5DDC6B2FE"
+					item: "powah:ender_gate_nitro"
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "75F1D9CB8ADB8670"
+			tasks: [
+				{
+					id: "2CC590F483849E40"
+					item: "powah:energizing_rod_starter"
+					type: "item"
+				}
+				{
+					id: "54D0A2014634F477"
+					item: "powah:energizing_rod_basic"
+					type: "item"
+				}
+				{
+					id: "751466F31261C1DE"
+					item: "powah:energizing_rod_hardened"
+					type: "item"
+				}
+				{
+					id: "44C1E666B9811FC8"
+					item: "powah:energizing_rod_blazing"
+					type: "item"
+				}
+				{
+					id: "1970D5EBC10CDFC5"
+					item: "powah:energizing_rod_niotic"
+					type: "item"
+				}
+				{
+					id: "21F3CCB078F6B5CB"
+					item: "powah:energizing_rod_spirited"
+					type: "item"
+				}
+				{
+					id: "25BE4B2B07AD13F3"
+					item: "powah:energizing_rod_nitro"
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "33336C5ED6602C68"
+			tasks: [
+				{
+					id: "0DF8405EAD2B9D45"
+					item: "powah:player_transmitter_starter"
+					type: "item"
+				}
+				{
+					id: "4D4FF152134A9CAA"
+					item: "powah:player_transmitter_basic"
+					type: "item"
+				}
+				{
+					id: "3C67B1B8D8309D88"
+					item: "powah:player_transmitter_hardened"
+					type: "item"
+				}
+				{
+					id: "0FE3C7D5C5091164"
+					item: "powah:player_transmitter_blazing"
+					type: "item"
+				}
+				{
+					id: "490DC5AFF4644D7D"
+					item: "powah:player_transmitter_niotic"
+					type: "item"
+				}
+				{
+					id: "31CE4BF107946B46"
+					item: "powah:player_transmitter_spirited"
+					type: "item"
+				}
+				{
+					id: "1942D8FD74467BEA"
+					item: "powah:player_transmitter_nitro"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "2F8286A25DE7FC67"
+			tasks: [
+				{
+					id: "3154F1DA19384575"
+					item: "powah:energy_hopper_starter"
+					type: "item"
+				}
+				{
+					id: "14BF45C398656833"
+					item: "powah:energy_hopper_basic"
+					type: "item"
+				}
+				{
+					id: "2E2BDCFD629C136A"
+					item: "powah:energy_hopper_hardened"
+					type: "item"
+				}
+				{
+					id: "3E8A8A2B6F0A5502"
+					item: "powah:energy_hopper_blazing"
+					type: "item"
+				}
+				{
+					id: "612C98428449E0B8"
+					item: "powah:energy_hopper_niotic"
+					type: "item"
+				}
+				{
+					id: "0394051C7794232A"
+					item: "powah:energy_hopper_spirited"
+					type: "item"
+				}
+				{
+					id: "798CBC195F3963FC"
+					item: "powah:energy_hopper_nitro"
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4EEEC35DEE6FA211"]
+			id: "6B0ED924E8DA459B"
+			tasks: [
+				{
+					id: "5F080A8764791E2F"
+					item: "powah:energy_discharger_starter"
+					type: "item"
+				}
+				{
+					id: "5B441B4054E36BB2"
+					item: "powah:energy_discharger_basic"
+					type: "item"
+				}
+				{
+					id: "68D81F529B7EF802"
+					item: "powah:energy_discharger_hardened"
+					type: "item"
+				}
+				{
+					id: "3CDEEAA9212DB543"
+					item: "powah:energy_discharger_blazing"
+					type: "item"
+				}
+				{
+					id: "64BB6033AFAF58A0"
+					item: "powah:energy_discharger_niotic"
+					type: "item"
+				}
+				{
+					id: "1658C7492E93CDF3"
+					item: "powah:energy_discharger_spirited"
+					type: "item"
+				}
+				{
+					id: "71A5AB07E9F39A80"
+					item: "powah:energy_discharger_nitro"
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			description: ["If you need a large boost of power to get you going."]
+			id: "4EEEC35DEE6FA211"
+			shape: "diamond"
+			tasks: [{
+				id: "3A213F6834C7898A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Powah Power"
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			description: ["If you need a little extra boost of power to get you going. "]
+			id: "28585B1F1C74B5DA"
+			shape: "diamond"
+			tasks: [{
+				id: "0EE04552F21923C2"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Thermal Power"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			id: "0A509698CF34218B"
+			tasks: [{
+				id: "1FD05DA65E0A78F5"
+				item: "draconicevolution:wyvern_io_crystal"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			id: "23F7BE61CBFE7C72"
+			tasks: [{
+				id: "2625CDA49EE3C7B7"
+				item: "draconicevolution:wyvern_relay_crystal"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			id: "11C769B19208D22C"
+			tasks: [{
+				id: "4FEC3B151164D027"
+				item: "draconicevolution:wyvern_wireless_crystal"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			id: "5FEDBF0C8E37B5CD"
+			tasks: [{
+				id: "3F62B95E3CE58D3B"
+				item: "draconicevolution:draconic_io_crystal"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			id: "205FC7BFC5059F51"
+			tasks: [{
+				id: "11847CC42E2CAD16"
+				item: "draconicevolution:draconic_relay_crystal"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			id: "2A882EEE7BCE56F9"
+			tasks: [{
+				id: "6D8C52822732B96B"
+				item: "draconicevolution:draconic_wireless_crystal"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			description: [
+				"Attach Energy I/O Crystals to devices that have power (Solar Panel, Wind Generator, etc). "
+				""
+				"Change I/O Modes by sneak + clicking."
+			]
+			id: "7FEB9A64D17A0FEE"
+			tasks: [{
+				id: "0B4454F568912431"
+				item: "draconicevolution:basic_io_crystal"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			description: ["Send your power into an Energy Relay crystal so you can move your energy around."]
+			id: "78D973B318012380"
+			tasks: [{
+				id: "07465AE66BAE22D9"
+				item: "draconicevolution:basic_relay_crystal"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["35C29BD865D1C716"]
+			description: ["Wireless Energy Crystals can be connected to various machines."]
+			id: "64D04FB4A9A82BAA"
+			tasks: [{
+				id: "5B10878D2830DE36"
+				item: "draconicevolution:basic_wireless_crystal"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["054E5BE81263C72C"]
+			description: [
+				"Using Sneak + Right Click you can connect various crystals from point to point."
+				""
+				"The Crystal should have a green outline around it as the starting point for connection. Connect to another viable end point."
+				""
+				""
+				"Sneak + Right Click the air to clear your selection."
+			]
+			id: "35C29BD865D1C716"
+			subtitle: "Command the power of the crystal."
+			tasks: [{
+				id: "5769875AB59B2282"
+				item: "draconicevolution:crystal_binder"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["054E5BE81263C72C"]
+			description: ["A chest with a massive storage, and capable of crafting and smelting."]
+			id: "5262E3FE89A79DCB"
+			tasks: [{
+				id: "3B21852A3BBD4E8E"
+				item: "draconicevolution:draconium_chest"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "2E2646015C29930F"
+			tasks: [{
+				id: "26C981F3E27F0D50"
+				item: "draconicevolution:item_draconium_aoe"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "38E9A728F8481A36"
+			tasks: [{
+				id: "47C9495EAF606969"
+				item: "draconicevolution:item_draconium_auto_feed"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			description: ["The more Energy Modules you have, the more power your tools and armor will be able to hold. "]
+			id: "075FD458107E9A05"
+			tasks: [{
+				id: "4CD26955784C4510"
+				item: "draconicevolution:item_draconium_energy"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "1AA6707F6901F0B0"
+			tasks: [{
+				id: "66308281F3B45513"
+				item: "draconicevolution:item_draconium_jump"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "28A7193BD4B2E4C7"
+			tasks: [{
+				id: "4303EBC91668474F"
+				item: "draconicevolution:item_draconium_speed"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["054E5BE81263C72C"]
+			id: "094F46836903C546"
+			tasks: [{
+				id: "38A079009C33CD00"
+				item: "draconicevolution:module_core"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "1EFB054831D9D872"
+			tasks: [{
+				id: "7238CBEF427BA237"
+				item: "draconicevolution:item_wyvern_aoe"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "31144213CE7C9EC9"
+			tasks: [{
+				id: "5A39CB7F375751CF"
+				item: "draconicevolution:item_wyvern_aqua_adapt"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "04E70CA2FD988B1B"
+			tasks: [{
+				id: "6814D81AA92E2F3E"
+				item: "draconicevolution:item_wyvern_auto_feed"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "3FEC8BBF18EDF047"
+			tasks: [{
+				id: "15AE82FB0BB80548"
+				item: "draconicevolution:item_wyvern_auto_fire"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "7C6B92C0CCD56A0A"
+			tasks: [{
+				id: "0125B7157F59C3E0"
+				item: "draconicevolution:item_wyvern_ender_collection"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "47A1C946BA75FF55"
+			tasks: [{
+				id: "3BCB9D7F15DC3403"
+				item: "draconicevolution:item_wyvern_energy"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "4C3299FC57B95171"
+			tasks: [{
+				id: "4F9457F48B78812A"
+				item: "draconicevolution:item_wyvern_flight"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "0EFD9D745EBED4FA"
+			tasks: [{
+				id: "670D7DC338023271"
+				item: "draconicevolution:item_wyvern_hill_step"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "1ECC282B8FB41540"
+			tasks: [{
+				id: "72FAE0FA847C8DBA"
+				item: "draconicevolution:item_wyvern_jump"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "191D6022E3F50B42"
+			tasks: [{
+				id: "2733718D62ACA6B4"
+				item: "draconicevolution:item_wyvern_junk_filter"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "3FC2F6F0BBE701D0"
+			tasks: [{
+				id: "691A2FC57CA73408"
+				item: "draconicevolution:item_wyvern_large_shield_capacity"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "2A12E031A0AD701E"
+			tasks: [{
+				id: "61328BB91C46D9C1"
+				item: "draconicevolution:item_wyvern_mining_stability"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "7C6DA6F108825832"
+			tasks: [{
+				id: "0F66CCC4216D7AD0"
+				item: "draconicevolution:item_wyvern_night_vision"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "44C154361D543BC9"
+			tasks: [{
+				id: "68D76D75343C3F79"
+				item: "draconicevolution:item_wyvern_proj_accuracy"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "5966D95111A4B1C0"
+			tasks: [{
+				id: "52C47D36DEB9C335"
+				item: "draconicevolution:item_wyvern_proj_damage"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "35FDEB4B47AE2D27"
+			tasks: [{
+				id: "31B307CFBCEEE36F"
+				item: "draconicevolution:item_wyvern_proj_grav_comp"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "15B152E643A4F1F7"
+			tasks: [{
+				id: "35E50C388B15D9D0"
+				item: "draconicevolution:item_wyvern_proj_penetration"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "1EC8D4826D867BDC"
+			tasks: [{
+				id: "2A36C3FAFE69475A"
+				item: "draconicevolution:item_wyvern_proj_velocity"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "0BB3EE18A5D85D57"
+			tasks: [{
+				id: "21C7B9006D3A9295"
+				item: "draconicevolution:item_wyvern_shield_capacity"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "62D1AE4F63A3565C"
+			tasks: [{
+				id: "0A9B39C0D5EDCD25"
+				item: "draconicevolution:item_wyvern_shield_control"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "396EB593836E3453"
+			tasks: [{
+				id: "3B58DC2CBD525685"
+				item: "draconicevolution:item_wyvern_shield_recovery"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "2C75321021EDC492"
+			tasks: [{
+				id: "06EFA2CEE80FF4B4"
+				item: "draconicevolution:item_wyvern_speed"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "75CA79349A76EB9B"
+			tasks: [{
+				id: "5C8141D1A082F463"
+				item: "draconicevolution:item_wyvern_undying"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "199446DC09674E6D"
+			tasks: [{
+				id: "39F7CB891B784541"
+				item: "draconicevolution:item_draconic_aoe"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "35324CEB0EA456BE"
+			tasks: [{
+				id: "5E778EA6E9CB06BD"
+				item: "draconicevolution:item_draconic_auto_feed"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "2EF8E027D9A980D1"
+			tasks: [{
+				id: "4D1C70304AECDF51"
+				item: "draconicevolution:item_draconic_damage"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "6144E76B5390AEC1"
+			tasks: [{
+				id: "4FA21B9B0BCE4F62"
+				item: "draconicevolution:item_draconic_ender_collection"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "39322838CBB2A879"
+			tasks: [{
+				id: "2A50FBED37DB83B7"
+				item: "draconicevolution:item_draconic_energy"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "53B4B6AA36924C9D"
+			tasks: [{
+				id: "6E5A271240EC9A19"
+				item: "draconicevolution:item_draconic_flight"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "4CE9F0F29E278358"
+			tasks: [{
+				id: "57613B5F927AEBDC"
+				item: "draconicevolution:item_draconic_jump"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "2F99FB9BE7A3CC42"
+			tasks: [{
+				id: "3E70240C385B4114"
+				item: "draconicevolution:item_draconic_proj_accuracy"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "24EA41A933190C38"
+			tasks: [{
+				id: "6193FEF72FA3FF11"
+				item: "draconicevolution:item_draconic_proj_anti_immune"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "3D82D5676ACA937B"
+			tasks: [{
+				id: "3FB4CE5C0217F18E"
+				item: "draconicevolution:item_draconic_large_shield_capacity"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "26A80F45150F240E"
+			tasks: [{
+				id: "45079A1F82E47BBD"
+				item: "draconicevolution:item_draconic_proj_damage"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "7BB127F5D62ED139"
+			tasks: [{
+				id: "234FFD6E04593243"
+				item: "draconicevolution:item_draconic_proj_grav_comp"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "0BE97E0421C6F0FC"
+			tasks: [{
+				id: "1F71D5C2A8A01DA3"
+				item: "draconicevolution:item_draconic_proj_velocity"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "399B9B3FA5EE23B3"
+			tasks: [{
+				id: "3752CB5579D07294"
+				item: "draconicevolution:item_draconic_shield_capacity"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "41F9C97981BF34AE"
+			tasks: [{
+				id: "2914E7A26D2C6FA0"
+				item: "draconicevolution:item_draconic_shield_control"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "6B72198774B2524F"
+			tasks: [{
+				id: "1204A35942C26FCD"
+				item: "draconicevolution:item_draconic_shield_recovery"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "1FFE3569A284E108"
+			tasks: [{
+				id: "555CE8367DEEEF68"
+				item: "draconicevolution:item_draconic_speed"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["094F46836903C546"]
+			id: "05A4E2F25622964C"
+			tasks: [{
+				id: "13B15A12C4357A9B"
+				item: "draconicevolution:item_draconic_undying"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 7.0d
+		}
+		{
+			description: ["Auto Crafting withe the Crafter, Mining with the Builder, and fancy screens!"]
+			id: "5377D37E0BE5C28F"
+			shape: "diamond"
+			tasks: [{
+				id: "5089492CDFB86156"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "RF Tools"
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			description: ["Various modules and crystals for Draconic Evolution"]
+			id: "054E5BE81263C72C"
+			shape: "diamond"
+			tasks: [{
+				id: "06C47164E5532D7D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Draconic Evolution"
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			description: ["Pump fluids, even across dimensions!"]
+			id: "1E98FF7C34F7DF37"
+			shape: "diamond"
+			tasks: [{
+				id: "2A51559731C4EF90"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Ranged Pump"
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["18147217595282CF"]
+			id: "2B20240CA9F53098"
+			tasks: [{
+				id: "7E7BAE0F4148347A"
+				item: "xnet:controller"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["18147217595282CF"]
+			id: "5B8437AB976623BF"
+			tasks: [
+				{
+					id: "6536D6C83C1D0CE9"
+					item: "xnet:netcable_red"
+					type: "item"
+				}
+				{
+					id: "6F431699477AED40"
+					item: "xnet:netcable_green"
+					type: "item"
+				}
+				{
+					id: "2348956396642235"
+					item: "xnet:netcable_blue"
+					type: "item"
+				}
+				{
+					id: "21C5B44DA7986F9E"
+					item: "xnet:netcable_yellow"
+					type: "item"
+				}
+			]
+			title: "XNet Cables"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["18147217595282CF"]
+			id: "33FC7F01941FB8F6"
+			tasks: [
+				{
+					id: "54799A4116CFF1B4"
+					item: "xnet:connector_red"
+					type: "item"
+				}
+				{
+					id: "2FD69ABE1D3E59A1"
+					item: "xnet:connector_green"
+					type: "item"
+				}
+				{
+					id: "630A4278A21BA7B4"
+					item: "xnet:connector_blue"
+					type: "item"
+				}
+				{
+					id: "14CE6F412C0F0DC6"
+					item: "xnet:connector_yellow"
+					type: "item"
+				}
+			]
+			title: "Connectors"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["18147217595282CF"]
+			id: "613D0762E3EC486D"
+			tasks: [
+				{
+					id: "4291C6129B7F65E8"
+					item: "xnet:advanced_connector_red"
+					type: "item"
+				}
+				{
+					id: "6704431B555BCD35"
+					item: "xnet:advanced_connector_green"
+					type: "item"
+				}
+				{
+					id: "29ED0392E4C2EDC9"
+					item: "xnet:advanced_connector_blue"
+					type: "item"
+				}
+				{
+					id: "734746B28860E7A4"
+					item: "xnet:advanced_connector_yellow"
+					type: "item"
+				}
+			]
+			title: "Advanced Connectors"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["18147217595282CF"]
+			id: "49B1BE150E21ECB1"
+			tasks: [
+				{
+					id: "2773401ED2C4244F"
+					item: "xnet:netcable_routing"
+					type: "item"
+				}
+				{
+					id: "301F17E2C4DF279E"
+					item: "xnet:connector_routing"
+					type: "item"
+				}
+				{
+					id: "3692F84597C81A27"
+					item: "xnet:advanced_connector_routing"
+					type: "item"
+				}
+			]
+			title: "Routing"
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			description: ["Xnet can help you move Items, Power, Fluids and Gasses. "]
+			id: "18147217595282CF"
+			shape: "diamond"
+			tasks: [{
+				id: "51AFC7CEE2A0CDB5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Xnet"
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			description: ["Maybe you want to start setting up your wireless power network?"]
+			id: "18A1F20621DFDCBE"
+			shape: "diamond"
+			tasks: [{
+				id: "6C5D0FB491028F93"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Flux Networks"
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["18A1F20621DFDCBE"]
+			id: "76E1F8D70C192C24"
+			tasks: [{
+				id: "4D2D27E88D5A89CC"
+				item: "fluxnetworks:flux_plug"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["18A1F20621DFDCBE"]
+			id: "51503EA4B5D8BEDD"
+			tasks: [{
+				id: "45716680393EBCAC"
+				item: "fluxnetworks:flux_controller"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["18A1F20621DFDCBE"]
+			id: "3424CE6D1D2A16A2"
+			tasks: [{
+				id: "5B66B37858D4F8AC"
+				item: "fluxnetworks:flux_point"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+	]
+	title: "Utility"
+}

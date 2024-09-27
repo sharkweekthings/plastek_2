@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "blank_module",
+  "key": {
+    "c": {
+      "item": "minecraft:clay_ball"
+    },
+    "g": {
+      "tag": "forge:dyes/green"
+    },
+    "n": {
+      "tag": "forge:nuggets/gold"
+    },
+    "r": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "ggg",
+    "crc",
+    "cnc"
+  ],
+  "result": {
+    "item": "scannable:blank_module"
+  }
+}

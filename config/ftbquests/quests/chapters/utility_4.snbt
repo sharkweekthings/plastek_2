@@ -1,0 +1,577 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utility_4"
+	group: "581F41F63919A6BC"
+	icon: "mekanism:ultimate_tier_installer"
+	id: "120E34A36AF80913"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "6F7BAFC02C5E03ED"
+			tasks: [{
+				id: "47EE8FA2D9C31541"
+				item: "mekanism:basic_tier_installer"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "7C3162E6AA15CEBD"
+			tasks: [{
+				id: "0EC703270BD1E564"
+				item: "mekanism:advanced_tier_installer"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "6278EEE134B4D0F4"
+			tasks: [{
+				id: "6BA1261518D4EB8B"
+				item: "mekanism:elite_tier_installer"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "2305AAAAA7F521E9"
+			tasks: [{
+				id: "73D2EDF7451F695C"
+				item: "mekanism:ultimate_tier_installer"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "0CC241E22D91CAFF"
+			tasks: [{
+				id: "3B77AF3F1836355E"
+				item: "mekanism:upgrade_speed"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "2FEDBBEBA4B5D200"
+			tasks: [{
+				id: "3C3F01A52BFDA05C"
+				item: "mekanism:upgrade_energy"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "4355A0A8703B39ED"
+			tasks: [{
+				id: "41F6D9D5EF8847B7"
+				item: "mekanism:upgrade_filter"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "60F91646D695E667"
+			tasks: [{
+				id: "26EADA2DA6C2A542"
+				item: "mekanism:upgrade_muffling"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "2F325BABEBF856B5"
+			tasks: [{
+				id: "25CEFC8CBE0A1080"
+				item: "mekanism:upgrade_gas"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "64F5861C72052C94"
+			tasks: [{
+				id: "36816B5C3FD4B09B"
+				item: "mekanism:upgrade_anchor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "4C2FAEF2F0CC7B7F"
+			tasks: [{
+				id: "04B8F0C8DCC9088F"
+				item: "mekanism:upgrade_stone_generator"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "4970BA633FB36A61"
+			tasks: [{
+				id: "38447DCEBA3104EB"
+				item: "draconicevolution:item_chaotic_aoe"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "3D1FE340D8424093"
+			tasks: [{
+				id: "22C5152701ACEF27"
+				item: "draconicevolution:item_chaotic_damage"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "04E16D4206783C4C"
+			tasks: [{
+				id: "50809DE1A185F825"
+				item: "draconicevolution:item_chaotic_energy"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "40191C677CC30F23"
+			tasks: [{
+				id: "2B5BB604DAC25E8A"
+				item: "draconicevolution:item_chaotic_flight"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "696CD17DF683C797"
+			tasks: [{
+				id: "3AC539DAAD4DEEEA"
+				item: "draconicevolution:item_chaotic_jump"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "017AEC8CE14D3D18"
+			tasks: [{
+				id: "2A41F64BBCC99117"
+				item: "draconicevolution:item_chaotic_large_shield_capacity"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "187E6D26F5BEBEA6"
+			tasks: [{
+				id: "426E48AAF6330EF8"
+				item: "draconicevolution:item_chaotic_proj_accuracy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "490FFDD3CCE11056"
+			tasks: [{
+				id: "2E37A63DECEC2490"
+				item: "draconicevolution:item_chaotic_proj_damage"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "6B3B47BAC79D8226"
+			tasks: [{
+				id: "270752F077C06B6E"
+				item: "draconicevolution:item_chaotic_proj_grav_comp"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "518681668FFEA943"
+			tasks: [{
+				id: "25AA12903966E8D3"
+				item: "draconicevolution:item_chaotic_proj_penetration"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "6DF18735612FC441"
+			tasks: [{
+				id: "3781A018051BB290"
+				item: "draconicevolution:item_chaotic_proj_velocity"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "22354679234B8C80"
+			tasks: [{
+				id: "571067E242A08D42"
+				item: "draconicevolution:item_chaotic_shield_capacity"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "45F75368B2382C7B"
+			tasks: [{
+				id: "061BA3ED22B721F6"
+				item: "draconicevolution:item_chaotic_shield_control"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "6C89FACB12B1CDDE"
+			tasks: [{
+				id: "0541E09F0E180F63"
+				item: "draconicevolution:item_chaotic_shield_recovery"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "672F305803D28FE5"
+			tasks: [{
+				id: "311C1ACA8F7CC14B"
+				item: "draconicevolution:item_chaotic_tree_harvest"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"094F46836903C546"
+				"3E37F2A10E4C7F23"
+			]
+			id: "465BCB45AAEB05CF"
+			tasks: [{
+				id: "42A18C146087945B"
+				item: "draconicevolution:item_chaotic_undying"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			description: ["Upgrading Mekanism"]
+			id: "08484CCEC519C231"
+			shape: "diamond"
+			tasks: [{
+				id: "6ED3DFFA79F67293"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Mekanism"
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			description: ["The final Draconic Evolution modules."]
+			id: "3E37F2A10E4C7F23"
+			shape: "diamond"
+			subtitle: "All the power!"
+			tasks: [{
+				id: "497313DE0382657D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Draconic Evolution - Chaotic Modules"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "6BA84CCEF5DDE792"
+			tasks: [
+				{
+					id: "2C9C7FD60D87A5AA"
+					item: "mekanism:basic_universal_cable"
+					type: "item"
+				}
+				{
+					id: "5F3B66C91F8687BD"
+					item: "mekanism:advanced_universal_cable"
+					type: "item"
+				}
+				{
+					id: "227DE18DCAD87983"
+					item: "mekanism:elite_universal_cable"
+					type: "item"
+				}
+				{
+					id: "3A647BAC15A02BD0"
+					item: "mekanism:ultimate_universal_cable"
+					type: "item"
+				}
+			]
+			title: "Universal Cables"
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "2E473C6DEA321285"
+			tasks: [
+				{
+					id: "6DF60624B5C81652"
+					item: "mekanism:basic_mechanical_pipe"
+					type: "item"
+				}
+				{
+					id: "336AFF36F93D3908"
+					item: "mekanism:advanced_mechanical_pipe"
+					type: "item"
+				}
+				{
+					id: "181810DA42F69105"
+					item: "mekanism:elite_mechanical_pipe"
+					type: "item"
+				}
+				{
+					id: "52BBDC80F8B7A290"
+					item: "mekanism:ultimate_mechanical_pipe"
+					type: "item"
+				}
+			]
+			title: "Mechanical Pipes"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "2924AAB68D939506"
+			tasks: [
+				{
+					id: "4E342CDB227B9259"
+					item: "mekanism:basic_pressurized_tube"
+					type: "item"
+				}
+				{
+					id: "4A5FDAD661EDFC14"
+					item: "mekanism:advanced_pressurized_tube"
+					type: "item"
+				}
+				{
+					id: "22A8DEAED4A3D910"
+					item: "mekanism:elite_pressurized_tube"
+					type: "item"
+				}
+				{
+					id: "7B5B597EFDE51E61"
+					item: "mekanism:ultimate_pressurized_tube"
+					type: "item"
+				}
+			]
+			title: "Pressurized Tubes"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "1D7712BD3E63658E"
+			tasks: [
+				{
+					id: "2E8BAE2ED7960F64"
+					item: "mekanism:basic_logistical_transporter"
+					type: "item"
+				}
+				{
+					id: "12DDF9D269F81F38"
+					item: "mekanism:advanced_logistical_transporter"
+					type: "item"
+				}
+				{
+					id: "164E58FE3D706B57"
+					item: "mekanism:elite_logistical_transporter"
+					type: "item"
+				}
+				{
+					id: "7719DBE954378B98"
+					item: "mekanism:ultimate_logistical_transporter"
+					type: "item"
+				}
+			]
+			title: "Logistical Transporter"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "4ED13AF21AE93AF6"
+			tasks: [
+				{
+					id: "4F7FB88A57303598"
+					item: "mekanism:restrictive_transporter"
+					type: "item"
+				}
+				{
+					id: "0097AF90AC91CF86"
+					item: "mekanism:diversion_transporter"
+					type: "item"
+				}
+			]
+			title: "Restrictive Transporter"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08484CCEC519C231"]
+			id: "6A1443BA6D6995C3"
+			tasks: [
+				{
+					id: "3EC0D449620E24E8"
+					item: "mekanism:basic_thermodynamic_conductor"
+					type: "item"
+				}
+				{
+					id: "5F32790784FD765C"
+					item: "mekanism:advanced_thermodynamic_conductor"
+					type: "item"
+				}
+				{
+					id: "30118A56444BB6F2"
+					item: "mekanism:elite_thermodynamic_conductor"
+					type: "item"
+				}
+				{
+					id: "583CD354A93DFD3C"
+					item: "mekanism:ultimate_thermodynamic_conductor"
+					type: "item"
+				}
+			]
+			title: "Thermodynamic Conductor"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5C187BB255DD32EA"]
+			id: "4DF7CA6AFFAA9ADE"
+			tasks: [{
+				id: "7026B5665A34F76C"
+				item: {
+					Count: 1
+					id: "tempad:tempad"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			description: ["The power of teleportation at your finger tips. "]
+			id: "5C187BB255DD32EA"
+			shape: "diamond"
+			tasks: [{
+				id: "26704F2B1BF6C286"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Tempad"
+			x: -3.5d
+			y: -1.5d
+		}
+	]
+	title: "Utility"
+}

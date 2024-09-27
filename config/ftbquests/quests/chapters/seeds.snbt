@@ -1,0 +1,2013 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "seeds"
+	group: "1D085754C16989B5"
+	icon: "minecraft:wheat_seeds"
+	id: "6740ED5393D8FC8A"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "32891BD8BF8113F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E0C099081790D03"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3021A0D90D8AFD3D"
+				item: "minecraft:wheat_seeds"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "6C9AE30C48A8869D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1FEEAE82AD3FE792"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1CC915FED5631E1F"
+				item: "minecraft:pumpkin_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "4A903B16B51657EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73CE51A781AB3EA8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "459BB3233C7AA533"
+				item: "minecraft:melon_seeds"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "17605AFC92572169"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20A059B585949FC6"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F017FADA18706F2"
+				item: "minecraft:beetroot_seeds"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "378F3B343049F070"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C13C618C0232E56"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "425160A28FE1B9F1"
+				item: "supplementaries:flax_seeds"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "073606A925C45B03"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A35FFF25B82D814"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F83E696EDE1EA39"
+				item: "minecraft:torchflower_seeds"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "71F9C42B4F019FF6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D73EB10E310AA82"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "152378F8DD682AC1"
+				item: "silentgear:flax_seeds"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "537E57873F5F2B76"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F63E6AC135E1E62"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3217C02FDA195A68"
+				item: "silentgear:fluffy_seeds"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "4D4984921BEED1A7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E5AA618E9C9C838"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "754DD4BBE9729FBA"
+				item: "occultism:datura_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "3CD952D4A03819DB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "633F56B80B761358"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5BB58A4B5C006722"
+				item: "blue_skies:pine_fruit_seeds"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "6B48F2ACFA5E74A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30D4944A00C77969"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1C930E81B285C3E1"
+				item: "blue_skies:winter_leaf_seeds"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "6D1AAB8E4124D312"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D874E152A8EA410"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12DCF36EAFC2F729"
+				item: "blue_skies:scalefruit_seeds"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "4B965BE3D7D1CE3C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CCCAB2336FB81C1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "720FBD80971B0838"
+				item: "blue_skies:fiery_bean_seeds"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "39F852BF623EA48C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E972EF33B838B53"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0D40F9658932D3AA"
+				item: "vinery:red_grape_seeds"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "17CB906D330D12F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3456F26373627C8D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6CA6B44C0A450FEC"
+				item: "vinery:white_grape_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "7D76C88C2C0952AF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30BA8E8FFAFCC2C8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "35980A121D4FCBF4"
+				item: "vinery:savanna_grape_seeds_red"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "082B524843CF01E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1456C285A04AEF13"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "30016517F2789EC5"
+				item: "vinery:savanna_grape_seeds_white"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "278FBCDF54EFE2DA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2BA3A343CC3CF540"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6304950795D1EA74"
+				item: "vinery:taiga_grape_seeds_red"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "5EB8E44700FAD928"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "301B0D4047F5C237"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7AFED0D27462F7E8"
+				item: "vinery:taiga_grape_seeds_white"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "2BFA928378239F83"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C26F95B1312CB18"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3FB632324AB78ED7"
+				item: "vinery:jungle_grape_seeds_red"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "347D4134246E603F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7CAC9E3C6EDCE202"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7EAE274D567208EF"
+				item: "vinery:jungle_grape_seeds_white"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "73016A363584ED6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "100BB3BB975AB026"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "206078C8D53A7551"
+				item: "farmersdelight:cabbage_seeds"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "03E2F03285B383AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24B6ECC85DB00E25"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E77946FEA6884FC"
+				item: "farmersdelight:tomato_seeds"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "1AA2B88B2FB77576"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46F9CE69C8BB11F1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "69D29A773B67AE06"
+				item: "pamhc2crops:mustardseedsitem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "7EA58D1BD55C56AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11B73AA064114641"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "46B1D6F60204ED4C"
+				item: "pamhc2crops:sesameseedsitem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "4A25F0ACCE315614"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B37FB9B359100B5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1EEE24F1F239A06A"
+				item: "pamhc2crops:agaveseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "33498965F490DF0B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77F663F5CC3B9794"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2FB66AC79B407775"
+				item: "pamhc2crops:amaranthseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "06AB17570A462E72"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FC0E294D07F43B5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5545FEB3F61CF6EA"
+				item: "pamhc2crops:arrowrootseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			id: "50AEE3A7BE9C5D1F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E950C05477F3F16"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "341BCB577AC2DBB3"
+				item: "pamhc2crops:artichokeseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "44290C21FD5DCA8A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B3999147270210D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3BD21515DAA34316"
+				item: "pamhc2crops:asparagusseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "3FF13F483996BF35"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CBBFCB9ACC403FA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6549DEA75D377969"
+				item: "pamhc2crops:barleyseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "6F8A962BE8AE0DB1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C351F21F6E7C038"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10C9A798B681955F"
+				item: "pamhc2crops:beanseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "667488DA03D4F0FF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D71EEBD6CCB4FCC"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "31F57A8B910770AB"
+				item: "pamhc2crops:bellpepperseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "533400FF0CEEDFA9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41A66DED3A1A5698"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0710B2202ECB2B9C"
+				item: "pamhc2crops:blackberryseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "34997540C6B088C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CF576890EAED1E5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "283A70C1EE6909E4"
+				item: "pamhc2crops:blueberryseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "0C6C7C1336A09B2F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50F6E06EC65D1794"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2882C0505FB48AC7"
+				item: "pamhc2crops:broccoliseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "08AA980BA26C98FE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42000FE96CC65C65"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "73917027022C2E88"
+				item: "pamhc2crops:brusselsproutseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "695A4862FDACEB20"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68AF78D869D53E9D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "23E495D5662EED2D"
+				item: "pamhc2crops:cabbageseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "6028D02D305D869F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "431FFC1953B3F902"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6AA26ADE29A52C0C"
+				item: "pamhc2crops:cactusfruitseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "7AF8202D9302AC5A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59EC420A5777A0C0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5981690E96256001"
+				item: "pamhc2crops:candleberryseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "1DDCA29304A5A881"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CA9FD5601BAFF6A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "72D712AFA716AF39"
+				item: "pamhc2crops:cantaloupeseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "40515FA08DE2F1C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "499EB23AA6D550EA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3FD6FC776FE87876"
+				item: "pamhc2crops:cassavaseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "628A43F58D96E8F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "372AAB43A499E75F"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E2596182558F2F4"
+				item: "pamhc2crops:cauliflowerseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "30CCE8105FC7A76E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F510733113C939B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "36B0653650E49E81"
+				item: "pamhc2crops:celeryseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "06CF4454A4287E79"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "796804C09C466B2A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "21783500BC9A2A20"
+				item: "pamhc2crops:chickpeaseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "6E1E6F3BA1F9A8C5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DF19B3B5DC1B453"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "40258441EE4D742C"
+				item: "pamhc2crops:chilipepperseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "27CCD54BCA32DFD2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "315D7EC73B4B2F64"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A3E0DE3D454127A"
+				item: "pamhc2crops:coffeebeanseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "273AC01C7109B187"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51D105717C02087A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "30BA45FF2C59FC46"
+				item: "pamhc2crops:cornseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "46C50E55C19DAE94"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6EE3AB18FA93A64B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "03322E36C14BD89D"
+				item: "pamhc2crops:cottonseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "78A92CFEDFEDBFD8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "54B79D06C493BFC1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "024F232171178F1A"
+				item: "pamhc2crops:cranberryseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "1F38C1DA6442DA8C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1580BB6B08969DEF"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "08AD41F6E7FCFADD"
+				item: "pamhc2crops:cucumberseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "6A7949B28CB44660"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6574D99A4F8BD583"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2900FC997013940D"
+				item: "pamhc2crops:eggplantseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "16ED7DC02168C2BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76B2497A996AE198"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "69A1F1710CE0856C"
+				item: "pamhc2crops:elderberryseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "4A19ECAA3D61D651"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "469F9033FD161521"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "03411F320497DA57"
+				item: "pamhc2crops:flaxseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "4D0FF7F462E567E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2FA03B05E704355E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2A02560EEE52395F"
+				item: "pamhc2crops:garlicseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "0E463C78E8F2C46B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BCEC67CA297A10E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "576CB2FF73086645"
+				item: "pamhc2crops:gingerseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "1D878AE93F856EDE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C046E20F0C8A48F"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6CBE6B2F4F47973C"
+				item: "pamhc2crops:grapeseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "6BCD2955B880FEF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65B0DB0AB6B92DD0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "74A7251AA0AB06D9"
+				item: "pamhc2crops:greengrapeseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "678CC2135160F354"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69026EC9547B1F27"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "680C048B315E8273"
+				item: "pamhc2crops:huckleberryseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "35D48666DD70ACED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E962FF49DA60E09"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "303995E7269564AC"
+				item: "pamhc2crops:jicamaseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "092B09940DF7D5E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49739929C3801CF5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7D9A6BCE2A92A1C8"
+				item: "pamhc2crops:juniperberryseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			id: "225FAE292BA36AA5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C2B55E32C707A42"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10A2CD96FEDF1A73"
+				item: "pamhc2crops:juteseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			id: "46E4FAEFB1B1D3AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E50A076144DC832"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1F37A27688A172B5"
+				item: "pamhc2crops:kaleseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			id: "2553BF9DA2AF787D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E9ACA64BFA19D17"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4BC5443D5924DD7F"
+				item: "pamhc2crops:kenafseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			id: "785CD92099D57ECF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6591F93B51B6F02A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6B59177B34568FCF"
+				item: "pamhc2crops:kiwiseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "2B1638C5960FEDC4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A10DA4268651A0B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "572F94529463DFB5"
+				item: "pamhc2crops:kohlrabiseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "47B1627D51246512"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0FF11055571DAD42"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1BE5B6E7B24743DA"
+				item: "pamhc2crops:leekseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "4ABB80B301122B9A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BDEA9F76B395D0D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "248F1CCBFA32B1F1"
+				item: "pamhc2crops:lentilseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "760DCBDED032A554"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6CE31AB9BC048D8E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "788F624B610416AD"
+				item: "pamhc2crops:lettuceseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			id: "2D887B862DCFFAC3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E8BAA633636B84D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1961D99FBE1B1F1B"
+				item: "pamhc2crops:milletseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			id: "5B485506462E665F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3127B27D359AF8B3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "725F9C495D37F2D4"
+				item: "pamhc2crops:mulberryseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			id: "2BCB4F70A0A352D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "64308C3D5F99B596"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4A9BD3C401BFCE86"
+				item: "pamhc2crops:mustardseedsseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			id: "72817F3ACC95A16F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1DAABF9F44837439"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "06E8B422C8EAE2BF"
+				item: "pamhc2crops:oatsseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "74EF1F0975873193"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22DB897C5D53933B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "65254BF07272459E"
+				item: "pamhc2crops:okraseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "5DD9F30E737FD17E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01E2415A8DB52BB3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5737BF07DAD879AB"
+				item: "pamhc2crops:onionseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "3C43B5DED4ADCA0C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D6858CFA58EDDAE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0FA3E8F97357FBE3"
+				item: "pamhc2crops:parsnipseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "716FBF59402AD15C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B8A594ADB4CEEF2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6DB7D13C480046CF"
+				item: "pamhc2crops:peanutseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			id: "06A2A64B341CD14F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "041D53F91CFE6DE2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1C9DFF8E4E1B8378"
+				item: "pamhc2crops:peasseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "4EE180FFF45A171E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62D64F87975756EB"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "004AE646E7A37A93"
+				item: "pamhc2crops:pineappleseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			id: "4D2FD247D56F0C4D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5635F8C15A6059D2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6876E98514EB1395"
+				item: "pamhc2crops:quinoaseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			id: "4D527260B3943DB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C01AD473B7EED4F"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0110E62D99570472"
+				item: "pamhc2crops:radishseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			id: "0A39242A36770444"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5AAA43A82F663FE0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "14DB8E272F4B1637"
+				item: "pamhc2crops:raspberryseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			id: "052ECD27BA19BF38"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62784140A29B435C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "51BE211D0CE37582"
+				item: "pamhc2crops:rhubarbseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "5E4D18CBF5027C12"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A1BB27D938F19B0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F2447E8CC424EBE"
+				item: "pamhc2crops:riceseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			id: "5C95563A22434BD7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B4C4C59FC514139"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0906F0A3DF58A42F"
+				item: "pamhc2crops:rutabagaseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			id: "004FEAFF4A6BCF19"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6ED60AD41AFD2BF2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D6A5E6B145DF05D"
+				item: "pamhc2crops:ryeseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			id: "352B025B24F96EEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D40280F83E4E884"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D6194840D0D9EE0"
+				item: "pamhc2crops:scallionseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			id: "1259EB6B1E62DA85"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EBB2875F4FED3C0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "28C6BB5F3BDBEA49"
+				item: "pamhc2crops:sesameseedsseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			id: "14BB708A54096DDC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D97264854A7D3D1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "316B895B5F7842AD"
+				item: "pamhc2crops:sesameseedsseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			id: "2ADEAAE420230999"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CE49956FEC31FE2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6909E0C9502EAB2F"
+				item: "pamhc2crops:sisalseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			id: "70B56111C3A4EDC9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1366C732AC1D2967"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12E43470030D08EB"
+				item: "pamhc2crops:soybeanseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			id: "180EE6083A15B719"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F9CB2F8B7CDC1CD"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4E287060C58309DB"
+				item: "pamhc2crops:spiceleafseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			id: "7E3F814583CB2D61"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B3951692FA551C4"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1F72C2F335DE8A0C"
+				item: "pamhc2crops:spinachseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			id: "1D076A564F6DE75E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A33217B71404875"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0B827F7033CCB6AE"
+				item: "pamhc2crops:strawberryseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			id: "13964DBBE7423367"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6612B0788AC2A0C7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "182248211A77F0EE"
+				item: "pamhc2crops:sweetpotatoseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			id: "56DD822181A2E728"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01C81084F2D5CDF7"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "335DEA17B960DDC8"
+				item: "pamhc2crops:taroseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			id: "18B665EE993915BB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E30C372E954FA6B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1648AD709841D639"
+				item: "pamhc2crops:tealeafseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			id: "3BE7FC13247B5B7F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49ACACA4845EF200"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "672871B0ABA07663"
+				item: "pamhc2crops:tomatilloseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			id: "348CB8F581375F57"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74066A16455F14F2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57FD39A83598B389"
+				item: "pamhc2crops:tomatoseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.0d
+		}
+		{
+			id: "3C05688C42EA0362"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "032A9AACE83B39EA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1EBF6EF79BB5255B"
+				item: "pamhc2crops:turnipseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 11.0d
+		}
+		{
+			id: "2C9EA30FCFE3EF8B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43ED6FBF1349B4EE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2FBB1B46098D8ECE"
+				item: "pamhc2crops:waterchestnutseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			id: "09377BFF8A1E440D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EFDDFC72BBB0448"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "04D53B14D035D181"
+				item: "pamhc2crops:whitemushroomseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			id: "6F4607F0AB3DEEC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F1E6FD488997B29"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "74264C971F9FE6FE"
+				item: "pamhc2crops:wintersquashseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			id: "3BFBC1B60B314FDE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "041FE96C9BC5E355"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78AF958ECA57DA4F"
+				item: "pamhc2crops:zucchiniseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			id: "0C7FBAC5BD1DE52A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BE7DE8BE4F2B825"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "025F750B74B645C8"
+				item: "pamhc2crops:alfalfaseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			id: "04C29AA77DB4A1CD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "709CA918BDB3B33B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "21FA7D2FB600A29B"
+				item: "pamhc2crops:aloeseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			id: "420C8E44C2A297B4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09BDC27B34C06D12"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "44383B7EC9568B0F"
+				item: "pamhc2crops:barrelcactusseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 11.0d
+		}
+		{
+			id: "6E49568986C9078D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74837746A777FE88"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "69D546FEA0BF4BF8"
+				item: "pamhc2crops:canolaseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 11.0d
+		}
+		{
+			id: "15BBA446DD13DDB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "574FC00F9A682A34"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1EBF05D0713AA7EE"
+				item: "pamhc2crops:cattailseeditem"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 12.0d
+		}
+		{
+			id: "5A38789B54B40E39"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C76806B4C05D1E3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4A715DEF556BC078"
+				item: "pamhc2crops:chiaseeditem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			id: "7C95196CF6F8264E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57C611710F85BCA4"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6788C5CB505444A7"
+				item: "pamhc2crops:cloudberryseeditem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			id: "5A7BACB83840A7FF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55C5ECD3BDFD6C85"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6ABC54DF2442330D"
+				item: "pamhc2crops:lotusseeditem"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			id: "5C95A133F8B89D2D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D5176F1A095D38C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5FCAD01B2144ACC1"
+				item: "pamhc2crops:nettlesseeditem"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			id: "2A3641684ACED881"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31C07B0CAE007AD3"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "06C6F909F3D59C46"
+				item: "pamhc2crops:nopalesseeditem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			id: "708E144B12757D17"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24703A6495B29AB0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "239B235EE5565EDB"
+				item: "pamhc2crops:sorghumseeditem"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			id: "04D6F421AEEC0F30"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7501075566098C6F"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "335839310204FF0A"
+				item: "pamhc2crops:truffleseeditem"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			id: "2F0AA8C97BD91690"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BA19B2C2603DAEB"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "76F80FE39389F2F1"
+				item: "pamhc2crops:wolfberryseeditem"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 12.0d
+		}
+		{
+			id: "5C0B8A85B9205024"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A6674FBD871DFAF"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C0223CED7E26F3B"
+				item: "pamhc2crops:yuccaseeditem"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 13.0d
+		}
+		{
+			id: "5DE4C370582C8FDE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7236A4C069FF16B0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1275B1EA8AE280A8"
+				item: "pamhc2crops:bokchoyseeditem"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 13.0d
+		}
+		{
+			id: "494F8FAD7187B619"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A47381D45346636"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5BE1F6AC68BE5351"
+				item: "pamhc2crops:calabashseeditem"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 13.0d
+		}
+		{
+			id: "575A83EE16EB2B13"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "129D326B86AEC8F2"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3BD4C4E4676564A1"
+				item: "pamhc2crops:calabashseeditem"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 13.0d
+		}
+		{
+			id: "2C1E3138C4C2F837"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DB1746F18375D62"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "605E8EFCEA0DC27D"
+				item: "pamhc2crops:guaranaseeditem"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 13.0d
+		}
+		{
+			id: "253FA908938DE0CD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C5BA0CA62E75F68"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7BCA7CC32360453F"
+				item: "pamhc2crops:papyrusseeditem"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 13.0d
+		}
+		{
+			id: "017C9EB25990DE68"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C6B8B7CAC472E1D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "29F7B92CA1125A65"
+				item: "pamhc2crops:sunchokeseeditem"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 13.0d
+		}
+		{
+			id: "18DD07CD6FA3732C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24A38F3B4FFF4C3E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "181E5991A55DC006"
+				item: "pamhc2foodcore:sunflowerseedsitem"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 13.0d
+		}
+	]
+	title: "Seeds"
+}

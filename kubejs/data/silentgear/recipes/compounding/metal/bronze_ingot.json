@@ -1,0 +1,21 @@
+{
+  "type": "silentgear:compounding/metal",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "thermal:bronze"
+  }
+}

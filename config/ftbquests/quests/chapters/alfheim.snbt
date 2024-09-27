@@ -1,0 +1,1390 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alfheim"
+	group: "7CE349CFA49357E1"
+	icon: "mythicbotany:kvasir_blood"
+	id: "3FB43ED231B4E33D"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "02EC4924AC396F4C"
+			tasks: [
+				{
+					id: "5CA05BD811CA55C1"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EC1628AAE583615"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A2920A71D59FC1C"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1DBD7DE838D8085F"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			id: "5AA990538D0753DE"
+			tasks: [
+				{
+					id: "373F5B8B2F962199"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "287DF3ED67D9649E"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7BB52BDE54C69EA5"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34BAC8CDCF42E5FA"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			id: "5566C747A7ACDCA5"
+			tasks: [
+				{
+					id: "399FA9E5BAEB5D9D"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6013A0F1D9BA54E3"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F59151205941054"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "140126D11258FA76"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			id: "4F9293F8294FF372"
+			tasks: [
+				{
+					id: "789080D2988ADB8A"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EB4A0E0E1EDAD7F"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "42CC42848BE3AAAF"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "287B8D07389FC473"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			id: "108A2E5DA28166F4"
+			tasks: [
+				{
+					id: "1CCC3F6EA193F8A1"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AE14913178F4656"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19DAD5FA279A6136"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A47A0CF6F6F8DDB"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			id: "6EE86FD535C8D7A0"
+			tasks: [
+				{
+					id: "70EEAB35915F352C"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C06245B39E67BD3"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6498CA4478FF46F1"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6FE454661C82FFDD"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			id: "4275B35662159BEC"
+			tasks: [
+				{
+					id: "527F03648FA10ADF"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EB2BFA064816E94"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F815A6DFAD06FDB"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3DC96E5708BABE50"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			id: "361DE3F10AD2EF52"
+			tasks: [
+				{
+					id: "69B457C12B1038CD"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3BFFDFE6D109A6D9"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BF748B1A1AA13D5"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "175D60E4222AC5A0"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			id: "2849CB8AD1AD91CB"
+			tasks: [
+				{
+					id: "4BC4132C5FB1DCD3"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "51F19358B99A3EA1"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A56218F739AC92A"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02298C84324EE558"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			id: "3D0E2C22624089E1"
+			tasks: [
+				{
+					id: "1F07DA0D084F348E"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FCAD6BC48D7EE6E"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3206D54A8247778D"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C5F5C17EEC22A35"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			id: "6566FC4A8092DA26"
+			tasks: [
+				{
+					id: "06919C0AD3FBF6BF"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10CB47B636D3C8CF"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5AF74BDFDA251EA4"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28E761C0FFC3987C"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			id: "52E7D1F7A9F15263"
+			tasks: [
+				{
+					id: "1C1B6355E7EA3D44"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FA6AA364FD1ABAB"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "047E099703FB8B03"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "667458332018B15A"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			id: "5135526BCC8CEE87"
+			tasks: [{
+				id: "3D0493AD201C3906"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			id: "5C6ED7ED11D7E97B"
+			tasks: [{
+				id: "260BAB4E33395DAD"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			id: "0F02BA29DB23EFEB"
+			tasks: [{
+				id: "3FA05CC77C3F6B4A"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "32A95DA41D88B9DC"
+			tasks: [{
+				id: "3E3ABD1FCF533C53"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			id: "3457E6C9A48815FD"
+			tasks: [{
+				id: "4D155AD3DFB185E0"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			id: "304885076D8847F9"
+			tasks: [{
+				id: "611001CA6514F272"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			id: "6E63C5B174353EE0"
+			tasks: [{
+				id: "55E4E98E3585D7C1"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			id: "76F56484B8D1CA31"
+			tasks: [{
+				id: "452391F83A0B3B73"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			id: "2D0623AEFE292A69"
+			tasks: [{
+				id: "6DBA08AA79C11F17"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			id: "5E552D717EF12BEA"
+			tasks: [{
+				id: "285AEB5FC05FF344"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			id: "1026FEDF4AA836C2"
+			tasks: [{
+				id: "1C363E72993D5230"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			id: "706EE67F9FBC423C"
+			tasks: [{
+				id: "0BD3898598F53916"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "26C39D45DEC14702"
+			tasks: [{
+				id: "0EA5E97041F6E541"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			id: "49EC5948CF239C77"
+			tasks: [{
+				id: "29522F05CFA4D1CD"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			id: "6740D0AD78C44295"
+			tasks: [{
+				id: "7F96D12567F36566"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			id: "1FD031477C848752"
+			tasks: [{
+				id: "07E4A4D5F9EB9D84"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			id: "03252CAE8A69FC2F"
+			tasks: [{
+				id: "5E1EC9E2E30ACC3A"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_ice_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			id: "3D62DA71D62EA7C8"
+			tasks: [{
+				id: "5B8DD3BD0F1CECF3"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_fire_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			id: "15F73E1879781F0D"
+			tasks: [{
+				id: "38F2316AFA3E733E"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			id: "5580C722FD505BD1"
+			tasks: [{
+				id: "33C8380D484A9C92"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			id: "096E43AC2E50F764"
+			tasks: [{
+				id: "2F94E8E89B749CE8"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			id: "2D3C69739EFE9E0C"
+			tasks: [{
+				id: "0720C859C8645C9E"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			id: "61F492BBBE9867B3"
+			tasks: [{
+				id: "2514B00795C6B09E"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			id: "41F97A2736F80857"
+			tasks: [{
+				id: "255510585BE670BF"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			id: "740B0A6E86868316"
+			tasks: [{
+				id: "6AB4AADA3DA9EF96"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			id: "5956A22E866AFF4B"
+			tasks: [{
+				id: "0FEB9E4F3FF86280"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			id: "5986BF2B804B6045"
+			tasks: [{
+				id: "578657D64FAB497B"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonsteel_lightning_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3AA4A341B6D93AF1"]
+			description: [
+				"Now that you've arrived in Alfheim, you can do some dragon hunting! "
+				""
+				"You'll need to slay at least 1 Fire/Ice/Lightning dragon in order to get the Dragon Eye."
+			]
+			id: "21497CD2B12EE2CB"
+			shape: "diamond"
+			tasks: [{
+				id: "42ED6555C840DDB8"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Alfheim"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["756BD0C4D29CA2CF"]
+			description: [
+				"If you're using the &3Lexica Botanica&r to put the hologram of the platform in your world; it says that you need to use &3Iron Blocks&r, but you don't really have to."
+				""
+				"What you do need, is a &3Beacon&r in the middle, blocks that surround the &3Beacon&r, and &31 Gaia Pylon&r on each corner of the platform, these should be placed 3 blocks out diagonally, and 3 blocks up. "
+				""
+				"You will need to place &31 Terrasteel Ingot&r on the &3Beacon&r to begin the &6Gaia of Guardian&r boss battle. "
+				""
+				"{image:kubejs:textures/botania/botania_arena.png width:185 height:200 align:center}"
+			]
+			id: "71F41213D5FA377F"
+			shape: "square"
+			tasks: [
+				{
+					id: "439F317A05117B97"
+					item: "minecraft:beacon"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1955A1EBF846C9B5"
+					item: { Count: 4, id: "botania:gaia_pylon" }
+					type: "item"
+				}
+			]
+			title: "The Arena"
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["71F41213D5FA377F"]
+			id: "63098869C48BAAB7"
+			shape: "square"
+			subtitle: "Slay the Gaia Guardian I"
+			tasks: [{
+				advancement: "botania:main/gaia_guardian_kill"
+				criterion: ""
+				id: "3AB00C2F4AAD43DF"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["63098869C48BAAB7"]
+			id: "33ACB99482C12607"
+			shape: "square"
+			tasks: [{
+				id: "1071F1190DE5078B"
+				item: "mythicbotany:yggdrasil_branch"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["63098869C48BAAB7"]
+			id: "46C5DD0483F95C89"
+			shape: "square"
+			tasks: [{
+				id: "767665D17258D8D0"
+				item: "botania:horn_grass"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"46C5DD0483F95C89"
+				"33ACB99482C12607"
+			]
+			id: "06C9322AA42634D8"
+			shape: "square"
+			subtitle: "Slay the Gaia Guardian II"
+			tasks: [{
+				advancement: "botania:challenge/gaia_guardian_hardmode"
+				criterion: ""
+				id: "55BA2208CAFF474F"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["06C9322AA42634D8"]
+			id: "24777909AB8CC375"
+			shape: "gear"
+			tasks: [{
+				id: "439EFB411523AA7B"
+				item: "mythicbotany:fimbultyr_tablet"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "21655D0B1D0093BA"
+			shape: "square"
+			tasks: [
+				{
+					count: 4L
+					id: "27DADF947B0F3BBA"
+					item: { Count: 4, id: "botania:rune_fire" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3D66A2A2C1E80D20"
+					item: { Count: 4, id: "botania:rune_summer" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "36869F3EDBFC9616"
+					item: { Count: 2, id: "mythicbotany:helheim_rune" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6499668A2280B2B5"
+					item: { Count: 2, id: "mythicbotany:midgard_rune" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "5FE7EA914F85FEE1"
+			shape: "square"
+			tasks: [
+				{
+					id: "29B6A7012EDB082C"
+					item: {
+						Count: 1
+						id: "biomancy:despoil_sickle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C32C93EE45F60C3"
+					item: "biomancy:vial"
+					type: "item"
+				}
+			]
+			title: "Necessary Items"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"21655D0B1D0093BA"
+				"5FE7EA914F85FEE1"
+				"24777909AB8CC375"
+			]
+			id: "2B8358DFFA5AE3BA"
+			shape: "square"
+			tasks: [
+				{
+					id: "7E877AA7E988D793"
+					item: "mythicbotany:kvasir_blood"
+					type: "item"
+				}
+				{
+					id: "196EA89AC0A85778"
+					item: "minecraft:honey_bottle"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B8358DFFA5AE3BA"]
+			id: "3AA4A341B6D93AF1"
+			shape: "square"
+			tasks: [{
+				id: "09621A05F647DCBD"
+				item: "mythicbotany:kvasir_mead"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Getting to Alfheim will be tough as you'll need to challenge the &6Gaia Guardian II&r in order to get the &3Rune of Fimbultyr&r."
+				""
+				"You will need to craft a &3Branch of Yggdrasil&r, and a &3Horn of the Wild&r. Place the horn on the branch, and fill it with mana. Once full, you can drink from the horn. Now, when you face the &6Gaia Guardian II&r you should get a &3Rune of Fimbultyr&r. "
+				""
+				"You'll need to do a &9Rune Ritual&r in order to get the &3Blood of Kvasir&r. "
+				""
+				"Once you have the blood, you can craft it together with &3Honey&r to make the &3Mead of Kvasir&r."
+				""
+				"Drink the mead, and now you can step through your Alfheim portal. "
+			]
+			id: "756BD0C4D29CA2CF"
+			shape: "diamond"
+			tasks: [{
+				id: "10C46481A337A6A6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Getting to Alfheim"
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["21497CD2B12EE2CB"]
+			id: "62A3E97F3010D5BD"
+			shape: "square"
+			subtitle: "Enter Alfheim."
+			tasks: [{
+				advancement: "mythicbotany:mythicbotany/alfheim"
+				criterion: ""
+				id: "17045F116A89396A"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["62A3E97F3010D5BD"]
+			id: "692D63556F3793DC"
+			shape: "square"
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				id: "53CD52B5D8923CBB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["62A3E97F3010D5BD"]
+			id: "08841E790106CA0A"
+			shape: "square"
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				id: "44C67C755E1D4392"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["62A3E97F3010D5BD"]
+			id: "742C34A9D0546305"
+			shape: "square"
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				id: "7DB841AC57FF2AA6"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"692D63556F3793DC"
+				"742C34A9D0546305"
+				"08841E790106CA0A"
+			]
+			icon: {
+				Count: 1
+				id: "endrem:lost_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5CD0E66CCD624FEA"
+			rewards: [{
+				id: "7845FF9C581ABB19"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			title: "Dragon Eye"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["62A3E97F3010D5BD"]
+			id: "19CA467E18487D91"
+			shape: "heart"
+			tasks: [{
+				id: "64DC38A5712EF24A"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+	title: "Alfheim"
+}

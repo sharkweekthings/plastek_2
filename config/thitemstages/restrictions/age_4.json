@@ -1,0 +1,30 @@
+{
+  "Restriction Data": {
+    "stage": "age_4",
+    "itemList": [],
+    "modList": [
+      "mekanism",
+      "mekanismgenerators"
+    ],
+    "tagList": [
+      "p2:age_4_item"
+    ],
+    "exceptionList": [
+      {"tag": "p2:age_4_exception"}
+    ],
+    "containerList": []
+  },
+  "Settings": {
+    "advancedTooltips": "ALWAYS",
+    "itemTitle": "Unusable Item",
+    "pickupDelay": 15,
+    "hideInJEI": true,
+    "canPickup": false,
+    "containerListWhitelist": false,
+    "checkPlayerInventory": true,
+    "checkPlayerEquipment": true,
+    "destroyableBlocks": false,
+    "usableItems": false,
+    "usableBlocks": false
+  }
+}

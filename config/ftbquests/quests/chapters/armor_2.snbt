@@ -1,0 +1,467 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armor_2"
+	group: "24F1909F4C56276F"
+	icon: {
+		Count: 1
+		id: "mythicbotany:alfsteel_chestplate"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "6F9EFFF0F36EA7FB"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2F9897211BC7AB09"
+			tasks: [{
+				id: "30F48AB807916620"
+				item: {
+					Count: 1
+					id: "botania:terrasteel_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			id: "1CB1EB93095BBD11"
+			tasks: [{
+				id: "3751A9A7A59D7C43"
+				item: {
+					Count: 1
+					id: "botania:terrasteel_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "19B8C332E446EB86"
+			tasks: [{
+				id: "39BBE43600D5434A"
+				item: {
+					Count: 1
+					id: "botania:terrasteel_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "198E3867AED29B6A"
+			tasks: [{
+				id: "556D92F06AE83D7C"
+				item: {
+					Count: 1
+					id: "botania:terrasteel_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "489B183C852FA6FB"
+			tasks: [{
+				id: "08661CEAB5E09CE0"
+				item: {
+					Count: 1
+					id: "mythicbotany:alfsteel_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			id: "7C94258F682FEE9E"
+			tasks: [{
+				id: "0A31643F11E683D4"
+				item: {
+					Count: 1
+					id: "mythicbotany:alfsteel_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "34B95BD5D244CAD0"
+			tasks: [{
+				id: "1441C52FB416BA9C"
+				item: {
+					Count: 1
+					id: "mythicbotany:alfsteel_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "5B744F3BC18F163A"
+			tasks: [{
+				id: "19082EBE2C274BFF"
+				item: {
+					Count: 1
+					id: "mythicbotany:alfsteel_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			id: "1D853561E200AB8D"
+			tasks: [{
+				id: "58A3292BD423338D"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "105FE38B4B9FC6AA"
+			tasks: [{
+				id: "6D9D4988123E7055"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "15E0B3A75768F0E3"
+			tasks: [{
+				id: "07271B72872A5A1B"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "11EA5AADBF2F1273"
+			tasks: [{
+				id: "23657ACA3A342977"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "63560A181F0E6C42"
+			tasks: [{
+				id: "3154A2FBF0E8A7FC"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "002D920A399C990C"
+			tasks: [{
+				id: "4103563DE64837A7"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "736C5DDDFAB3337D"
+			tasks: [{
+				id: "7DB3EF82C76BCC93"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "5CBB497ED68BA6A1"
+			tasks: [{
+				id: "38D0FCB8A457CA2E"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "47A660534A8AAD72"
+			tasks: [{
+				id: "6C5502FB6511B07A"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "7B9307FF9D0F4095"
+			tasks: [{
+				id: "5FD7BB9342459CBB"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "0E0F6F17153EAA45"
+			tasks: [{
+				id: "1F9D416EEDBACF60"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "124ECD6D5B8ECF6A"
+			tasks: [{
+				id: "57C35248CBF0057D"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "548B52A09EA12D99"
+			tasks: [{
+				id: "41C978FAE99659BF"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "2B5000E49EA2BF2A"
+			tasks: [{
+				id: "68D3838A02D428A1"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "61693B1FF0FF7BF6"
+			tasks: [{
+				id: "4324828818CEB9EC"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "0BCDFC3ED339F941"
+			tasks: [{
+				id: "4AA5E334B7184BC8"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "7FF6886FBC3BE02D"
+			tasks: [{
+				id: "4AA37B66BFF981B6"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:supremium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "5EF83B0899CB53A4"
+			tasks: [{
+				id: "594126ADA58C0903"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:supremium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			id: "5F2C7B55B9EA0DF0"
+			tasks: [{
+				id: "7B7A2B4D678679C3"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:supremium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			id: "6525E9752A57F88D"
+			tasks: [{
+				id: "52A9CE99EA0BDFB3"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:supremium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+	]
+	title: "Armor"
+}

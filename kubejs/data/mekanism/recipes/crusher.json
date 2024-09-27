@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"B":{"item":"minecraft:lava_bucket"},"C":{"tag":"forge:circuits/basic"},"R":{"tag":"forge:dusts/redstone"},"X":{"item":"industrialforegoing:machine_frame_advanced"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["RCR","BXB","RZR"],"result":{"item":"mekanism:crusher"}}

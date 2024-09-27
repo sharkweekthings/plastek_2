@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "inventorypets:nugget_emerald",
+    "count": 9
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "IDI",
+    "III"
+  ],
+  "key": {
+    "D": {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "G": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "productivebees:catcher"
+  }
+}

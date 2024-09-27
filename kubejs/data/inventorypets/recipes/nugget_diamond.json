@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "inventorypets:nugget_diamond",
+    "count": 9
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

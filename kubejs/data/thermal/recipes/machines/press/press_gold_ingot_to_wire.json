@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "tag": "forge:ingots/gold"
+  },
+  "result": [
+    {
+      "item": "createaddition:gold_wire",
+      "count": 2
+    }
+  ]
+}

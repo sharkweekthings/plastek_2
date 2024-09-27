@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bricks"
+    },
+    "F": {
+      "item": "industrialforegoing:machine_frame_supreme"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "z": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "BoB",
+    "rFr",
+    "BzB"
+  ],
+  "result": {
+    "item": "rftoolsbuilder:builder"
+  },
+  "show_notification": true
+}

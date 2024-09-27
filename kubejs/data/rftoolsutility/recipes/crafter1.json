@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "F": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "Z": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    " T ",
+    "CFC",
+    " Z "
+  ],
+  "result": {
+    "item": "rftoolsutility:crafter1"
+  }
+}

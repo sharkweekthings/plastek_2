@@ -1,0 +1,51 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:mob_detector"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "c": {
+            "item": "minecraft:comparator"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "o": {
+            "item": "minecraft:observer"
+          },
+          "p": {
+            "tag": "forge:plastic"
+          },
+          "r": {
+            "item": "minecraft:repeater"
+          },
+          "v": {
+            "item": "create:precision_mechanism"
+          }
+        },
+        "pattern": [
+          "pvp",
+          "rcr",
+          "omo"
+        ],
+        "result": {
+          "item": "industrialforegoing:mob_detector"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

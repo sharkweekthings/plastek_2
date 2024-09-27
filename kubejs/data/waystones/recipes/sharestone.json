@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "waystones:sharestone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "VWV",
+    "OOO"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_bricks"
+    },
+    "W": {
+      "item": "waystones:warp_stone"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "V": {
+      "tag": "forge:ingots/terrasteel"
+    }
+  }
+}

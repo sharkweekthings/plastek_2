@@ -1,0 +1,48 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:potion_brewer"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "B": {
+            "item": "create:precision_mechanism"
+          },
+          "G": {
+            "item": "minecraft:repeater"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "S": {
+            "item": "minecraft:brewing_stand"
+          }
+        },
+        "pattern": [
+          "PSP",
+          "GMP",
+          "GBG"
+        ],
+        "result": {
+          "item": "industrialforegoing:potion_brewer"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

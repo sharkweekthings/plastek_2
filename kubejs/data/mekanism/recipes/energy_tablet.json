@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"A":{"tag":"mekanism:alloys/infused"},"I":{"tag":"forge:ingots/gold"},"R":{"tag":"forge:dusts/redstone"},"V":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["RIR","AIA","RVR"],"result":{"item":"mekanism:energy_tablet"}}

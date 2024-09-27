@@ -1,0 +1,37 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "create:mechanical_pump"
+  },
+  "ingredients": [
+    {
+      "item": "draconicevolution:draconium_core"
+    },
+    {
+      "tag": "forge:ingots/draconium"
+    },
+    {
+      "tag": "forge:ingots/draconium"
+    },
+    {
+      "tag": "forge:ingots/draconium"
+    },
+    {
+      "item": "draconicevolution:wyvern_energy_core"
+    },
+    {
+      "tag": "forge:ingots/draconium"
+    },
+    {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    {
+      "item": "industrialforegoing:machine_frame_supreme"
+    }
+  ],
+  "result": {
+    "item": "rangedpumps:pump"
+  },
+  "tier": "WYVERN",
+  "total_energy": 8000000
+}

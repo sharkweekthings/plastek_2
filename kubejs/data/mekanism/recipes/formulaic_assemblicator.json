@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"tag":"forge:chests/wooden"},"C":{"tag":"forge:circuits/basic"},"P":{"item":"minecraft:crafting_table"},"S":{"tag":"forge:ingots/steel"},"X":{"item":"industrialforegoing:machine_frame_supreme"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["SPS","CXC","S#Z"],"result":{"item":"mekanism:formulaic_assemblicator"}}

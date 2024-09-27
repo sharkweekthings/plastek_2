@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "inventorypets:nugget_ender",
+    "count": 9
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

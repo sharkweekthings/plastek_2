@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "industrialforegoing:machine_frame_simple"
+    },
+    {
+      "amount": 1000,
+      "fluid": "pneumaticcraft:etching_acid",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "industrialforegoing:machine_frame_advanced"
+    }
+  ]
+}

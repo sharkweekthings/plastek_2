@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "industrialforegoing:machine_frame_supreme"
+    },
+    "I": {
+      "tag": "forge:gears/copper"
+    },
+    "P": {
+      "item": "thermal:rf_coil"
+    },
+    "X": {
+      "item": "minecraft:crafting_table"
+    },
+    "Y": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "pattern": [
+    " X ",
+    "YCY",
+    "IPI"
+  ],
+  "result": {
+    "item": "thermal:machine_crafter"
+  },
+  "show_notification": true
+}

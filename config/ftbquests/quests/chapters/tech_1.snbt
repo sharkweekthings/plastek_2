@@ -1,0 +1,810 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tech_1"
+	group: "590DDC7B00BCD5C7"
+	icon: "create:precision_mechanism"
+	id: "227BD227FDDE53EB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"15558B41083C2E00"
+				"58782926A1C49C1D"
+				"014D71BA2C24C5AB"
+				"1C5873DA1DF06AB6"
+			]
+			id: "6F44842B3F982826"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "13D424611E4666A6"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4378BE8545AD3FAC"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [
+				{
+					count: 3L
+					id: "69F8C8F4F1210F63"
+					item: "create:deployer"
+					type: "item"
+				}
+				{
+					id: "2135031A2A1AAE08"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+			]
+			title: "Sequenced Assembly: Precision Mechanism"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"788AE57AF83C34C1"
+				"1E803593F0056292"
+			]
+			id: "15558B41083C2E00"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D5252C5D63A6ECB"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "2299BC4768D05EA0"
+				item: "minecraft:clock"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["65E5351D72CC8A0A"]
+			id: "58782926A1C49C1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7616D015291E3BAB"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "4CF7A784F457B682"
+				item: "create:brass_sheet"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"17CFDEB89CCC497D"
+				"208FA11CFCD1C5F5"
+			]
+			id: "1C5873DA1DF06AB6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42BDE17F084F80FA"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "6DC6E3631D55D0D9"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"388DB937980FBF3F"
+				"33A5B0E999F12EBF"
+			]
+			id: "014D71BA2C24C5AB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72DF1BC4422A12B8"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "7F867F61D41EBB36"
+				item: "kubejs:stone_gear"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "788AE57AF83C34C1"
+			rewards: [{
+				id: "489C5446EE3618D4"
+				item: "pamhc2foodextended:crispyricepuffcerealitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "519BF8947DA868E9"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "1E803593F0056292"
+			rewards: [{
+				id: "6D5C3DD9860B3488"
+				item: "pamhc2foodextended:leekbaconsoupitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "700681CCF8F4645A"
+				item: "minecraft:redstone"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["128AAA737E015F95"]
+			id: "79F463F36D967536"
+			tasks: [{
+				id: "6C3FF1C3895B5CA9"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["128AAA737E015F95"]
+			id: "7C6A3D1728CB2549"
+			rewards: [{
+				count: 5
+				id: "0245AD76A2995B5A"
+				item: "pamhc2foodcore:melondonutitem"
+				random_bonus: 25
+				type: "item"
+			}]
+			tasks: [{
+				id: "14EEFE6437A922EB"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4CC8332081DD0C35"]
+			id: "70110C6F44429A9E"
+			tasks: [{
+				id: "0D3614E0BE08E9FE"
+				item: "create:spout"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4CC8332081DD0C35"]
+			id: "6FD7CA8C3864D13B"
+			tasks: [{
+				id: "21E8567AD10C033A"
+				item: "create:cinder_flour"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4CC8332081DD0C35"]
+			id: "005D25AC9EF4E143"
+			tasks: [{
+				count: 2L
+				id: "63FB045345C19571"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4CC8332081DD0C35"]
+			id: "60443051FA103A8D"
+			rewards: [{
+				id: "1FD532A4EB2B7676"
+				item: "pamhc2foodextended:heartybreakfastitem"
+				random_bonus: 24
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D78187B3A7C3A77"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["523E964D13C3A106"]
+			id: "65E5351D72CC8A0A"
+			shape: "square"
+			tasks: [{
+				id: "176C9F125F09C2F4"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4AC332BFF797B89F"
+				"1F8FDBC1E18CC4CC"
+			]
+			description: ["For now, the only way to make a Brass Ingot will be to put your Copper and Zinc in a Heated Mixer."]
+			id: "523E964D13C3A106"
+			shape: "square"
+			tasks: [
+				{
+					id: "1DF83ABD60C2D223"
+					item: "create:mechanical_mixer"
+					type: "item"
+				}
+				{
+					id: "4357F8890910B87E"
+					item: "create:blaze_burner"
+					type: "item"
+				}
+				{
+					id: "71DF546AC60805C1"
+					item: "create:basin"
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "4AC332BFF797B89F"
+			rewards: [{
+				id: "01AD43F9DB00234C"
+				item: "pamhc2foodextended:pumpkinoatsconesitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "34672D68EB2B25B2"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			id: "1F8FDBC1E18CC4CC"
+			rewards: [{
+				id: "2121866FF03B444E"
+				item: "pamhc2foodextended:steaktartareitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "302176D1136A61AC"
+				item: "create:zinc_ingot"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5375CBE4642DCC5D"]
+			description: [
+				"You can use the Animal Capture Net to place a chicken in the Chicken Stasis Chamber."
+				""
+				"You will need to add seeds to the Stasis Chamber in order for a chicken to produce anything. "
+			]
+			hide_text_until_complete: false
+			id: "69FBBE092CFEBFE4"
+			tasks: [
+				{
+					id: "1BC69EBD97A5E281"
+					item: "resourcechickens:nest"
+					type: "item"
+				}
+				{
+					id: "3375848322319EAB"
+					item: "minecraft:barrel"
+					type: "item"
+				}
+				{
+					id: "02F3A5C7A726B7C1"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5375CBE4642DCC5D"]
+			id: "1A33127C74D92928"
+			tasks: [{
+				id: "56C31ADA7A9AFFAF"
+				item: {
+					Count: 1
+					id: "resourcechickens:animal_net"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			description: [
+				"If you capture a chicken with an &3Animal Capture Net&r and feed it &35 Copper Blocks&r you can Automate &3Copper Ingots.&r"
+				""
+				"By default the chicken &4won't output quickly&r, or plentifully. If you &2breed chickens together&r though, the &2baby will inherit it's parent stat plus more&r. Your chickens stats can increase to &2Growth 10, Gain 10, and Strength 10&r."
+				""
+				"There are many different Resource Chickens available so check JEI to see what you need."
+			]
+			id: "5375CBE4642DCC5D"
+			shape: "diamond"
+			tasks: [{
+				id: "30668699F20CA86D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Copper"
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			id: "518B128FDD125008"
+			tasks: [{
+				id: "6B13E2F3ACE85A5E"
+				item: "mysticalagriculture:zinc_essence"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			description: ["From here you will need to do a little bit of the Magic tree to get a Spiritfire started."]
+			id: "4D89388330D0F223"
+			tasks: [{
+				id: "3D00F8E73DEDF763"
+				item: "occultism:spirit_fire"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			id: "3339B4641268EB28"
+			tasks: [{
+				id: "42BEFB167254E62D"
+				item: "moremekanismprocessing:dust_zinc"
+				type: "item"
+			}]
+			title: "Zinc Dust"
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			id: "12F92201C6370791"
+			rewards: [{
+				id: "44D181D07FA18C79"
+				item: "pamhc2foodcore:chorusyogurtitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C5E09C7397829A9"
+				item: "chipped:cobbled_andesite"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			id: "58966D1A6DDD3F70"
+			rewards: [{
+				id: "17665A4155E5A320"
+				item: "pamhc2foodextended:creamedcornitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			tasks: [{
+				id: "28374AA0BBF43B2E"
+				item: "chipped:cobbled_diorite"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			id: "0EE654E81D19658B"
+			tasks: [{
+				id: "77D9630F3E8CBD09"
+				item: "create:millstone"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5B0EFF0248C5F384"]
+			id: "17CFDEB89CCC497D"
+			shape: "square"
+			tasks: [{
+				id: "2956A135C3964EF0"
+				item: "create:shaft"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "208FA11CFCD1C5F5"
+			shape: "square"
+			tasks: [{
+				id: "43E4E0FD00DEB9DA"
+				item: "kubejs:wooden_gear"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2F0B01E0A634FFE9"]
+			id: "5B0EFF0248C5F384"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5BEE3A003277EBF1"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "77B5EF0ED85C025C"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"50A5C2D4A1DD9159"
+				"51399FFE1601E2E7"
+			]
+			description: ["Put your Iron Ingots and Andesite in here to make Andesite Alloy"]
+			id: "2F0B01E0A634FFE9"
+			shape: "square"
+			tasks: [{
+				id: "05197B57B2602F2D"
+				item: "silentgear:metal_alloyer"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			id: "50A5C2D4A1DD9159"
+			rewards: [{
+				id: "4157799D29466286"
+				item: "pamhc2foodextended:potatoskinsitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "0DE6EA070CEDAD48"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			id: "51399FFE1601E2E7"
+			rewards: [{
+				id: "465C7CFDEE5BCACA"
+				item: "pamhc2foodextended:chickentendersitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "0ECE5A3DEA80CD07"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["189B8F792FC27C8D"]
+			id: "6B21398EAD147AC3"
+			tasks: [{
+				id: "00B1A500BB1FF549"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["189B8F792FC27C8D"]
+			id: "693C56FF09D20705"
+			tasks: [{
+				id: "119EDA4638C4B5F8"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["189B8F792FC27C8D"]
+			id: "71F88DB900F37743"
+			tasks: [{
+				id: "13931D4AE0AF7643"
+				item: "create:millstone"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["189B8F792FC27C8D"]
+			id: "75B77130CB39A1C7"
+			rewards: [{
+				id: "21016268049556F6"
+				item: "pamhc2foodextended:stuffedeggplantitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			tasks: [{
+				id: "4274BACF8270056B"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			id: "33A5B0E999F12EBF"
+			rewards: [{
+				id: "4A948AD405F3CA1D"
+				item: "pamhc2crops:chilipepperitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "700C8EF3BBE68EEB"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1AD22B107FC46893"]
+			id: "388DB937980FBF3F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DFDC7912BD92B72"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "37CFA757C0A939C0"
+				item: "kubejs:wooden_gear"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "1AD22B107FC46893"
+			rewards: [{
+				id: "6B23AB4B3E75C20E"
+				item: "pamhc2foodcore:p8juiceitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "205179E697947906"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Using an &9Encased Fan&r and some &3Water&r you can create a &9Washing&r setup. "
+				""
+				"By washing &3Dirt,&r you can get some &3Gold Nuggets&r."
+			]
+			id: "128AAA737E015F95"
+			shape: "diamond"
+			tasks: [{
+				id: "7236817B1351E6CE"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Gold"
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"If you use Create's &9Crushing Wheels&r to crush &3Netherrack&r you can get some &3Cinder Flour&r."
+				""
+				"Using a Create &9Spout&r and some &3Fluid XP&r you can pour it over the &3Cinder Flour&r to get &3Redstone.&r"
+			]
+			id: "4CC8332081DD0C35"
+			shape: "diamond"
+			tasks: [{
+				id: "0FBBFB72CB613E5B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Redstone"
+			x: -5.0d
+			y: 6.0d
+		}
+		{
+			description: [
+				"Putting &3Cobbled Andesite&r, &3Diorite,&r or &3Deepslate&r through a &9Millstone&r will give you &3Zinc Dust.&r"
+				""
+				"If you throw &3Zinc Dust&r into a &9Spiritfire&r you will get a &3Zinc Essence&r."
+			]
+			id: "65BE70F23799CB70"
+			shape: "diamond"
+			tasks: [{
+				id: "3B9F563D3288D252"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Zinc"
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			description: [
+				"If you &9crush&r or &9mill&r some &3Cobblestone&r you will get &3Gravel.&r"
+				""
+				"If you take that &3Gravel&r and &9wash&r it you will get &3Flint&r and &3Iron Nuggets&r."
+			]
+			id: "189B8F792FC27C8D"
+			shape: "diamond"
+			tasks: [{
+				id: "4E7BE185BE941E05"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Iron"
+			x: 3.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["523E964D13C3A106"]
+			id: "25FF255A67CBEF34"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D3C9BA8E2FF8DDB"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "63821B67591496F2"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F44842B3F982826"]
+			id: "55F9A14778CDE8EB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4FFD1D0F6032B370"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A1E2FC88FB90001"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "69595612FBAD1582"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["65BE70F23799CB70"]
+			id: "60696134F347D0AA"
+			rewards: [{
+				id: "659ACBBF27E9412A"
+				item: "pamhc2foodextended:damperitem"
+				random_bonus: 29
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C821C2F807B0983"
+				item: "minecraft:cobbled_deepslate"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"1AD22B107FC46893"
+				"33A5B0E999F12EBF"
+			]
+			description: [
+				"You'll need to make a &3Wooden Gear&r with &34 Sticks&r, then add &34 Stone&r to the &3Wooden Gear&r to make a &3Stone Gear&r. "
+				""
+				"If you use &9Mechanical Crafting&r from Create you can make &32 Stone Gear&r instead of &31&r. "
+			]
+			id: "726B0EC238097ADD"
+			shape: "diamond"
+			tasks: [{
+				id: "33F3AC9FC6331888"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Stone Gears"
+			x: 1.0d
+			y: 3.0d
+		}
+	]
+	title: "Tech"
+}

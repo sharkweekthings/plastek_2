@@ -1,0 +1,765 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nameless_trinkets"
+	group: "1D085754C16989B5"
+	icon: "nameless_trinkets:creeper_sense"
+	id: "738147F0497E0C27"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4C442C0839A64B9F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DC4E97FBEE40703"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "084BE7C849F6DA32"
+				item: "nameless_trinkets:missing_page"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "08715ECD0CC6E8D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A833E76B0573BE9"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2C78551D8455C7E6"
+				item: "nameless_trinkets:reverse_card"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "0D8457C237C88A15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E7AF00A105C1A55"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2249FE73A64CD8F1"
+				item: "nameless_trinkets:experience_battery"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "6BB7FD3A5BDF3329"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43E56799781A9A66"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2999D4EA6CFA650C"
+				item: "nameless_trinkets:broken_ankh"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "7B0F9F7DFFC3C2FE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "102548897701AF76"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6AED9DEDD048469A"
+				item: "nameless_trinkets:experience_magnet"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "76AA8D212C10ADBF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4EC13F33E7379161"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "489ECBF5CC725A33"
+				item: "nameless_trinkets:broken_magnet"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "5C83886109489BD8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "36B2389B6926A0EF"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2AF020E67AE0C97D"
+				item: "nameless_trinkets:super_magnet"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "1AB1450E75BD1094"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B4E5C25C7F89F43"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2BF53E49B66E3D4D"
+				item: "nameless_trinkets:what_magnet"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "4BCF7082FD82E242"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E939E278B1A1354"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4532D2C351564796"
+				item: "nameless_trinkets:callus"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "7B1735CF6DA61A97"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "445266007D6205C0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "733FB9F5E4AFE798"
+				item: "nameless_trinkets:speed_force"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "4AA9F076DE4E3C0E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BD59DC68F626F14"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "446BE195FBEE2967"
+				item: "nameless_trinkets:vampire_blood"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "29363107BD7C03D2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E2828AA585F0663"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "392CCDE1A3DEFEA2"
+				item: "nameless_trinkets:lucky_rock"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "5B452CF3089804D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05847594C2D6F700"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D2C6B96211C85B5"
+				item: "nameless_trinkets:puffer_fish_liver"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "43D4735FDE0E91B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53ED26BCC5004185"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "00EEC74F4CDBC695"
+				item: "nameless_trinkets:rage_mind"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "0CB4D5E4CD0F82A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5DDE867C8299E522"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "66512858C3576611"
+				item: "nameless_trinkets:tick"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "6DF5E25D88FC9215"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47E4E0D0BA1B1F58"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C050B2FDEFFA46F"
+				item: "nameless_trinkets:blindfold"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "268F149E28F2B49E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47D1357BBCAD13FF"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "28BE9DB6DD75378F"
+				item: "nameless_trinkets:explosion_proof_jacket"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "212987A809F465A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D508E2159457F3B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "61727F33C79BD4D1"
+				item: "nameless_trinkets:cracked_crown"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "6634AFF4D5DCC500"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CF7DFE0E026D59B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "59991DC281984D71"
+				item: "nameless_trinkets:ghast_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "2FB93B8C8F47758B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "288B3BACA7B0E08B"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2248A68F9718F515"
+				item: "nameless_trinkets:wooden_stick"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "50D92C904CEAB438"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11DFE98F3D5D3B1E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "133FC055F16E88A7"
+				item: "nameless_trinkets:blaze_nucleus"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "7B6B5C48D2CFC1ED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7340894BCF65E6BA"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "58F77A4455816AFB"
+				item: "nameless_trinkets:ice_cube"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "443D911910CB97E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D5B8B404C926157"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "61D1336E755A41A6"
+				item: "nameless_trinkets:sigil_of_baphomet"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "2AA797B04B4C8F45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "742DEBCD5CEA80E1"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6988A4F67AC479A7"
+				item: "nameless_trinkets:creeper_sense"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "7903A2801F80A090"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68D5DFEF59B8FC72"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "41031662D7113DE9"
+				item: "nameless_trinkets:fertilizer"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "11B40EE1729D1CFA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "645778EF5982D3F5"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A8A2F0DB73C01E4"
+				item: "nameless_trinkets:gods_crown"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "4F3A1789335DFBB9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "060469D85BDC879A"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E4F6FBF0E833DB7"
+				item: "nameless_trinkets:tear_of_the_sea"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "06365434B439F8FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "201539E83A51EFCE"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10342174AAECD4D2"
+				item: "nameless_trinkets:amphibious_hands"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "47843E08E9994702"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4EDD00F39A44F77D"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E313BA43C7F6800"
+				item: "nameless_trinkets:gills"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "48254AFA867F1426"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68A6F37019B0A899"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4D603815B6591CC2"
+				item: "nameless_trinkets:true_heart_of_the_sea"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "29647647230700DD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5115B706B5E09D17"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "75479E8CD92DD9DA"
+				item: "nameless_trinkets:moon_stone"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "66EFC5FD3F5020FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CD38FC9459E0A0E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4042B08BE4F10720"
+				item: "nameless_trinkets:sleeping_pills"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "07533541F51E43EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22157D52116A3E67"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1EDA4D20B8A00D47"
+				item: "nameless_trinkets:ethereal_wings"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "447784A30D6AC456"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06644FEFDC291CB0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0E05E4AB7AEB82E4"
+				item: "nameless_trinkets:spider_legs"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "783C84C80C94A4AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16F3AA9A7883BE40"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "35B6011D2828D3ED"
+				item: "nameless_trinkets:reforger"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "2F6C6BC0DF8467B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "085D99C64257636C"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "07BB26656C71F1FD"
+				item: "nameless_trinkets:electric_paddle"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "649A7F221398C855"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C53169CFE00543E"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "62B73DC3BA545C72"
+				item: "nameless_trinkets:fractured_nullstone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "02B7064FF3CD9643"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E44952D16E99315"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "10F66270641517AF"
+				item: "nameless_trinkets:miners_soul"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "76A14A33F88377AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69AAE8B9797EA547"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "444898145836C5F3"
+				item: "nameless_trinkets:pocket_lightning_rod"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "1AED8D31DC47EF1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C2F7860B1D72055"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0CF8463EBD28D652"
+				item: "nameless_trinkets:fragile_cloud"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "47C1BC9F976FD8D5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07F547BF61775F03"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3CDB93BA9A818B38"
+				item: "nameless_trinkets:scarab_amulet"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "03BDE2038E4FB242"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7802F8401B96990F"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "662FAF677A1BE790"
+				item: "nameless_trinkets:fate_emerald"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "797B552F3BC804D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E273C90E733B0A9"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "538FA730B34BEDB6"
+				item: "nameless_trinkets:light_gloves"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "6BE9911DC03D4D9C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BA3873E6EC34288"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0AE5F3DCE14C0D15"
+				item: "nameless_trinkets:dragons_eye"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "0497FA8E457DBBE7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B95BBC19A5A8C54"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "38A3AC9358372C98"
+				item: "nameless_trinkets:four_leaf_clover"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "64640D9EB9A7DCFF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55B0595081EB2AC8"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6E60B42F1BBA0BCC"
+				item: "nameless_trinkets:nelumbo"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			id: "785E8798C61E8C1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7259C8F16C41C053"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1FA8CF8C3417F2DA"
+				item: "nameless_trinkets:dark_nelumbo"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+	]
+	title: "Nameless Trinkets"
+}

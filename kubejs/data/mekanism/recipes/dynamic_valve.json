@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"item":"mekanism:dynamic_tank"},"C":{"tag":"forge:circuits/basic"},"V":{"item":"create:precision_mechanism"}},"pattern":[" # ","#V#","#C#"],"result":{"count":2,"item":"mekanism:dynamic_valve"}}

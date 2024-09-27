@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","key":{"C":{"tag":"forge:circuits/ultimate"},"I":{"tag":"forge:ingots/refined_obsidian"},"T":{"item":"mekanism:basic_chemical_tank"},"X":{"item":"industrialforegoing:machine_frame_advanced"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["ITI","CXC","IZI"],"result":{"item":"mekanism:chemical_dissolution_chamber"}}

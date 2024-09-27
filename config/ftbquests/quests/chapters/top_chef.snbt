@@ -1,0 +1,418 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "top_chef"
+	group: "29E2459388A87C4C"
+	icon: "pamhc2foodextended:gourmetbeefburgeritem"
+	id: "5CC904674693FCF5"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "2DEA18AC9F71748E"
+			rewards: [{
+				id: "59C586E4E59C2D7B"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 4
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "2C6438DF736C480D"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:smoothie"
+					}
+				}
+				title: "Smoothie"
+				type: "item"
+			}]
+			title: "Making Smoothies"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "094D3ACDEB6592C0"
+			rewards: [{
+				id: "3DBECD9365623E25"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 4
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "5FAD6994C5B603E4"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:jelly"
+					}
+				}
+				title: "Jelly"
+				type: "item"
+			}]
+			title: "Making Jelly"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "425AF2653F1809B3"
+			rewards: [{
+				id: "1DD2A9EC08F8EF36"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "2E4CE4BEC2B6623E"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:juice"
+					}
+				}
+				title: "Juice"
+				type: "item"
+			}]
+			title: "Making Juice"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "17E8F7F5568905F0"
+			rewards: [{
+				id: "73D0814435060BB5"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "24B386959B0D26AC"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:pie"
+					}
+				}
+				title: "Pie"
+				type: "item"
+			}]
+			title: "Making Pie"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "2B480B6611FA2B3D"
+			rewards: [{
+				id: "2B505D72BF251826"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "3334F0EC9851164C"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:sandwich"
+					}
+				}
+				title: "Sandwich"
+				type: "item"
+			}]
+			title: "Making Sandwiches"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "6763744D99844F22"
+			rewards: [{
+				id: "2C659C4F34527B8A"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "52C899CDDA4B378C"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:toast"
+					}
+				}
+				title: "Toast"
+				type: "item"
+			}]
+			title: "Making Toast"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "7A995D537315858E"
+			rewards: [{
+				id: "565868CD5B793303"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "0133753DE9DE42F7"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:yogurt"
+					}
+				}
+				title: "Yogurt"
+				type: "item"
+			}]
+			title: "Making Yogurt"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "2C04B4937FD2C8C4"
+			rewards: [{
+				id: "52109080169E1240"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "25AB4133FA0CBD30"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:soup"
+					}
+				}
+				title: "Soup"
+				type: "item"
+			}]
+			title: "Making Soup"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "0159CFB9FE991A86"
+			rewards: [{
+				id: "356D7C88A9E28A40"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 4
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "57173158805F9CF0"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:soda"
+					}
+				}
+				title: "Soda"
+				type: "item"
+			}]
+			title: "Making Soda"
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "2D3B12C6FF23120A"
+			rewards: [{
+				id: "4729A2184F10F177"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "6A3A6FAA3CA45E60"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:ice_cream"
+					}
+				}
+				title: "Ice Cream"
+				type: "item"
+			}]
+			title: "Making Ice Cream"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "5CF68995BB13F4FE"
+			rewards: [{
+				id: "164E6ACE5AAC25F8"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "4C711651657EDB46"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:cake"
+					}
+				}
+				title: "Cake"
+				type: "item"
+			}]
+			title: "Making Cake"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "3FA78EA8572FB94B"
+			rewards: [{
+				id: "601E0E38796F4E2E"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 9
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "21E8B56F91E13EC0"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:pancake"
+					}
+				}
+				title: "Pancake"
+				type: "item"
+			}]
+			title: "Making Panckes"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "38790D34248933B1"
+			rewards: [{
+				count: 3
+				id: "377EE6973E81AF3C"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 7
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "39D8C482A5C48E47"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:iron_chef"
+					}
+				}
+				type: "item"
+			}]
+			title: "Iron Chef"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "3A0ABBB4B31B2B5E"
+			rewards: [{
+				count: 3
+				id: "78AA1734BBB7E17A"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 15
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "4537F8CDBFFBB4F1"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:diamond_chef"
+					}
+				}
+				type: "item"
+			}]
+			title: "Diamond Chef"
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "618365AFE75697CB"
+			rewards: [{
+				count: 3
+				id: "462E5937F9FE6555"
+				item: "ocean_recovery:plastic_shard"
+				random_bonus: 20
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "5E286A4C31E531AA"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "p2:netherite_chef"
+					}
+				}
+				type: "item"
+			}]
+			title: "Netherite Chef"
+			x: 3.5d
+			y: -1.5d
+		}
+	]
+	title: "Top Chef"
+}

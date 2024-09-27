@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "aether:skyroot_wood"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "item": "aether:stripped_skyroot_wood",
+    "count": 1
+  },
+  "group": "planks"
+}

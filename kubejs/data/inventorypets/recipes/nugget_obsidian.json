@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "inventorypets:nugget_obsidian",
+    "count": 9
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

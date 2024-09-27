@@ -1,0 +1,20 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ocean_recovery:plastic_bag"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 5,
+      "item": "ocean_recovery:plastic_shard"
+    },
+    {
+      "chance": 0.15,
+      "count": 7,
+      "item": "ocean_recovery:plastic_shard"
+    }
+  ]
+}

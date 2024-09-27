@@ -1,0 +1,15 @@
+{
+  "type": "silentgear:compounding/metal",
+  "ingredients": [
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "samurai_dynasty:steel_ingot"
+  }
+}

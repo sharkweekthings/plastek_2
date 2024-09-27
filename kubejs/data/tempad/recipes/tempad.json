@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "RTB",
+    "#Z#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:quartz_block"
+    },
+    "R": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "T": {
+      "item": "minecraft:tinted_glass"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "Z": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  },
+  "result": {
+    "item": "tempad:tempad",
+    "count": 1
+  }
+}

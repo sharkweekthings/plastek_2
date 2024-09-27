@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "inventorypets:nugget_coal",
+    "count": 8
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ISI",
+    "HBH",
+    "ISI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "item": "mysticalagriculture:soulium_ingot"
+    },
+    "H": {
+      "item": "minecraft:iron_hoe"
+    },
+    "B": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:seed_reprocessor"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{"item": "powah:crystal_nitro"},
+	{"item": "ae2:matter_ball"},
+	{"item": "mysticalagradditions:insanium_essence"},
+	{"item": "mysticalagradditions:insanium_essence"},
+	{"item": "ae2:matter_ball"},
+	{"item": "powah:crystal_nitro"}
+  ],
+  "energy": 30000000,
+  "result": {
+	"item": "mysticalagradditions:creative_essence",
+	"count": 2
+  }
+}

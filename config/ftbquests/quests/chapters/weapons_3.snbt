@@ -1,0 +1,214 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "weapons_3"
+	group: "17D4659CA536FD99"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: {
+				energy: {
+					energy: 0
+				}
+				module_host: {
+					modules: [ ]
+					properties: { }
+					provider_id: [I;
+						-1316177481
+						369443726
+						-1451743077
+						948473273
+					]
+				}
+			}
+		}
+		id: "draconicevolution:draconic_sword"
+		tag: { }
+	}
+	id: "12732D7B89EB845A"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "31ED975E0D0EDF14"
+			tasks: [{
+				id: "305E4ECB08AFB751"
+				item: "mysticalagriculture:awakened_supremium_sword"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "1C1BC554C4824E80"
+			tasks: [{
+				id: "7FA859317A057C27"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									-1348118957
+									1667646933
+									-1257462136
+									1289284174
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_sword"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "479CA9E554894DA2"
+			tasks: [{
+				id: "0C34CAFB5F1B6CC1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									1994965478
+									1766934153
+									-1639529814
+									-1669051775
+								]
+							}
+						}
+					}
+					id: "draconicevolution:wyvern_bow"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "3D6152B5BE2DB2DF"
+			tasks: [{
+				id: "60A2D43B3670820F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									-1969930680
+									1481920203
+									-1693477529
+									-995925088
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_sword"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "00678326F7902401"
+			tasks: [{
+				id: "1F14D6CB9B61FF5A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									590541664
+									-787726202
+									-1199076263
+									993728571
+								]
+							}
+						}
+					}
+					id: "draconicevolution:draconic_bow"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "775C21480B25FD46"
+			tasks: [{
+				id: "562050955CBB6988"
+				item: {
+					Count: 1
+					id: "industrialforegoing:infinity_trident"
+					tag: {
+						CanCharge: 1b
+						Channeling: 0b
+						Energy: 0L
+						Fluid: {
+							Amount: 0
+							FluidName: "biofuel"
+						}
+						Loyalty: 0
+						Riptide: 0
+						Selected: "POOR"
+						Special: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "5C0061B4D1781A45"
+			tasks: [{
+				id: "3535EB67FFE19113"
+				item: {
+					Count: 1
+					id: "industrialforegoing:infinity_launcher"
+					tag: {
+						CanCharge: 1b
+						Energy: 0L
+						Fluid: {
+							Amount: 0
+							FluidName: "biofuel"
+						}
+						Plunger: 0
+						Selected: "POOR"
+						Special: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+	]
+	title: "Weapons"
+}

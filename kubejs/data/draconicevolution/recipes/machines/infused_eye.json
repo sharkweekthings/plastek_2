@@ -1,0 +1,43 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "catalyst": {
+    "item": "apotheosis:mythic_material"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "item": "thermal:blizz_powder"
+    },
+    {
+      "item": "thermal:blizz_powder"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "result": {
+    "item": "endrem:wither_eye"
+  },
+  "tier": "DRACONIC",
+  "total_energy": 5000000
+}

@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "tag": "forge:ingots/electrum"
+  },
+  "result": [
+    {
+      "item": "createaddition:electrum_wire",
+      "count": 2
+    }
+  ]
+}

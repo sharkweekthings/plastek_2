@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"A":{"tag":"mekanism:alloys/reinforced"},"C":{"tag":"forge:circuits/elite"},"X":{"item":"industrialforegoing:machine_frame_advanced"},"_":{"tag":"forge:cobblestone/normal"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["ACA","_X_","AZA"],"result":{"item":"mekanism:combiner"}}

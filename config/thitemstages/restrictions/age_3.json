@@ -1,0 +1,40 @@
+{
+  "Restriction Data": {
+    "stage": "age_3",
+    "itemList": [],
+    "modList": [
+      "thermal",
+      "hostilenetworks",
+      "powah",
+      "rftoolsutility",
+      "rftoolsbuilder",
+      "rftoolscontrol",
+      "fluxnetworks",
+      "xnet",
+      "redstone_arsenal",
+      "rangedpumps",
+      "draconicevolution",
+      "hyperbox"
+    ],
+    "tagList": [
+      "p2:age_3_item"
+    ],
+    "exceptionList": [
+      {"tag": "p2:age_3_exception"}
+    ],
+    "containerList": []
+  },
+  "Settings": {
+    "advancedTooltips": "ALWAYS",
+    "itemTitle": "Unusable Item",
+    "pickupDelay": 15,
+    "hideInJEI": true,
+    "canPickup": false,
+    "containerListWhitelist": false,
+    "checkPlayerInventory": true,
+    "checkPlayerEquipment": true,
+    "destroyableBlocks": false,
+    "usableItems": false,
+    "usableBlocks": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:gems/diamond"
+    },
+    "B": {
+      "item": "draconicevolution:particle_generator"
+    },
+    "Z": {
+      "tag": "forge:pellets/polonium"
+    },
+    "X": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    "P": {
+      "item": "industrialforegoing:machine_frame_supreme"
+    },
+    "Y": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "APA",
+    "YBX",
+    "AZA"
+  ],
+  "result": {
+    "item": "draconicevolution:energy_core_stabilizer"
+  }
+}

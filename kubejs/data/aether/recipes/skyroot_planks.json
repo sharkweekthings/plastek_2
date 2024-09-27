@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "aether:skyroot_planks"
+  }
+}

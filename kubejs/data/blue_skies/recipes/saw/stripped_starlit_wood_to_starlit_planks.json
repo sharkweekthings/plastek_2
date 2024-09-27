@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blue_skies"
+    }
+  ],
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_starlit_wood"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "item": "blue_skies:starlit_planks",
+    "count": 4
+  },
+  "group": "planks"
+}

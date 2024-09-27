@@ -1,0 +1,271 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "age_1"
+	group: "29E2459388A87C4C"
+	icon: {
+		Count: 1
+		id: "naturescompass:naturescompass"
+		tag: { }
+	}
+	id: "27C8338FDD557861"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1B3E22A71E1B5EAC"]
+			id: "7014AA451AA460A5"
+			subtitle: "Locates biomes"
+			tasks: [{
+				id: "25CAA97F2A8079E5"
+				item: {
+					Count: 1
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1B3E22A71E1B5EAC"]
+			id: "2338F4979FDBF3CC"
+			subtitle: "Locates structures"
+			tasks: [{
+				id: "164100C100BEA830"
+				item: {
+					Count: 1
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Nature's Compass - Locates various biomes of the world."
+				""
+				"Explorer's Compass - Locates various structures of the world."
+				""
+				"Honey Compass - Locates the Cell Maze where you can find the Queen Bee."
+				""
+				"Meterorite Compass - Locates the closest meteor so that you can start Applied Energistic 2."
+			]
+			id: "1B3E22A71E1B5EAC"
+			shape: "diamond"
+			tasks: [{
+				id: "0FCC5D01600F7BBB"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Navigation"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1B3E22A71E1B5EAC"]
+			id: "3634B7780884133A"
+			subtitle: "Locates a Cell Maze"
+			tasks: [{
+				id: "0C9706451C47C0D5"
+				item: {
+					Count: 1
+					id: "the_bumblezone:honey_compass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1B3E22A71E1B5EAC"]
+			id: "5FC2113EB11DD6CE"
+			subtitle: "Locates AE2 Meteors"
+			tasks: [{
+				id: "37855A4C2F9853A1"
+				item: "ae2:meteorite_compass"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3F6672FEEED86407"]
+			id: "4F0D758B804478E7"
+			tasks: [{
+				id: "59723E83F4FBC094"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "tombstone:decorative_graves"
+					}
+				}
+				title: "Any Decorative Grave"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3F6672FEEED86407"]
+			description: ["Use the Ankh of Prayer at a Decorative Grave for some Knowledge of Death experience."]
+			id: "596DCBCBD9EF465E"
+			tasks: [{
+				id: "3DC7B31D1BA78564"
+				item: {
+					Count: 1
+					id: "tombstone:ankh_of_prayer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"The main purpose of this mod is to create a Tomb when you die that contains all of your items. "
+				""
+				"If you click 'K' by default, on your keyboard you can open the \"Knowledge of Death\" screen. "
+				""
+				"You can gain some easy experience by customizing your grave through this menu. "
+				""
+				"You can also create a Decorative Grave and Ankh of Prayer. Use the Ankh at the grave when the timer is available and you'll gain more Knowledge of Death experience."
+			]
+			id: "3F6672FEEED86407"
+			shape: "diamond"
+			tasks: [{
+				id: "256EFA9052DF09B4"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Tombstone"
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			description: ["This mod lets you upload images from the internet and use them as paintings."]
+			id: "12E23BE6B7ACE044"
+			shape: "diamond"
+			tasks: [{
+				id: "027B9971A44435CE"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Immersive Paintings"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["12E23BE6B7ACE044"]
+			id: "76FD6ED25A04E0B1"
+			tasks: [{
+				id: "2C99C1F732C00707"
+				item: "immersive_paintings:painting"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			description: ["Each workbench lets you create blocks of various decorative design."]
+			id: "09A5D56B25C4CD28"
+			shape: "diamond"
+			tasks: [{
+				id: "2034011E00B9BEC1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Chipped"
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["09A5D56B25C4CD28"]
+			id: "6D8E4419710B0D07"
+			tasks: [
+				{
+					id: "43B95825F8BDF0CC"
+					item: "chipped:botanist_workbench"
+					type: "item"
+				}
+				{
+					id: "7A2C6A151649A4F4"
+					item: "chipped:glassblower"
+					type: "item"
+				}
+				{
+					id: "50A6F940741D9409"
+					item: "chipped:carpenters_table"
+					type: "item"
+				}
+				{
+					id: "0E02C00E7246FE06"
+					item: "chipped:loom_table"
+					type: "item"
+				}
+				{
+					id: "05249B854ADAF950"
+					item: "chipped:mason_table"
+					type: "item"
+				}
+				{
+					id: "6B5BCD137607F35B"
+					item: "chipped:alchemy_bench"
+					type: "item"
+				}
+				{
+					id: "338265D5C2CB336D"
+					item: "chipped:tinkering_table"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			description: ["Place these in the world, click on them and set the advancement or stat you want to display."]
+			id: "046D5107963760D0"
+			shape: "diamond"
+			tasks: [{
+				id: "672489890537D61B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Advancement Frames"
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["046D5107963760D0"]
+			description: [""]
+			id: "1A2FCD1E658CD612"
+			tasks: [{
+				id: "161249155CD56CE4"
+				item: "advancementframes:advancement_frame"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["046D5107963760D0"]
+			id: "5F4A6B9A6C99F396"
+			tasks: [{
+				id: "6E67CED8F0C23DED"
+				item: "advancementframes:stat_frame"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+	]
+	title: "General"
+}

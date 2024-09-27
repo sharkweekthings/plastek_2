@@ -1,0 +1,108 @@
+{
+  "parent": "blue_skies:everdawn/poison_shroom",
+  "criteria": {
+    "kill_emberback": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "blue_skies:emberback"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "kill_infested_swarmer": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "blue_skies:infested_swarmer"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "kill_nested_spider": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "blue_skies:nested_spider"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "kill_nyctofly": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "blue_skies:nyctofly"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    },
+    "kill_venom_spider": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "blue_skies:venom_spider"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.blue_skies.everdawn.kill_bug.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "blue_skies:bug_guts"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.blue_skies.everdawn.kill_bug"
+    }
+  },
+  "requirements": [
+    [
+      "kill_venom_spider"
+    ],
+    [
+      "kill_nyctofly"
+    ],
+    [
+      "kill_emberback"
+    ],
+    [
+      "kill_infested_swarmer"
+    ],
+    [
+      "kill_nested_spider"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,6 @@
+{"type":"minecraft:crafting_shaped","key":{
+	"#":{"tag":"forge:glass/silica"},
+	"S":{"tag":"forge:ingots/steel"},
+	"Z":{"item":"create:precision_mechanism"}},
+	"pattern":[" # ","SZS", " # "],
+	"result":{"count":8,"item":"mekanism:basic_pressurized_tube"}}

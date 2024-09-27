@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    "S": {
+      "item": "pneumaticcraft:reinforced_stone_slab"
+    },
+    "T": {
+      "type": "forge:nbt",
+      "count": 1,
+      "item": "pneumaticcraft:small_tank"
+    },
+    "V": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "SVS",
+    "TPT",
+    "SSS"
+  ],
+  "result": {
+    "item": "pneumaticcraft:thermopneumatic_processing_plant"
+  },
+  "show_notification": true
+}

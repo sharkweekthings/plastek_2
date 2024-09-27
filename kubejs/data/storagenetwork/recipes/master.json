@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dkd",
+    "kck",
+    "dkd"
+  ],
+  "key": {
+    "k": {
+      "item": "storagenetwork:kabel"
+    },
+    "d": {
+      "item": "minecraft:quartz"
+    },
+    "c": {
+      "item": "functionalstorage:storage_controller"
+    }
+  },
+  "result": {
+    "item": "storagenetwork:master"
+  }
+}

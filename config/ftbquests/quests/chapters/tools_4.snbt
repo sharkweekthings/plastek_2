@@ -1,0 +1,184 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tools_4"
+	group: "581F41F63919A6BC"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: {
+				energy: {
+					energy: 0
+				}
+				module_host: {
+					modules: [ ]
+					properties: {
+						mining_speed: {
+							hud: 1b
+							value: 1.0d
+						}
+					}
+					provider_id: [I;
+						-200483751
+						111166405
+						-1519090391
+						1449812102
+					]
+				}
+			}
+		}
+		id: "draconicevolution:chaotic_pickaxe"
+		tag: { }
+	}
+	id: "49D59B334957A733"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2A2706E4B12A7946"
+			tasks: [{
+				id: "2FB719F764A9747A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									-1840634722
+									1261325682
+									-2122681464
+									-542830487
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_axe"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "6AF6F89D18A32591"
+			tasks: [{
+				id: "0F5B6D5A15E2B3BF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									7474284
+									1025527405
+									-1195168478
+									57079089
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_pickaxe"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "23CA2498289C64AC"
+			tasks: [{
+				id: "2DB610BE0E3CE26F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									mining_speed: {
+										hud: 1b
+										value: 1.0d
+									}
+								}
+								provider_id: [I;
+									-1811939106
+									-1465302922
+									-1645582701
+									81386667
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_shovel"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			id: "17E0C9D062C5CEF7"
+			tasks: [{
+				id: "77977CA676DEBB74"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: { }
+								provider_id: [I;
+									-1771498716
+									-2008265428
+									-1168014701
+									-1986047
+								]
+							}
+						}
+					}
+					id: "draconicevolution:chaotic_hoe"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			id: "7E3708FECB1537A5"
+			tasks: [{
+				id: "4AC18F5E6652C173"
+				item: "mekanism:meka_tool"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+	]
+	title: "Tools"
+}

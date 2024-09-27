@@ -1,0 +1,9 @@
+
+["General Options"]
+	#Set this value to 'true' whenever you want the default restrictions to be regenerated. [true/false]
+	generate_defaults = false
+	#List all the stages that you want to have.
+	stages = ["age_1", "age_2", "age_3", "age_4", "age_5", "copper_equipment", "silver_equipment", "iron_equipment", "aether_equipment", "blue_skies_equipment", "everything_else"]
+	#Set this value to 'true' whenever you're having issues, this will allow the mod to output everything it tries to do in the log.
+	debugMode = false
+

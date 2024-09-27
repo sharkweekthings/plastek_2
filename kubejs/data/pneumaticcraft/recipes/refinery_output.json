@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "S": {
+      "item": "pneumaticcraft:reinforced_stone_slab"
+    },
+    "V": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "GDG",
+    "SVS"
+  ],
+  "result": {
+    "item": "pneumaticcraft:refinery_output"
+  },
+  "show_notification": true
+}

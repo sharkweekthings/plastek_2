@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "tag": "natprog:saw"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "blue_skies:frostbright_planks"
+  }
+}

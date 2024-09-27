@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","key":{"#":{"tag":"forge:gems/diamond"},"E":{"item":"mekanism:basic_energy_cube"},"S":{"tag":"forge:ingots/steel"},"X":{"item":"industrialforegoing:machine_frame_supreme"},"Z":{"item":"pneumaticcraft:printed_circuit_board"}},"pattern":["SES","SX#","SZS"],"result":{"item":"mekanism:laser_amplifier"}}

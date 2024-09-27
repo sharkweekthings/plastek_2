@@ -1,0 +1,222 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "functional_storage"
+	group: "79C502F79CD205E5"
+	icon: "functionalstorage:oak_1"
+	id: "1557477CB21BF30E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "294EE9273B40695B"
+			tasks: [{
+				id: "27CF5E5EC17D82F1"
+				item: "functionalstorage:storage_controller"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "38C7F52F4B9D6C8F"
+			tasks: [{
+				id: "74520CE7CE506A94"
+				item: {
+					Count: 1
+					id: "functionalstorage:linking_tool"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "15D6915EB80475A1"
+			tasks: [{
+				id: "10530FECD7FBCC4B"
+				item: "functionalstorage:configuration_tool"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "205D08FE53F7A4BA"
+			tasks: [{
+				id: "7FFDD843AA824C8D"
+				item: "functionalstorage:copper_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "3CDCD2D4E6B3D67F"
+			tasks: [{
+				id: "62D6BE2837AE804F"
+				item: "functionalstorage:gold_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "6DF3A1CC00683C95"
+			tasks: [{
+				id: "63E7063E03569D50"
+				item: "functionalstorage:diamond_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "10D34C8FF78E4B34"
+			tasks: [{
+				id: "6F6456C387CF6FA9"
+				item: "functionalstorage:netherite_upgrade"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "34790EBE16F02E72"
+			tasks: [{
+				id: "33729A207D23E37B"
+				item: "functionalstorage:iron_downgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "7EEDF26DF703E8B5"
+			tasks: [{
+				id: "132D4CDD34428EF3"
+				item: "functionalstorage:collector_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "4E97A3FE7D2D4544"
+			tasks: [{
+				id: "5ED4E02E0AE42BEF"
+				item: "functionalstorage:puller_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "17698C6EE18BBE7D"
+			tasks: [{
+				id: "0A928141224B09E0"
+				item: "functionalstorage:pusher_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "6DA86853AC758F7A"
+			tasks: [{
+				id: "52E8E0ADF10A73F0"
+				item: "functionalstorage:void_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "71F709ED5B92B9DD"
+			tasks: [{
+				id: "12C45375CCA5A399"
+				item: "functionalstorage:redstone_upgrade"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "05072A7B3B4E5FD1"
+			tasks: [{
+				id: "70D75606DA1E2369"
+				item: "functionalstorage:armory_cabinet"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"34E78D296FE5E2ED"
+				"39BDF3F01D4BA50B"
+			]
+			id: "3583EB5E1097899B"
+			tasks: [{
+				id: "1334EADFD41C4B83"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "functionalstorage:drawer"
+					}
+				}
+				title: "Any Functional Storage Drawer"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3583EB5E1097899B"]
+			id: "1CA382BC9CFB2379"
+			tasks: [{
+				id: "6923B8DC26788B58"
+				item: "functionalstorage:controller_extension"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Functional Storage allows you to create Drawers that contain one, or a few (depending on the drawer) items. With upgrades these drawers can hold a massive quantity of items. "
+				""
+				"Be sure to make a Linking Tool which will allow you to link drawers to a Storage Controller. "
+				""
+				"The Configuration Tool has a few functions, but you'll mostly use it for locking your drawers. "
+			]
+			id: "39BDF3F01D4BA50B"
+			shape: "diamond"
+			tasks: [{
+				id: "20C35B3B57ADF9CE"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Functional Storage"
+			x: 0.5d
+			y: 3.5d
+		}
+	]
+	title: "Functional Storage"
+}

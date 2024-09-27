@@ -1,0 +1,35 @@
+f{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/iron"
+        },
+        {
+          "tag": "forge:dusts/iron"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "tag": "minecraft:coals"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "samurai_dynasty:steel_ingot"
+    },
+    {
+      "item": "samurai_dynasty:steel_ingot",
+      "chance": 0.4
+    }
+  ],
+  "experience": 0.2,
+  "energy": 10000
+}

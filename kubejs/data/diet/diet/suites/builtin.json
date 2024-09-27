@@ -1,0 +1,134 @@
+{
+  "replace": false,
+  "groups": [
+    "fruits",
+    "grains",
+    "proteins",
+    "sugars",
+    "vegetables"
+  ],
+  "effects": [
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        },
+        {
+          "name": "minecraft:generic.attack_damage",
+          "operation": "add",
+          "amount": 2.3
+        },
+        {
+          "name": "minecraft:generic.attack_speed",
+          "operation": "multiply_total",
+          "amount": 0.05
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "every",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        },
+        {
+          "name": "minecraft:generic.knockback_resistance",
+          "operation": "add",
+          "amount": 0.10
+        },
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "every",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "status_effects": [
+        {
+          "name": "minecraft:hunger",
+          "power": 3
+        },
+        {
+            "name": "minecraft:weakness",
+            "power": 1
+        },
+        {
+            "name": "minecraft:mining_fatigue",
+            "power": 1
+        },
+        {
+            "name": "minecraft:slowness",
+            "power": 1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["sugars"],
+          "match": "all",
+          "above": 0.7,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.movement_speed",
+          "operation": "multiply_base",
+          "amount": 0.25
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["sugars"],
+          "match": "all",
+          "above": 0.2,
+          "below": 0.3
+        }
+      ]
+    },
+    {
+      "status_effects": [
+        {
+            "name": "minecraft:hunger",
+            "power": 3
+        },
+        {
+            "name": "minecraft:weakness",
+            "power": 1
+        },
+        {
+            "name": "minecraft:mining_fatigue",
+            "power": 1
+        }
+        ],
+      "conditions": [
+        {
+            "groups": ["proteins", "fruits", "vegetables", "grains"],
+            "match": "any",
+            "below": 0.10
+        }
+      ]
+    }
+  ]
+}

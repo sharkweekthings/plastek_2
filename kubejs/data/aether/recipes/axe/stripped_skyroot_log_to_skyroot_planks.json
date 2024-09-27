@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "tag": "natprog:axe"
+    }
+  ],
+  "result": {
+    "item": "aether:skyroot_planks",
+    "count": 1
+  },
+  "group": "planks"
+}

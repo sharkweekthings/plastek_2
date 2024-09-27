@@ -1,0 +1,6 @@
+{"type":"minecraft:crafting_shaped","key":{
+	"#":{"tag":"forge:dusts/redstone"},
+	"S":{"tag":"forge:ingots/steel"},
+	"Z":{"item":"create:precision_mechanism"}},
+	"pattern":[" # ","SZS", " # "],
+	"result":{"count":8,"item":"mekanism:basic_universal_cable"}}

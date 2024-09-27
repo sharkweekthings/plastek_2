@@ -1,0 +1,19 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "industrialforegoing:machine_frame_pity"
+    },
+    {
+      "type": "pneumaticcraft:stacked_item",
+      "count": 2,
+      "item": "create:sturdy_sheet"
+    }
+  ],
+  "pressure": 1.5,
+  "results": [
+    {
+      "item": "industrialforegoing:machine_frame_simple"
+    }
+  ]
+}

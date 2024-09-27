@@ -1,0 +1,29 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pcp",
+    "imi",
+  	"pvp"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "i":  {
+	  "tag": "forge:ingots/gold"
+	},
+    "m":  {
+	  "item": "storagenetwork:master"
+	},
+    "v":  {
+    "item": "create:precision_mechanism"
+  },
+    "p":  {
+	  "tag": "forge:slimeballs"
+  }
+  },
+  "result": {
+    "item": "storagenetwork:inventory_remote"
+  }
+}

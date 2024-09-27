@@ -1,0 +1,1171 @@
+{
+	icon: "simplehats:hatbag_rare"
+	id: "40A675299113FC59"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "apotheosis:ender_library" }
+		{ item: "apotheosis:library" }
+		{ item: "born_in_chaos_v1:supreme_measure" }
+		{ item: "botania:dice" }
+		{ item: "constructionwand:infinity_wand" }
+		{
+			item: {
+				Count: 1
+				id: "constructionwand:diamond_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "mythicbotany:mjoellnir" }
+		{ item: "tempad:he_who_remains_tempad" }
+		{ item: "tiab:time_in_a_bottle" }
+		{ item: "redstone_arsenal:flux_gem_block", weight: 15.0f }
+		{ item: "productivebees:wax_block", weight: 15.0f }
+		{ item: "farmersdelight:chocolate_pie", weight: 200.0f }
+		{ item: "farmersdelight:vegetable_noodles", weight: 200.0f }
+		{ item: "farmersdelight:smoked_ham", weight: 200.0f }
+		{ item: "farmersdelight:fish_stew", weight: 200.0f }
+		{ item: "farmersdelight:cabbage_leaf", weight: 200.0f }
+		{ item: "farmersdelight:grilled_salmon", weight: 200.0f }
+		{ item: "farmersdelight:beef_stew", weight: 200.0f }
+		{ item: "farmersdelight:cooked_chicken_cuts", weight: 200.0f }
+		{ item: "farmersdelight:rice_bale", weight: 200.0f }
+		{ item: "farmersdelight:rice_roll_medley_block", weight: 200.0f }
+		{ item: "farmersdelight:mutton_wrap", weight: 200.0f }
+		{ item: "farmersdelight:hot_cocoa", weight: 200.0f }
+		{ item: "farmersdelight:cooked_mutton_chops", weight: 200.0f }
+		{ item: "pamhc2foodcore:chocolatedonutitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:choruspopsicleitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:epicbaconitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:friedchickenitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:porkjerkyitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:rabbitpotpieitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:stewitem", weight: 200.0f }
+		{ item: "pamhc2foodcore:vinegaritem", weight: 200.0f }
+		{ item: "pamhc2foodextended:chimichangaitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:colasodaitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:creamedbroccolisoupitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:dimsumitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:fishdinneritem", weight: 200.0f }
+		{ item: "pamhc2foodextended:gooseberryjellyitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:greeneggsandhamitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:guisoitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:honeyglazedhamitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:jackfruitjuiceitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:kiwijellytoastitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:lemonaideitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:limejuiceitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:mangojellysandwichitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:meatpieitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:nachoesitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:paneeritem", weight: 200.0f }
+		{ item: "pamhc2foodextended:pawpawsmoothieitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:pearpieitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:pitepaltitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:powdereddonutitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:rambutanyogurtitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:saltandpepperitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:soursopyogurtitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:sundayhighteaitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:toastsandwichitem", weight: 200.0f }
+		{ item: "pamhc2foodextended:zucchinifriesitem", weight: 200.0f }
+		{ item: "advancementframes:advancement_frame", weight: 25.0f }
+		{ item: "advancementframes:stat_frame", weight: 25.0f }
+		{ item: "ae2:blank_pattern", weight: 25.0f }
+		{ item: "mekanismgenerators:solar_generator", weight: 25.0f }
+		{ item: "mekanismgenerators:wind_generator", weight: 25.0f }
+		{ item: "powah:blazing_crystal_block", weight: 25.0f }
+		{ item: "powah:furnator_basic", weight: 25.0f }
+		{ item: "powah:thermo_generator_basic", weight: 25.0f }
+		{ item: "powah:furnator_starter", weight: 25.0f }
+		{ item: "powah:solar_panel_starter", weight: 25.0f }
+		{ item: "powah:magmator_basic", weight: 25.0f }
+		{ item: "powah:solar_panel_basic", weight: 25.0f }
+		{ item: "powah:thermo_generator_starter", weight: 25.0f }
+		{ item: "powah:magmator_starter", weight: 25.0f }
+		{ item: "silentcompat:bunny_steel_block", weight: 25.0f }
+		{ item: "silentcompat:arcmetal_block", weight: 25.0f }
+		{ item: "createaddition:small_light_connector", weight: 30.0f }
+		{ item: "createaddition:diamond_grit", weight: 30.0f }
+		{ item: "createaddition:electric_motor", weight: 30.0f }
+		{ item: "createaddition:biomass_pellet", weight: 30.0f }
+		{ item: "createaddition:large_connector", weight: 30.0f }
+		{ item: "createaddition:bioethanol_bucket", weight: 30.0f }
+		{ item: "createaddition:spool", weight: 30.0f }
+		{ item: "createaddition:gold_spool", weight: 30.0f }
+		{ item: "createaddition:tesla_coil", weight: 30.0f }
+		{ item: "createaddition:copper_wire", weight: 30.0f }
+		{ item: "dimdungeons:item_homeward_pearl", weight: 30.0f }
+		{ item: "dimdungeons:item_blank_advanced_key", weight: 30.0f }
+		{ item: "dimdungeons:item_portal_key", weight: 30.0f }
+		{ item: "dimdungeons:item_secret_bell", weight: 30.0f }
+		{ item: "draconicevolution:draconium_block", weight: 30.0f }
+		{ item: "dragonfinder:ice_dragon_eye", weight: 30.0f }
+		{ item: "dragonfinder:lightning_dragon_eye", weight: 30.0f }
+		{ item: "dragonfinder:fire_dragon_eye", weight: 30.0f }
+		{ item: "samurai_dynasty:kitsune_mask", weight: 30.0f }
+		{ item: "samurai_dynasty:deepslate_ruby_ore", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:diamond_samurai_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:oni_spawn_egg", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:tetsubo"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:blue_samurai_helmet_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:iron_samurai_boots_light"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:stone_roof", weight: 30.0f }
+		{ item: "samurai_dynasty:ruby_block", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:naginata_netherite"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:jade_block", weight: 30.0f }
+		{ item: "samurai_dynasty:akaname_tongue", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:kamayari_netherite"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:silver_block", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:iron_samurai_boots_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:polished_spirit_stone_slab", weight: 30.0f }
+		{ item: "samurai_dynasty:cloth", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:green_samurai_boots_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:green_samurai_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:ninja_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:iron_samurai_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:gray_samurai_helmet_light"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:blue_samurai_helmet_light"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:diamond_samurai_leggings_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:red_samurai_leggings_light"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:gold_samurai_boots_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:iron_ninja_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:kimono"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:diamond_ninja_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:mossy_spirit_stone_brick_wall", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:kamayari"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:katana"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:steel_block", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:blue_samurai_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:deepslate_silver_ore", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:amethyst_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:gold_samurai_chestplate_light"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:kama_netherite"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:spirit_stone_wall", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:iron_samurai_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:aquamarine_block", weight: 30.0f }
+		{ item: "samurai_dynasty:silver_ingot", weight: 30.0f }
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:gray_samurai_helmet_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:gold_samurai_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "samurai_dynasty:gray_samurai_chestplate_master"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 30.0f
+		}
+		{ item: "samurai_dynasty:onyx_block", weight: 30.0f }
+		{ item: "artifacts:pocket_piston", weight: 5.0f }
+		{ item: "artifacts:charm_of_sinking", weight: 5.0f }
+		{ item: "artifacts:shock_pendant", weight: 5.0f }
+		{ item: "artifacts:running_shoes", weight: 5.0f }
+		{ item: "artifacts:universal_attractor", weight: 5.0f }
+		{ item: "artifacts:anglers_hat", weight: 5.0f }
+		{ item: "artifacts:superstitious_hat", weight: 5.0f }
+		{ item: "artifacts:fire_gauntlet", weight: 5.0f }
+		{ item: "artifacts:crystal_heart", weight: 5.0f }
+		{ item: "artifacts:night_vision_goggles", weight: 5.0f }
+		{ item: "artifacts:vampiric_glove", weight: 5.0f }
+		{ item: "artifacts:thorn_pendant", weight: 5.0f }
+		{ item: "artifacts:plastic_drinking_hat", weight: 5.0f }
+		{ item: "artifacts:onion_ring", weight: 5.0f }
+		{ item: "artifacts:everlasting_beef", weight: 5.0f }
+		{ item: "artifacts:pickaxe_heater", weight: 5.0f }
+		{ item: "artifacts:rooted_boots", weight: 5.0f }
+		{ item: "artifacts:obsidian_skull", weight: 5.0f }
+		{ item: "artifacts:feral_claws", weight: 5.0f }
+		{ item: "artifacts:novelty_drinking_hat", weight: 5.0f }
+		{ item: "artifacts:helium_flamingo", weight: 5.0f }
+		{ item: "artifacts:lucky_scarf", weight: 5.0f }
+		{ item: "artifacts:bunny_hoppers", weight: 5.0f }
+		{ item: "artifacts:cloud_in_a_bottle", weight: 5.0f }
+		{ item: "artifacts:cross_necklace", weight: 5.0f }
+		{ item: "artifacts:chorus_totem", weight: 5.0f }
+		{ item: "artifacts:steadfast_spikes", weight: 5.0f }
+		{ item: "artifacts:golden_hook", weight: 5.0f }
+		{ item: "artifacts:kitty_slippers", weight: 5.0f }
+		{ item: "artifacts:antidote_vessel", weight: 5.0f }
+		{ item: "artifacts:snorkel", weight: 5.0f }
+		{ item: "artifacts:flame_pendant", weight: 5.0f }
+		{ item: "artifacts:whoopee_cushion", weight: 5.0f }
+		{ item: "artifacts:aqua_dashers", weight: 5.0f }
+		{ item: "artifacts:cowboy_hat", weight: 5.0f }
+		{ item: "artifacts:power_glove", weight: 5.0f }
+		{ item: "artifacts:digging_claws", weight: 5.0f }
+		{ item: "artifacts:villager_hat", weight: 5.0f }
+		{ item: "artifacts:panic_necklace", weight: 5.0f }
+		{ item: "artifacts:scarf_of_invisibility", weight: 5.0f }
+		{ item: "artifacts:flippers", weight: 5.0f }
+		{ item: "artifacts:umbrella", weight: 5.0f }
+		{ item: "artifacts:snowshoes", weight: 5.0f }
+		{ item: "artifacts:eternal_steak", weight: 5.0f }
+		{ item: "nameless_trinkets:scarab_amulet", weight: 5.0f }
+		{ item: "nameless_trinkets:sigil_of_baphomet", weight: 5.0f }
+		{ item: "nameless_trinkets:rage_mind", weight: 5.0f }
+		{ item: "nameless_trinkets:dragons_eye", weight: 5.0f }
+		{ item: "nameless_trinkets:creeper_sense", weight: 5.0f }
+		{ item: "nameless_trinkets:tick", weight: 5.0f }
+		{ item: "nameless_trinkets:ghast_eye", weight: 5.0f }
+		{ item: "nameless_trinkets:four_leaf_clover", weight: 5.0f }
+		{ item: "nameless_trinkets:spider_legs", weight: 5.0f }
+		{ item: "nameless_trinkets:lucky_rock", weight: 5.0f }
+		{ item: "nameless_trinkets:blindfold", weight: 5.0f }
+		{ item: "nameless_trinkets:fractured_nullstone", weight: 5.0f }
+		{ item: "nameless_trinkets:callus", weight: 5.0f }
+		{ item: "nameless_trinkets:broken_magnet", weight: 5.0f }
+		{ item: "nameless_trinkets:light_gloves", weight: 5.0f }
+		{ item: "nameless_trinkets:explosion_proof_jacket", weight: 5.0f }
+		{ item: "nameless_trinkets:miners_soul", weight: 5.0f }
+		{ item: "nameless_trinkets:ice_cube", weight: 5.0f }
+		{ item: "nameless_trinkets:super_magnet", weight: 5.0f }
+		{ item: "nameless_trinkets:reforger", weight: 5.0f }
+		{ item: "nameless_trinkets:broken_ankh", weight: 5.0f }
+		{ item: "nameless_trinkets:vampire_blood", weight: 5.0f }
+		{ item: "nameless_trinkets:pocket_lightning_rod", weight: 5.0f }
+		{ item: "nameless_trinkets:experience_battery", weight: 5.0f }
+		{ item: "nameless_trinkets:fate_emerald", weight: 5.0f }
+		{ item: "nameless_trinkets:electric_paddle", weight: 5.0f }
+		{ item: "nameless_trinkets:amphibious_hands", weight: 5.0f }
+		{ item: "nameless_trinkets:sleeping_pills", weight: 5.0f }
+		{ item: "nameless_trinkets:cracked_crown", weight: 5.0f }
+		{ item: "nameless_trinkets:gods_crown", weight: 5.0f }
+		{ item: "nameless_trinkets:experience_magnet", weight: 5.0f }
+		{ item: "nameless_trinkets:nelumbo", weight: 5.0f }
+		{ item: "nameless_trinkets:unknown_fragment", weight: 5.0f }
+		{ item: "nameless_trinkets:true_heart_of_the_sea", weight: 5.0f }
+		{ item: "nameless_trinkets:puffer_fish_liver", weight: 5.0f }
+		{ item: "nameless_trinkets:mysterious_trinket", weight: 5.0f }
+		{ item: "nameless_trinkets:fragile_cloud", weight: 5.0f }
+		{ item: "nameless_trinkets:wooden_stick", weight: 5.0f }
+		{ item: "nameless_trinkets:speed_force", weight: 5.0f }
+		{ item: "nameless_trinkets:dark_nelumbo", weight: 5.0f }
+		{ item: "nameless_trinkets:gills", weight: 5.0f }
+		{ item: "nameless_trinkets:tear_of_the_sea", weight: 5.0f }
+		{ item: "nameless_trinkets:what_magnet", weight: 5.0f }
+		{ item: "nameless_trinkets:missing_page", weight: 5.0f }
+		{ item: "nameless_trinkets:moon_stone", weight: 5.0f }
+		{ item: "nameless_trinkets:blaze_nucleus", weight: 5.0f }
+		{ item: "nameless_trinkets:reverse_card", weight: 5.0f }
+		{ item: "relics:roller_skates", weight: 5.0f }
+		{ item: "relics:rage_glove", weight: 5.0f }
+		{ item: "relics:hunter_belt", weight: 5.0f }
+		{ item: "relics:ice_breaker", weight: 5.0f }
+		{ item: "relics:researching_table", weight: 5.0f }
+		{ item: "relics:arrow_quiver", weight: 5.0f }
+		{ item: "relics:horse_flute", weight: 5.0f }
+		{ item: "relics:reflection_necklace", weight: 5.0f }
+		{ item: "relics:space_dissector", weight: 5.0f }
+		{ item: "relics:spore_sack", weight: 5.0f }
+		{ item: "relics:holy_locket", weight: 5.0f }
+		{ item: "relics:drowned_belt", weight: 5.0f }
+		{ item: "relics:amphibian_boot", weight: 5.0f }
+		{ item: "relics:bastion_ring", weight: 5.0f }
+		{ item: "relics:aqua_walker", weight: 5.0f }
+		{ item: "relics:jellyfish_necklace", weight: 5.0f }
+		{ item: "relics:relic_experience_bottle", weight: 5.0f }
+		{ item: "relics:spatial_sign", weight: 5.0f }
+		{ item: "relics:midnight_robe", weight: 5.0f }
+		{ item: "relics:solid_snowball", weight: 5.0f }
+		{ item: "relics:infinity_ham", weight: 5.0f }
+		{ item: "relics:elytra_booster", weight: 5.0f }
+		{ item: "relics:shadow_glaive", weight: 5.0f }
+		{ item: "relics:blazing_flask", weight: 5.0f }
+		{ item: "relics:wool_mitten", weight: 5.0f }
+		{ item: "relics:leather_belt", weight: 5.0f }
+		{ item: "relics:magic_mirror", weight: 5.0f }
+		{ item: "relics:ice_skates", weight: 5.0f }
+		{ item: "relics:magma_walker", weight: 5.0f }
+		{ item: "relics:chorus_inhibitor", weight: 5.0f }
+		{ item: "relics:enders_hand", weight: 5.0f }
+		{ item: "tarotcards:judgement", weight: 5.0f }
+		{ item: "tarotcards:the_world", weight: 5.0f }
+		{ item: "tarotcards:death", weight: 5.0f }
+		{ item: "tarotcards:the_lovers", weight: 5.0f }
+		{ item: "tarotcards:wheel_of_fortune", weight: 5.0f }
+		{ item: "tarotcards:the_devil", weight: 5.0f }
+		{ item: "tarotcards:the_high_priestess", weight: 5.0f }
+		{ item: "tarotcards:the_hanged_man", weight: 5.0f }
+		{ item: "tarotcards:justice", weight: 5.0f }
+		{ item: "tarotcards:strength", weight: 5.0f }
+		{ item: "tarotcards:temperance", weight: 5.0f }
+		{ item: "tarotcards:the_chariot", weight: 5.0f }
+		{ item: "tarotcards:the_emperor", weight: 5.0f }
+		{ item: "tarotcards:the_fool", weight: 5.0f }
+		{ item: "tarotcards:tarot_deck", weight: 5.0f }
+		{ item: "tarotcards:the_hierophant", weight: 5.0f }
+		{ item: "tarotcards:the_empress", weight: 5.0f }
+		{ item: "tarotcards:the_moon", weight: 5.0f }
+		{ item: "tarotcards:the_tower", weight: 5.0f }
+		{ item: "tarotcards:the_sun", weight: 5.0f }
+		{ item: "tarotcards:the_magician", weight: 5.0f }
+		{ item: "tarotcards:the_hermit", weight: 5.0f }
+		{ item: "tarotcards:the_star", weight: 5.0f }
+		{
+			item: {
+				Count: 1
+				id: "aether:gravitite_hoe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "aether:gravitite_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "aether:pig_slayer"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "aether:agility_cape", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "aether:gravitite_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "aether:gravitite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "aether:gravitite_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "aether:iron_ring", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "aether:obsidian_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "aether:golden_parachute"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "aether:book_of_lore", weight: 50.0f }
+		{ item: "aether:carved_stairs", weight: 50.0f }
+		{ item: "aether:zanite_block", weight: 50.0f }
+		{ item: "apotheosis:ancient_material", weight: 50.0f }
+		{ item: "apotheosis:mythic_material", weight: 50.0f }
+		{ item: "apotheosis:beeshelf", weight: 50.0f }
+		{ item: "biomancy:mob_fang", weight: 50.0f }
+		{ item: "biomancy:living_flesh", weight: 50.0f }
+		{ item: "biomancy:flesh_door", weight: 50.0f }
+		{ item: "biomancy:elastic_fibers", weight: 50.0f }
+		{ item: "biomancy:flesh_ladder", weight: 50.0f }
+		{ item: "biomancy:genetic_compound", weight: 50.0f }
+		{ item: "biomancy:bile", weight: 50.0f }
+		{ item: "biomancy:maw_hopper", weight: 50.0f }
+		{ item: "biomancy:flesh_iris_door", weight: 50.0f }
+		{ item: "biomancy:mineral_fragment", weight: 50.0f }
+		{ item: "biomancy:malignant_flesh_slab", weight: 50.0f }
+		{ item: "biomesoplenty:jacaranda_slab", weight: 50.0f }
+		{ item: "biomesoplenty:palm_hanging_sign", weight: 50.0f }
+		{ item: "biomesoplenty:stripped_redwood_wood", weight: 50.0f }
+		{ item: "biomesoplenty:mahogany_log", weight: 50.0f }
+		{ item: "biomesoplenty:hellbark_leaves", weight: 50.0f }
+		{ item: "biomesoplenty:hanging_cobweb_strand", weight: 50.0f }
+		{ item: "biomesoplenty:blood_bucket", weight: 50.0f }
+		{ item: "biomesoplenty:cut_orange_sandstone_slab", weight: 50.0f }
+		{ item: "biomesoplenty:jacaranda_chest_boat", weight: 50.0f }
+		{ item: "biomesoplenty:palm_boat", weight: 50.0f }
+		{ item: "biomesoplenty:hair", weight: 50.0f }
+		{ item: "biomesoplenty:hellbark_fence", weight: 50.0f }
+		{ item: "biomesoplenty:umbran_fence_gate", weight: 50.0f }
+		{ item: "biomesoplenty:mahogany_chest_boat", weight: 50.0f }
+		{ item: "biomesoplenty:glowing_moss_block", weight: 50.0f }
+		{ item: "biomesoplenty:umbran_slab", weight: 50.0f }
+		{ item: "biomesoplenty:goldenrod", weight: 50.0f }
+		{ item: "biomesoplenty:redwood_leaves", weight: 50.0f }
+		{ item: "biomesoplenty:willow_door", weight: 50.0f }
+		{ item: "biomesoplenty:dead_trapdoor", weight: 50.0f }
+		{ item: "biomesoplenty:snowblossom_leaves", weight: 50.0f }
+		{ item: "biomesoplenty:potted_orange_cosmos", weight: 50.0f }
+		{ item: "biomesoplenty:redwood_fence_gate", weight: 50.0f }
+		{ item: "biomesoplenty:toadstool_block", weight: 50.0f }
+		{ item: "biomesoplenty:willow_sign", weight: 50.0f }
+		{ item: "biomesoplenty:mahogany_stairs", weight: 50.0f }
+		{ item: "biomesoplenty:orange_sandstone_stairs", weight: 50.0f }
+		{ item: "biomesoplenty:redwood_trapdoor", weight: 50.0f }
+		{ item: "biomesoplenty:jacaranda_door", weight: 50.0f }
+		{ item: "biomesoplenty:white_sandstone_stairs", weight: 50.0f }
+		{ item: "biomesoplenty:willow_stairs", weight: 50.0f }
+		{ item: "biomesoplenty:hanging_cobweb", weight: 50.0f }
+		{ item: "biomesoplenty:jacaranda_trapdoor", weight: 50.0f }
+		{ item: "biomesoplenty:chiseled_brimstone_bricks", weight: 50.0f }
+		{ item: "biomesoplenty:flesh", weight: 50.0f }
+		{ item: "biomesoplenty:mahogany_slab", weight: 50.0f }
+		{ item: "biomesoplenty:smooth_black_sandstone", weight: 50.0f }
+		{ item: "biomesoplenty:brimstone_brick_stairs", weight: 50.0f }
+		{ item: "biomesoplenty:jacaranda_button", weight: 50.0f }
+		{ item: "biomesoplenty:palm_log", weight: 50.0f }
+		{ item: "biomesoplenty:magic_leaves", weight: 50.0f }
+		{ item: "biomesoplenty:magic_slab", weight: 50.0f }
+		{ item: "biomesoplenty:fir_log", weight: 50.0f }
+		{ item: "biomesoplenty:rose_quartz_block", weight: 50.0f }
+		{ item: "biomesoplenty:glowing_moss_carpet", weight: 50.0f }
+		{ item: "biomesoplenty:blackstone_bulb", weight: 50.0f }
+		{ item: "biomesoplenty:willow_wood", weight: 50.0f }
+		{ item: "biomesoplenty:stripped_redwood_log", weight: 50.0f }
+		{ item: "biomesoplenty:small_rose_quartz_bud", weight: 50.0f }
+		{ item: "biomesoplenty:magic_pressure_plate", weight: 50.0f }
+		{ item: "biomesoplenty:potted_pink_daffodil", weight: 50.0f }
+		{ item: "biomesoplenty:orange_cosmos", weight: 50.0f }
+		{ item: "biomesoplenty:umbran_log", weight: 50.0f }
+		{ item: "biomesoplenty:potted_rose", weight: 50.0f }
+		{ item: "biomesoplenty:willow_slab", weight: 50.0f }
+		{ item: "biomesoplenty:redwood_hanging_sign", weight: 50.0f }
+		{ item: "biomesoplenty:fir_sign", weight: 50.0f }
+		{ item: "biomesoplenty:rose_quartz_chunk", weight: 50.0f }
+		{ item: "biomesoplenty:dead_leaves", weight: 50.0f }
+		{ item: "biomesoplenty:palm_wood", weight: 50.0f }
+		{ item: "biomesoplenty:chiseled_orange_sandstone", weight: 50.0f }
+		{ item: "biomesoplenty:redwood_button", weight: 50.0f }
+		{ item: "biomesoplenty:smooth_orange_sandstone", weight: 50.0f }
+		{ item: "biomesoplenty:dead_branch", weight: 50.0f }
+		{ item: "biomesoplenty:dead_log", weight: 50.0f }
+		{ item: "biomesoplenty:stripped_magic_wood", weight: 50.0f }
+		{ item: "biomesoplenty:magic_wood", weight: 50.0f }
+		{ item: "biomesoplenty:huge_clover_petal", weight: 50.0f }
+		{ item: "biomesoplenty:tall_lavender", weight: 50.0f }
+		{ item: "biomesoplenty:jacaranda_stairs", weight: 50.0f }
+		{ item: "blue_skies:brumble_block", weight: 50.0f }
+		{ item: "blue_skies:crystallized_trapdoor", weight: 50.0f }
+		{ item: "blue_skies:bluebright_pressure_plate", weight: 50.0f }
+		{ item: "blue_skies:bluebright_log", weight: 50.0f }
+		{ item: "blue_skies:polished_umber_stairs", weight: 50.0f }
+		{ item: "blue_skies:rimestone_wall", weight: 50.0f }
+		{ item: "blue_skies:bluebright_chest", weight: 50.0f }
+		{ item: "blue_skies:comet_berry_pie", weight: 50.0f }
+		{ item: "blue_skies:bluebright_wood", weight: 50.0f }
+		{ item: "blue_skies:municipal_monkfish", weight: 50.0f }
+		{ item: "blue_skies:blue_journal", weight: 50.0f }
+		{ item: "blue_skies:nature_arc", weight: 50.0f }
+		{ item: "blue_skies:raw_charoite_block", weight: 50.0f }
+		{ item: "blue_skies:mossy_lunar_stonebrick_wall", weight: 50.0f }
+		{ item: "blue_skies:horizofin_tunid_spawn_egg", weight: 50.0f }
+		{ item: "blue_skies:horizonite_ingot", weight: 50.0f }
+		{ item: "blue_skies:frostbright_leaves", weight: 50.0f }
+		{ item: "blue_skies:moonstone_block", weight: 50.0f }
+		{ item: "blue_skies:frostbright_planks", weight: 50.0f }
+		{ item: "blue_skies:turquoise_stone_button", weight: 50.0f }
+		{ item: "blue_skies:winter_leaves", weight: 50.0f }
+		{ item: "blue_skies:glowing_nature_stonebrick_wall", weight: 50.0f }
+		{ item: "blue_skies:frostbright_slab", weight: 50.0f }
+		{ item: "blue_skies:raw_ventium_block", weight: 50.0f }
+		{ item: "blue_skies:gatekeeper_spawn_egg", weight: 50.0f }
+		{ item: "blue_skies:shade_monitor_spawn_egg", weight: 50.0f }
+		{ item: "blue_skies:crystal_sandstone_pillar", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "blue_skies:starlit_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "blue_skies:horizonite_block", weight: 50.0f }
+		{ item: "blue_skies:moonstone_lantern", weight: 50.0f }
+		{ item: "blue_skies:everbright_emerald_ore", weight: 50.0f }
+		{ item: "blue_skies:comet_stairs", weight: 50.0f }
+		{ item: "blue_skies:sea_moss", weight: 50.0f }
+		{ item: "blue_skies:snowcap_mushroom_block", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "blue_skies:bluebright_shovel"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "blue_skies:cosmic_fox_spawn_egg", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "blue_skies:starlit_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "blue_skies:aquite_block", weight: 50.0f }
+		{ item: "blue_skies:starlit_bookshelf", weight: 50.0f }
+		{ item: "blue_skies:brewberry", weight: 50.0f }
+		{ item: "blue_skies:frostbright_chest", weight: 50.0f }
+		{ item: "blue_skies:cooked_horizofin_tunid", weight: 50.0f }
+		{ item: "blue_skies:starlit_stairs", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "blue_skies:charoite_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "blue_skies:poison_stone_slab", weight: 50.0f }
+		{ item: "blue_skies:bluebright_planks", weight: 50.0f }
+		{ item: "blue_skies:ventium_lava_bucket", weight: 50.0f }
+		{ item: "blue_skies:everbright_moonstone_ore", weight: 50.0f }
+		{ item: "born_in_chaos_v1:scorched_planks_fence_gate", weight: 50.0f }
+		{ item: "born_in_chaos_v1:argillite_lamp", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "born_in_chaos_v1:wood_splitter_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "born_in_chaos_v1:lifestealer_spawn_egg", weight: 50.0f }
+		{ item: "born_in_chaos_v1:shattered_skull", weight: 50.0f }
+		{ item: "born_in_chaos_v1:lifeturnedouttobeacomedyicon", weight: 50.0f }
+		{ item: "born_in_chaos_v1:dark_metal_block", weight: 50.0f }
+		{ item: "born_in_chaos_v1:chipped_black_argillite_brick", weight: 50.0f }
+		{ item: "born_in_chaos_v1:fired_black_argillite", weight: 50.0f }
+		{ item: "born_in_chaos_v1:rotten_fish", weight: 50.0f }
+		{ item: "botania:orange_petal_block", weight: 50.0f }
+		{ item: "botania:cacophonium_block", weight: 50.0f }
+		{ item: "botania:blaze_block", weight: 50.0f }
+		{ item: "botania:purple_petal_block", weight: 50.0f }
+		{ item: "botania:pink_petal_block", weight: 50.0f }
+		{ item: "cataclysm:void_lantern_block", weight: 50.0f }
+		{ item: "cataclysm:enderite_block", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "constructionwand:iron_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "constructionwand:stone_wand"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "create:cut_deepslate_bricks", weight: 50.0f }
+		{ item: "create:zinc_nugget", weight: 50.0f }
+		{ item: "create:spruce_window", weight: 50.0f }
+		{ item: "create:large_water_wheel", weight: 50.0f }
+		{ item: "create:gray_valve_handle", weight: 50.0f }
+		{ item: "create:pink_valve_handle", weight: 50.0f }
+		{ item: "create:windmill_bearing", weight: 50.0f }
+		{ item: "create:white_toolbox", weight: 50.0f }
+		{ item: "create:cut_granite", weight: 50.0f }
+		{ item: "create:andesite_funnel", weight: 50.0f }
+		{ item: "create:tuff_pillar", weight: 50.0f }
+		{ item: "create:cut_andesite_brick_stairs", weight: 50.0f }
+		{ item: "create:cut_diorite_brick_stairs", weight: 50.0f }
+		{ item: "create:cut_scoria_slab", weight: 50.0f }
+		{ item: "create:cut_crimsite_stairs", weight: 50.0f }
+		{ item: "create:birch_window_pane", weight: 50.0f }
+		{ item: "create:waxed_exposed_copper_shingles", weight: 50.0f }
+		{ item: "create:builders_tea", weight: 50.0f }
+		{ item: "create:iron_sheet", weight: 50.0f }
+		{ item: "create:shaft", weight: 50.0f }
+		{ item: "create:large_cogwheel", weight: 50.0f }
+		{ item: "create:blaze_cake_base", weight: 50.0f }
+		{ item: "create:bar_of_chocolate", weight: 50.0f }
+		{ item: "create:cut_calcite_wall", weight: 50.0f }
+		{ item: "create:cut_limestone_wall", weight: 50.0f }
+		{ item: "create:copper_valve_handle", weight: 50.0f }
+		{ item: "create:powered_latch", weight: 50.0f }
+		{ item: "create:small_andesite_brick_wall", weight: 50.0f }
+		{ item: "create:schedule", weight: 50.0f }
+		{ item: "create:polished_cut_deepslate_stairs", weight: 50.0f }
+		{ item: "create:controller_rail", weight: 50.0f }
+		{ item: "create:small_calcite_brick_slab", weight: 50.0f }
+		{ item: "create:cut_calcite_stairs", weight: 50.0f }
+		{ item: "create:deepslate_pillar", weight: 50.0f }
+		{ item: "create:cyan_valve_handle", weight: 50.0f }
+		{ item: "create:veridium_pillar", weight: 50.0f }
+		{ item: "create:polished_cut_ochrum_wall", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "create:netherite_diving_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "create:blue_valve_handle", weight: 50.0f }
+		{ item: "create:polished_cut_limestone_slab", weight: 50.0f }
+		{ item: "create:small_asurine_bricks", weight: 50.0f }
+		{ item: "create:exposed_copper_shingles", weight: 50.0f }
+		{ item: "create:asurine", weight: 50.0f }
+		{ item: "create:waxed_oxidized_copper_shingle_slab", weight: 50.0f }
+		{ item: "create:encased_fan", weight: 50.0f }
+		{ item: "create:gantry_shaft", weight: 50.0f }
+		{ item: "create:cut_diorite_bricks", weight: 50.0f }
+		{ item: "create:small_scoria_bricks", weight: 50.0f }
+		{ item: "create:warped_window_pane", weight: 50.0f }
+		{ item: "create:cut_veridium_brick_stairs", weight: 50.0f }
+		{ item: "create:polished_cut_ochrum", weight: 50.0f }
+		{ item: "create:weathered_copper_tile_slab", weight: 50.0f }
+		{ item: "create:filter", weight: 50.0f }
+		{ item: "create:netherite_backtank_placeable", weight: 50.0f }
+		{ item: "create:whisk", weight: 50.0f }
+		{ item: "create:cart_assembler", weight: 50.0f }
+		{ item: "create:fluid_pipe", weight: 50.0f }
+		{ item: "create:brass_casing", weight: 50.0f }
+		{ item: "create:oak_window_pane", weight: 50.0f }
+		{ item: "create:layered_limestone", weight: 50.0f }
+		{ item: "create:crushed_raw_lead", weight: 50.0f }
+		{ item: "create:layered_calcite", weight: 50.0f }
+		{ item: "create:andesite_scaffolding", weight: 50.0f }
+		{ item: "create:cut_andesite_stairs", weight: 50.0f }
+		{ item: "create:polished_cut_veridium_slab", weight: 50.0f }
+		{ item: "create:chute", weight: 50.0f }
+		{ item: "create:nixie_tube", weight: 50.0f }
+		{ item: "create:minecart_contraption", weight: 50.0f }
+		{ item: "create:cut_diorite_slab", weight: 50.0f }
+		{ item: "create:copper_tiles", weight: 50.0f }
+		{ item: "create:experience_nugget", weight: 50.0f }
+		{ item: "create:copper_shingle_slab", weight: 50.0f }
+		{ item: "create:waxed_copper_shingles", weight: 50.0f }
+		{ item: "create:horizontal_framed_glass_pane", weight: 50.0f }
+		{ item: "farmingforblockheads:red_fertilizer", weight: 50.0f }
+		{ item: "farmingforblockheads:yellow_fertilizer", weight: 50.0f }
+		{ item: "farmingforblockheads:green_fertilizer", weight: 50.0f }
+		{ item: "fluxnetworks:flux_dust", weight: 50.0f }
+		{ item: "iceandfire:raw_silver_block", weight: 50.0f }
+		{ item: "iceandfire:myrmex_jungle_resin_block", weight: 50.0f }
+		{ item: "iceandfire:sea_serpent_scale_block_teal", weight: 50.0f }
+		{ item: "immersive_paintings:glow_painting", weight: 50.0f }
+		{ item: "immersive_paintings:painting", weight: 50.0f }
+		{ item: "irons_spellbooks:affinity_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:cast_time_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:cooldown_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:emerald_stoneplate_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:fireward_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:frostward_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:heavy_chain_necklace", weight: 50.0f }
+		{ item: "irons_spellbooks:invisibility_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:lurker_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:mana_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:poisonward_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:silver_ring", weight: 50.0f }
+		{ item: "irons_spellbooks:arcane_essence", weight: 50.0f }
+		{ item: "irons_spellbooks:arcane_rune", weight: 50.0f }
+		{ item: "minecraft:bamboo_block", weight: 50.0f }
+		{ item: "minecraft:dead_fire_coral_block", weight: 50.0f }
+		{ item: "minecraft:bubble_coral_block", weight: 50.0f }
+		{ item: "minecraft:cobbled_deepslate", weight: 50.0f }
+		{ item: "minecraft:shelter_pottery_sherd", weight: 50.0f }
+		{ item: "minecraft:firework_rocket", weight: 50.0f }
+		{ item: "minecraft:mangrove_propagule", weight: 50.0f }
+		{ item: "minecraft:blade_pottery_sherd", weight: 50.0f }
+		{ item: "minecraft:gravel", weight: 50.0f }
+		{ item: "minecraft:nautilus_shell", weight: 50.0f }
+		{ item: "minecraft:orange_carpet", weight: 50.0f }
+		{ item: "minecraft:polished_deepslate", weight: 50.0f }
+		{ item: "minecraft:chiseled_stone_bricks", weight: 50.0f }
+		{ item: "minecraft:stripped_cherry_wood", weight: 50.0f }
+		{ item: "minecraft:waxed_cut_copper_stairs", weight: 50.0f }
+		{ item: "minecraft:diamond_block", weight: 50.0f }
+		{ item: "minecraft:infested_cracked_stone_bricks", weight: 50.0f }
+		{ item: "minecraft:green_stained_glass_pane", weight: 50.0f }
+		{ item: "minecraft:music_disc_ward", weight: 50.0f }
+		{ item: "minecraft:writable_book", weight: 50.0f }
+		{ item: "minecraft:music_disc_mall", weight: 50.0f }
+		{ item: "minecraft:sentry_armor_trim_smithing_template", weight: 50.0f }
+		{ item: "minecraft:lily_pad", weight: 50.0f }
+		{ item: "minecraft:brown_candle", weight: 50.0f }
+		{ item: "minecraft:bamboo", weight: 50.0f }
+		{ item: "minecraft:infested_deepslate", weight: 50.0f }
+		{ item: "minecraft:cod_bucket", weight: 50.0f }
+		{ item: "minecraft:mud", weight: 50.0f }
+		{ item: "minecraft:granite_stairs", weight: 50.0f }
+		{ item: "minecraft:iron_ingot", weight: 50.0f }
+		{ item: "minecraft:tinted_glass", weight: 50.0f }
+		{ item: "minecraft:dried_kelp_block", weight: 50.0f }
+		{ item: "minecraft:lime_glazed_terracotta", weight: 50.0f }
+		{ item: "minecraft:mangrove_pressure_plate", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:chainmail_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "minecraft:hopper", weight: 50.0f }
+		{ item: "minecraft:orange_shulker_box", weight: 50.0f }
+		{ item: "minecraft:bee_nest", weight: 50.0f }
+		{ item: "minecraft:warped_roots", weight: 50.0f }
+		{ item: "minecraft:bamboo_chest_raft", weight: 50.0f }
+		{ item: "minecraft:bedrock", weight: 50.0f }
+		{ item: "minecraft:white_stained_glass", weight: 50.0f }
+		{ item: "minecraft:magma_block", weight: 50.0f }
+		{ item: "minecraft:totem_of_undying", weight: 50.0f }
+		{ item: "minecraft:cooked_chicken", weight: 50.0f }
+		{ item: "minecraft:red_stained_glass_pane", weight: 50.0f }
+		{ item: "minecraft:lime_stained_glass", weight: 50.0f }
+		{ item: "minecraft:honeycomb_block", weight: 50.0f }
+		{ item: "minecraft:diorite", weight: 50.0f }
+		{ item: "minecraft:acacia_sign", weight: 50.0f }
+		{ item: "minecraft:waxed_oxidized_cut_copper_slab", weight: 50.0f }
+		{ item: "minecraft:infested_stone", weight: 50.0f }
+		{ item: "minecraft:deepslate_iron_ore", weight: 50.0f }
+		{ item: "minecraft:crimson_fence_gate", weight: 50.0f }
+		{ item: "minecraft:lingering_potion", weight: 50.0f }
+		{ item: "minecraft:blue_terracotta", weight: 50.0f }
+		{ item: "minecraft:prismarine_brick_stairs", weight: 50.0f }
+		{ item: "minecraft:vex_armor_trim_smithing_template", weight: 50.0f }
+		{ item: "minecraft:structure_void", weight: 50.0f }
+		{ item: "minecraft:ravager_spawn_egg", weight: 50.0f }
+		{ item: "minecraft:blue_stained_glass", weight: 50.0f }
+		{ item: "minecraft:frogspawn", weight: 50.0f }
+		{ item: "minecraft:sniffer_spawn_egg", weight: 50.0f }
+		{ item: "minecraft:waxed_exposed_cut_copper_slab", weight: 50.0f }
+		{ item: "minecraft:dirt", weight: 50.0f }
+		{ item: "minecraft:red_mushroom", weight: 50.0f }
+		{ item: "minecraft:budding_amethyst", weight: 50.0f }
+		{ item: "minecraft:cyan_bed", weight: 50.0f }
+		{ item: "minecraft:evoker_spawn_egg", weight: 50.0f }
+		{ item: "minecraft:dead_brain_coral_block", weight: 50.0f }
+		{ item: "minecraft:string", weight: 50.0f }
+		{ item: "minecraft:magenta_candle", weight: 50.0f }
+		{ item: "minecraft:compass", weight: 50.0f }
+		{ item: "minecraft:raw_copper_block", weight: 50.0f }
+		{ item: "minecraft:jungle_chest_boat", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:stone_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "minecraft:polished_blackstone_button", weight: 50.0f }
+		{ item: "minecraft:birch_button", weight: 50.0f }
+		{ item: "minecraft:stripped_crimson_stem", weight: 50.0f }
+		{ item: "minecraft:crying_obsidian", weight: 50.0f }
+		{ item: "minecraft:spruce_planks", weight: 50.0f }
+		{ item: "minecraft:brown_carpet", weight: 50.0f }
+		{ item: "minecraft:dead_tube_coral", weight: 50.0f }
+		{ item: "minecraft:diamond_ore", weight: 50.0f }
+		{ item: "minecraft:mangrove_boat", weight: 50.0f }
+		{ item: "minecraft:chain_command_block", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:trident"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:warped_fungus_on_a_stick"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "minecraft:smooth_stone", weight: 50.0f }
+		{ item: "minecraft:deepslate_diamond_ore", weight: 50.0f }
+		{ item: "minecraft:gray_concrete_powder", weight: 50.0f }
+		{ item: "mowziesmobs:thatch_block", weight: 50.0f }
+		{ item: "natprog:dripstone_block_pebble", weight: 50.0f }
+		{ item: "natprog:stick_block_item", weight: 50.0f }
+		{ item: "occultism:raw_silver_block", weight: 50.0f }
+		{ item: "silentgear:blue_fluffy_block", weight: 50.0f }
+		{ item: "silentgear:cyan_fluffy_block", weight: 50.0f }
+		{ item: "supplementaries:timber_cross_brace", weight: 50.0f }
+		{ item: "supplementaries:present_magenta", weight: 50.0f }
+		{ item: "supplementaries:daub", weight: 50.0f }
+		{ item: "supplementaries:bubble_block", weight: 50.0f }
+		{ item: "supplementaries:timber_brace", weight: 50.0f }
+		{ item: "supplementaries:ash_bricks", weight: 50.0f }
+		{ item: "supplementaries:sack", weight: 50.0f }
+		{ item: "supplementaries:flag_green", weight: 50.0f }
+		{ item: "supplementaries:feather_block", weight: 50.0f }
+		{ item: "supplementaries:item_shelf", weight: 50.0f }
+		{ item: "supplementaries:enderman_head", weight: 50.0f }
+		{ item: "supplementaries:present_orange", weight: 50.0f }
+		{ item: "supplementaries:candle_holder", weight: 50.0f }
+		{ item: "supplementaries:globe_sepia", weight: 50.0f }
+		{ item: "supplementaries:end_stone_lamp", weight: 50.0f }
+		{ item: "supplementaries:urn", weight: 50.0f }
+		{ item: "supplementaries:flax_block", weight: 50.0f }
+		{ item: "supplementaries:flag_cyan", weight: 50.0f }
+		{ item: "supplementaries:present_light_gray", weight: 50.0f }
+		{ item: "supplementaries:ash", weight: 50.0f }
+		{ item: "the_bumblezone:porous_honeycomb_block", weight: 50.0f }
+		{ item: "the_bumblezone:honeycomb_brood_block", weight: 50.0f }
+		{ item: "the_bumblezone:filled_porous_honeycomb_block", weight: 50.0f }
+		{ item: "the_bumblezone:empty_honeycomb_brood_block", weight: 50.0f }
+		{ item: "thermal:rich_slag_block", weight: 50.0f }
+		{ item: "thermal:bitumen_block", weight: 50.0f }
+		{ item: "thermal:sawdust_block", weight: 50.0f }
+		{ item: "thermal:signalum_block", weight: 50.0f }
+		{ item: "thermal:apple_block", weight: 50.0f }
+		{ item: "thermal:coal_coke_block", weight: 50.0f }
+		{ item: "thermal:niter_block", weight: 50.0f }
+		{ item: "trashcans:ultimate_trash_can", weight: 50.0f }
+		{ item: "trashcans:liquid_trash_can", weight: 50.0f }
+		{ item: "trashcans:energy_trash_can", weight: 50.0f }
+		{ item: "trashcans:item_trash_can", weight: 50.0f }
+		{ item: "vinery:dark_cherry_button", weight: 50.0f }
+		{ item: "vinery:dark_cherry_door", weight: 50.0f }
+		{ item: "vinery:grass_slab", weight: 50.0f }
+		{ item: "vinery:dark_oak_wine_rack_small", weight: 50.0f }
+		{ item: "vinery:coarse_dirt_slab", weight: 50.0f }
+		{ item: "vinery:vinery_standard", weight: 50.0f }
+		{ item: "vinery:apple_log", weight: 50.0f }
+		{ item: "vinery:flower_box", weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "vinery:winemaker_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 50.0f
+		}
+		{ item: "vinery:red_savanna_grape_bag", weight: 50.0f }
+		{ item: "vinery:wandering_winemaker_spawn_egg", weight: 50.0f }
+		{ item: "vinery:red_taiga_grapejuice", weight: 50.0f }
+		{ item: "vinery:apple_press", weight: 50.0f }
+		{ item: "vinery:jo_special_mixture", weight: 50.0f }
+		{ item: "vinery:jungle_wine_rack_big", weight: 50.0f }
+		{ item: "vinery:dark_cherry_fence_gate", weight: 50.0f }
+		{ item: "vinery:lamroc_wine", weight: 50.0f }
+		{ item: "vinery:cherry_bag", weight: 50.0f }
+		{ item: "vinery:spruce_wine_rack_big", weight: 50.0f }
+		{ item: "vinery:dark_oak_wine_rack_big", weight: 50.0f }
+		{ item: "vinery:dark_cherry_hanging_sign", weight: 50.0f }
+		{ item: "vinery:birch_lattice", weight: 50.0f }
+		{ item: "vinery:kelp_cider", weight: 50.0f }
+		{ item: "vinery:clark_wine", weight: 50.0f }
+		{ item: "vinery:flower_pot_big", weight: 50.0f }
+		{ item: "vinery:storage_pot", weight: 50.0f }
+	]
+	title: "Bag of Tears"
+	use_title: true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "ocean_recovery:plastic_bag"
+  },
+  "result": [
+    {
+      "item": "ocean_recovery:plastic_shard",
+      "count": 10
+    },
+    {
+      "item": "ocean_recovery:plastic_shard",
+      "count": 3,
+      "chance": 0.5
+    }
+  ],
+  "experience": 0.2
+}

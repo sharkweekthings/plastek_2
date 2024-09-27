@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "vinery"
+    }
+  ],
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "vinery:stripped_dark_cherry_log"
+    },
+    {
+      "tag": "natprog:axe"
+    }
+  ],
+  "result": {
+    "item": "vinery:dark_cherry_planks",
+    "count": 1
+  },
+  "group": "planks"
+}

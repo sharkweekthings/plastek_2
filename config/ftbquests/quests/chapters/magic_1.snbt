@@ -1,0 +1,875 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magic_1"
+	group: "590DDC7B00BCD5C7"
+	icon: "occultism:spirit_fire"
+	id: "385C603554A28538"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["68725324D55B51C1"]
+			description: ["Throw a Demon's Dream Fruit into a fire which will create Spiritfire."]
+			id: "443F8B9C27C28D3F"
+			shape: "square"
+			tasks: [{
+				id: "4A1B27F4DAF6CC39"
+				item: "occultism:datura"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["443F8B9C27C28D3F"]
+			description: ["See below for a chart of what you can throw into the Spiritfire."]
+			icon: "occultism:spirit_fire"
+			id: "5B3952A8211B79D5"
+			shape: "square"
+			tasks: [{
+				id: "4EB606A0374A87AE"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Spirit Fire"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "41218AF598862733"
+			shape: "square"
+			tasks: [{
+				id: "12034FF8C1C326EE"
+				item: "botania:livingrock"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "190E73B047839C70"
+			tasks: [{
+				id: "586ADA3D2BBE83F8"
+				item: "minecraft:oak_sapling"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "42F05C9A0A256BC7"
+			tasks: [{
+				id: "37ADC4B714913353"
+				item: "botania:livingwood_log"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "0DDA529472DB103F"
+			tasks: [{
+				id: "602AF47A0AC047AC"
+				item: "minecraft:black_dye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "1FDB8E0CAA60242B"
+			tasks: [{
+				id: "3053C13198E1FE78"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "6D12FF1BA577DF93"
+			tasks: [
+				{
+					id: "153045A488C8E018"
+					item: "occultism:chalk_white_impure"
+					type: "item"
+				}
+				{
+					id: "0985D5DD4CEF5BAA"
+					item: "occultism:chalk_gold_impure"
+					type: "item"
+				}
+			]
+			title: "Impure White and Golden Chalk"
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "002D352658951081"
+			tasks: [
+				{
+					id: "30C9BDC2BFAD6963"
+					item: "occultism:chalk_purple_impure"
+					type: "item"
+				}
+				{
+					id: "5EA5FE50CE88A8D1"
+					item: {
+						Count: 1
+						id: "occultism:chalk_red"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Purple and Red Chalk"
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1FDB8E0CAA60242B"]
+			id: "1B5B56DA1336F8D2"
+			tasks: [{
+				id: "6899384B2ABA7B74"
+				item: "occultism:spirit_attuned_gem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0DDA529472DB103F"]
+			id: "27D7E0E8AFB621D7"
+			tasks: [{
+				id: "015B9D1DBD7789BC"
+				item: "occultism:purified_ink"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["42F05C9A0A256BC7"]
+			id: "3212FEF0EF9EE347"
+			tasks: [{
+				id: "00D5FCDE7A51AF4A"
+				item: "occultism:otherworld_ashes"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["41218AF598862733"]
+			id: "124F7AD9AB83F783"
+			shape: "square"
+			tasks: [{
+				id: "4978D02C447DEE3B"
+				item: "occultism:otherstone"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["190E73B047839C70"]
+			id: "56C3504C09261AEC"
+			tasks: [{
+				id: "7551A2FF0628BE9C"
+				item: "occultism:otherworld_sapling"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6D12FF1BA577DF93"]
+			id: "4770DD7C4C92874E"
+			tasks: [
+				{
+					id: "52243DA5152213B5"
+					item: {
+						Count: 1
+						id: "occultism:chalk_white"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "631B57646FC8FF7D"
+					item: {
+						Count: 1
+						id: "occultism:chalk_gold"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "White and Golden Chalk"
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["002D352658951081"]
+			id: "686E26E09038690D"
+			tasks: [
+				{
+					id: "7AC19C4220FAC0E2"
+					item: {
+						Count: 1
+						id: "occultism:chalk_purple"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "295326111C7A1A8E"
+					item: {
+						Count: 1
+						id: "occultism:chalk_red"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Purple and Red Chalk"
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "50FF104A4410B3D5"
+			tasks: [{
+				id: "054E2C2CCF38C287"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B3952A8211B79D5"]
+			id: "161BA517C1B51D31"
+			tasks: [{
+				id: "347CCB9F538BBE9F"
+				item: "minecraft:writable_book"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50FF104A4410B3D5"]
+			id: "08EF07AD04B0DA56"
+			tasks: [{
+				id: "633EA9C070EFA49F"
+				item: "occultism:taboo_book"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["161BA517C1B51D31"]
+			id: "52979593E3F5E6F6"
+			tasks: [{
+				id: "2D8F62CEB3201300"
+				item: "occultism:book_of_binding_empty"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["68725324D55B51C1"]
+			description: ["Completing this ritual and getting the &3Lense&r will allow you to craft the &3Otherworldly Goggles&r which will let you see &3Iesnium Ore&r in the Nether."]
+			id: "37BF8507CFB27A62"
+			shape: "diamond"
+			tasks: [{
+				id: "51BAD7B6E7024C02"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Ritual For Infused Lens"
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "390F7A2E9575EF41"
+			tasks: [{
+				id: "38485667C71462E0"
+				item: "occultism:golden_sacrificial_bowl"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "655E3F3FD1FA37F4"
+			tasks: [{
+				id: "1B0EEA1F6FB55A27"
+				item: "occultism:sacrificial_bowl"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "508BA9B7E1D7979F"
+			tasks: [
+				{
+					id: "4E7D4F3A11E9F67D"
+					item: {
+						Count: 1
+						id: "occultism:chalk_white"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "139AE7157AC42874"
+					item: {
+						Count: 1
+						id: "occultism:chalk_gold"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "51C4AD510B3FBC05"
+			tasks: [{
+				count: 2L
+				id: "1DABD33472AB19ED"
+				item: "occultism:candle_white"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "1CA220C5B2E3AD62"
+			tasks: [{
+				id: "158B8716CEFF0260"
+				item: "occultism:spirit_attuned_crystal"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "2921F3D1DF2D55A5"
+			tasks: [{
+				id: "7FA2487F3C7C2C1F"
+				item: "occultism:lenses"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "21CDF8776B29AA62"
+			tasks: [{
+				id: "5194662C9F772354"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "3CBAC5D393634A55"
+			tasks: [{
+				id: "772BCCEFBDDFB75C"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:ingots/silver"
+					}
+				}
+				title: "Silver Ingot"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["37BF8507CFB27A62"]
+			id: "15356CE592C40381"
+			tasks: [{
+				id: "0AF784F2A564F535"
+				item: "occultism:book_of_binding_djinni"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["68725324D55B51C1"]
+			description: ["This will allow you to mine &3Iesnium&r in the Nether."]
+			id: "08D7828FF5E1164E"
+			shape: "diamond"
+			tasks: [{
+				id: "6BCCEAC99836B904"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Ritual For Infused Pickaxe"
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "644E572E7AD6A7A0"
+			tasks: [{
+				id: "5254E647036CC665"
+				item: "occultism:golden_sacrificial_bowl"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "2F0EA7B4534D8717"
+			tasks: [{
+				count: 5L
+				id: "6878C73B3E1C6295"
+				item: { Count: 5, id: "occultism:sacrificial_bowl" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "22D8C055EC789F14"
+			tasks: [{
+				id: "31A9D0FCA3A68175"
+				item: {
+					Count: 1
+					id: "occultism:chalk_white"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "3A989D45C837A7FC"
+			tasks: [{
+				id: "1E4BE923DF1DD37F"
+				item: "occultism:candle_white"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "48027411002BF87B"
+			tasks: [{
+				id: "7AE477F3FC08C469"
+				item: "occultism:spirit_attuned_crystal"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "6F3B2C1C25CF368B"
+			tasks: [{
+				id: "7338D0CA7242FBB3"
+				item: "occultism:spirit_attuned_pickaxe_head"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "6EB7614C27BF680A"
+			tasks: [{
+				count: 2L
+				id: "60E6947D440DDBA2"
+				item: { Count: 2, id: "minecraft:stick" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "54BD446254872719"
+			tasks: [{
+				id: "4FDD2B29189C4583"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:ingots/silver"
+					}
+				}
+				title: "Silver Ingot"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["08D7828FF5E1164E"]
+			id: "44E0E3828F2D0FEA"
+			tasks: [{
+				id: "74B4042599635D64"
+				item: "occultism:book_of_binding_djinni"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"37BF8507CFB27A62"
+				"08D7828FF5E1164E"
+			]
+			description: [
+				"To get an Iesnium Ingot you will need to complete 2 Occultism rituals."
+				""
+				"You need to make an Infused Pickaxe to be able to mine Iesnium ore. "
+				""
+				"You also need to make Otherworldly Goggles to see the Iesnium in the Nether. "
+			]
+			id: "3662EBE85E2BC6C5"
+			shape: "gear"
+			tasks: [{
+				id: "5C75FFEE7C8779D3"
+				item: "occultism:iesnium_ingot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1FC07AA5D1B9E8E4"]
+			description: [
+				"We will need the &9Spiritfire&r to help automate 1 resource."
+				""
+				"You will need &3Iesnium Ingots&r if you want to progress with Mystical Agricultre. "
+			]
+			id: "68725324D55B51C1"
+			shape: "diamond"
+			tasks: [{
+				id: "1D7B09F782862F44"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Occultism"
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1FC07AA5D1B9E8E4"]
+			description: [
+				"You'll need to make at least &31 Pure Daisy&r to start. You'll need to find &3White Mystical Flowers&r or you can make &3White Shimmering Mushrooms&r with any mushroom and &3White Dye&r. "
+				""
+				"Turn the flowers into petals by crafting the flowers by themself. "
+				""
+				"Place 4 petals, or mushrooms inside a &9Petal Apothecary&r with a &3Water Bucket&r and any seed. "
+				""
+				"This should give you a &3Pure Daisy.&r"
+			]
+			id: "45026D921A799C4D"
+			shape: "diamond"
+			tasks: [{
+				id: "785827EE9C9446AF"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Botania"
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			id: "1FC07AA5D1B9E8E4"
+			shape: "diamond"
+			tasks: [{
+				id: "247DD5265D1528D4"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Magic: Start"
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["45026D921A799C4D"]
+			id: "35277DF60F15A3EE"
+			shape: "square"
+			tasks: [{
+				id: "4D630786A482B45B"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "botania:petals/white"
+					}
+				}
+				title: "White Petals"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1EA09636671ACDE3"]
+			id: "14B1D3C124E08C82"
+			shape: "square"
+			tasks: [{
+				id: "0980F536B42EDA82"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["35277DF60F15A3EE"]
+			id: "1EA09636671ACDE3"
+			shape: "square"
+			tasks: [{
+				id: "13C267AE497CEE91"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["14B1D3C124E08C82"]
+			description: [
+				"Place the daisy on the ground and surround it with logs. "
+				""
+				"Eventually they should convert into Livingwood Logs."
+			]
+			id: "194A4ABD1F30B051"
+			shape: "square"
+			tasks: [{
+				id: "09F89D5EDDC2EF3B"
+				item: "botania:livingwood_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["14B1D3C124E08C82"]
+			description: [
+				"Place the daisy on the ground and surround it with stone. "
+				""
+				"Eventually they should convert into Livingrock."
+			]
+			id: "4DB48DC649082355"
+			shape: "square"
+			tasks: [{
+				id: "10B4BFDF547B80C2"
+				item: "botania:livingrock"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"194A4ABD1F30B051"
+				"4DB48DC649082355"
+			]
+			description: [
+				"Burning &3Coal&r with an &3Endoflame&r will give you mana. "
+				""
+				"Here is a starter contraption:"
+				""
+				"{image:kubejs:textures/botania/botania_mana_gen.png width:200 height:150 align:center}"
+			]
+			id: "465DC71E6F8C88E0"
+			shape: "diamond"
+			tasks: [{
+				id: "6998983A7C9C5226"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Starter Mana Generation"
+			x: 6.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["465DC71E6F8C88E0"]
+			id: "144AC3CE8FEC6661"
+			tasks: [
+				{
+					id: "17E71165BD599373"
+					item: "botania:open_crate"
+					type: "item"
+				}
+				{
+					id: "1C7102CA88F969C5"
+					item: "minecraft:hopper"
+					type: "item"
+				}
+			]
+			title: "The Hopper Goes on the Crate."
+			x: 7.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["465DC71E6F8C88E0"]
+			id: "7B7D97B0C7D2668F"
+			shape: "square"
+			tasks: [{
+				id: "7297696BABCBCE40"
+				item: "botania:mana_pool"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["465DC71E6F8C88E0"]
+			id: "05A7D5C714C12399"
+			tasks: [{
+				id: "5A30FD13B228BED1"
+				item: "botania:mana_spreader"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["465DC71E6F8C88E0"]
+			id: "50DB9ABCEA7F0C76"
+			tasks: [
+				{
+					id: "431C142DBE17B8ED"
+					item: "minecraft:stone"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6B1645F82F6F900D"
+					item: { Count: 2, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					id: "386EB2CA9DEEEC47"
+					item: "minecraft:oak_pressure_plate"
+					type: "item"
+				}
+			]
+			title: "Easy Mats!"
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["465DC71E6F8C88E0"]
+			id: "27674FA2A6B14FE0"
+			tasks: [{
+				count: 2L
+				id: "0DE04C8AB7D9C6E9"
+				item: { Count: 2, id: "botania:endoflame" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7B7D97B0C7D2668F"]
+			id: "45D26051D91A87FE"
+			shape: "gear"
+			tasks: [{
+				id: "115CA6A3DF95A1A4"
+				item: "botania:manasteel_ingot"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5B3952A8211B79D5"]
+			icon: {
+				Count: 1
+				id: "endrem:witch_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "69A2EA428A16B6C3"
+			rewards: [{
+				id: "079F1BA366634A4C"
+				item: {
+					Count: 1
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			title: "Spirit Eye"
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["124F7AD9AB83F783"]
+			id: "477CACFE5776585B"
+			shape: "square"
+			tasks: [{
+				id: "782A99206D4632C3"
+				item: "kubejs:nether_stone"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+	]
+	title: "Magic"
+}

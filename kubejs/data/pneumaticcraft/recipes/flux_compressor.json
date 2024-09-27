@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "pneumaticcraft:compressed_iron_gear"
+    },
+    "F": {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    "G": {
+      "tag": "forge:dusts/redstone"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    },
+    "Q": {
+      "item": "minecraft:blast_furnace"
+    },
+    "R": {
+      "item": "pneumaticcraft:turbine_rotor"
+    },
+    "T": {
+      "item": "pneumaticcraft:advanced_pressure_tube"
+    }
+  },
+  "pattern": [
+    "GCP",
+    "FRT",
+    "GQP"
+  ],
+  "result": {
+    "item": "pneumaticcraft:flux_compressor"
+  },
+  "show_notification": true
+}

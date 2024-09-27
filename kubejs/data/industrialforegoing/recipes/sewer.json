@@ -1,0 +1,48 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:sewer"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "B": {
+            "item": "create:precision_mechanism"
+          },
+          "E": {
+            "item": "minecraft:bucket"
+          },
+          "G": {
+            "tag": "forge:gears/iron"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          }
+        },
+        "pattern": [
+          "PEP",
+          "PMP",
+          "BGP"
+        ],
+        "result": {
+          "item": "industrialforegoing:sewer"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

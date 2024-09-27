@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "type": "forge:nbt",
+      "count": 1,
+      "item": "pneumaticcraft:small_tank"
+    },
+    "C": {
+      "item": "pneumaticcraft:air_compressor"
+    },
+    "L": {
+      "tag": "forge:leather"
+    },
+    "P": {
+      "item": "pneumaticcraft:pressure_tube"
+    }
+  },
+  "pattern": [
+    "PBP",
+    "LCL"
+  ],
+  "result": {
+    "item": "pneumaticcraft:liquid_compressor"
+  },
+  "show_notification": true
+}

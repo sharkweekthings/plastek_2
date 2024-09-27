@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [{
+	"type": "apotheosis:module",
+    "module": "enchantment"
+  }],
+  "group": "lemons",
+  "pattern": [
+    "CVC",
+    "STS",
+    "CVC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:ender_chest"
+    },
+	"S": {
+      "item": "apotheosis:infused_seashelf"
+    },
+	"T": {
+      "item": "minecraft:enchanting_table"
+    },
+  "V": {
+      "item": "apotheosis:infused_hellshelf"
+    }
+  },
+  "result": {
+    "item": "apotheosis:library",
+    "count": 1
+  }
+}

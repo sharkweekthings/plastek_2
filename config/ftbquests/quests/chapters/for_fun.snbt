@@ -1,0 +1,1597 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "for_fun"
+	group: "29E2459388A87C4C"
+	icon: "minecraft:skeleton_horse_spawn_egg"
+	id: "0226DD6910C84992"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1911F551B6AA8179"
+			shape: "circle"
+			subtitle: "Jump jump!"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:leather_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "3E7695CC483157D9"
+				stat: "minecraft:jump"
+				type: "stat"
+				value: 100000
+			}]
+			title: "Jump 100,000 times"
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "4815FAB2FA3ED3C2"
+			shape: "circle"
+			tasks: [{
+				icon: "minecraft:chest"
+				id: "238A2E41D2095924"
+				stat: "minecraft:open_chest"
+				title: "Open 1000 Chests"
+				type: "stat"
+				value: 1000
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			hide: false
+			id: "5C899D066568B671"
+			shape: "circle"
+			tasks: [{
+				icon: "minecraft:barrel"
+				id: "433B649623B2004B"
+				stat: "minecraft:open_barrel"
+				title: "Open 1000 Barrels"
+				type: "stat"
+				value: 1000
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			description: ["ring it 10,000 times!"]
+			id: "2B183DD23ECACF2D"
+			shape: "circle"
+			subtitle: "You can ring my bell, ring my bell"
+			tasks: [{
+				icon: "minecraft:bell"
+				id: "2E193209FA738A70"
+				stat: "minecraft:bell_ring"
+				title: "Ring 10000 Bells"
+				type: "stat"
+				value: 1000
+			}]
+			title: "Ring 10000 Bells"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "22ADF51A60B34E3F"
+			shape: "circle"
+			tasks: [{
+				icon: "artifacts:villager_hat"
+				id: "7D4B5993D9E8AE76"
+				stat: "minecraft:talked_to_villager"
+				title: "Talk To 1000 Villagers"
+				type: "stat"
+				value: 1000
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			id: "21F10D4407703500"
+			shape: "circle"
+			tasks: [{
+				icon: "statues:pufferfish_statue"
+				id: "367AFE86DBB9E4FE"
+				stat: "minecraft:fish_caught"
+				title: "Catch 500 Fish"
+				type: "stat"
+				value: 200
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "6EE9D9A011BE89E0"
+			shape: "circle"
+			tasks: [{
+				icon: "artifacts:crystal_heart"
+				id: "72497082462B7D75"
+				stat: "minecraft:animals_bred"
+				title: "Breed 1000 Animals"
+				type: "stat"
+				value: 200
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: ["To get credit for this one - you'll need to pump the fluid through a \"Task Screen\"."]
+			id: "19D7C6D09CCAABA4"
+			shape: "circle"
+			tasks: [{
+				amount: 100000L
+				fluid: "pneumaticcraft:plastic"
+				id: "6C52197248F8F7C3"
+				type: "fluid"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "577A63ABDB76FAC9"
+			shape: "circle"
+			tasks: [{
+				icon: "minecraft:oak_planks"
+				id: "439E0D6DE88B9754"
+				stat: "constructionwand:use_wand"
+				title: "Place 10,000 Blocks Using a Wand"
+				type: "stat"
+				value: 10000
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "1A9E054FACEA6E81"
+			shape: "circle"
+			tasks: [{
+				icon: "statues:pillager_statue"
+				id: "76BD3F5028E0CC83"
+				stat: "minecraft:raid_win"
+				title: "Win 20 Raids"
+				type: "stat"
+				value: 20
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "774C9A815EB538CE"
+			shape: "circle"
+			tasks: [{
+				id: "645864FA3F6CBE4F"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 1000
+			}]
+			title: "Kill 1000 Mobs"
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			icon: "plushies:wandering_trader_plushie"
+			id: "199A67606FDC25C2"
+			shape: "circle"
+			tasks: [{
+				id: "55CD396ECF5B2D71"
+				stat: "minecraft:traded_with_villager"
+				title: "Make 500 Trades With Villagers"
+				type: "stat"
+				value: 500
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			icon: "lootr:trophy"
+			id: "1A71B12FCD61748C"
+			shape: "circle"
+			tasks: [{
+				id: "690CB8ACCFDC714A"
+				stat: "lootr:looted_stat"
+				title: "Loot 1000 Chests"
+				type: "stat"
+				value: 1000
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "tombstone:decorative_grave_simple"
+				tag: {
+					model_texture: 1
+				}
+			}
+			id: "1DC4F5003BB67B0F"
+			shape: "circle"
+			tasks: [{
+				id: "24AE0AACDB4F4224"
+				stat: "tombstone:raider_killed"
+				title: "Kill 200 Raiders"
+				type: "stat"
+				value: 200
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: ["This quest will consume items to give you a reward."]
+			icon: "simplehats:hatbag_easter"
+			id: "5E1615505849DB26"
+			rewards: [{
+				id: "426084C49AD8604E"
+				item: "simplehats:hatbag_easter"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "106B7438302B0041"
+					item: "pamhc2trees:avocadoitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "17B4FB1C72B47AB8"
+					item: "pamhc2trees:limeitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "316ACC6CDD543F79"
+					item: "pamhc2trees:guavaitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "7A16E83DB7681A6F"
+					item: "pamhc2trees:lycheeitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "0A7846966F49AB4B"
+					item: "pamhc2trees:mangoitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "7159FBA40CA097AE"
+					item: "pamhc2crops:brusselsproutitem"
+					type: "item"
+				}
+			]
+			title: "Easter Hats"
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			can_repeat: true
+			description: ["This quest will consume items to give you a reward."]
+			icon: "simplehats:hatbag_summer"
+			id: "4526E485582BC8D4"
+			rewards: [{
+				id: "54BC2DF76AB6E835"
+				item: "simplehats:hatbag_summer"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "4BD0B9413A452C8B"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:crops/tomato"
+						}
+					}
+					title: "Any #forge:crops/tomato"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "3D88EC57421B6424"
+					item: "pamhc2trees:bananaitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "54F51C3757C2FC83"
+					item: "pamhc2crops:cottonitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "27BBD6D224174A9A"
+					item: "pamhc2trees:starfruititem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "12130D647C27F207"
+					item: "pamhc2crops:chilipepperitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "02457B4858E39367"
+					item: "pamhc2crops:cucumberitem"
+					type: "item"
+				}
+			]
+			title: "Summer Hats"
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			can_repeat: true
+			description: ["This quest will consume items to give you a reward."]
+			icon: "simplehats:hatbag_halloween"
+			id: "62C34EA5ABB9F4EB"
+			rewards: [{
+				id: "4148DA818351B4EF"
+				item: "simplehats:hatbag_halloween"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "33894CE82AE3197C"
+					item: "pamhc2trees:cashewitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "0FA68258705027D9"
+					item: "pamhc2crops:garlicitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "7D69BE27ABA2A245"
+					item: "pamhc2trees:pawpawitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "61A75E9B7C40B204"
+					item: "pamhc2crops:caulifloweritem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "6A2A99E173E815F2"
+					item: "pamhc2crops:sweetpotatoitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "4AA066D6C61ABFF8"
+					item: "pamhc2crops:kohlrabiitem"
+					type: "item"
+				}
+			]
+			title: "Halloween Hats"
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			can_repeat: true
+			description: ["This quest will consume items to give you a reward."]
+			icon: "simplehats:hatbag_festive"
+			id: "7E8766EB2226F42B"
+			rewards: [{
+				id: "724DC612430AA1A6"
+				item: "simplehats:hatbag_festive"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "22473AFC6B79624C"
+					item: "pamhc2crops:lentilitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "02464F775246AE2F"
+					item: "pamhc2crops:wintersquashitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "786984A5FD895EB2"
+					item: "pamhc2crops:rutabagaitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "5CD0E90A7167E440"
+					item: "pamhc2trees:grapefruititem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "1CB7F96ED20E311B"
+					item: "pamhc2trees:pistachioitem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "4A31C20FD724F85E"
+					item: "pamhc2crops:kaleitem"
+					type: "item"
+				}
+			]
+			title: "Festive Hats"
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			can_repeat: true
+			id: "497EB09BBEB99CE0"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "1B90D62362D2FA00"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			id: "2B55C0A8A2EB0B35"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "1EE92A78B881BF94"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "276187115DFE694C"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "777BFE8CE35992CC"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			id: "472C85C9DE8C9AE6"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "208F381EF7D20FE1"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "3DF8FD4C3F26A6B8"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "7CE42F4E88ECDBFA"
+				type: "kill"
+				value: 50L
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "0556F43BEE5E4A5A"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:villager"
+				id: "49160EAFDB0D0EA9"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "53550D3BA82CC16B"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:wandering_trader"
+				id: "27D7E651B1454AFD"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "41C4395D9034FBAA"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:trader_llama"
+				id: "00F8A5758014B476"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "00CC77ABCCCDF9F1"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "64164628797FA7CE"
+				type: "kill"
+				value: 50L
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			id: "6A79A1EB3DCD961E"
+			shape: "circle"
+			tasks: [{
+				icon: "minecraft:blue_bed"
+				id: "4A6D8251B51BF668"
+				stat: "minecraft:sleep_in_bed"
+				type: "stat"
+				value: 100
+			}]
+			title: "Sleep In Bed 250 Times"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "3A261121B8F723FD"
+			shape: "circle"
+			tasks: [{
+				icon: "minecraft:furnace"
+				id: "1FF7338231EE92A5"
+				stat: "minecraft:interact_with_furnace"
+				type: "stat"
+				value: 5000
+			}]
+			title: "Have 5000 Interactions With Your Furnace"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			id: "67D741A143CBBC3D"
+			shape: "circle"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "inventorypets:pet_pig"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "199D4F0FB31402BF"
+				stat: "minecraft:pig_one_cm"
+				type: "stat"
+				value: 5000
+			}]
+			title: "Travel 5000m By Pig"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "29AD6D4197DEBA8D"
+			shape: "circle"
+			tasks: [{
+				icon: "minecraft:cake"
+				id: "39761E765A6949F7"
+				stat: "minecraft:eat_cake_slice"
+				type: "stat"
+				value: 100
+			}]
+			title: "Eat 500 Cake Slices"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "4335995C5DBC4BBE"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "068A4AFED07E62BF"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "30CF22972952D660"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "thermal:basalz_spawn_egg"
+				id: "5A4468C10EA855FE"
+				type: "kill"
+				value: 50L
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			id: "6C72FD9C4FFB840C"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "2E62EE5EBD48A072"
+				type: "kill"
+				value: 5L
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			icon: "mutantmonsters:mutant_creeper_spawn_egg"
+			id: "01790CCE71C5EC88"
+			shape: "circle"
+			tasks: [{
+				entity: "mutantmonsters:mutant_creeper"
+				icon: "mutantmonsters:mutant_creeper_spawn_egg"
+				id: "160A8E4F4B989E8F"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "3770520E8219F138"
+			shape: "circle"
+			tasks: [{
+				entity: "mutantmonsters:mutant_enderman"
+				icon: "mutantmonsters:mutant_enderman_spawn_egg"
+				id: "36FCBC85EBECF26A"
+				type: "kill"
+				value: 50L
+			}]
+			x: 11.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "024376745ACED4A4"
+			shape: "circle"
+			tasks: [{
+				entity: "mutantmonsters:mutant_skeleton"
+				icon: "mutantmonsters:mutant_skeleton_spawn_egg"
+				id: "5D053FF167C02AFC"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "4C20EF59956B0410"
+			shape: "circle"
+			tasks: [{
+				entity: "mutantmonsters:mutant_snow_golem"
+				icon: "mutantmonsters:mutant_snow_golem_spawn_egg"
+				id: "7F9704D9679017A8"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "455DE22FB92CFF37"
+			shape: "circle"
+			tasks: [{
+				entity: "mutantmonsters:mutant_zombie"
+				icon: "mutantmonsters:mutant_zombie_spawn_egg"
+				id: "707E7DA58FB7FB36"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "4E95A3249DE2CD15"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:badlands_enderman"
+				icon: "endermanoverhaul:badlands_enderman_spawn_egg"
+				id: "6456DABD66116497"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			id: "63F6107692964951"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:cave_enderman"
+				icon: "endermanoverhaul:cave_enderman_spawn_egg"
+				id: "52B53FE1AC3225D2"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "5865ABDEA8238A07"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:crimson_forest_enderman"
+				icon: "endermanoverhaul:crimson_forest_enderman_spawn_egg"
+				id: "208434184F9BDC71"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			id: "5464DA8198EC8F1E"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:dark_oak_enderman"
+				icon: "endermanoverhaul:dark_oak_enderman_spawn_egg"
+				id: "6F052642A6D7E76E"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "104926BAE954D118"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:desert_enderman"
+				icon: "endermanoverhaul:desert_enderman_spawn_egg"
+				id: "4ECBDC07B6EED35A"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "2FA681C3F6BA86E1"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:end_enderman"
+				icon: "endermanoverhaul:end_enderman_spawn_egg"
+				id: "5BBDD29D9BC0B034"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "63AFDB294D0C325F"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:end_islands_enderman"
+				icon: "endermanoverhaul:end_islands_enderman_spawn_egg"
+				id: "6847B1B59D1902B3"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "6151B0CA858822EA"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:flower_fields_enderman"
+				icon: "endermanoverhaul:flower_fields_enderman_spawn_egg"
+				id: "1EA787885205B57B"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "3EFC53C080A1B855"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:ice_spikes_enderman"
+				icon: "endermanoverhaul:ice_spikes_enderman_spawn_egg"
+				id: "17134E02420C7046"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "27CF7E3ED76FCFEE"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:mushroom_fields_enderman"
+				icon: "endermanoverhaul:mushroom_fields_enderman_spawn_egg"
+				id: "4E4C02FB57891D9E"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "2EA0BFA432A3331A"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:nether_wastes_enderman"
+				icon: "endermanoverhaul:nether_wastes_enderman_spawn_egg"
+				id: "015ADAE15F25B074"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "52AEBC9CB0A04FA6"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:savanna_enderman"
+				icon: "endermanoverhaul:savanna_enderman_spawn_egg"
+				id: "392DF9B0CBF215F1"
+				type: "kill"
+				value: 50L
+			}]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "47652C5364C84F8F"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:snowy_enderman"
+				icon: "endermanoverhaul:snowy_enderman_spawn_egg"
+				id: "6E6B6DD3B4428B48"
+				type: "kill"
+				value: 50L
+			}]
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			id: "52E5FA489951AFB0"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:soulsand_valley_enderman"
+				icon: "endermanoverhaul:soulsand_valley_enderman_spawn_egg"
+				id: "081671657EC86A04"
+				type: "kill"
+				value: 50L
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "7309AEE38F72FACE"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:swamp_enderman"
+				icon: "endermanoverhaul:swamp_enderman_spawn_egg"
+				id: "5D026A3F01095F83"
+				type: "kill"
+				value: 50L
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "2F9C629B5DAE60B8"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:warped_forest_enderman"
+				icon: "endermanoverhaul:warped_forest_enderman_spawn_egg"
+				id: "12D1FAEB1B92A98F"
+				type: "kill"
+				value: 50L
+			}]
+			x: 9.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "13EA7B2444D5ADED"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "endermanoverhaul:windswept_hills_enderman"
+				icon: "endermanoverhaul:windswept_hills_enderman_spawn_egg"
+				id: "17A4D7FF37523DD5"
+				type: "kill"
+				value: 50L
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "12B71DD642E4A940"
+			shape: "circle"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "occultism:possessed_enderman"
+				icon: "occultism:spawn_egg/possessed_enderman"
+				id: "3207422650434EE3"
+				type: "kill"
+				value: 50L
+			}]
+			x: 9.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "00DBC04ACF612B59"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				id: "5D76F41721FF6168"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "683217156BFF66E9"
+			shape: "circle"
+			tasks: [{
+				count: 50L
+				id: "2AECBAF1B246E3EA"
+				item: "minecraft:elder_guardian_spawn_egg"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "7EE65B002B0B8427"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:slime"
+				id: "741314D6892ECA29"
+				type: "kill"
+				value: 50L
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "27E7A8D5BF01B027"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "356DF74ADA577074"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			id: "3057171C85D11B72"
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:pillager"
+				id: "00D992E5909A86B5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "36D2D3C2D653601E"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:siren"
+				icon: "iceandfire:spawn_egg_siren"
+				id: "0AD817A135B79501"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "68DFE408A3CF1011"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:deathworm"
+				icon: "iceandfire:spawn_egg_death_worm"
+				id: "7B425333A45EAA45"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "62F1B69AB52F8B52"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:cockatrice"
+				icon: "iceandfire:spawn_egg_cockatrice"
+				id: "75BF4DCD8AAAC97B"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "3D7B84D07011C000"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:stymphalian_bird"
+				icon: "iceandfire:spawn_egg_stymphalian_bird"
+				id: "38B84F4664139DBC"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "3D6F3F564299F779"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:troll"
+				icon: "iceandfire:spawn_egg_troll"
+				id: "6125D0AA1568BB43"
+				type: "kill"
+				value: 50L
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "77E6480E93DD8DA4"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:sea_serpent"
+				icon: "iceandfire:spawn_egg_sea_serpent"
+				id: "4BA75DD94B527FA8"
+				type: "kill"
+				value: 50L
+			}]
+			x: 5.5d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			id: "5C865CAE4A8E4698"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:myrmex_worker"
+				icon: "iceandfire:spawn_egg_myrmex_worker"
+				id: "50A8926EFBDD17AB"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			id: "17040E4DCDCD630A"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:myrmex_soldier"
+				icon: "iceandfire:spawn_egg_myrmex_soldier"
+				id: "49EA4BBB2B8D83EE"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			icon: "iceandfire:spawn_egg_myrmex_sentinel"
+			id: "09F18B81D7487BB7"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:myrmex_sentinel"
+				id: "643ED5E1CDDD80A1"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			id: "5B5F2C8EE40E91C5"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:myrmex_royal"
+				icon: "iceandfire:spawn_egg_myrmex_royal"
+				id: "38376087586E1A3F"
+				type: "kill"
+				value: 50L
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			can_repeat: true
+			id: "7ECAFBB67A675F63"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:myrmex_queen"
+				icon: "iceandfire:spawn_egg_myrmex_queen"
+				id: "7999897082DCA797"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			id: "17861F9E7F794AE0"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				icon: "iceandfire:spawn_egg_cyclops"
+				id: "71DC1C59AEB97BD3"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			id: "53406D88D248418E"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "twilightforest:hydra"
+				icon: "iceandfire:spawn_egg_hydra"
+				id: "27D7CA56ED2AB7AC"
+				type: "kill"
+				value: 50L
+			}]
+			x: 6.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "525BE9B38D392480"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:dread_beast"
+				icon: "iceandfire:spawn_egg_dread_beast"
+				id: "3E74E7941871B573"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "42B8E13BC0A0FA53"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:dread_ghoul"
+				icon: "iceandfire:spawn_egg_dread_ghoul"
+				id: "348C263BD22C58CA"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "3CC9439DA5589EAB"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [
+				{
+					entity: "iceandfire:dread_knight"
+					icon: "iceandfire:spawn_egg_dread_knight"
+					id: "32AE45CB5489936C"
+					type: "kill"
+					value: 50L
+				}
+				{
+					entity: "iceandfire:dread_horse"
+					icon: "iceandfire:spawn_egg_dread_horse"
+					id: "26E63B11A32D9AB2"
+					type: "kill"
+					value: 50L
+				}
+			]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "20F2A786D2E45A0A"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:dread_scuttler"
+				icon: "iceandfire:spawn_egg_dread_scuttler"
+				id: "13D81D38B4ADB920"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "7694D17E30023932"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:dread_thrall"
+				icon: "iceandfire:spawn_egg_dread_thrall"
+				id: "59C95366157D4A7F"
+				type: "kill"
+				value: 50L
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "275DF6A8C6BF418A"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:dread_lich"
+				icon: "iceandfire:spawn_egg_lich"
+				id: "43AFE65EAE27DE27"
+				type: "kill"
+				value: 50L
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "02C9A522771A99CE"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:ghost"
+				icon: "iceandfire:spawn_egg_ghost"
+				id: "74A8B82EE9F5B598"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			id: "097967ADEBD9B438"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: "iceandfire:spawn_egg_gorgon"
+				id: "0E8A387314F4046D"
+				type: "kill"
+				value: 50L
+			}]
+			x: 5.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "3D2A31BDF6E53B9B"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:hippogryph"
+				icon: "iceandfire:spawn_egg_hippogryph"
+				id: "0ABCA38C0BC37434"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			can_repeat: true
+			id: "784626ED5BC75F76"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:spawn_egg_ice_dragon"
+				id: "511521F43CA05AE8"
+				type: "kill"
+				value: 25L
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "7226D9210236FA97"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:spawn_egg_fire_dragon"
+				id: "38AE5A8A1B8DA047"
+				type: "kill"
+				value: 25L
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "203F97BC0CAECC23"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:spawn_egg_lightning_dragon"
+				id: "64D504BF23B059D5"
+				type: "kill"
+				value: 25L
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "21B979DE25124CA2"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:hippogryph"
+				icon: "iceandfire:spawn_egg_hippogryph"
+				id: "182EFE565B9345C8"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "39FB68FCA61AE88D"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:hippocampus"
+				icon: "iceandfire:spawn_egg_hippocampus"
+				id: "3BAE84847BAC2F3D"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			can_repeat: true
+			id: "0E88237593023640"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "botania:pixie"
+				icon: "iceandfire:spawn_egg_pixie"
+				id: "33A64913E2307005"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			id: "36B291EB11322964"
+			shape: "circle"
+			subtitle: "Beasts of Ice and Fire"
+			tasks: [{
+				entity: "iceandfire:amphithere"
+				icon: "iceandfire:spawn_egg_amphithere"
+				id: "24A6AD9C307CBCA3"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			icon: "born_in_chaos_v1:decrepit_skeleton_spawn_egg"
+			id: "17B35893856CCBE4"
+			tasks: [{
+				entity: "born_in_chaos_v1:decrepit_skeleton"
+				id: "7B98CCB460F67D8D"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			icon: "born_in_chaos_v1:skeleton_demoman_spawn_egg"
+			id: "5760DBFD338F41FE"
+			tasks: [{
+				entity: "born_in_chaos_v1:skeleton_demoman"
+				id: "474902F1D49569FF"
+				type: "kill"
+				value: 50L
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			icon: "born_in_chaos_v1:decaying_zombie_not_despawn_spawn_egg"
+			id: "44556A036EDFC01E"
+			tasks: [{
+				entity: "born_in_chaos_v1:decaying_zombie_not_despawn"
+				id: "675B7E80715D5820"
+				type: "kill"
+				value: 50L
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			icon: "born_in_chaos_v1:zombie_lumberjack_spawn_egg"
+			id: "101328DC25196402"
+			tasks: [{
+				entity: "born_in_chaos_v1:zombie_lumberjack"
+				id: "3A91D7CAEBB2D199"
+				type: "kill"
+				value: 50L
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			id: "0ADF1B7EEE0A1F26"
+			subtitle: "End the Enderman"
+			tasks: [{
+				entity: "minecraft:endermite"
+				id: "3924AFAD17D581D5"
+				type: "kill"
+				value: 50L
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+	]
+	title: "For Fun"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "item": "pneumaticcraft:plastic"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "item": "kubejs:green_paste"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        {
+          "item": "create:copper_sheet"
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "pneumaticcraft:empty_pcb"
+    }
+  ],
+  "experience": 0.2,
+  "energy": 12000
+}

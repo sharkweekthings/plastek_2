@@ -1,0 +1,1824 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utility_2"
+	group: "24F1909F4C56276F"
+	icon: "productivebees:upgrade_base"
+	id: "1318BC2B5CABF085"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3A93B9E4F7E3F3FA"]
+			id: "4E3AC76B757E3729"
+			tasks: [
+				{
+					id: "3CC7E30BBD46F62C"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon0"
+						tag: {
+							TitaniumAugment: {
+								Range: 0.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "41673CF4890A061D"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon1"
+						tag: {
+							TitaniumAugment: {
+								Range: 1.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44205775097789B8"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon2"
+						tag: {
+							TitaniumAugment: {
+								Range: 2.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40F7CD36AAD5B9FF"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon3"
+						tag: {
+							TitaniumAugment: {
+								Range: 3.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "093134DBFBDF52A8"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon4"
+						tag: {
+							TitaniumAugment: {
+								Range: 4.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00593BE05FE9F185"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon5"
+						tag: {
+							TitaniumAugment: {
+								Range: 5.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EC84B10CB2379BA"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon6"
+						tag: {
+							TitaniumAugment: {
+								Range: 6.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "603CC309BC75F3F9"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon7"
+						tag: {
+							TitaniumAugment: {
+								Range: 7.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3CE116B0A98B55C0"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon8"
+						tag: {
+							TitaniumAugment: {
+								Range: 8.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "256D7F7DE2FD0373"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon9"
+						tag: {
+							TitaniumAugment: {
+								Range: 9.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "333600C1F47C5C5A"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon10"
+						tag: {
+							TitaniumAugment: {
+								Range: 10.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4729177CBA2239BC"
+					item: {
+						Count: 1
+						id: "industrialforegoing:range_addon11"
+						tag: {
+							TitaniumAugment: {
+								Range: 11.0f
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3A93B9E4F7E3F3FA"]
+			id: "2F736B482C980E67"
+			tasks: [
+				{
+					id: "13722575BB299C1B"
+					item: {
+						Count: 1
+						id: "industrialforegoing:speed_addon_1"
+						tag: {
+							TitaniumAugment: {
+								Speed: 2.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72F9A58535F5DE48"
+					item: {
+						Count: 1
+						id: "industrialforegoing:speed_addon_2"
+						tag: {
+							TitaniumAugment: {
+								Speed: 3.0f
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3A93B9E4F7E3F3FA"]
+			id: "319A8F13B2B239E6"
+			tasks: [
+				{
+					id: "2C8ACD1120F0B17A"
+					item: {
+						Count: 1
+						id: "industrialforegoing:efficiency_addon_1"
+						tag: {
+							TitaniumAugment: {
+								Efficiency: 0.9f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A867AAB146BFF63"
+					item: {
+						Count: 1
+						id: "industrialforegoing:efficiency_addon_2"
+						tag: {
+							TitaniumAugment: {
+								Efficiency: 0.8f
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3A93B9E4F7E3F3FA"]
+			id: "7CE8A847B6BD1CDA"
+			tasks: [
+				{
+					id: "1AE653449FE23635"
+					item: {
+						Count: 1
+						id: "industrialforegoing:processing_addon_1"
+						tag: {
+							TitaniumAugment: {
+								Processing: 2.0f
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C61AA2DB8AB427A"
+					item: {
+						Count: 1
+						id: "industrialforegoing:processing_addon_2"
+						tag: {
+							TitaniumAugment: {
+								Processing: 3.0f
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["24E0D90ABED593EC"]
+			id: "3A93B9E4F7E3F3FA"
+			tasks: [{
+				id: "5BC821354EACE514"
+				item: "industrialforegoing:dissolution_chamber"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3E33D04FC1DB5D45"]
+			description: ["{@pagebreak}"]
+			id: "2CEB7706B5E3A18A"
+			tasks: [{
+				id: "64E4FED0FE2C3001"
+				item: "productivebees:upgrade_base"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "4CD94FE53D06A03E"
+			tasks: [
+				{
+					id: "42E8844AE7688DD7"
+					item: "productivebees:upgrade_productivity"
+					type: "item"
+				}
+				{
+					id: "720CCA98D6656903"
+					item: "productivebees:upgrade_productivity_2"
+					type: "item"
+				}
+				{
+					id: "1B94F84CD95945DF"
+					item: "productivebees:upgrade_productivity_3"
+					type: "item"
+				}
+				{
+					id: "1A5246B293C997BA"
+					item: "productivebees:upgrade_productivity_4"
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "6CD332A60E948299"
+			tasks: [{
+				id: "67E6164C1DB063AC"
+				item: "productivebees:upgrade_time"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "43D7C87B86ADB22D"
+			tasks: [
+				{
+					id: "0447BCFB54D63E47"
+					item: "productivebees:upgrade_breeding"
+					type: "item"
+				}
+				{
+					id: "4DAD2A301B086D8D"
+					item: "productivebees:upgrade_not_babee"
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "09A064AE2640A076"
+			tasks: [{
+				id: "2778BB2B0B523EEB"
+				item: "productivebees:upgrade_comb_block"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "450B423948EAB66B"
+			tasks: [{
+				id: "3D63D3852F9F4401"
+				item: "productivebees:upgrade_anti_teleport"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "2D79F184F009C7DB"
+			tasks: [{
+				id: "39F9A84573D677F0"
+				item: "productivebees:upgrade_range"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "11956B61B662681C"
+			tasks: [{
+				id: "04D1CECEE190D478"
+				item: "productivebees:upgrade_bee_sampler"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2CEB7706B5E3A18A"]
+			id: "14C4B28357EB8DA7"
+			tasks: [{
+				id: "65F49987B21A37CB"
+				item: "productivebees:upgrade_simulator"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4C0C21BE3E13BB3B"]
+			id: "4C6F5BFD0BE6ECB6"
+			tasks: [{
+				id: "762CCE06C6B801B5"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5765326D510D2DD9"]
+			id: "54ABBCB64265E631"
+			tasks: [{
+				id: "63BE5F51EAE43985"
+				item: "buildinggadgets2:gadget_building"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5765326D510D2DD9"]
+			id: "483CE5F2FD0D4555"
+			tasks: [{
+				id: "1FF49F0074D288D5"
+				item: "buildinggadgets2:gadget_exchanging"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5765326D510D2DD9"]
+			id: "146FCA805191D866"
+			tasks: [{
+				id: "7EA52AC1A97E7C34"
+				item: {
+					Count: 1
+					id: "buildinggadgets2:gadget_copy_paste"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5765326D510D2DD9"]
+			id: "4CEC655683911011"
+			tasks: [{
+				id: "0E80CBC18B9BD57A"
+				item: {
+					Count: 1
+					id: "buildinggadgets2:gadget_cut_paste"
+					tag: {
+						pastereplace: 1b
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5765326D510D2DD9"]
+			id: "4111FDD6C2A61777"
+			tasks: [{
+				id: "68E0E2D3939EEBEF"
+				item: "buildinggadgets2:gadget_destruction"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2BB3817A8F929536"]
+			id: "3CDB016CF089C97F"
+			tasks: [{
+				id: "2C739355A81268F3"
+				item: "scannable:scanner"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["3CDB016CF089C97F"]
+			id: "7B50D9B0A0AE676B"
+			tasks: [{
+				id: "3F4FF000A08E456B"
+				item: "scannable:blank_module"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "0972BAF26C3521EB"
+			tasks: [{
+				id: "32F55E9FBC036DE8"
+				item: "scannable:range_module"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "64B4FC39FDAE1BA8"
+			tasks: [{
+				id: "3C79A3E7A195604A"
+				item: "scannable:entity_module"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "40F75B2CCBA27CB4"
+			tasks: [{
+				id: "436101D201948941"
+				item: "scannable:friendly_entity_module"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "16E37AA10C130289"
+			tasks: [{
+				id: "562327E5AE1D499A"
+				item: "scannable:hostile_entity_module"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "441F713ACB88293C"
+			tasks: [{
+				id: "3834729AB8BB6434"
+				item: "scannable:block_module"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "0E49DFF249426A5D"
+			tasks: [{
+				id: "74AE45E6176F7BE5"
+				item: "scannable:common_ores_module"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "74BF6F1ACB353FC1"
+			tasks: [{
+				id: "7538450F2EDA5998"
+				item: "scannable:rare_ores_module"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "38672DEF07EF6976"
+			tasks: [{
+				id: "593B691DFAF9A76C"
+				item: "scannable:fluid_module"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["7B50D9B0A0AE676B"]
+			id: "523B71E63E5E1508"
+			tasks: [{
+				id: "1D46AF337053455E"
+				item: "scannable:chest_module"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "474F4ED2E1124CCA"
+			tasks: [{
+				id: "20A9B738216CC7A3"
+				item: "pneumaticcraft:upgrade_matrix"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "2A8D961AAD6ED43E"
+			tasks: [{
+				id: "69A74F151509D575"
+				item: "pneumaticcraft:armor_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "69908F07BE3BF47B"
+			tasks: [{
+				id: "3BB832663224E08C"
+				item: "pneumaticcraft:block_tracker_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "75A4F7F6FD724141"
+			tasks: [{
+				id: "49054880A70A0972"
+				item: "pneumaticcraft:charging_upgrade"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "33605C80F87EF1A3"
+			tasks: [{
+				id: "39F02B5086BE1176"
+				item: "pneumaticcraft:chunkloader_upgrade"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "44F45BB312A7EF9B"
+			tasks: [{
+				id: "473170AF5FDB7658"
+				item: "pneumaticcraft:coordinate_tracker_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "1CDA2DF63764EF23"
+			tasks: [{
+				id: "06F57F9F04B63ACC"
+				item: "pneumaticcraft:dispenser_upgrade"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "6EEC22889C315DFE"
+			tasks: [{
+				id: "1875289E726F0BD5"
+				item: "pneumaticcraft:elytra_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "7FDBF3CFC734B9F3"
+			tasks: [{
+				id: "729681C66805733F"
+				item: "pneumaticcraft:ender_visor_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "3D11F35B9C2E04F8"
+			tasks: [{
+				id: "24D41E47F64C8469"
+				item: "pneumaticcraft:entity_tracker_upgrade"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "0D6ECE550503E3DC"
+			tasks: [{
+				id: "5CB1C06DF212F3C0"
+				item: "pneumaticcraft:flippers_upgrade"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "359E7A00A2A91DDB"
+			tasks: [{
+				id: "1F9CB583B82B7A73"
+				item: "pneumaticcraft:gilded_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "0371DD15CA73FA04"
+			tasks: [{
+				id: "735918A2D3F2A687"
+				item: "pneumaticcraft:inventory_upgrade"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "61B641BE9460964B"
+			tasks: [{
+				id: "4E15B9FBE9B42972"
+				item: "pneumaticcraft:item_life_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "3519A38F9763EB93"
+			tasks: [
+				{
+					id: "7A55A4EC3E79568F"
+					item: "pneumaticcraft:jet_boots_upgrade_1"
+					type: "item"
+				}
+				{
+					id: "1781736A05383888"
+					item: "pneumaticcraft:jet_boots_upgrade_2"
+					type: "item"
+				}
+				{
+					id: "703E1150B17AEA5F"
+					item: "pneumaticcraft:jet_boots_upgrade_3"
+					type: "item"
+				}
+				{
+					id: "6991F30D4DC4D576"
+					item: "pneumaticcraft:jet_boots_upgrade_4"
+					type: "item"
+				}
+				{
+					id: "0AABEB3556AAD917"
+					item: "pneumaticcraft:jet_boots_upgrade_5"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "6D4A851E9879DD14"
+			tasks: [
+				{
+					id: "3242A4C457D7CB6F"
+					item: "pneumaticcraft:jumping_upgrade_1"
+					type: "item"
+				}
+				{
+					id: "5672D09E6C2B26A9"
+					item: "pneumaticcraft:jumping_upgrade_2"
+					type: "item"
+				}
+				{
+					id: "5734E79A33A2D7A2"
+					item: "pneumaticcraft:jumping_upgrade_3"
+					type: "item"
+				}
+				{
+					id: "786223709759508E"
+					item: "pneumaticcraft:jumping_upgrade_4"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "05E18225C63B0F29"
+			tasks: [{
+				id: "56143531530B95A7"
+				item: "pneumaticcraft:magnet_upgrade"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "4ADC620AEF0E3CF8"
+			tasks: [{
+				id: "10A5C5144DAA34D5"
+				item: "pneumaticcraft:minigun_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "31B0F62CD2EFB973"
+			tasks: [{
+				id: "41AF9B072A68A8D8"
+				item: "pneumaticcraft:night_vision_upgrade"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "593714C9D9B099A3"
+			tasks: [{
+				id: "2CC78BFA7A0BBDC9"
+				item: "pneumaticcraft:radiation_shielding_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "7B4DF6055573EFCF"
+			tasks: [{
+				id: "0974884403226649"
+				item: "pneumaticcraft:range_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "4BB8DD0FDF7E678D"
+			tasks: [{
+				id: "1DB581350EA49EEA"
+				item: "pneumaticcraft:scuba_upgrade"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "01B4DB5F9B3EA13F"
+			tasks: [{
+				id: "096D600797D7F911"
+				item: "pneumaticcraft:search_upgrade"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "1F17211948AB7D05"
+			tasks: [{
+				id: "617110F7CC0FC87B"
+				item: "pneumaticcraft:security_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "089AA36A00EF5682"
+			tasks: [{
+				id: "4DA413A9F7F24685"
+				item: "pneumaticcraft:speed_upgrade"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "675E1F0EB5C429EF"
+			tasks: [{
+				id: "79DEABD75578A784"
+				item: "pneumaticcraft:standby_upgrade"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "13AD86BDA4EDAEC1"
+			tasks: [{
+				id: "1307646F72678AA5"
+				item: "pneumaticcraft:stomp_upgrade"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["474F4ED2E1124CCA"]
+			id: "15E1A477A5BEA6D7"
+			tasks: [{
+				id: "2C71694A1D500951"
+				item: "pneumaticcraft:volume_upgrade"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "24592C5BAD17949B"
+			tasks: [
+				{
+					id: "23D48970DA9AB6ED"
+					item: "pneumaticcraft:air_compressor"
+					type: "item"
+				}
+				{
+					id: "26C8CBF48CE56E95"
+					item: "pneumaticcraft:advanced_air_compressor"
+					type: "item"
+				}
+			]
+			title: "Air Compressors"
+			x: 4.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "6C31F7EE722F639B"
+			tasks: [
+				{
+					id: "5AA12DE123DE1291"
+					item: "pneumaticcraft:liquid_compressor"
+					type: "item"
+				}
+				{
+					id: "6ACE6B6BFA84288F"
+					item: "pneumaticcraft:advanced_liquid_compressor"
+					type: "item"
+				}
+			]
+			title: "Liquid Compressors"
+			x: 5.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "3EB74D1B203DAC3D"
+			subtitle: "Well this doesn't sound fun."
+			tasks: [{
+				id: "39898CA58E2B156B"
+				item: "pneumaticcraft:manual_compressor"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "44FDBD43371748E6"
+			tasks: [
+				{
+					id: "2A19A230AA90FC49"
+					item: "pneumaticcraft:electrostatic_compressor"
+					type: "item"
+				}
+				{
+					id: "223FA1D61D3DE2E2"
+					item: "pneumaticcraft:flux_compressor"
+					type: "item"
+				}
+				{
+					id: "17E07D880C63E651"
+					item: "pneumaticcraft:solar_compressor"
+					type: "item"
+				}
+				{
+					id: "592F2FDF6B1DEB8A"
+					item: "pneumaticcraft:thermal_compressor"
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			description: ["Create Pressure using Rotational Force"]
+			id: "4604B0D0D13C3855"
+			tasks: [
+				{
+					id: "2205678834E63C68"
+					item: "compressedcreativity:rotational_compressor"
+					type: "item"
+				}
+				{
+					id: "279E3AC5386B9CFD"
+					item: "compressedcreativity:compressed_air_engine"
+					type: "item"
+				}
+			]
+			title: "Rotational Pressure"
+			x: 3.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "1B63312D881A37EA"
+			tasks: [
+				{
+					id: "0D004B24CA2B58DC"
+					item: "pneumaticcraft:pressure_tube"
+					type: "item"
+				}
+				{
+					id: "68A124E50A043DAD"
+					item: "pneumaticcraft:reinforced_pressure_tube"
+					type: "item"
+				}
+				{
+					id: "1F0930EE691B4EAD"
+					item: "pneumaticcraft:advanced_pressure_tube"
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "79FA70BB62F2E6C9"
+			tasks: [{
+				id: "730035D5F8FAF6CE"
+				item: "pneumaticcraft:small_tank"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "14EE9B187FBEBBCF"
+			tasks: [{
+				id: "3C7EF7287DC996A5"
+				item: "pneumaticcraft:medium_tank"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "1A54CBC9341151AD"
+			tasks: [{
+				id: "70D28B6C53BE2B95"
+				item: "pneumaticcraft:large_tank"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "68085A1CEA99D976"
+			tasks: [{
+				id: "2CEBF7D50F17F99C"
+				item: "pneumaticcraft:huge_tank"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["1910D1A25858E624"]
+			id: "6C08185739571384"
+			tasks: [{
+				id: "497D1A96853DCF5A"
+				item: "compressedcreativity:air_blower"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -11.5d
+		}
+		{
+			description: ["You can now use Create to create power! These machines from Create: Crafts and Additions will help. "]
+			id: "3ABF537F5483C102"
+			shape: "diamond"
+			tasks: [{
+				id: "796BE2455E88AFD4"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making Power With Create"
+			x: -8.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "29DC253C653A9D1A"
+			tasks: [{
+				id: "39CEF77BD404DFC1"
+				item: "createaddition:electric_motor"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "3A7D2472EEE96431"
+			tasks: [{
+				id: "16F797BE24B13C0D"
+				item: "createaddition:alternator"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "4C1CB990C01F44C9"
+			tasks: [{
+				id: "258ED718CB3118AE"
+				item: "createaddition:rolling_mill"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "5797623CC9058C35"
+			tasks: [{
+				id: "7969E00A8EA28200"
+				item: "createaddition:connector"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "40E05EEC116ABC74"
+			tasks: [{
+				id: "65F2EFE46ADF71B5"
+				item: "createaddition:tesla_coil"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "4217AF47615CAA09"
+			tasks: [{
+				id: "45F2822003E09572"
+				item: "createaddition:modular_accumulator"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "6221321983AD988C"
+			tasks: [{
+				id: "4A1A5E2C057A456F"
+				item: "createaddition:portable_energy_interface"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "4DDA986612936F11"
+			tasks: [
+				{
+					id: "38167CADC4D34FC0"
+					item: "createaddition:copper_spool"
+					type: "item"
+				}
+				{
+					id: "3651209D4F847374"
+					item: "createaddition:festive_spool"
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "7ECE87433DE37C6A"
+			tasks: [{
+				id: "044D922954558C58"
+				item: "createaddition:gold_spool"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "097F712CA32383C3"
+			tasks: [{
+				id: "437D34694BCD8A82"
+				item: "createaddition:electrum_spool"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3ABF537F5483C102"]
+			id: "2563770EE2EE6704"
+			tasks: [{
+				id: "0A2638C2877F1390"
+				item: "createaddition:straw"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -10.5d
+		}
+		{
+			description: ["Compressed air, tanks, upgrades and more for Pneumaticcraft."]
+			id: "1910D1A25858E624"
+			shape: "diamond"
+			tasks: [{
+				id: "02BA53352EE2C4F3"
+				title: "Pneumaticcraft Things"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -10.0d
+		}
+		{
+			description: ["If you ever need to find anything in the world, the &3Scanner&r should be your go to. Just install the proper module. "]
+			id: "2BB3817A8F929536"
+			shape: "diamond"
+			tasks: [{
+				id: "325B63F29BC07BA6"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The Scanner"
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			description: ["These gadgets will help change the way you build in Minecraft."]
+			id: "5765326D510D2DD9"
+			shape: "diamond"
+			tasks: [{
+				id: "436D685C1EDD0615"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Building Gadgets"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: ["Various upgrades for Industrial Foregoing machines."]
+			id: "24E0D90ABED593EC"
+			shape: "diamond"
+			tasks: [{
+				id: "56476855BB89D9E8"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Industrial Foregoing Upgrades"
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			description: ["Various upgrades for Productive Bees."]
+			id: "3E33D04FC1DB5D45"
+			shape: "diamond"
+			tasks: [{
+				id: "5C7E90B6CD37CF9A"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Productive Bees Upgrades"
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			description: ["Teleport from one stone to other stones you've discovered."]
+			id: "4C0C21BE3E13BB3B"
+			shape: "diamond"
+			tasks: [{
+				id: "6B714187CBC21DA9"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Waystones"
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			description: ["Moving Energy, Items, Fluids, and Gas. "]
+			id: "7531EFAB7D679973"
+			shape: "diamond"
+			tasks: [{
+				id: "4AC970A9B6F219CC"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Pipez"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "11E14567D25BF361"
+			tasks: [{
+				id: "341D3591F5B8AC6D"
+				item: "pipez:item_pipe"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "017A9DAD03C91DA5"
+			tasks: [{
+				id: "15146E1FB0114B9A"
+				item: "pipez:fluid_pipe"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "1410B61C7793A5BB"
+			tasks: [{
+				id: "251A451C758338EB"
+				item: "pipez:energy_pipe"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "59D03945C8D62FDF"
+			tasks: [{
+				id: "5B6245861D0CA853"
+				item: "pipez:gas_pipe"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "711CB3A4263762C1"
+			tasks: [{
+				id: "33306C6FE3DD2232"
+				item: "pipez:universal_pipe"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "26918F4970B43544"
+			tasks: [{
+				id: "480A57C01DFA2A97"
+				item: "pipez:wrench"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "21BA34D4DCBEF907"
+			tasks: [{
+				id: "2295246576EF344A"
+				item: "pipez:basic_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "5C27629E1254FB21"
+			tasks: [{
+				id: "4C78A4A034A8523A"
+				item: "pipez:improved_upgrade"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "11A62423412A5F73"
+			tasks: [{
+				id: "1A5D3DD6DEA0492C"
+				item: "pipez:advanced_upgrade"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7531EFAB7D679973"]
+			id: "37B89445AFDCF401"
+			tasks: [{
+				id: "58A5F0A8E84696D9"
+				item: "pipez:ultimate_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			description: ["Store the time in this here bottle, then click to speed up entities using your stored time."]
+			id: "14BE16CC0948089F"
+			shape: "diamond"
+			tasks: [{
+				id: "39080BCB9F8CEFCC"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Time in a Bottle"
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["14BE16CC0948089F"]
+			id: "22528C6853F95BBB"
+			tasks: [{
+				id: "4229547899E27D05"
+				item: {
+					Count: 1
+					id: "tiab:time_in_a_bottle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["60EF1760EF954F3B"]
+			id: "0EE9E4C0AB99494C"
+			tasks: [{
+				id: "6A4C8416EF0A9587"
+				item: {
+					Count: 1
+					id: "botania:flight_tiara"
+					tag: {
+						variant: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0EE9E4C0AB99494C"]
+			description: ["The tiara has many different varities that you can change between."]
+			id: "0778B4A5714DD544"
+			tasks: [
+				{
+					id: "2900C01B5011702E"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 1
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E5C3150928E63A4"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "70253996A5EB1AF5"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 3
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30F8FA43B7DB546D"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 4
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "069ACC228BEA7FC1"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 5
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "177C50BB9ED64FBE"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 6
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "184E0EA7BEBB537A"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 7
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "515B806DBBE4145E"
+					item: {
+						Count: 1
+						id: "botania:flight_tiara"
+						tag: {
+							variant: 8
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			description: [
+				"If you take on the Guardian of Gaia and get enough &3Gaia Essence&r you can make a &3Flugel Tiara&r. "
+				""
+				"The tiara will allow flight so long as you have access to Botania mana."
+			]
+			id: "60EF1760EF954F3B"
+			shape: "diamond"
+			tasks: [{
+				id: "7B961055F38EFC40"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Fly Away with Botania"
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3E33D04FC1DB5D45"]
+			id: "35261400F7A077F6"
+			tasks: [{
+				id: "25ED41B500EA96AA"
+				item: "productivebees:centrifuge"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["35261400F7A077F6"]
+			id: "4C9297CD716F4B83"
+			tasks: [{
+				id: "2FF3AA4F43E524D8"
+				item: "productivebees:powered_centrifuge"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4C9297CD716F4B83"]
+			id: "2BC693E5C867956F"
+			tasks: [{
+				id: "32804D4CF4E76267"
+				item: "productivebees:heated_centrifuge"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3E33D04FC1DB5D45"]
+			id: "51C541C482BE0D72"
+			tasks: [
+				{
+					id: "0C7AA93C179EA086"
+					item: "productivebees:bottler"
+					type: "item"
+				}
+				{
+					id: "2A1AA92D8C8A8C82"
+					item: "productivebees:breeding_chamber"
+					type: "item"
+				}
+				{
+					id: "110123BEEBE3B4CF"
+					item: "productivebees:catcher"
+					type: "item"
+				}
+				{
+					id: "7A86B2C21BC207FC"
+					item: "productivebees:gene_indexer"
+					type: "item"
+				}
+				{
+					id: "791734DEF8679372"
+					item: "productivebees:honey_generator"
+					type: "item"
+				}
+				{
+					id: "341552128EF128CE"
+					item: "productivebees:incubator"
+					type: "item"
+				}
+			]
+			title: "Productive Bees Machines"
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			description: ["When you get the materials to craft this, it will let you duplicate quite a few different items."]
+			id: "3DCE4E3E5410E329"
+			shape: "diamond"
+			tasks: [{
+				id: "6AB51A2BFF866EF5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Tome of Alkahestry"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3DCE4E3E5410E329"]
+			id: "11C1D9BC2CE37496"
+			tasks: [{
+				id: "60520EF9BD6BAE84"
+				item: {
+					Count: 1
+					id: "reliquary:alkahestry_tome"
+					tag: {
+						Damage: 1001
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			description: ["These should get you roughly 500 blocks within range of a Stage 4 / 5 dragon."]
+			id: "77DCBCD690E805D2"
+			shape: "diamond"
+			tasks: [{
+				id: "022C5A9770E9AC2D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Dragon Location"
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["77DCBCD690E805D2"]
+			id: "55917C13AEA75F58"
+			tasks: [{
+				id: "1FC4F48F29248095"
+				item: "dragonfinder:fire_dragon_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["77DCBCD690E805D2"]
+			id: "0487AF3B46B9D367"
+			tasks: [{
+				id: "43A55343167DE4A2"
+				item: "dragonfinder:ice_dragon_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["77DCBCD690E805D2"]
+			id: "3FB06711715DA48E"
+			tasks: [{
+				id: "1219075F5CDD6E86"
+				item: "dragonfinder:ice_dragon_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["113F841A54C510A4"]
+			description: [
+				"These wonderful little blocks will let you move up and down between Y levels.  You just need to place 1 Elevator Block down, then another one above or below it. "
+				""
+				"There can be other blocks in between as well! "
+			]
+			id: "63675CB4EDE7F382"
+			tasks: [{
+				id: "5F0EE1401EC4C9F2"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "elevatorid:elevators"
+					}
+				}
+				title: "Elevators"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			description: [
+				"These wonderful little blocks will let you move up and down between Y levels.  You just need to place &b1 Elevator Block&r down, then another one above or below it. "
+				""
+				"There can be other blocks in between as well! "
+				""
+				"If you're looking for a more aesthetic type of elevator you can check out &6Pneumaticcraft's&r elevator, or &6Create&r's!"
+			]
+			id: "113F841A54C510A4"
+			shape: "diamond"
+			tasks: [{
+				id: "74570AAD02884534"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Elevator ID"
+			x: -3.5d
+			y: -9.0d
+		}
+	]
+	title: "Utility"
+}

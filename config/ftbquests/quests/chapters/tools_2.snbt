@@ -1,0 +1,696 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tools_2"
+	group: "24F1909F4C56276F"
+	icon: {
+		Count: 1
+		id: "mysticalagriculture:prudentium_pickaxe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "19073FF881DFECA8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "34224B483BFA39CB"
+			tasks: [{
+				id: "3E1B49F6BF442B28"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "39FFE6EE2F00526C"
+			tasks: [{
+				id: "7A2509723091461A"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "256796D18D0E9977"
+			tasks: [{
+				id: "2CA23034C45158E0"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "657B339EA2D322B9"
+			tasks: [{
+				id: "504A6E8F70C01E17"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "416ACD526FA160E1"
+			tasks: [{
+				id: "5D752E151F3A4D9C"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "544D8ABFEFF623D3"
+			tasks: [{
+				id: "483A6636C6B6A057"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "0D451A8BFDB242A9"
+			tasks: [{
+				id: "3C57FF9BCE4B4E49"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "54FE474A52884484"
+			tasks: [{
+				id: "2939862E8C5D5A27"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:inferium_watering_can"
+					tag: {
+						Active: 0b
+						Water: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "26D165CBFB2723EA"
+			tasks: [{
+				id: "05C454F14D4F7AE9"
+				item: {
+					Count: 1
+					id: "mysticalagradditions:inferium_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "4D8C88B10A4A217E"
+			tasks: [{
+				id: "488F7E4030C9FAE6"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "7EB91DCCFF62B756"
+			tasks: [{
+				id: "7987B42FC2554435"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "5812A38132EAA7F0"
+			tasks: [{
+				id: "15AC3D4B0EAB8E6D"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "2943E5456046D184"
+			tasks: [{
+				id: "3425AC51C0C801AB"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "549CF954DC3FAB24"
+			tasks: [{
+				id: "1CB9284DB806819E"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "6C973424640DC2F9"
+			tasks: [{
+				id: "213BB33B7DA96A1B"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "2010CACB8070173F"
+			tasks: [{
+				id: "1089C5331C43004B"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "0168B89A83411EA1"
+			tasks: [{
+				id: "3B436E4FA9A06874"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:prudentium_watering_can"
+					tag: {
+						Active: 0b
+						Water: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "5C1BCB5E4BB447FB"
+			tasks: [{
+				id: "37DCD074138AB026"
+				item: {
+					Count: 1
+					id: "mysticalagradditions:prudentium_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "66E8869F772A7143"
+			tasks: [{
+				id: "49D340860D88B92E"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "15AC03133908197A"
+			tasks: [{
+				id: "0F55127AF48263BB"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "2C98BD9307F61D0C"
+			tasks: [{
+				id: "22D551BCFD594D09"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "7C818EC33F58C7DE"
+			tasks: [{
+				id: "6A4D0E2E846B224C"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "4EEB62265AAD5875"
+			tasks: [{
+				id: "205BFA991AA5F03A"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "3FBC1D8B2768F35D"
+			tasks: [{
+				id: "0EBED7DBC04154FA"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "6C10CB1C145648F1"
+			tasks: [{
+				id: "64459900384BC4E9"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "1250245D7174030C"
+			tasks: [{
+				id: "4473EE47F64D23B1"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:tertium_watering_can"
+					tag: {
+						Active: 0b
+						Water: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "4AF7717AED3F92BC"
+			tasks: [{
+				id: "78298B62F7BD724D"
+				item: {
+					Count: 1
+					id: "mysticalagradditions:tertium_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "39C38ECB5605066E"
+			tasks: [{
+				id: "4A018E37429702AC"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "25DA8F3A9E690235"
+			tasks: [{
+				id: "59FAB35FC55CC828"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "4193767FB522D6F1"
+			tasks: [{
+				id: "4D540A190EAF9011"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "79E76E633996E07A"
+			tasks: [{
+				id: "33225DFBBA00974E"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "4DC94AC3AB4EE96F"
+			tasks: [{
+				id: "16E1676CE0791F33"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "5D4AE8B8BE219E8D"
+			tasks: [{
+				id: "6E168B9823DC81E4"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "66C298052E033050"
+			tasks: [{
+				id: "62A741F36736DF61"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "75801E31F2EB4C82"
+			tasks: [{
+				id: "27FE125EB612EA00"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:imperium_watering_can"
+					tag: {
+						Active: 0b
+						Water: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "7DC51F23FFE869E5"
+			tasks: [{
+				id: "699DD6484F6AA7E9"
+				item: {
+					Count: 1
+					id: "mysticalagradditions:imperium_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "7063A7BDA54D4961"
+			tasks: [{
+				id: "3AF6A3E07AD38D5A"
+				item: "mysticalagriculture:supremium_axe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "51B5D2A4BB8F37D4"
+			tasks: [{
+				id: "747B08ED98DAE8DE"
+				item: "mysticalagriculture:supremium_pickaxe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "5A58D38F36A78893"
+			tasks: [{
+				id: "410A29AE742189FF"
+				item: "mysticalagriculture:supremium_shovel"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "0C89A358D7DDBC11"
+			tasks: [{
+				id: "0DDC3ECB9769CDA8"
+				item: "mysticalagriculture:supremium_hoe"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "28E28CEAE733AD41"
+			tasks: [{
+				id: "1223723010A4944A"
+				item: "mysticalagriculture:supremium_shears"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "4207C30F2EC9E5F7"
+			tasks: [{
+				id: "59DD4E53FD10C6F2"
+				item: "mysticalagriculture:supremium_sickle"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "57FDC5600452D210"
+			tasks: [{
+				id: "77D108126DE1F2BE"
+				item: "mysticalagriculture:supremium_scythe"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "2AF5D76D5EF3550A"
+			tasks: [{
+				id: "4FB45A35EE989CD4"
+				item: {
+					Count: 1
+					id: "mysticalagriculture:supremium_watering_can"
+					tag: {
+						Active: 0b
+						Water: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "1B953CDE5FBFCE08"
+			tasks: [{
+				id: "456B6D7CDB4951BA"
+				item: "mysticalagradditions:supremium_paxel"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+	]
+	title: "Tools"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "industrialforegoing:machine_frame_supreme"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "z": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "pattern": [
+    "RzR",
+    "zFz",
+    "RzR"
+  ],
+  "result": {
+    "item": "rftoolsutility:matter_beamer"
+  }
+}

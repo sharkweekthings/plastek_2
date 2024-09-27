@@ -1,0 +1,399 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "creative"
+	group: "028CF99D99B38014"
+	icon: "ae2:creative_item_cell"
+	id: "632641F1EA685BCC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "0BEBFE314FCC18F1"
+			shape: "square"
+			tasks: [{
+				id: "0B0A3606530D632B"
+				item: {
+					Count: 1
+					id: "mekanism:creative_energy_cube"
+					tag: {
+						mekData: {
+							EnergyContainers: [{
+								Container: 0b
+								stored: "18446744073709551615.9999"
+							}]
+							componentConfig: {
+								config0: {
+									side0: 4
+									side1: 4
+									side2: 4
+									side3: 4
+									side4: 4
+									side5: 4
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "2914A8F7493AA244"
+			shape: "square"
+			tasks: [{
+				id: "07AAA34BB567F5E7"
+				item: "powah:energy_cell_creative"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1FB936FE4FB8C47C"]
+			id: "64FBF99B420D8F3C"
+			rewards: [{
+				id: "3C354A895D6D00D9"
+				item: "pneumaticcraft:creative_compressed_iron_block"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "18D8F9AA400D9287"
+				item: "pneumaticcraft:creative_compressed_iron_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "4A97A535265CA3CB"
+			tasks: [{
+				id: "4CAFFE42409F9BCE"
+				item: "pneumaticcraft:creative_compressor"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "1B0A09A1B5528091"
+			shape: "square"
+			tasks: [{
+				id: "2A905F1E20E29E99"
+				item: "thermal:rf_coil_creative_augment"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "3FD61310A0819173"
+			shape: "square"
+			tasks: [{
+				id: "74CB85E3173C762B"
+				item: "thermal:fluid_tank_creative_augment"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "5B5059895B979E51"
+			tasks: [{
+				id: "7F4E4450A656CAF5"
+				item: "thermal:machine_efficiency_creative_augment"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "60B60A07E0A74A9D"
+			tasks: [{
+				id: "60EC662ACB253892"
+				item: "thermal:machine_catalyst_creative_augment"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1FB936FE4FB8C47C"]
+			id: "2EAEE8B7D4722814"
+			tasks: [{
+				id: "04EFC4F43B3EB005"
+				item: "iceandfire:creative_dragon_meal"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1FB936FE4FB8C47C"]
+			id: "03F5ACEB4A00F9CC"
+			tasks: [{
+				id: "1A8D6F8C2D90A7EA"
+				item: "create:handheld_worldshaper"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "6056F6A74269B377"
+			tasks: [{
+				id: "332C36E5781EEFB0"
+				item: "create:creative_motor"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "1B2A05F7AA8EA9D6"
+			shape: "square"
+			tasks: [{
+				id: "2375152710FA24BB"
+				item: "create:creative_fluid_tank"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3FD61310A0819173"
+				"1B2A05F7AA8EA9D6"
+				"71D02DC58E7B574E"
+			]
+			id: "0469A80434E3DD5F"
+			shape: "square"
+			tasks: [{
+				id: "4E9F45D2A35F3CA0"
+				item: "create:creative_crate"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1FB936FE4FB8C47C"]
+			id: "2E79489093D0EF3D"
+			tasks: [{
+				id: "550E9B4C002EDE49"
+				item: "create:creative_blaze_cake"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"526980652088B976"
+				"0469A80434E3DD5F"
+			]
+			id: "5E99B9887F11669E"
+			shape: "gear"
+			tasks: [{
+				id: "6226B27039F6F32B"
+				item: "draconicevolution:creative_op_capacitor"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["64808E896DA453F9"]
+			id: "1FB936FE4FB8C47C"
+			rewards: [{
+				id: "4FB65902C065D5A3"
+				item: "mysticalagradditions:creative_essence"
+				random_bonus: 9
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "0548D9006E7CD052"
+				item: "mysticalagradditions:creative_essence"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "7BB40F94751FEB31"
+			tasks: [{
+				id: "2DA57478BD23E005"
+				item: "rftoolsutility:creative_screen"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5E99B9887F11669E"]
+			id: "1FD93074FAA3302B"
+			shape: "gear"
+			tasks: [{
+				id: "1B140F75B5538FC3"
+				item: "ae2:creative_item_cell"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5E99B9887F11669E"]
+			id: "64092DE1FC11FFDD"
+			shape: "gear"
+			tasks: [{
+				id: "499731525E5716B4"
+				item: "ae2:creative_fluid_cell"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "2DC5434AE9C29FD8"
+			shape: "square"
+			tasks: [{
+				id: "22783A10F1111EEA"
+				item: "ae2:creative_energy_cell"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "71D02DC58E7B574E"
+			shape: "square"
+			tasks: [{
+				id: "041E882C5D2E88D8"
+				item: "functionalstorage:creative_vending_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E99B9887F11669E"]
+			id: "21000B34CACAC303"
+			shape: "gear"
+			tasks: [{
+				id: "2A1001BC52141356"
+				item: "appmek:creative_chemical_cell"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["64FBF99B420D8F3C"]
+			id: "21E756EEFCAF8B47"
+			tasks: [{
+				id: "25284A58ED2E6801"
+				item: "createaddition:creative_energy"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"2DC5434AE9C29FD8"
+				"0BEBFE314FCC18F1"
+				"2914A8F7493AA244"
+			]
+			id: "526980652088B976"
+			shape: "square"
+			tasks: [{
+				id: "1CBA1A4F44AA29A2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							energy: {
+								energy: 0
+							}
+							module_host: {
+								modules: [ ]
+								properties: {
+									charge_armor: {
+										hud: 1b
+									}
+									charge_curios: {
+										hud: 1b
+									}
+									charge_held_item: {
+										hud: 1b
+									}
+									charge_hot_bar: {
+										hud: 1b
+									}
+									charge_main: {
+										hud: 1b
+									}
+								}
+								provider_id: [I;
+									1014230827
+									-561362657
+									-1935888579
+									-598105000
+								]
+							}
+						}
+					}
+					id: "draconicevolution:creative_capacitor"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1FB936FE4FB8C47C"]
+			id: "4AB397C1E5CA46BD"
+			tasks: [{
+				id: "26976DB778E6C1DD"
+				item: "tempad:he_who_remains_tempad"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			description: [
+				"From here on out you'll need to devise your own setups for any resource automation you may need."
+				""
+				"Best of luck finishing out the pack!"
+			]
+			id: "64808E896DA453F9"
+			shape: "diamond"
+			tasks: [{
+				id: "09E64D61328DE303"
+				title: "Making Creative Stuff"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -8.5d
+		}
+	]
+	title: "Tech"
+}

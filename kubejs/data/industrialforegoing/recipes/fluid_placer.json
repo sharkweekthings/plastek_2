@@ -1,0 +1,48 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "industrialforegoing:fluid_placer"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "B": {
+            "item": "minecraft:water_bucket"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "P": {
+            "tag": "forge:plastic"
+          },
+          "R": {
+            "item": "create:precision_mechanism"
+          },
+          "S": {
+            "tag": "forge:gears/iron"
+          }
+        },
+        "pattern": [
+          "PBP",
+          "BMB",
+          "SRS"
+        ],
+        "result": {
+          "item": "industrialforegoing:fluid_placer"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

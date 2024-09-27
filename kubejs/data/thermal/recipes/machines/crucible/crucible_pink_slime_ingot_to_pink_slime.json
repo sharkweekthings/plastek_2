@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "industrialforegoing:pink_slime_ingot"
+  },
+  "result": [
+    {
+      "fluid": "industrialforegoing:pink_slime",
+      "amount": 100
+    }
+  ],
+  "energy": 40000
+}

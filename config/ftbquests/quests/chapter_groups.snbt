@@ -1,0 +1,15 @@
+{
+	chapter_groups: [
+		{ id: "32144DBD66776AC0", title: "Welcome" }
+		{ id: "7CE349CFA49357E1", title: "The World" }
+		{ id: "19728293E5F01751", title: "Farming" }
+		{ id: "79C502F79CD205E5", title: "Storage" }
+		{ id: "29E2459388A87C4C", title: "Super Side Quests" }
+		{ id: "590DDC7B00BCD5C7", title: "Age 1" }
+		{ id: "24F1909F4C56276F", title: "Age 2" }
+		{ id: "17D4659CA536FD99", title: "Age 3" }
+		{ id: "581F41F63919A6BC", title: "Age 4" }
+		{ id: "028CF99D99B38014", title: "Age 5" }
+		{ id: "1D085754C16989B5", title: "Collections" }
+	]
+}

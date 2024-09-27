@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PZP",
+    "EOE",
+    "LCL"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:glass_panes"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+	"O": {
+      "item": "industrialforegoing:machine_frame_advanced"
+    },
+	"L": {
+      "tag": "forge:gems/lapis"
+    },
+	"C": {
+      "item": "minecraft:comparator"
+    },
+  "Z": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "item": "hostilenetworks:sim_chamber"
+  }
+}

@@ -1,0 +1,109 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end"
+	group: "7CE349CFA49357E1"
+	icon: "minecraft:end_stone"
+	id: "19162C1A29E03B8A"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3874CDFDBD3C8178"
+			shape: "diamond"
+			tasks: [{
+				id: "66F85FBCA73F7989"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "The End"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3874CDFDBD3C8178"]
+			id: "5CDA5350C47E53C1"
+			shape: "square"
+			subtitle: "Defeat the Ender Dragon"
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "0CFC0E843B460728"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5CDA5350C47E53C1"]
+			description: [
+				"The Chaos Dragon arena can be found every 10,000 blocks. "
+				""
+				"Once located, you may want to set up a safe place to place down a Waystone, or teleporter incase you die. "
+				""
+				"The basic strategy for this fight is to destroy the 14 crystals surrounding the arena, similar to that of the End dragon. To do any damage you will need Draconic Tools / Weapons loaded with modules, and a way to fly, if possible. "
+				""
+				"If you can draw the dragons attacks toward you, it's attacks will help destroy the crystals. "
+				""
+				"Once all of the crystals are destroyed you can start to attack the Chaos Dragon. "
+				""
+				"Good luck, and cross your fingers that you have enough OP flowing through your equipment to survive!"
+			]
+			icon: "draconicevolution:chaos_shard"
+			id: "744B8EAF7DC0C7CE"
+			rewards: [
+				{
+					id: "4AE8A5BC82B0195D"
+					item: {
+						Count: 1
+						id: "productivebees:spawn_egg_configurable_bee"
+						tag: {
+							EntityTag: {
+								type: "productivebees:chaos"
+							}
+						}
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "01A03C24F46EE380"
+					item: {
+						Count: 1
+						id: "productivebees:spawn_egg_configurable_bee"
+						tag: {
+							EntityTag: {
+								type: "productivebees:draconic"
+							}
+						}
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "17A14328D1394840"
+					item: "mysticalagriculture:draconium_seeds"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "41C11DC236FB211F"
+					item: "mysticalagriculture:awakened_draconium_seeds"
+					random_bonus: 4
+					type: "item"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				entity: "draconicevolution:draconic_guardian"
+				id: "5E43A5F0CB044175"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Chaos Dragon"
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+	title: "End"
+}
