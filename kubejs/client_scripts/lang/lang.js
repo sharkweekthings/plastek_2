@@ -10,7 +10,7 @@ ClientEvents.lang('en_us', event => {
 	event.renameItem(item, newName)}
 
 // OCEAN RECOVERY
-  	rename('ocean_recovery:plastic_shard', "Plastic Scrap")
+  	rename('ocean_recovery:plastic_shard', "Plastim Scrap")
 
 // ICE AND FIRE
   	rename('iceandfire:silver_ore', "Silver Ore 1")
