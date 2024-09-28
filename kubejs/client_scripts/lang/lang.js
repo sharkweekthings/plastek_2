@@ -11,6 +11,8 @@ ClientEvents.lang('en_us', event => {
 
 // OCEAN RECOVERY
   	rename('ocean_recovery:plastic_shard', "Plastim Scrap")
+  	rename('ocean_recovery:plastic_bag', "Plastim Bag")
+  	rename('ocean_recovery:plastic_bottle', "Plastim Bottle")
 
 // ICE AND FIRE
   	rename('iceandfire:silver_ore', "Silver Ore 1")

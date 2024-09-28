@@ -210,7 +210,7 @@
 				"1D9F4F8797E85F23"
 				"357E3AD70337910B"
 			]
-			description: ["To start Age 3 you will need to craft 1 of each type of Machine Frame."]
+			description: ["To start Age 3 you will need to craft 1 of each type of &bMachine Frame&r."]
 			icon: "pneumaticcraft:printed_circuit_board"
 			id: "399379D6E1029527"
 			rewards: [{
@@ -293,15 +293,15 @@
 		{
 			dependencies: ["748D248A8A809914"]
 			description: [
-				"It's been about 50,000 years since the discovery of &bPlastim&r. A material thought to be a super plastic, &cturned out to be disasterous&r for the entire world, for centuries to follow. "
+				"It's been about 50,000 years since the discovery of &bPlastim&r. A material thought to be a super plastic, &cturned out to be disasterous&r for the entire world, for centuries to follow."
 				""
-				"When the unstable elements &bSharkinite&r and &bWeekonium&r were discovered, combining various plastics together created &bPlastim&r. It was strong, durable, seemingly eco-friendly, but it wasn't. It was a ticking time bomb, and when the world finally met it's timer, disaster struck everywhere. &bPlastim&r was part of everything from your basic utensils, to advanced cybertronik artificial limb replacements, and to the core of most peoples homes. "
+				"When the unstable elements &bSharkinite&r and &bWeekonium&r were discovered, combining various plastics together created &bPlastim&r. It was strong, durable, seemingly eco-friendly, but it wasn't. It was a ticking time bomb, and when the world finally met it's timer, disaster struck everywhere. &bPlastim&r was part of everything from your basic utensils, bags, bottles, to advanced cybertronik artificial limb replacements, and to the core of most peoples homes. "
 				""
 				"&bPlastim&r released a toxin worse than a &6Mekanism&r &9Fission Reactor&r&c going nuclear in your base&r.  This toxin destroyed the crops, people, wildlife, weirdly, the &4Piglin&r seemed resistant to it, though. "
 				""
-				"Remnants of &bPlastim&r can be found throughout the ocean today. It's no longer toxic to us, and for some reason the &9Market People&r trade really good items for &bPlastim Scrap&r. "
+				"Remnants of &bPlastim&r can be found throughout the ocean today. While the &amaterial itself is no longer harmful to us&r, &cthe land it's embedded into is forever cursed&r. &9The Market People&r take &bPlastim Scrap&r as their preferred currency."
 				""
-				"To obtain the scrap from &bPlastic Bottles&r and &bPlastic Bags&r, you'll need to find a way to crush them up so you can get that sweet, non toxic, &bPlastim Scrap&r and buy stuff from a &9Market&r person. "
+				"To obtain the scrap from &bPlastim Bottles&r and &bPlastim Bags&r, you'll need to find a way to crush them up so you can get that sweet, non toxic, &bPlastim Scrap&r and buy stuff from a &9Market&r person. "
 			]
 			id: "1262B64803792801"
 			subtitle: "The World"

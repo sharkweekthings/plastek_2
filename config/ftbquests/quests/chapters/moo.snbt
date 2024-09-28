@@ -760,7 +760,7 @@
 			y: -0.5d
 		}
 		{
-			description: ["The Market people deal primarily in Plastic Shards. They sell a range of useful items."]
+			description: ["&9The Market&r people deal primarily in &bPlastim Scrap&r as their preferred currency. They sell a range of useful items."]
 			id: "1CF13509DFB91E2B"
 			shape: "diamond"
 			tasks: [{
