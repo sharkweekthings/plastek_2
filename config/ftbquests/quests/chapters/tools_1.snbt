@@ -43,7 +43,10 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["47B600AF3A91F036"]
+			dependencies: [
+				"47B600AF3A91F036"
+				"62AA602891B61337"
+			]
 			id: "29B8689F4BABE2A9"
 			shape: "square"
 			tasks: [{
@@ -712,6 +715,39 @@
 			title: "Unlock Ultiminer"
 			x: 7.0d
 			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["47B600AF3A91F036"]
+			description: [
+				"&6Natural Progression&r mod currently has a bug where all &bSticks&r and &bPebbles&r are spawning underwater. "
+				""
+				"You can accept free &bSticks&r and &bPebbles&r from this &arepeatable quest&r."
+			]
+			id: "62AA602891B61337"
+			rewards: [
+				{
+					count: 20
+					id: "2EEB37867D00379E"
+					item: "natprog:andesite_pebble"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0BA953BD11E0DB94"
+					item: "minecraft:stick"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "44BC09DD8025BBE1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Free Real Estate"
+			x: 8.5d
+			y: -5.0d
 		}
 	]
 	title: "Tools"
