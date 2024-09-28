@@ -1,0 +1,105 @@
+{
+  "pools": [
+    {
+      "name": "ignis",
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:ignitium_ingot",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "disc",
+      "conditions": [
+        {
+          "condition": "random_chance_with_looting",
+          "chance": 0.1,
+          "looting_multiplier": 0.1
+        }
+      ],
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_ignis",
+          "weight": 1
+        }
+      ],
+      "rolls": 1,
+      "entries": [
+          {"type": "minecraft:item","name": "born_in_chaos_v1:supreme_measure","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_aoe","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_damage","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_energy","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_energy_link","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_flight","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_jump","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_large_shield_capacity","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_proj_accuracy","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_proj_damage","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_proj_grav_comp","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_proj_penetration","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_proj_velocity","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_shield_capacity","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_shield_control","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_shield_recovery","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_speed","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_tree_harvest","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_chaotic_undying","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_aoe","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_auto_feed","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_damage","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_ender_collection","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_energy","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_energy_link","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_flight","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_jump","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_large_shield_capacity","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_accuracy","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_anti_immune","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_damage","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_grav_comp","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_penetration","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_velocity","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_shield_capacity","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_shield_control","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_shield_recovery","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_speed","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_tree_harvest","weight": 1},
+          {"type": "minecraft:item","name": "draconicevolution:item_draconic_undying","weight": 1},
+          {"type": "minecraft:item","name": "mekanismgenerators:solar_generator","weight": 1},
+          {"type": "minecraft:item","name": "mekanismgenerators:wind_generator","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:awakened_draconium_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:diamond_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:draconium_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:dragon_egg_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:ghast_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:grains_of_infinity_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:nether_quartz_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:nether_star_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:refined_obsidian_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:ruby_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:sapphire_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:signalum_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:uraninite_seeds","weight": 1},
+          {"type": "minecraft:item","name": "mysticalagriculture:uranium_seeds","weight": 1},
+          {"type": "minecraft:item","name": "powah:furnator_basic","weight": 1},
+          {"type": "minecraft:item","name": "powah:thermo_generator_basic","weight": 1},
+          {"type": "minecraft:item","name": "powah:magmator_spirited","weight": 1},
+          {"type": "minecraft:item","name": "powah:furnator_starter","weight": 1},
+          {"type": "minecraft:item","name": "powah:solar_panel_starter","weight": 1},
+          {"type": "minecraft:item","name": "powah:magmator_basic","weight": 1},
+          {"type": "minecraft:item","name": "powah:furnator_spirited","weight": 1},
+          {"type": "minecraft:item","name": "powah:solar_panel_basic","weight": 1},
+          {"type": "minecraft:item","name": "powah:thermo_generator_starter","weight": 1},
+          {"type": "minecraft:item","name": "powah:solar_panel_spirited","weight": 1},
+          {"type": "minecraft:item","name": "powah:magmator_starter","weight": 1},
+          {"type": "minecraft:item","name": "powah:thermo_generator_spirited","weight": 1},
+          {"type": "minecraft:item","name": "tempad:he_who_remains_tempad","weight": 1}
+      ]
+    }
+  ]
+}

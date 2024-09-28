@@ -472,9 +472,9 @@
 		}
 		{
 			description: [
-				"The Aether Portal Frame can be constructed in the same basic shape as a Nether portal. "
+				"The &9Aether Portal Frame&r can be constructed in the same basic shape as a &9Nether portal&r. "
 				""
-				"You'll need to use Glowstone blocks as the frame, and pour a Bucket of Water to light it."
+				"You'll need to use &bGlowstone&r blocks as the frame, and pour a &bBucket of Water&r to light it."
 			]
 			id: "7F6C916CD6C735FF"
 			rewards: [{
@@ -740,7 +740,7 @@
 			description: [
 				"This dungeon can be located underground. "
 				""
-				"Sentry Mobs will be activated as you adventure through the dungeon and will explode on you."
+				"&dSentry Mobs&r will be activated as you adventure through the dungeon and will explode on you."
 			]
 			id: "65F4EC0821069176"
 			shape: "square"

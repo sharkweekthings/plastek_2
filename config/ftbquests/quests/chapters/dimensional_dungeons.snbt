@@ -111,7 +111,7 @@
 			y: -2.5d
 		}
 		{
-			description: ["Dimensional Dungeons offers a fun way to run some dungeons filled with various mobs, traps, and treasure. "]
+			description: ["&6Dimensional Dungeons&r offers a fun way to run some dungeons filled with various mobs, traps, and treasure. "]
 			id: "324CADB3FE915800"
 			shape: "diamond"
 			tasks: [{
@@ -139,9 +139,9 @@
 		{
 			dependencies: ["324CADB3FE915800"]
 			description: [
-				"The basic frame consists of 9 Stone Bricks, 2 Gilded Portal Blocks, and 1 Portal Keystone. "
+				"The basic frame consists of &b9 Stone Bricks&r, &92 Gilded Portal Blocks&r, and &91 Portal Keystone&r. "
 				""
-				"You will need to add 2 Portal Crowns, and either White or Purple Banners over the Gilded Portal Blocks in order to activate Tier 2 Dungeons with the Advanced Portal Key. "
+				"You will need to add &92 Portal Crowns&r, and either &bWhite or Purple Banners&r over the &9Gilded Portal Blocks&r in order to activate &dTier 2 Dungeons&r with the &bAdvanced Portal Key&r. "
 			]
 			id: "403012796042CA62"
 			shape: "diamond"
@@ -159,13 +159,13 @@
 			description: [
 				"All Keys must be activated by putting them in an Inscribing Station, or End Portal Frame block. "
 				""
-				"Portal Key: This is the basic key of this mod. Place it into a Portal Keystone to visit a dungeon."
+				"&bPortal Key&r: This is the basic key of this mod. Place it into a &9Portal Keystone&r to visit a dungeon."
 				""
-				"Advanced Blank Portal Key: This requires 2 crowns placed next to the Portal Keystone, and a white or purple banner draped over the portal blocks, and will allow you to visit Tier 2 dungeons."
+				"&bAdvanced Blank Portal Key&r: This requires &92 Portal Crowns&r placed next to the &9Portal Keystone&r, and a &bwhite or purple banner&r draped over the &9Portal Blocks&r, and will allow you to visit &dTier 2 dungeons&r."
 				""
-				"Personal Dimension Key: Brings you to a very flat, and empty personal dimension where you can build. "
+				"&bPersonal Dimension Key&r: Brings you to a very flat, and empty personal dimension where you can build. "
 				""
-				"Teleporter Key: Brings you to a Teleporter Hub with 7 keys. All keys link back to the hub. This could help you setup a fast travel network through various dimensions. "
+				"&bTeleporter Key&r: Brings you to a &9Teleporter Hub&r with 7 keys. All keys link back to the hub. This could help you setup a fast travel network through various dimensions. "
 			]
 			id: "762FB1842B0194F1"
 			shape: "diamond"
@@ -181,9 +181,9 @@
 		{
 			dependencies: ["324CADB3FE915800"]
 			description: [
-				"You will need to put a key into the Key Inscribing Station, or an End Portal Frame in order to activate it. "
+				"You will need to put a key into the &9Key Inscribing Station&r, or an &9End Portal Frame&r in order to activate it. "
 				""
-				"The Inscribing Station will break after a few keys have been made, while the End Portal Frame has infinite durability."
+				"The &9Inscribing Station&r will break after a few keys have been made, while the &9End Portal Frame&r has infinite durability."
 			]
 			id: "3FA42EDA37D8EE4C"
 			shape: "diamond"
@@ -199,9 +199,9 @@
 		{
 			dependencies: ["324CADB3FE915800"]
 			description: [
-				"Bell of Secrets: Works in a Dimensional Dungeon. If there is loot in the room  you are standing in, this bell will ring 8 times when clicked. "
+				"&bBell of Secrets&r: Works in a &6Dimensional Dungeon&r. If there is loot in the room you are standing in, this bell will ring 8 times when clicked. "
 				""
-				"Homeward Pearl: Brings you back to the start of the dungeon."
+				"&bHomeward Pearl&r: Brings you back to the start of the dungeon."
 			]
 			id: "7C5CA16ABA0C3314"
 			shape: "diamond"

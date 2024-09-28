@@ -188,11 +188,11 @@
 		}
 		{
 			description: [
-				"The main goal of the Bumblezone is to find the Queen Bee. "
+				"The main goal of the &6Bumblezone&r is to find the &dQueen Bee&r. "
 				""
-				"Once you talk to her, you will unlock access to the Honey Eye. "
+				"Once you talk to her, you will unlock access to the &bHoney Eye&r. "
 				""
-				"To enter the zone you'll need to throw an Ender Pearl at a Beehive/Nest, or push yourself in with a Piston."
+				"To enter the zone you'll need to throw an &bEnder Pearl&r at a &9Beehive/Nest&r, or push yourself in with a &9Piston&r."
 			]
 			id: "076887AC15495EA9"
 			shape: "diamond"
@@ -338,12 +338,23 @@
 		{
 			dependencies: ["5D4B9D6D1CC29CB2"]
 			description: [
-				"Have a meeting with the Queen. "
+				"Have a meeting with &dthe Queen&r. "
 				""
-				"Productive Bees offers a Bee Queen questline. To follow that, you can look at the Advancements tab."
+				"&6Productive Bees&r offers a &aBee Queen questline&r. To follow that, you can look at the &aAdvancements tab&r."
 			]
 			id: "7BC3BB8449EE27E1"
-			shape: "square"
+			rewards: [{
+				id: "0C89B8DE05AF6A5D"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "gear"
 			tasks: [{
 				advancement: "the_bumblezone:the_queens_desire/the_beginning"
 				criterion: ""
@@ -354,7 +365,7 @@
 			y: -1.5d
 		}
 		{
-			description: ["This compass will lead you to a Cell Maze structure within The Bumblezone. "]
+			description: ["This compass will lead you to a &dCell Maze&r structure within &6The Bumblezone&r. "]
 			id: "0AC8D4B197321CA6"
 			tasks: [{
 				id: "6A1803444E211788"
@@ -369,7 +380,7 @@
 			y: -1.5d
 		}
 		{
-			description: ["Search inside the Honey Cocoons for a chance to find another Honey Compass that will lead you to the Queen's Throne room."]
+			description: ["Search inside the &9Honey Cocoons&r for a chance to find another &bHoney Compass&r that will lead you to the &dQueen's Throne Room&r."]
 			id: "12398B27815E82A2"
 			tasks: [{
 				advancement: "the_bumblezone:tools/obtain_throne_honey_compass"
@@ -417,9 +428,9 @@
 		}
 		{
 			description: [
-				"If you feed a bee, or Brood Block you have a chance at getting the Protection of the Hive effect. "
+				"If you feed a bee, or &9Brood Block&r you have a chance at getting the &dProtection of the Hive&r effect. "
 				""
-				"This will make bees defend you against other attackers. "
+				"&aThis will make bees defend you against other attackers&r. "
 			]
 			id: "6577B28919655D08"
 			tasks: [{

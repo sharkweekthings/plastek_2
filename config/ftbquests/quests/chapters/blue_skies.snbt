@@ -1319,17 +1319,17 @@
 		}
 		{
 			description: [
-				"Blue Skies adds two dimensions. Everbright, and Everdawn. "
+				"&6Blue Skies&r adds two dimensions. &3Everbright&r, and &5Everdawn&r. "
 				""
-				"To enter them, you'll need to find a Gatekeeper in the Overworld, trade him some Emeralds for a Zeal Lighter, and find the Gatekeeper's portal frame which should be close by. Light the frame like you would a Nether portal."
+				"To enter them, you'll need to find a &dGatekeeper&r in the &2Overworld&r, trade him some &bEmeralds&r for a &bZeal Lighter&r, and find the &9Gatekeeper's portal frame&r which should be close by. &aLight the frame like you would a Nether portal with the lighter&r."
 				""
-				"Tools and Weapons from the Overworld do not work properly in either dimension. "
+				"&l&c&nTools and Weapons from the Overworld do not work properly in either dimension.&r&r&r"
 				""
-				"You'll want to craft yourself a new set of Blue Skies specific gear when you enter."
+				"You'll want to craft yourself a new set of &6Blue Skies&r specific gear when you enter."
 				""
-				"Armor still works, so if you have stronger armor you may have some extra protection."
+				"&aArmor still works, so if you have stronger armor you may have some extra protection&r."
 				""
-				"The main goal of the pack will be to defeat "
+				"The main goal of the pack will be to defeat the &dSummoner&r and &dAlchemist&r, with the other two bosses being optional with &asome modified rewards&r."
 			]
 			id: "4712148D2C8BC653"
 			rewards: [{

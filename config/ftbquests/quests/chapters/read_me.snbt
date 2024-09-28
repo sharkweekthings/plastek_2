@@ -152,7 +152,11 @@
 		}
 		{
 			dependencies: ["0A3BE2D164E4F854"]
-			description: ["This adventure will take you through &6The Bumblezone&r, &9Blue Skies&r, &cThe Nether&r, &bAether&r, &eDimensional Dungeons&r, &aAlfheim&r, and &dThe End&r! "]
+			description: [
+				"This adventure will take you through &6The Bumblezone&r, &9Blue Skies&r, &cThe Nether&r, &bThe Aether&r, &eDimensional Dungeons&r, &aAlfheim&r, and &dThe End&r! "
+				""
+				"If you want the mods appropriate difficulty setting it's better to do &9Blue Skies&r and &bThe Aether&r sooner rather than later, but you are able to do them whenever you're ready to go to &dThe End&r."
+			]
 			icon: "aether:aether_portal_frame"
 			id: "3F93CF6B70529166"
 			shape: "square"

@@ -104,6 +104,109 @@
 			x: 1.0d
 			y: 1.0d
 		}
+		{
+			dependencies: ["3874CDFDBD3C8178"]
+			id: "594A683C3D375208"
+			shape: "diamond"
+			tasks: [{
+				id: "1478ECE191CFEFEB"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Cataclysm"
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["594A683C3D375208"]
+			id: "5E8EE27D8CD31493"
+			subtitle: "Eye of Void"
+			tasks: [{
+				id: "067B7D89AF083601"
+				item: "cataclysm:void_eye"
+				type: "item"
+			}]
+			title: "Find a Ruined Citadel"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["594A683C3D375208"]
+			id: "7B1F4EF6DF4233B4"
+			tasks: [{
+				advancement: "cataclysm:find_ruined_citadel"
+				criterion: ""
+				id: "4668DBF5683F2334"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7B1F4EF6DF4233B4"]
+			id: "38AA05F10498D676"
+			tasks: [{
+				advancement: "cataclysm:kill_ender_golem"
+				criterion: ""
+				id: "655B7A972DE107CF"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["38AA05F10498D676"]
+			id: "1AD567B3ACC50DF9"
+			tasks: [{
+				advancement: "cataclysm:kill_ender_guardian"
+				criterion: ""
+				id: "5B44EAA2BB887A38"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1AD567B3ACC50DF9"]
+			icon: {
+				Count: 1
+				id: "blue_skies:loot_bag_alchemist"
+				tag: {
+					LootTable: "blue_skies:loot_bags/alchemist/common"
+					Rarity: 0
+				}
+			}
+			id: "5A334FE298A91931"
+			rewards: [
+				{
+					id: "71EC22CB4F4F11AA"
+					item: "mysticalagriculture:nether_star_seeds"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "05EC9E8A6A40E85B"
+					item: "mysticalagradditions:nether_star_crux"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "762FD3B307A388AB"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12F43419BEB5CCCD"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			title: "End Rewards"
+			x: 7.0d
+			y: -0.5d
+		}
 	]
 	title: "End"
 }

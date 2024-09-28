@@ -16,7 +16,7 @@
 				id: "29246D41CDE51F64"
 				type: "advancement"
 			}]
-			x: -1.0d
+			x: 0.5d
 			y: -2.0d
 		}
 		{
@@ -27,7 +27,7 @@
 				id: "70DF854F90810D18"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: 1.5d
 			y: -2.0d
 		}
 		{
@@ -41,7 +41,7 @@
 				type: "checkmark"
 			}]
 			title: "Integrated Dungeon's and Structures"
-			x: 1.5d
+			x: 3.0d
 			y: -3.0d
 		}
 		{
@@ -52,7 +52,7 @@
 				id: "1832DEFFDFF17B05"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: 2.5d
 			y: -2.0d
 		}
 		{
@@ -63,7 +63,7 @@
 				id: "36EA77195F7BE700"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: -2.0d
 		}
 		{
@@ -74,7 +74,7 @@
 				id: "502CFB6D9CFB3320"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: 4.5d
 			y: -2.0d
 		}
 		{
@@ -85,7 +85,7 @@
 				id: "173E99D92EEE85C5"
 				type: "advancement"
 			}]
-			x: 4.0d
+			x: 5.5d
 			y: -2.0d
 		}
 		{
@@ -96,7 +96,7 @@
 				id: "572A3075D3ACEF52"
 				type: "advancement"
 			}]
-			x: -1.0d
+			x: 0.5d
 			y: -1.0d
 		}
 		{
@@ -107,7 +107,7 @@
 				id: "79B594DE789CC51F"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: 1.5d
 			y: -1.0d
 		}
 		{
@@ -118,7 +118,7 @@
 				id: "503B867A531803B3"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: 2.5d
 			y: -1.0d
 		}
 		{
@@ -129,7 +129,7 @@
 				id: "72B66CB69F2131CE"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: -1.0d
 		}
 		{
@@ -140,7 +140,7 @@
 				id: "224EFB20BF120EEC"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: 4.5d
 			y: -1.0d
 		}
 		{
@@ -151,7 +151,7 @@
 				id: "734B19B0572E5C17"
 				type: "advancement"
 			}]
-			x: 4.0d
+			x: 5.5d
 			y: -1.0d
 		}
 		{
@@ -162,7 +162,7 @@
 				id: "7F0EF17254B2388A"
 				type: "advancement"
 			}]
-			x: -1.0d
+			x: 0.5d
 			y: 0.0d
 		}
 		{
@@ -173,7 +173,7 @@
 				id: "7FD3439054A007A5"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: 1.5d
 			y: 0.0d
 		}
 		{
@@ -184,7 +184,7 @@
 				id: "69D1318C5F14A76F"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: 2.5d
 			y: 0.0d
 		}
 		{
@@ -195,7 +195,7 @@
 				id: "351C2BDA1E052A83"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: 0.0d
 		}
 		{
@@ -206,7 +206,7 @@
 				id: "42D1B40272FA3A4E"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
@@ -217,7 +217,7 @@
 				id: "4EFB423738C17973"
 				type: "advancement"
 			}]
-			x: 4.0d
+			x: 5.5d
 			y: 0.0d
 		}
 		{
@@ -228,7 +228,7 @@
 				id: "0A600052F87966B3"
 				type: "advancement"
 			}]
-			x: -1.0d
+			x: 0.5d
 			y: 1.0d
 		}
 		{
@@ -239,7 +239,7 @@
 				id: "2075BAB73D4AC7DA"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: 1.5d
 			y: 1.0d
 		}
 		{
@@ -250,7 +250,7 @@
 				id: "27FE5F6E8E25DB60"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: 2.5d
 			y: 1.0d
 		}
 		{
@@ -261,91 +261,8 @@
 				id: "027EA2379DE1820F"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: 1.0d
-		}
-		{
-			dependencies: ["593641226E054274"]
-			description: ["Cataclysm offers various dungeons to explore, with bosses to challenge."]
-			id: "191C2BD1CDA914FE"
-			shape: "diamond"
-			tasks: [{
-				id: "619FE48B02BA3989"
-				title: "Ok"
-				type: "checkmark"
-			}]
-			title: "Cataclysm"
-			x: 7.0d
-			y: -3.0d
-		}
-		{
-			id: "4CA3767DC4264048"
-			subtitle: "Actual Location: Nether"
-			tasks: [{
-				advancement: "cataclysm:find_soul_black_smith"
-				criterion: ""
-				id: "73013BCE7B6AA328"
-				type: "advancement"
-			}]
-			x: 8.0d
-			y: -2.0d
-		}
-		{
-			id: "1E3142133B14D625"
-			tasks: [{
-				advancement: "cataclysm:find_sunken_city"
-				criterion: ""
-				id: "4E087B063608FF2D"
-				type: "advancement"
-			}]
-			x: 6.0d
-			y: -1.0d
-		}
-		{
-			id: "20872779C897BE79"
-			tasks: [{
-				advancement: "cataclysm:find_cursed_pyramid"
-				criterion: ""
-				id: "0522B3D894325506"
-				type: "advancement"
-			}]
-			x: 7.0d
-			y: -1.0d
-		}
-		{
-			id: "57254793DC42F314"
-			subtitle: "Actual Location: The End"
-			tasks: [{
-				advancement: "cataclysm:find_ruined_citadel"
-				criterion: ""
-				id: "615427D664EFC8D0"
-				type: "advancement"
-			}]
-			x: 7.0d
-			y: -2.0d
-		}
-		{
-			id: "2BC700A5ED02EE73"
-			tasks: [{
-				advancement: "cataclysm:find_ancient_factory"
-				criterion: ""
-				id: "5E98B24FB953610F"
-				type: "advancement"
-			}]
-			x: 6.0d
-			y: -2.0d
-		}
-		{
-			id: "45ECC14C4A61BAFE"
-			subtitle: "Actual Location: Nether"
-			tasks: [{
-				advancement: "cataclysm:find_burning_arena"
-				criterion: ""
-				id: "43DD3ADA611290C1"
-				type: "advancement"
-			}]
-			x: 8.0d
-			y: -1.0d
 		}
 		{
 			id: "6CA023AE1E9CAFD5"
@@ -355,7 +272,7 @@
 				id: "77D1F68C9898A91B"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: 4.5d
 			y: 1.0d
 		}
 		{
@@ -366,7 +283,7 @@
 				id: "5771B4CA19D82723"
 				type: "advancement"
 			}]
-			x: 4.0d
+			x: 5.5d
 			y: 1.0d
 		}
 		{
@@ -377,7 +294,7 @@
 				id: "6DEA69F4DBF30239"
 				type: "advancement"
 			}]
-			x: 0.0d
+			x: 1.5d
 			y: 2.0d
 		}
 		{
@@ -388,7 +305,7 @@
 				id: "4355AA6C4F67B170"
 				type: "advancement"
 			}]
-			x: 1.0d
+			x: 2.5d
 			y: 2.0d
 		}
 		{
@@ -399,7 +316,7 @@
 				id: "427E49DE5740B8C0"
 				type: "advancement"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: 2.0d
 		}
 		{
@@ -410,7 +327,7 @@
 				id: "3471A07F03453662"
 				type: "advancement"
 			}]
-			x: 3.0d
+			x: 4.5d
 			y: 2.0d
 		}
 		{
@@ -424,7 +341,7 @@
 				type: "checkmark"
 			}]
 			title: "When Dungeons Arise"
-			x: 13.0d
+			x: 11.5d
 			y: -3.0d
 		}
 		{
@@ -436,7 +353,7 @@
 				id: "4CC38096CD97DBAE"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 9.0d
 			y: -2.0d
 		}
 		{
@@ -448,7 +365,7 @@
 				id: "7E38477A4E69292D"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.0d
 			y: -2.0d
 		}
 		{
@@ -460,7 +377,7 @@
 				id: "1DDC6E7D8096A17C"
 				type: "advancement"
 			}]
-			x: 12.5d
+			x: 11.0d
 			y: -2.0d
 		}
 		{
@@ -472,7 +389,7 @@
 				id: "2B3779C3F4D56AA9"
 				type: "advancement"
 			}]
-			x: 13.5d
+			x: 12.0d
 			y: -2.0d
 		}
 		{
@@ -484,7 +401,7 @@
 				id: "2CF21268161D1625"
 				type: "advancement"
 			}]
-			x: 14.5d
+			x: 13.0d
 			y: -2.0d
 		}
 		{
@@ -496,7 +413,7 @@
 				id: "73DF952D34AB0B49"
 				type: "advancement"
 			}]
-			x: 15.5d
+			x: 14.0d
 			y: -2.0d
 		}
 		{
@@ -508,7 +425,7 @@
 				id: "1B5CAD88134B3C78"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 9.0d
 			y: -1.0d
 		}
 		{
@@ -520,7 +437,7 @@
 				id: "568374622E6B718F"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.0d
 			y: -1.0d
 		}
 		{
@@ -532,7 +449,7 @@
 				id: "64C82D61E64893D9"
 				type: "advancement"
 			}]
-			x: 12.5d
+			x: 11.0d
 			y: -1.0d
 		}
 		{
@@ -544,7 +461,7 @@
 				id: "1A852EBC4CA34557"
 				type: "advancement"
 			}]
-			x: 13.5d
+			x: 12.0d
 			y: -1.0d
 		}
 		{
@@ -557,7 +474,7 @@
 				id: "36F997DC4D8CF2F4"
 				type: "advancement"
 			}]
-			x: 14.5d
+			x: 13.0d
 			y: -1.0d
 		}
 		{
@@ -569,7 +486,7 @@
 				id: "4DF2756D767D7723"
 				type: "advancement"
 			}]
-			x: 15.5d
+			x: 14.0d
 			y: 0.0d
 		}
 		{
@@ -581,7 +498,7 @@
 				id: "0B06C3E250AFD212"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 9.0d
 			y: 0.0d
 		}
 		{
@@ -593,7 +510,7 @@
 				id: "78829FA300FC548E"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.0d
 			y: 0.0d
 		}
 		{
@@ -605,7 +522,7 @@
 				id: "3166D99AF6E61A73"
 				type: "advancement"
 			}]
-			x: 12.5d
+			x: 11.0d
 			y: 0.0d
 		}
 		{
@@ -617,7 +534,7 @@
 				id: "34FB1185189B3B2B"
 				type: "advancement"
 			}]
-			x: 13.5d
+			x: 12.0d
 			y: 0.0d
 		}
 		{
@@ -629,7 +546,7 @@
 				id: "1F3C8172E05650CB"
 				type: "advancement"
 			}]
-			x: 14.5d
+			x: 13.0d
 			y: 0.0d
 		}
 		{
@@ -641,7 +558,7 @@
 				id: "760E217907AAEB50"
 				type: "advancement"
 			}]
-			x: 15.5d
+			x: 14.0d
 			y: 1.0d
 		}
 		{
@@ -653,7 +570,7 @@
 				id: "6703630D39B74F57"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 9.0d
 			y: 1.0d
 		}
 		{
@@ -669,7 +586,7 @@
 				id: "4D6FEDB0CFF4B925"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.0d
 			y: 1.0d
 		}
 		{
@@ -681,7 +598,7 @@
 				id: "540C57840C4AB3ED"
 				type: "advancement"
 			}]
-			x: 12.5d
+			x: 11.0d
 			y: 1.0d
 		}
 		{
@@ -693,7 +610,7 @@
 				id: "7A7E15B86D8289E4"
 				type: "advancement"
 			}]
-			x: 13.5d
+			x: 12.0d
 			y: 1.0d
 		}
 		{
@@ -705,7 +622,7 @@
 				id: "404F1CF345A61069"
 				type: "advancement"
 			}]
-			x: 14.5d
+			x: 13.0d
 			y: 1.0d
 		}
 		{
@@ -717,7 +634,7 @@
 				id: "603E0F4D5F77B435"
 				type: "advancement"
 			}]
-			x: 15.5d
+			x: 14.0d
 			y: -1.0d
 		}
 		{
@@ -729,7 +646,7 @@
 				id: "26955490A5BEA2AD"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 9.0d
 			y: 2.0d
 		}
 		{
@@ -741,7 +658,7 @@
 				id: "50981D02E3E33365"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.0d
 			y: 2.0d
 		}
 		{
@@ -753,7 +670,7 @@
 				id: "653DFBDD97E8E0D3"
 				type: "advancement"
 			}]
-			x: 12.5d
+			x: 11.0d
 			y: 2.0d
 		}
 		{
@@ -765,7 +682,7 @@
 				id: "237FE24FC7180E86"
 				type: "advancement"
 			}]
-			x: 13.5d
+			x: 12.0d
 			y: 2.0d
 		}
 		{
@@ -777,7 +694,7 @@
 				id: "49DBB14A99EE5ABC"
 				type: "advancement"
 			}]
-			x: 14.5d
+			x: 13.0d
 			y: 2.0d
 		}
 		{
@@ -789,7 +706,7 @@
 				id: "1232E3838DAD0B47"
 				type: "advancement"
 			}]
-			x: 14.5d
+			x: 13.0d
 			y: 3.0d
 		}
 		{
@@ -801,7 +718,7 @@
 				id: "5EDB5337CB8AE8CF"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 9.0d
 			y: 3.0d
 		}
 		{
@@ -813,7 +730,7 @@
 				id: "6B51418F78FD74FD"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.0d
 			y: 3.0d
 		}
 		{
@@ -825,7 +742,7 @@
 				id: "14B70283F3924DA6"
 				type: "advancement"
 			}]
-			x: 12.5d
+			x: 11.0d
 			y: 3.0d
 		}
 		{
@@ -837,7 +754,7 @@
 				id: "5EBC71A3F713FC40"
 				type: "advancement"
 			}]
-			x: 13.5d
+			x: 12.0d
 			y: 3.0d
 		}
 		{
@@ -849,7 +766,7 @@
 				id: "59026F1562E7C891"
 				type: "advancement"
 			}]
-			x: 15.5d
+			x: 14.0d
 			y: 2.0d
 		}
 		{
@@ -861,7 +778,7 @@
 				id: "61355726F6967D58"
 				type: "advancement"
 			}]
-			x: 15.5d
+			x: 14.0d
 			y: 3.0d
 		}
 		{
@@ -873,7 +790,7 @@
 				id: "41043453A6E57811"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 11.5d
 			y: 4.0d
 		}
 		{
@@ -894,6 +811,228 @@
 			title: "Structures of the Overworld"
 			x: 7.0d
 			y: -5.0d
+		}
+		{
+			dependencies: ["593641226E054274"]
+			id: "11FCA8E68D6EDA0F"
+			shape: "diamond"
+			tasks: [{
+				id: "484248DB9F01CCBF"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Cataclysm"
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["11FCA8E68D6EDA0F"]
+			id: "75948D3D8A4200E1"
+			tasks: [{
+				advancement: "cataclysm:find_cursed_pyramid"
+				criterion: ""
+				id: "1D8E30F502356AB6"
+				type: "advancement"
+			}]
+			title: "Cursed Pyramid"
+			x: 7.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["11FCA8E68D6EDA0F"]
+			id: "33AEA342CD1EAA00"
+			tasks: [{
+				advancement: "cataclysm:find_ancient_factory"
+				criterion: ""
+				id: "2F8AA8CAF9C7B3B8"
+				type: "advancement"
+			}]
+			title: "Ancient Factory"
+			x: 8.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["11FCA8E68D6EDA0F"]
+			description: [
+				"To prepare for this fight you should have 2 Tridents. One should be enchanted with Riptide. This will let you dash across the water to dodge certain attacaks, as well as keep up with the Leviathan to keep it in range."
+				""
+				"The other Trident should have Loyalty, and any damaging properties you want, like Impaling. Loyalty will cause the Trident to return to you when thrown. "
+				""
+				"The fight itself takes place underwater so if you'll need to find a way to breathe. If you don't have a Curios item, you can make potions. Since the water is cloudy, you may also want to use Night Vision if you have it available. "
+				""
+				"Some general protection you can get is Blessed Amethyst Crab Meat. You can find these crabs in Lush Cave Biomes. The buff lasts for about a minute and a half, so make sure to take enough for the fight. You'll need to bring the Crab meat to an Altar of Amethyst which can be located inside the Sunken City."
+				""
+				"Now that you're prepared to fight the Leviathan, you'll need to summon it by crafting an Abyssal Sacrifice. "
+			]
+			id: "7A8592A8D5180B67"
+			rewards: [{
+				id: "033A7A96C570BD82"
+				item: {
+					Count: 1
+					id: "minecraft:trident"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:riptide"
+							lvl: 5s
+						}]
+						RepairCost: 1
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					advancement: "cataclysm:find_sunken_city"
+					criterion: ""
+					id: "7F3E6611CD66D26E"
+					type: "advancement"
+				}
+				{
+					id: "0020C7DADB0265DD"
+					item: "cataclysm:abyssal_sacrifice"
+					type: "item"
+				}
+			]
+			title: "Sunken City"
+			x: 5.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["11FCA8E68D6EDA0F"]
+			id: "31B0EC3FC7D56165"
+			subtitle: "Eye of Abyss"
+			tasks: [{
+				id: "586BD4C448AA2838"
+				item: "cataclysm:abyss_eye"
+				type: "item"
+			}]
+			title: "Find a Sunken City"
+			x: 5.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["11FCA8E68D6EDA0F"]
+			id: "0E27E621B050857C"
+			subtitle: "Eye of Desert"
+			tasks: [{
+				id: "2A9DE82A46D07225"
+				item: "cataclysm:desert_eye"
+				type: "item"
+			}]
+			title: "Find a Cursed Pyramid"
+			x: 7.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["11FCA8E68D6EDA0F"]
+			id: "187B0857E2C844DB"
+			subtitle: "Eye of Mech"
+			tasks: [{
+				id: "3E7032AAD4C52ADE"
+				item: "cataclysm:mech_eye"
+				type: "item"
+			}]
+			title: "Find an Ancient Factory"
+			x: 8.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7A8592A8D5180B67"]
+			description: [
+				"The Leviathan has 2 phases, with the second phase starting at 50%. "
+				""
+				"It will cycle between several different attacks like lasers, mines, pulling you in with it's tongue, a bite attack, and a purple vortex that will vaccuum you up and cause damage. "
+				""
+				"If you get speared you can quickly try to melee the boss for bonus damage, if you can survive. "
+			]
+			id: "21D5A84BD2D885B2"
+			tasks: [{
+				advancement: "cataclysm:kill_leviathan"
+				criterion: ""
+				id: "558F0DFCA52B643C"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["75948D3D8A4200E1"]
+			id: "3CB91E9A1DE557FC"
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				id: "6A570052A920E31A"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["33AEA342CD1EAA00"]
+			id: "6B741B1D841318D0"
+			tasks: [{
+				advancement: "cataclysm:kill_harbinger"
+				criterion: ""
+				id: "45251A5D6533C7BB"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"21D5A84BD2D885B2"
+				"3CB91E9A1DE557FC"
+				"6B741B1D841318D0"
+			]
+			icon: {
+				Count: 1
+				id: "blue_skies:loot_bag_alchemist"
+				tag: {
+					LootTable: "blue_skies:loot_bags/alchemist/common"
+					Rarity: 0
+				}
+			}
+			id: "4C1084D64199276A"
+			rewards: [
+				{
+					id: "446B0F5806C148FF"
+					item: "mysticalagriculture:draconium_seeds"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "56139D9552B3C8E7"
+					item: {
+						Count: 1
+						id: "productivebees:spawn_egg_configurable_bee"
+						tag: {
+							EntityTag: {
+								type: "productivebees:chaos"
+							}
+						}
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7FFDC68D2C59694D"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E2DA9E484D69DDA"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			title: "Overworld Rewards"
+			x: 7.0d
+			y: -11.5d
 		}
 	]
 	title: "Overworld"

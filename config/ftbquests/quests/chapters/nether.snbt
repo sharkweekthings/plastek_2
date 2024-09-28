@@ -267,6 +267,163 @@
 			x: 0.5d
 			y: -2.0d
 		}
+		{
+			dependencies: ["0321498986476F76"]
+			id: "6FCE84CCF8172CA2"
+			shape: "diamond"
+			tasks: [{
+				id: "7B2376C20775E059"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Cataclysm"
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6FCE84CCF8172CA2"]
+			id: "77218C86EFEFBAF5"
+			subtitle: "Eye of Monstrous"
+			tasks: [{
+				id: "77766228390408C5"
+				item: "cataclysm:monstrous_eye"
+				type: "item"
+			}]
+			title: "Find a Soul Forge"
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6FCE84CCF8172CA2"]
+			id: "042A993BEA012BF4"
+			subtitle: "Eye of Flame"
+			tasks: [{
+				id: "75A95C79B458E344"
+				item: "cataclysm:flame_eye"
+				type: "item"
+			}]
+			title: "Find a Burning Arena"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6FCE84CCF8172CA2"]
+			id: "3DA1C59232ADA7A2"
+			tasks: [{
+				advancement: "cataclysm:find_burning_arena"
+				criterion: ""
+				id: "3A5367C6771427FC"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6FCE84CCF8172CA2"]
+			id: "4D92935EE4719396"
+			tasks: [{
+				advancement: "cataclysm:find_soul_black_smith"
+				criterion: ""
+				id: "6AD6E28C369AE3C7"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4D92935EE4719396"]
+			id: "22316E8BA45579FF"
+			tasks: [{
+				advancement: "cataclysm:kill_monstrosity"
+				criterion: ""
+				id: "32DABAA10B012497"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3DA1C59232ADA7A2"]
+			id: "49CA5209F768CC39"
+			tasks: [{
+				advancement: "cataclysm:kill_revenant"
+				criterion: ""
+				id: "12933CE8311416CB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["49CA5209F768CC39"]
+			id: "32CD8F4B9D5EBA8B"
+			tasks: [{
+				advancement: "cataclysm:kill_ignis"
+				criterion: ""
+				id: "335521F9A99BF8BD"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"32CD8F4B9D5EBA8B"
+				"22316E8BA45579FF"
+			]
+			icon: {
+				Count: 1
+				id: "blue_skies:loot_bag_alchemist"
+				tag: {
+					LootTable: "blue_skies:loot_bags/alchemist/common"
+					Rarity: 0
+				}
+			}
+			id: "2BCD36C3802E609F"
+			rewards: [
+				{
+					id: "38EAC1001737EE99"
+					item: "mysticalagriculture:awakened_draconium_seeds"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "03B92B49F7B3D520"
+					item: {
+						Count: 1
+						id: "productivebees:spawn_egg_configurable_bee"
+						tag: {
+							EntityTag: {
+								type: "productivebees:chaos"
+							}
+						}
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "11D17C4D917721F5"
+					item: "mysticalagradditions:awakened_draconium_crux"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "690D4D90DB43BFE8"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D49F4555AB39806"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			title: "Nether Rewards"
+			x: 7.0d
+			y: -4.5d
+		}
 	]
 	title: "Nether"
 }
