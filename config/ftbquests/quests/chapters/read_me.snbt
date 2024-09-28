@@ -121,7 +121,7 @@
 			description: [
 				"Progression is gated behind various quests, and &6Totally Harmonius Item Stages&r. &aAs you make your way through the pack you will unlock new mods and mod features&r."
 				""
-				"&aStorage is not gated&r, so you could in theory build an AE2 system in Age 1, but you wouldn't have any real way of powering it until Age 2."
+				"&aStorage is not gated&r, so you could in theory build an &6AE2&r system in Age 1, but you wouldn't have any real way of powering it until Age 2."
 			]
 			icon: "minecraft:map"
 			id: "57A6C5F1F66202C7"
@@ -426,13 +426,19 @@
 		{
 			dependencies: ["7DA184125BC90240"]
 			description: [
-				"Nope. "
+				"&6Better Combat&r improves on combat as a whole. "
 				""
-				"Nothing special about ores this time. All ores use the vanilla, or the mod defaults for Y locations! "
+				"You'll find that &aattacks now have combos you can use by executing multiple swings in a row&r. You can also now &ahold down your attack button to keep on attacking&r. "
 				""
-				"Some ores have been disabled to prevent duplicate ores, and some ores have been renamed and been given a different loot table. "
+				"Got yourself &atwo one handed weapons&r? Try &aDual Wielding&r. With &aone weapon on your hotbar, and one weapon in your offhand&r, you can wield two different weapons. "
 			]
-			icon: "minecraft:iron_ore"
+			icon: {
+				Count: 1
+				id: "aether:vampire_blade"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "2953D10883305166"
 			shape: "square"
 			tasks: [{
@@ -440,7 +446,7 @@
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "Ores"
+			title: "Combat"
 			x: -0.5d
 			y: -1.5d
 		}
