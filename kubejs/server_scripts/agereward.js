@@ -3,7 +3,7 @@
 //// renik
 // The idea for this script came from a modpack called Decursio Project and was originally Authored by Lady Lexxie and Alexandr
 
-FTBQuestsEvents.customReward('370EFDCA51E22621', event => {
+FTBQuestsEvents.customReward('48A96B2C9212C592', event => {
   event.server.runCommandSilent(`thitemstages add ${event.player.username} age_1`)
   event.server.runCommandSilent(`ftbranks add ${event.player.username} age_1`)
   event.server.runCommandSilent(`improvedmobs difficulty player ${event.player.username} set 20`) // Start Age 1 at 20
@@ -35,7 +35,7 @@ FTBQuestsEvents.customReward('0C65D4EE9C314A07', event => {
 FTBQuestsEvents.customReward('7734F29B02A3CAC7', event => {
   event.server.runCommandSilent(`thitemstages add ${event.player.username} age_5`)
   event.server.runCommandSilent(`ftbranks add ${event.player.username} age_5`)
-  event.server.runCommandSilent(`improvedmobs difficulty player ${event.player.username} set 500`) // 100 - 250
+  event.server.runCommandSilent(`improvedmobs difficulty player ${event.player.username} set 200`) // 200 - 250
   event.server.runCommandSilent(`tell ${event.player.username} Welcome to Age 5!`)
 })
 

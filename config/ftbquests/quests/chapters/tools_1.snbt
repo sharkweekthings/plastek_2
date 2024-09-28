@@ -680,7 +680,7 @@
 				""
 				"&cWARNING&r: While &6Ultiminer&r is a great way to mine a lot of blocks at once, it consumes a significant amount of food when you use it. "
 				""
-				"If you want to mine a lot of blocks you can get a &bFeeding Upgrade&r for your &bBackpack&r and throw a lot of food in there. "
+				"If you want to mine a lot of blocks you can get a &bFeeding Upgrade&r for your &bBackpack&r and throw a lot of food in there. &cJust be careful about adding anything with Sugars, so it doesn't go above 70%&r."
 			]
 			id: "656B3891DDB47892"
 			rewards: [
@@ -740,6 +740,7 @@
 				}
 			]
 			shape: "square"
+			subtitle: "This temporary quest is to resolve an issue with the mod Natural Progression"
 			tasks: [{
 				id: "44BC09DD8025BBE1"
 				title: "Ok"

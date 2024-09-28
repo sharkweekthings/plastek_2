@@ -11,7 +11,9 @@
 		{
 			dependencies: ["30F9D708441CB9FC"]
 			description: [
-				"To start Age 1 you will need to click through all of the Read Me quests."
+				"To start &6Age 1&r you will need to click through all of the Read Me quests."
+				""
+				"The &bHealing Flask&r that you receive as a reward for this quest will let you heal up to &c3 times before it needs a recharge&r. You can &arecharge it at any Campfire&r, &lso don't lose it!&r Later you will be able to make better flasks that hold more charges."
 				""
 				"&a&oHere is a clickable link for where you should start next&r: &r"
 				""
@@ -162,8 +164,19 @@
 					type: "item"
 				}
 				{
+					id: "7DC1E497AD011710"
+					item: {
+						Count: 1
+						id: "healingflasks:healing_flask"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
 					icon: "supplementaries:sign_post_oak"
-					id: "370EFDCA51E22621"
+					id: "48A96B2C9212C592"
 					title: "Start Age 1"
 					type: "custom"
 				}
@@ -183,7 +196,7 @@
 				"3A56D7945D8B8C54"
 				"55F9A14778CDE8EB"
 			]
-			description: ["To start Age 2 you will need to craft a Precision Mechanism."]
+			description: ["To start &6Age 2&r you will need to craft a &bPrecision Mechanism&r."]
 			icon: "industrialforegoing:machine_frame_supreme"
 			id: "21AEBF159A033102"
 			rewards: [{
@@ -210,7 +223,7 @@
 				"1D9F4F8797E85F23"
 				"357E3AD70337910B"
 			]
-			description: ["To start Age 3 you will need to craft 1 of each type of &bMachine Frame&r."]
+			description: ["To start &6Age 3&r you will need to craft 1 of each type of &bMachine Frame&r."]
 			icon: "pneumaticcraft:printed_circuit_board"
 			id: "399379D6E1029527"
 			rewards: [{
@@ -234,7 +247,7 @@
 				"399379D6E1029527"
 				"3358AA85460F3437"
 			]
-			description: ["To start Age 4 you will need to craft a Finished PCB."]
+			description: ["To start &6Age 4&r you will need to craft a &bFinished PCB&r."]
 			icon: "draconicevolution:reactor_core"
 			id: "1336CBEE426C4F5A"
 			rewards: [{
@@ -258,7 +271,7 @@
 				"1336CBEE426C4F5A"
 				"5D8542C39BDECE33"
 			]
-			description: ["To start Age 5 you will need to craft an Antimatter Pellet."]
+			description: ["To start &6Age 5&r you will need to craft an &dAntimatter Pellet&r."]
 			icon: "ae2:creative_item_cell"
 			id: "605AD830BC9CB508"
 			rewards: [{
@@ -299,7 +312,9 @@
 				""
 				"&bPlastim&r released a toxin worse than a &6Mekanism&r &9Fission Reactor&r&c going nuclear in your base&r.  This toxin destroyed the crops, people, wildlife, weirdly, the &4Piglin&r seemed resistant to it, though. "
 				""
-				"Remnants of &bPlastim&r can be found throughout the ocean today. While the &amaterial itself is no longer harmful to us&r, &cthe land it's embedded into is forever cursed&r. &9The Market People&r take &bPlastim Scrap&r as their preferred currency."
+				"Remnants of &bPlastim&r can be found throughout the ocean today. While the &amaterial itself is no longer harmful to us&r, &cthe land it's embedded into is forever cursed&r and hurts if you touch it. "
+				""
+				"&9The Market People&r take &bPlastim Scrap&r as their preferred currency."
 				""
 				"To obtain the scrap from &bPlastim Bottles&r and &bPlastim Bags&r, you'll need to find a way to crush them up so you can get that sweet, non toxic, &bPlastim Scrap&r and buy stuff from a &9Market&r person. "
 			]
