@@ -15,6 +15,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["3A56D7945D8B8C54"]
 			description: [
 				"You might have hit a tree, maybe you hurt yourself, who knows. "
 				""
@@ -60,6 +61,12 @@
 		{
 			dependencies: ["29B8689F4BABE2A9"]
 			id: "6BB77F47FC3E6965"
+			rewards: [{
+				id: "084594A7F99C060B"
+				item: "pamhc2foodcore:rabbitpotpieitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "2549ACBBA9806BF4"
@@ -78,6 +85,12 @@
 		{
 			dependencies: ["29B8689F4BABE2A9"]
 			id: "394E90D4A73CD20E"
+			rewards: [{
+				id: "34327CEE47982293"
+				item: "pamhc2foodextended:citrussaladitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "6317297578A537D7"
@@ -114,6 +127,12 @@
 		{
 			dependencies: ["089E5A8387186778"]
 			id: "02E8A57F9B96CEA9"
+			rewards: [{
+				id: "0500AACBB3C5A529"
+				item: "pamhc2foodextended:baconwrappeddatesitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "075F62F6CF7528F0"
@@ -132,6 +151,12 @@
 		{
 			dependencies: ["089E5A8387186778"]
 			id: "59407512A217AE6B"
+			rewards: [{
+				id: "7B0676906D06F9A7"
+				item: "pamhc2foodcore:carrotmuffinitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "5426BD39841D4BF9"
@@ -160,11 +185,17 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 5.0d
+			x: 5.5d
+			y: 3.0d
 		}
 		{
 			id: "4EC818A849D61B8B"
+			rewards: [{
+				id: "0A2985CFD6D3EF77"
+				item: "pamhc2foodextended:cheesesteakitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "27726F31A77D3811"
@@ -177,11 +208,17 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: 5.5d
+			y: 2.0d
 		}
 		{
 			id: "1E9BE701B5E51C9C"
+			rewards: [{
+				id: "72A6FCBA4F706732"
+				item: "pamhc2foodcore:cheesecakeitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "7BC537FE45B1816B"
@@ -194,8 +231,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: 5.5d
+			y: 4.0d
 		}
 		{
 			id: "0216F652856C97DE"
@@ -211,8 +248,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 7.5d
+			x: 6.0d
+			y: 5.5d
 		}
 		{
 			id: "06414155DED4D2F2"
@@ -228,11 +265,17 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 7.5d
+			x: 8.0d
+			y: 5.5d
 		}
 		{
 			id: "548895FEA0AB8009"
+			rewards: [{
+				id: "581FF244266426C2"
+				item: "pamhc2foodextended:bratwurstitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "768162C880356A9B"
@@ -246,10 +289,16 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 6.0d
+			y: 2.5d
 		}
 		{
 			id: "577726B9BC8B4186"
+			rewards: [{
+				id: "19D7B22A2800DCE0"
+				item: "farmersdelight:stuffed_potato"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "47758560AB54D0B2"
@@ -262,8 +311,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: 6.0d
+			x: 4.5d
+			y: 3.5d
 		}
 		{
 			id: "4AFF03A430507DBD"
@@ -278,8 +327,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 7.5d
+			x: 7.0d
+			y: 5.5d
 		}
 		{
 			id: "147992C2FD0D2031"
@@ -295,8 +344,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: 8.5d
+			x: 6.5d
+			y: 6.5d
 		}
 		{
 			id: "3499E858EEFA6EB2"
@@ -312,8 +361,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: 8.5d
+			x: 7.5d
+			y: 6.5d
 		}
 		{
 			id: "4A5342F08CD5D21D"
@@ -328,8 +377,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 7.5d
+			x: 2.5d
+			y: 6.5d
 		}
 		{
 			id: "23D911160352885B"
@@ -344,8 +393,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 7.5d
+			x: 3.5d
+			y: 6.5d
 		}
 		{
 			id: "231358939AE05CAF"
@@ -360,8 +409,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 7.5d
+			x: 4.5d
+			y: 6.5d
 		}
 		{
 			id: "729DFA90ED7E1ACE"
@@ -376,8 +425,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
-			y: 8.5d
+			x: 3.0d
+			y: 7.5d
 		}
 		{
 			id: "24918F2C1D335A46"
@@ -392,8 +441,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.5d
-			y: 8.5d
+			x: 4.0d
+			y: 7.5d
 		}
 		{
 			id: "4A9D7282323248AB"
@@ -408,8 +457,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 10.1d
+			x: 9.5d
+			y: 6.6d
 		}
 		{
 			id: "04F8661111EC36C5"
@@ -424,8 +473,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 10.1d
+			x: 10.5d
+			y: 6.6d
 		}
 		{
 			id: "160DD5656DBFECCF"
@@ -440,8 +489,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 10.1d
+			x: 11.5d
+			y: 6.6d
 		}
 		{
 			id: "54FE62D357D827BC"
@@ -456,8 +505,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
-			y: 11.1d
+			x: 10.0d
+			y: 7.6d
 		}
 		{
 			id: "03A0B8C7C20D47CA"
@@ -472,11 +521,17 @@
 				}
 				type: "item"
 			}]
-			x: 9.5d
-			y: 11.1d
+			x: 11.0d
+			y: 7.6d
 		}
 		{
 			id: "2D5416BABE0CCD96"
+			rewards: [{
+				id: "21E9467541A3EA3D"
+				item: "pamhc2foodextended:steaktartareitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "1F9766B7DA6C69BE"
@@ -489,11 +544,17 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 5.0d
+			x: 8.5d
+			y: 2.0d
 		}
 		{
 			id: "1F5D0EB248ED82F7"
+			rewards: [{
+				id: "176142056BE51B10"
+				item: "pamhc2foodextended:potatoskinsitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "1B29B22A9AEB68FC"
@@ -506,11 +567,17 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 5.0d
+			x: 8.5d
+			y: 4.0d
 		}
 		{
 			id: "1B30586171734AB1"
+			rewards: [{
+				id: "5B84CF4654F808A3"
+				item: "pamhc2foodextended:chickentendersitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "5428702C791083AE"
@@ -523,11 +590,17 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
-			y: 6.0d
+			x: 9.5d
+			y: 2.5d
 		}
 		{
 			id: "56BE817ADEAF99E4"
+			rewards: [{
+				id: "01BEBA52819FF059"
+				item: "pamhc2foodextended:leekbaconsoupitem"
+				random_bonus: 4
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "4DD7CFB190E438FB"
@@ -541,7 +614,7 @@
 				type: "item"
 			}]
 			x: 9.5d
-			y: 6.0d
+			y: 3.5d
 		}
 		{
 			dependencies: [
@@ -571,9 +644,9 @@
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "Unlock Silver Equipment"
-			x: 5.0d
-			y: 3.5d
+			title: "Unlocking Silver Equipment"
+			x: 3.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -603,9 +676,9 @@
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "Unlock Iron Equipment"
-			x: 9.0d
-			y: 3.5d
+			title: "Unlocking Iron Equipment"
+			x: 11.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -633,7 +706,7 @@
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "Unlock Copper Equipment"
+			title: "Unlocking Copper Equipment"
 			x: 7.0d
 			y: 1.5d
 		}
@@ -666,8 +739,8 @@
 				type: "checkmark"
 			}]
 			title: "Unlock All Other Equipment"
-			x: 5.0d
-			y: 10.0d
+			x: 7.0d
+			y: 8.0d
 		}
 		{
 			dependencies: [
