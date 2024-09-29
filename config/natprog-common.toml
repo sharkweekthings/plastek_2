@@ -17,7 +17,7 @@
 	#The chance (out of 100) that a bone can drop from the entities in 'boneDropMobs'.
 	#Setting this to 0 disables this feature
 	#Range: 0 ~ 100
-	boneDropFromMobsChance = 75
+	boneDropFromMobsChance = 70
 	#Setting this to true will allow players to place Twigs by Right-Clicking a Stick on a solid surface
 	areTwigsPlaceable = true
 	#The chance (out of 100) for bone to be created via knapping.
