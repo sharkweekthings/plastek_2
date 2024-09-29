@@ -308,6 +308,11 @@
 		}
 		{
 			dependencies: ["6FCE84CCF8172CA2"]
+			description: [
+				"Like the other fights, enchanted Netherite or better is suggested. "
+				""
+				"You may only kill 2 Ignited Revenant's per Burning Arena. "
+			]
 			id: "3DA1C59232ADA7A2"
 			tasks: [{
 				advancement: "cataclysm:find_burning_arena"
@@ -320,6 +325,7 @@
 		}
 		{
 			dependencies: ["6FCE84CCF8172CA2"]
+			description: ["Enchanted Netherite or better gear is suggested for this fight. Fire Resistance will also greatly assist in making the fight easier. "]
 			id: "4D92935EE4719396"
 			tasks: [{
 				advancement: "cataclysm:find_soul_black_smith"
@@ -332,7 +338,13 @@
 		}
 		{
 			dependencies: ["4D92935EE4719396"]
+			description: [
+				"If you aren't within melee range the boss may launch a projectile at you. Once the projectile lands, it will summon a pool of lava. You can place some Netherrack down to stop the spread of lava.'"
+				""
+				"If you're in melee range, the boss will use a melee attack and slam the ground, dealing damage and knocking you up, then you'll take additional fall damage.      "
+			]
 			id: "22316E8BA45579FF"
+			subtitle: "Defeat the Netherite Monstrosity"
 			tasks: [{
 				advancement: "cataclysm:kill_monstrosity"
 				criterion: ""
@@ -344,7 +356,15 @@
 		}
 		{
 			dependencies: ["3DA1C59232ADA7A2"]
+			description: [
+				"You will want to bring a Sword or Axe to battle this boss. "
+				""
+				"The boss will charge at you while spinning it's shields. This will cause damage and knock y ou back. The boss also has a breath attack that will blind you and cause damage, as well as summoning a bone storm at you. "
+				""
+				"With this boss defeated, you can challenge Ignis."
+			]
 			id: "49CA5209F768CC39"
+			subtitle: "Defeat the Ignited Revenant"
 			tasks: [{
 				advancement: "cataclysm:kill_revenant"
 				criterion: ""
@@ -356,7 +376,21 @@
 		}
 		{
 			dependencies: ["49CA5209F768CC39"]
+			description: [
+				"Ignis is considered one of the most challenging bosses in the Cataclysm mod. "
+				""
+				"This boss will take you through 3 phases."
+				""
+				"If the boss hits you, it will return a decent portion of it's healthbar and apply a debuff that reduces your armor. "
+				""
+				"During the 3 phases, Ignis will launch Fireballs at you which is fairly easy to dodge, it will also jab at you with a jousting attack, and there will be multiple shockwave attacks that can pull you in. "
+				""
+				"During Phase 3 Ignis will increase the frequency of his attacks, as well as drop his shield; leaving him exposed to ranged attacks."
+				""
+				"If you have the Void Core from the Ruined Citadel, you can make easier work of Ignis by keeping your distance from him. Pair this with the Wither Shoulder Assault Weapon, you can do a pretty decent amount of damnage to Ignis all from range."
+			]
 			id: "32CD8F4B9D5EBA8B"
+			subtitle: "Defeat Ignis"
 			tasks: [{
 				advancement: "cataclysm:kill_ignis"
 				criterion: ""

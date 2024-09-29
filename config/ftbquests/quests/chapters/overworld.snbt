@@ -341,7 +341,7 @@
 				type: "checkmark"
 			}]
 			title: "When Dungeons Arise"
-			x: 11.5d
+			x: 11.0d
 			y: -3.0d
 		}
 		{
@@ -353,7 +353,7 @@
 				id: "4CC38096CD97DBAE"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: -2.0d
 		}
 		{
@@ -365,7 +365,7 @@
 				id: "7E38477A4E69292D"
 				type: "advancement"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: -2.0d
 		}
 		{
@@ -377,7 +377,7 @@
 				id: "1DDC6E7D8096A17C"
 				type: "advancement"
 			}]
-			x: 11.0d
+			x: 10.5d
 			y: -2.0d
 		}
 		{
@@ -389,7 +389,7 @@
 				id: "2B3779C3F4D56AA9"
 				type: "advancement"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: -2.0d
 		}
 		{
@@ -401,7 +401,7 @@
 				id: "2CF21268161D1625"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 12.5d
 			y: -2.0d
 		}
 		{
@@ -413,7 +413,7 @@
 				id: "73DF952D34AB0B49"
 				type: "advancement"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: -2.0d
 		}
 		{
@@ -425,7 +425,7 @@
 				id: "1B5CAD88134B3C78"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: -1.0d
 		}
 		{
@@ -437,7 +437,7 @@
 				id: "568374622E6B718F"
 				type: "advancement"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: -1.0d
 		}
 		{
@@ -449,7 +449,7 @@
 				id: "64C82D61E64893D9"
 				type: "advancement"
 			}]
-			x: 11.0d
+			x: 10.5d
 			y: -1.0d
 		}
 		{
@@ -461,7 +461,7 @@
 				id: "1A852EBC4CA34557"
 				type: "advancement"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: -1.0d
 		}
 		{
@@ -474,7 +474,7 @@
 				id: "36F997DC4D8CF2F4"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 12.5d
 			y: -1.0d
 		}
 		{
@@ -486,7 +486,7 @@
 				id: "4DF2756D767D7723"
 				type: "advancement"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: 0.0d
 		}
 		{
@@ -498,7 +498,7 @@
 				id: "0B06C3E250AFD212"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: 0.0d
 		}
 		{
@@ -510,7 +510,7 @@
 				id: "78829FA300FC548E"
 				type: "advancement"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: 0.0d
 		}
 		{
@@ -522,7 +522,7 @@
 				id: "3166D99AF6E61A73"
 				type: "advancement"
 			}]
-			x: 11.0d
+			x: 10.5d
 			y: 0.0d
 		}
 		{
@@ -534,7 +534,7 @@
 				id: "34FB1185189B3B2B"
 				type: "advancement"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: 0.0d
 		}
 		{
@@ -546,7 +546,7 @@
 				id: "1F3C8172E05650CB"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 12.5d
 			y: 0.0d
 		}
 		{
@@ -558,7 +558,7 @@
 				id: "760E217907AAEB50"
 				type: "advancement"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: 1.0d
 		}
 		{
@@ -570,7 +570,7 @@
 				id: "6703630D39B74F57"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: 1.0d
 		}
 		{
@@ -586,7 +586,7 @@
 				id: "4D6FEDB0CFF4B925"
 				type: "advancement"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: 1.0d
 		}
 		{
@@ -598,7 +598,7 @@
 				id: "540C57840C4AB3ED"
 				type: "advancement"
 			}]
-			x: 11.0d
+			x: 10.5d
 			y: 1.0d
 		}
 		{
@@ -610,7 +610,7 @@
 				id: "7A7E15B86D8289E4"
 				type: "advancement"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: 1.0d
 		}
 		{
@@ -622,7 +622,7 @@
 				id: "404F1CF345A61069"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 12.5d
 			y: 1.0d
 		}
 		{
@@ -634,7 +634,7 @@
 				id: "603E0F4D5F77B435"
 				type: "advancement"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: -1.0d
 		}
 		{
@@ -646,7 +646,7 @@
 				id: "26955490A5BEA2AD"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: 2.0d
 		}
 		{
@@ -658,7 +658,7 @@
 				id: "50981D02E3E33365"
 				type: "advancement"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: 2.0d
 		}
 		{
@@ -670,7 +670,7 @@
 				id: "653DFBDD97E8E0D3"
 				type: "advancement"
 			}]
-			x: 11.0d
+			x: 10.5d
 			y: 2.0d
 		}
 		{
@@ -682,7 +682,7 @@
 				id: "237FE24FC7180E86"
 				type: "advancement"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: 2.0d
 		}
 		{
@@ -694,7 +694,7 @@
 				id: "49DBB14A99EE5ABC"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 12.5d
 			y: 2.0d
 		}
 		{
@@ -706,7 +706,7 @@
 				id: "1232E3838DAD0B47"
 				type: "advancement"
 			}]
-			x: 13.0d
+			x: 12.5d
 			y: 3.0d
 		}
 		{
@@ -718,7 +718,7 @@
 				id: "5EDB5337CB8AE8CF"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: 3.0d
 		}
 		{
@@ -730,7 +730,7 @@
 				id: "6B51418F78FD74FD"
 				type: "advancement"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: 3.0d
 		}
 		{
@@ -742,7 +742,7 @@
 				id: "14B70283F3924DA6"
 				type: "advancement"
 			}]
-			x: 11.0d
+			x: 10.5d
 			y: 3.0d
 		}
 		{
@@ -754,7 +754,7 @@
 				id: "5EBC71A3F713FC40"
 				type: "advancement"
 			}]
-			x: 12.0d
+			x: 11.5d
 			y: 3.0d
 		}
 		{
@@ -766,7 +766,7 @@
 				id: "59026F1562E7C891"
 				type: "advancement"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: 2.0d
 		}
 		{
@@ -778,7 +778,7 @@
 				id: "61355726F6967D58"
 				type: "advancement"
 			}]
-			x: 14.0d
+			x: 13.5d
 			y: 3.0d
 		}
 		{
@@ -790,7 +790,7 @@
 				id: "41043453A6E57811"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 11.0d
 			y: 4.0d
 		}
 		{
@@ -827,7 +827,13 @@
 		}
 		{
 			dependencies: ["11FCA8E68D6EDA0F"]
+			description: [
+				"Preparing for this boss will require you to have some fully enchanted Netherite gear or better, as well as a Brush. "
+				""
+				"Once inside the Cursed Pyramid you will find Suspicious Sand. Take your Brush and begin brushing. You're looking for a Necklace of the Desert which will start the Ancient Remnant fight. "
+			]
 			id: "75948D3D8A4200E1"
+			subtitle: "Boss Preperation"
 			tasks: [{
 				advancement: "cataclysm:find_cursed_pyramid"
 				criterion: ""
@@ -840,7 +846,15 @@
 		}
 		{
 			dependencies: ["11FCA8E68D6EDA0F"]
+			description: [
+				"Preperation for this boss is about the same as the others. You should be wearing enchanted Netherite gear or better, some Fire Resistances aren't a bad idea, either.  "
+				""
+				"You will need a Nether Star to activate this boss. "
+				""
+				"An Infernal Forge makes a great weapon for this boss, can be obtained by defeating the Netherite Monstrosity. "
+			]
 			id: "33AEA342CD1EAA00"
+			subtitle: "Boss Preperation"
 			tasks: [{
 				advancement: "cataclysm:find_ancient_factory"
 				criterion: ""
@@ -881,6 +895,7 @@
 				}
 				type: "item"
 			}]
+			subtitle: "Boss Preperation"
 			tasks: [
 				{
 					advancement: "cataclysm:find_sunken_city"
@@ -944,9 +959,10 @@
 				""
 				"It will cycle between several different attacks like lasers, mines, pulling you in with it's tongue, a bite attack, and a purple vortex that will vaccuum you up and cause damage. "
 				""
-				"If you get speared you can quickly try to melee the boss for bonus damage, if you can survive. "
+				"If you get speared with the tongue attack and pulled close to the boss, you can quickly try to melee the boss for bonus damage, if you can survive. "
 			]
 			id: "21D5A84BD2D885B2"
+			subtitle: "Defeat the Leviathan"
 			tasks: [{
 				advancement: "cataclysm:kill_leviathan"
 				criterion: ""
@@ -958,7 +974,13 @@
 		}
 		{
 			dependencies: ["75948D3D8A4200E1"]
+			description: [
+				"The Ancient Remnant has several attacks to look out for. It will charge at you, throw tornados at you, bite you, tail whip and smash, shockwave, and send sand falling down on you."
+				""
+				"Continue dodging attacks and work on the boss with a sword, or other melee type weapon as your bow will do nothing."
+			]
 			id: "3CB91E9A1DE557FC"
+			subtitle: "Defeat the Ancient Remnant"
 			tasks: [{
 				advancement: "cataclysm:kill_remnant"
 				criterion: ""
@@ -970,7 +992,17 @@
 		}
 		{
 			dependencies: ["33AEA342CD1EAA00"]
+			description: [
+				"This boss has 2 phases with the second phase starting at 50%, and will cycle between Missile, Rocket, and Laser modes. "
+				""
+				"If the attacks hit you, it may apply a Withering aeffect so be prepared. "
+				""
+				"Every so often the boss will charge up and shoot a larger Laser attack at you called the Death Laser. If you can bait the Death Laser attack into an EMP block in the boss room, you can trigger an EMP which will disable the boss for a few moments. "
+				""
+				"At 50% the boss will become shielded making it immune to arrow attacks, and giving it Regeneration. "
+			]
 			id: "6B741B1D841318D0"
+			subtitle: "Defeat the Harbinger"
 			tasks: [{
 				advancement: "cataclysm:kill_harbinger"
 				criterion: ""

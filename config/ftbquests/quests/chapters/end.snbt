@@ -132,6 +132,7 @@
 		}
 		{
 			dependencies: ["594A683C3D375208"]
+			description: ["Preperation for the next two also requires enchanted Netherite gear or better."]
 			id: "7B1F4EF6DF4233B4"
 			tasks: [{
 				advancement: "cataclysm:find_ruined_citadel"
@@ -145,6 +146,7 @@
 		{
 			dependencies: ["7B1F4EF6DF4233B4"]
 			id: "38AA05F10498D676"
+			subtitle: "Defeat the Ender Golem"
 			tasks: [{
 				advancement: "cataclysm:kill_ender_golem"
 				criterion: ""
@@ -157,6 +159,7 @@
 		{
 			dependencies: ["38AA05F10498D676"]
 			id: "1AD567B3ACC50DF9"
+			subtitle: "Defeat the Chaos Guardian"
 			tasks: [{
 				advancement: "cataclysm:kill_ender_guardian"
 				criterion: ""
@@ -190,14 +193,25 @@
 					type: "item"
 				}
 				{
+					id: "444C15C89A991BF1"
+					item: "mysticalagriculture:awakened_draconium_seeds"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "42812A3EB06243DE"
+					item: "mysticalagradditions:awakened_draconium_crux"
+					type: "item"
+				}
+				{
 					exclude_from_claim_all: true
-					id: "762FD3B307A388AB"
+					id: "46AB484B3A188F8A"
 					table_id: 4658539685949471833L
 					type: "random"
 				}
 				{
 					exclude_from_claim_all: true
-					id: "12F43419BEB5CCCD"
+					id: "3DD036249756CF23"
 					table_id: 2698554318784890319L
 					type: "random"
 				}

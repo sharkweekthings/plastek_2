@@ -31,23 +31,7 @@
       ]
     },
     {
-      "name": "disc",
-      "conditions": [
-        {
-          "condition": "random_chance_with_looting",
-          "chance": 0.1,
-          "looting_multiplier": 0.1
-        }
-      ],
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "cataclysm:music_disc_ancient_remnant",
-          "weight": 1
-        }
-      ],
-      "rolls": 1,
+      "rolls": 2,
       "entries": [
           {"type": "minecraft:item","name": "born_in_chaos_v1:supreme_measure","weight": 1},
           {"type": "minecraft:item","name": "draconicevolution:item_chaotic_aoe","weight": 1},
@@ -118,6 +102,24 @@
           {"type": "minecraft:item","name": "powah:magmator_starter","weight": 1},
           {"type": "minecraft:item","name": "powah:thermo_generator_spirited","weight": 1},
           {"type": "minecraft:item","name": "tempad:he_who_remains_tempad","weight": 1}
+      ]
+    },
+    {
+      "name": "disc",
+      "conditions": [
+        {
+          "condition": "random_chance_with_looting",
+          "chance": 0.1,
+          "looting_multiplier": 0.1
+        }
+      ],
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:music_disc_ancient_remnant",
+          "weight": 1
+        }
       ]
     }
   ]

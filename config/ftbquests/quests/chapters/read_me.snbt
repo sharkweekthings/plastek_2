@@ -64,6 +64,8 @@
 				"You can find all of these throughout the world. "
 				""
 				"For &6Everlasting Abilities&r the equip cost has been inflated significantly, and you are only allowed to equip 4 total abilities. "
+				""
+				"&6Passive Skill Tree&r is also added to this pack. However, t&ahe only way to obtain skill points is by crafting them&r. &cYou won't be able to craft them until Age 2&r. &aTo access the skill tree press O&r."
 			]
 			icon: {
 				Count: 1
@@ -435,6 +437,8 @@
 				"You'll find that &aattacks now have combos you can use by executing multiple swings in a row&r. You can also now &ahold down your attack button to keep on attacking&r. "
 				""
 				"Got yourself &atwo one handed weapons&r? Try &aDual Wielding&r. With &aone weapon on your hotbar, and one weapon in your offhand&r, you can wield two different weapons. "
+				""
+				"If you &apress R you can do a combat roll&r in the direction you are facing. This has a &ccooldown of 4 seconds between each roll&r, and &cconsumes about 1 food per roll&r. "
 			]
 			icon: {
 				Count: 1
