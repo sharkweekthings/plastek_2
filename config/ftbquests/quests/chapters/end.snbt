@@ -145,6 +145,11 @@
 		}
 		{
 			dependencies: ["7B1F4EF6DF4233B4"]
+			description: [
+				"The Ender Golem is considered a mini boss."
+				""
+				"This guy will hit you with 3 different melee attacks. "
+			]
 			id: "38AA05F10498D676"
 			subtitle: "Defeat the Ender Golem"
 			tasks: [{
@@ -158,6 +163,11 @@
 		}
 		{
 			dependencies: ["38AA05F10498D676"]
+			description: [
+				"I cannot find much information on this one. If you would like to help out, please reach out to me!"
+				""
+				"Thank you :)"
+			]
 			id: "1AD567B3ACC50DF9"
 			subtitle: "Defeat the Chaos Guardian"
 			tasks: [{

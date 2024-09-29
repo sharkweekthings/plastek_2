@@ -814,6 +814,11 @@
 		}
 		{
 			dependencies: ["593641226E054274"]
+			description: [
+				"Cataclysm offers a variety of optional boss challenges for you to take on in the Overworld, Nether, and End."
+				""
+				"Each boss has been updated with customized loot tables. "
+			]
 			id: "11FCA8E68D6EDA0F"
 			shape: "diamond"
 			tasks: [{
