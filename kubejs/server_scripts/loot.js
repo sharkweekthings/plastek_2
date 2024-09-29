@@ -1016,7 +1016,26 @@ LootJS.modifiers((e) => {
   LootEntry.of("statues:display_stand").withWeight(15).limitCount([0, 1]),
   LootEntry.of("statues:azzaro").withWeight(15).limitCount([0, 1]),
   LootEntry.of("statues:rabbit_wh_statue").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("statues:sheep_statue_orange").withWeight(15).limitCount([0, 1])
+  LootEntry.of("statues:sheep_statue_orange").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:copper_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:iron_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:golden_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:simple_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:traveler_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:fisherman_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:assassin_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:healer_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:scholar_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:arsonist_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:fiery_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:armored_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:gilded_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:toxic_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:diamond_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:healing_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:silent_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:bone_quiver").withWeight(15).limitCount([0, 1])
       ]);
 
 // HATS LOOT

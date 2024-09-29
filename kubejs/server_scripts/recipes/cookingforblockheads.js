@@ -12,6 +12,7 @@ ServerEvents.recipes(event => {
   event.remove({id: 'cookingforblockheads:toaster'})
   event.remove({id: 'cookingforblockheads:fridge'})
   event.remove({id: 'cookingforblockheads:fruit_basket'})
+  event.remove({id: 'cookingforblockheads:crafting_book'})
 
 //
 })

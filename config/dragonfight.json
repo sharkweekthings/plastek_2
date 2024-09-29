@@ -1,7 +1,7 @@
 {
   "dragonDifficulty": {
     "desc:": "Sets the dragon difficulty modifier, the higher the more difficult the dragon gets.Scales up mob spawn amount, dragon damage and health aswell as crystal respawn intervals. Note that the difficulty already scales on the playercount involved in the fight, this is a static bonus ontop.default:2, vanilla:0",
-    "dragonDifficulty": 2
+    "dragonDifficulty": 3
   },
   "crystalRespawnTimeModifier": {
     "desc:": "Modifies crystal respawn time, 0.5 = spawns twice as fast, 2 = twice as slow. default:1.0",
@@ -33,7 +33,7 @@
   },
   "dragonXPModifier": {
     "desc:": "Sets the XP drop modifier: default:1.0",
-    "dragonXPModifier": 1.0
+    "dragonXPModifier": 2.0
   },
   "printDragonPhases": {
     "desc:": "Prints the dragon phase in chat if enabled: default:false",
@@ -47,19 +47,49 @@
   "spawnoncrystaldestroy": {
     "desc:": "List of mobs spawning when a crystal is destroyed at range, intended to be flying or ranged to close the gap: e.g. format :  [\"minecraft:zombie\", \"minecraft:creeper\"]",
     "spawnoncrystaldestroy": [
-      "minecraft:phantom"
+      "minecraft:phantom",
+      "minecraft:blaze",
+      "thermal:basalz",
+      "thermal:blitz",
+      "thermal:blizz",
+      "mowziesmobs:naga"
     ]
   },
   "spawnoncrystalrespawn": {
     "desc:": "List of mobs spawning on crystal respawn, intended to be ranged to ward of players from a distance: e.g. format :  [\"minecraft:zombie\", \"minecraft:creeper\"]",
     "spawnoncrystalrespawn": [
-      "minecraft:blaze"
+      "minecraft:phantom",
+      "minecraft:blaze",
+      "thermal:basalz",
+      "thermal:blitz",
+      "thermal:blizz",
+      "mowziesmobs:naga"
     ]
   },
   "spawnwhilelanded": {
     "desc:": "List of mobs spawning while the dragon is sitting in the middle, intended to be melee and not vulnerable to ranged: e.g. format :  [\"minecraft:zombie\", \"minecraft:creeper\"]",
     "spawnwhilelanded": [
-      "minecraft:enderman"
+      "minecraft:enderman",
+      "mutantmonsters:mutant_enderman",
+      "mekanismadditions:baby_enderman",
+      "endermanoverhaul:badlands_enderman",
+      "endermanoverhaul:cave_enderman",
+      "endermanoverhaul:crimson_forest_enderman",
+      "endermanoverhaul:dark_oak_enderman",
+      "endermanoverhaul:desert_enderman",
+      "endermanoverhaul:end_enderman",
+      "endermanoverhaul:end_islands_enderman",
+      "endermanoverhaul:flower_fields_enderman",
+      "endermanoverhaul:ice_spikes_enderman",
+      "endermanoverhaul:mushroom_fields_enderman",
+      "endermanoverhaul:nether_wastes_enderman",
+      "endermanoverhaul:coral_enderman",
+      "endermanoverhaul:savanna_enderman",
+      "endermanoverhaul:snowy_enderman",
+      "endermanoverhaul:soulsand_valley_enderman",
+      "endermanoverhaul:swamp_enderman",
+      "endermanoverhaul:warped_forest_enderman",
+      "endermanoverhaul:windswept_hills_enderman"
     ]
   }
 }

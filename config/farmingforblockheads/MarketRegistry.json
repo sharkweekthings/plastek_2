@@ -179,6 +179,7 @@
     {"output": {"item": "minecraft:lily_of_the_valley","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 15},"category": "flowers"},
     {"output": {"item": "minecraft:oxeye_daisy","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 15},"category": "flowers"},
     {"output": {"item": "minecraft:poppy","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 15},"category": "flowers"},
+    {"output": {"item": "cookingforblockheads:crafting_book","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 32},"category": "shopping"},
     {"output": {"item": "apotheosis:common_material","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 5},"category": "shopping"},
     {"output": {"item": "apotheosis:rare_material","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 11},"category": "shopping"},
     {"output": {"item": "apotheosis:epic_material","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 14},"category": "shopping"},

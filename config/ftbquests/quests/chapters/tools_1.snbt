@@ -17,19 +17,19 @@
 		{
 			dependencies: ["3A56D7945D8B8C54"]
 			description: [
-				"You might have hit a tree, maybe you hurt yourself, who knows. "
+				"You might have hit a tree, maybe you hurt yourself, who knows."
 				""
-				"Natural Progression changes up the early game slightly, so heres what you need to know:"
+				"&6Natural Progression&r changes up the early game slightly, so heres what you need to know:"
 				""
-				"In order to make your first tool, the Flint Axe -- you'll need to find Sticks and Pebbles on the ground. Place some Pebbles on your hotbar, and some in your offhand and start smashing them together. This should get you some Flint!"
+				"In order to make your first tool, the &bFlint Axe&r -- you'll need to find &bSticks&r and &bPebbles&r on the ground. Place some &bPebbles&r on your hotbar, and some in your offhand and start smashing them together. This should get you some &bFlint&r!"
 				""
-				"With Flint you can make a Flint Axe. "
+				"With Fl&bint&r you can make a &bFlint Axe&r. "
 				""
-				"With a Flint Axe you can start chopping down trees, and killing mobs to get Bone. "
+				"With a &bFlint Axe&r you can start chopping down trees, and killing mobs to get &bBone&r. "
 				""
-				"To chop down a tree you should right click the tree to first strip it, then chop it. "
+				"To chop down a tree you should &aright click the tree to first strip it&r, then chop it. "
 				""
-				"To make 1 Plank you will need to craft the Hatchet together with the Stripped Log. When you get your first Saw, you will be able to turn 1 Stripped Log into 4 Planks."
+				"To make &b1 Plank&r you will need to craft the &bHatchet&r together with the &bStripped Log&r. When you get your first &bSaw&r, you will be able to turn &b1 Stripped Log&r into &b4 Planks&r."
 			]
 			id: "47B600AF3A91F036"
 			shape: "diamond"
@@ -61,12 +61,42 @@
 		{
 			dependencies: ["29B8689F4BABE2A9"]
 			id: "6BB77F47FC3E6965"
-			rewards: [{
-				id: "084594A7F99C060B"
-				item: "pamhc2foodcore:rabbitpotpieitem"
-				random_bonus: 4
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "084594A7F99C060B"
+					item: "pamhc2foodcore:rabbitpotpieitem"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "62EB6494F26A5DE6"
+					item: {
+						Count: 1
+						id: "minecraft:leather_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "287BCFB519E2DB28"
+					item: {
+						Count: 1
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "2549ACBBA9806BF4"
@@ -85,12 +115,42 @@
 		{
 			dependencies: ["29B8689F4BABE2A9"]
 			id: "394E90D4A73CD20E"
-			rewards: [{
-				id: "34327CEE47982293"
-				item: "pamhc2foodextended:citrussaladitem"
-				random_bonus: 4
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "34327CEE47982293"
+					item: "pamhc2foodextended:citrussaladitem"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "670DEC74B33EBC1C"
+					item: {
+						Count: 1
+						id: "minecraft:leather_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "21F4E9F963E17B0B"
+					item: {
+						Count: 1
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "6317297578A537D7"
@@ -127,12 +187,42 @@
 		{
 			dependencies: ["089E5A8387186778"]
 			id: "02E8A57F9B96CEA9"
-			rewards: [{
-				id: "0500AACBB3C5A529"
-				item: "pamhc2foodextended:baconwrappeddatesitem"
-				random_bonus: 4
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "0500AACBB3C5A529"
+					item: "pamhc2foodextended:baconwrappeddatesitem"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "17F9C95447FEF3B7"
+					item: {
+						Count: 1
+						id: "immersive_armors:bone_leggings"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "37CAAC20A7BA4BDA"
+					item: {
+						Count: 1
+						id: "immersive_armors:bone_boots"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "075F62F6CF7528F0"
@@ -151,12 +241,42 @@
 		{
 			dependencies: ["089E5A8387186778"]
 			id: "59407512A217AE6B"
-			rewards: [{
-				id: "7B0676906D06F9A7"
-				item: "pamhc2foodcore:carrotmuffinitem"
-				random_bonus: 4
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "7B0676906D06F9A7"
+					item: "pamhc2foodcore:carrotmuffinitem"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "52448C787038CA5E"
+					item: {
+						Count: 1
+						id: "immersive_armors:bone_helmet"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "644EE29FCAF49BBA"
+					item: {
+						Count: 1
+						id: "immersive_armors:bone_chestplate"
+						tag: {
+							Damage: 0
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				id: "5426BD39841D4BF9"
@@ -623,6 +743,7 @@
 				"548895FEA0AB8009"
 				"577726B9BC8B4186"
 			]
+			description: ["Craft a &bCopper Axe&r, &bPickaxe&r, &bShovel&r, and &bHoe&r to unlock &dSilver Equipment&r."]
 			id: "1F6113D2234C39DD"
 			rewards: [
 				{
@@ -655,6 +776,7 @@
 				"1B30586171734AB1"
 				"56BE817ADEAF99E4"
 			]
+			description: ["Craft a &bSilver Axe&r, &bPickaxe&r, &bShovel&r, and &bHoe&r to unlock &dIron Equipment&r."]
 			id: "06F8EC95A7718D92"
 			rewards: [
 				{
@@ -685,6 +807,7 @@
 				"59407512A217AE6B"
 				"02E8A57F9B96CEA9"
 			]
+			description: ["Craft a &bBone Pickaxe&r, and &bBone Knife&r to start crafting &bCopper&r."]
 			id: "7F1D40E3D99C5160"
 			rewards: [
 				{
@@ -717,6 +840,7 @@
 				"147992C2FD0D2031"
 				"3499E858EEFA6EB2"
 			]
+			description: ["Craft a &bIron Axe&r, &bPickaxe&r, &bShovel&r, and &bHoe&r to unlock &dAll Other Equipment&r."]
 			id: "47CDFFB62C641DEB"
 			rewards: [
 				{

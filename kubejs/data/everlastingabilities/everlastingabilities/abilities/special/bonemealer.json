@@ -1,0 +1,10 @@
+{
+  "type": "everlastingabilities:special_bonemealer",
+  "name": "ability.everlastingabilities.bonemealer",
+  "rarity": "uncommon",
+  "max_level": 5,
+  "xp_per_level": 350,  
+  "condition": {
+  "type": "forge:mod_loaded",
+  "modid": "p2isnotamod"
+}
