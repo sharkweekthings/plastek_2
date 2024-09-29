@@ -10,7 +10,7 @@
 	"baseHealth": 4,
 	"baseSpeed": 0.25,
 	"isFireImmune": true,
-	"conversion": 30,
+	"conversion": 32,
 	"eggLayTime": 6000,
 	"eggColorBackground": "5046272",
 	"eggColorForeground": "1703936",

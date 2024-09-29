@@ -441,8 +441,20 @@
 					type: "item"
 				}
 				{
+					id: "5C5321E068CEADCB"
+					item: "resourcechickens:draconium_awakened_chicken_spawn_egg"
+					random_bonus: 2
+					type: "item"
+				}
+				{
 					exclude_from_claim_all: true
-					id: "7D49F4555AB39806"
+					id: "3D5DF22052FC6939"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48D8FEB92DC00738"
 					table_id: 2698554318784890319L
 					type: "random"
 				}
