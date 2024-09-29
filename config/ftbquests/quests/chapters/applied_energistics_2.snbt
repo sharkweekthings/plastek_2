@@ -998,6 +998,41 @@
 			x: 6.5d
 			y: 3.5d
 		}
+		{
+			dependencies: ["66D1BD51D69AC9DD"]
+			id: "558EE8CCE8808FF9"
+			tasks: [{
+				id: "34A3ED73EE17CA2E"
+				item: "merequester:requester"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			description: ["The ME Requester lets you keep specific items in stock from your network."]
+			id: "66D1BD51D69AC9DD"
+			shape: "diamond"
+			tasks: [{
+				id: "5E8492A4844D430D"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "ME Requester"
+			x: -4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["558EE8CCE8808FF9"]
+			id: "68BD9545CEC70968"
+			tasks: [{
+				id: "6755EFBD71DCB6AC"
+				item: "merequester:requester_terminal"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
 	]
 	title: "Applied Energistics 2"
 }
