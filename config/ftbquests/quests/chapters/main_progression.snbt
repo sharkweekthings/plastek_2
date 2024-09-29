@@ -13,9 +13,11 @@
 			description: [
 				"To start &6Age 1&r you will need to click through all of the Read Me quests."
 				""
-				"The &bHealing Flask&r that you receive as a reward for this quest will let you heal up to &c3 times before it needs a recharge&r. You can &arecharge it at any Campfire&r, &lso don't lose it!&r Later you will be able to make better flasks that hold more charges."
+				"The &bHealing Flask&r that you receive as a reward for this quest will let you heal up to &c3 times before it needs a recharge&r. You can &arecharge it at any Campfire&r, and it is not recoverable, &lso don't lose it!&r Later you will be able to make better flasks that hold more charges."
 				""
 				"&a&oHere is a clickable link for where you should start next&r: &r"
+				""
+				"Age 1 Tools: "
 				""
 				"{ \"text\": \"Sticks, Stones and Bones\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"47B600AF3A91F036\" } } "
 			]

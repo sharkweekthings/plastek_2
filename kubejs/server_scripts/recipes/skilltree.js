@@ -26,6 +26,13 @@ ServerEvents.recipes(event => {
     2: 'mysticalagradditions:insanium_gemstone',
     3: 'mob_grinding_utils:solid_xp_baby'}).id('skilltree:wisdom_scroll')
 
+// Amnesia Scroll
+  event.shaped('skilltree:amnesia_scroll',
+    ['323','212','323'], {
+    1: 'minecraft:paper',
+    2: 'mysticalagradditions:insanium_gemstone',
+    3: 'mob_grinding_utils:solid_xp_baby'}).id('skilltree:amnesia_scroll')
+
 //    
 })
 //

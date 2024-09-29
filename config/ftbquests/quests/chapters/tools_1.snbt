@@ -723,6 +723,8 @@
 				"&6Natural Progression&r mod currently has a bug where all &bSticks&r and &bPebbles&r are spawning underwater. "
 				""
 				"You can accept free &bSticks&r and &bPebbles&r from this &arepeatable quest&r."
+				""
+				"You can also find your own under water, but this is not the intended way for the mod. "
 			]
 			id: "62AA602891B61337"
 			rewards: [
@@ -739,7 +741,7 @@
 					type: "item"
 				}
 			]
-			shape: "square"
+			shape: "heart"
 			subtitle: "This temporary quest is to resolve an issue with the mod Natural Progression"
 			tasks: [{
 				id: "44BC09DD8025BBE1"
