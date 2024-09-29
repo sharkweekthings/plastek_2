@@ -442,12 +442,6 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "690D4D90DB43BFE8"
-					table_id: 4658539685949471833L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
 					id: "7D49F4555AB39806"
 					table_id: 2698554318784890319L
 					type: "random"
