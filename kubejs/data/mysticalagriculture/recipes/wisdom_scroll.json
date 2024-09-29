@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "minecraft:paper"
+  },
+  "ingredients": [
+    {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    },
+    {
+      "item": "mysticalaggraditions:insanium_gemstone"
+    },
+    {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    },
+    {
+      "item": "mysticalaggraditions:insanium_gemstone"
+    },
+    {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    },
+    {
+      "item": "mysticalaggraditions:insanium_gemstone"
+    },
+    {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    },
+    {
+      "item": "mysticalaggraditions:insanium_gemstone"
+    }
+  ],
+  "result": {
+    "item": "skilltree:wisdom_scroll"
+  }
+}

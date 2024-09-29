@@ -1797,8 +1797,8 @@
 				title: "Elevators"
 				type: "item"
 			}]
-			x: -5.0d
-			y: -9.0d
+			x: 7.5d
+			y: -10.0d
 		}
 		{
 			description: [
@@ -1816,8 +1816,48 @@
 				type: "checkmark"
 			}]
 			title: "Elevator ID"
+			x: 6.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["441DFC4FED4A148D"]
+			description: [
+				"Used to attain 1 skill point in the Passive Skill Tree. "
+				""
+				"Click O by default."
+			]
+			id: "374AF11B057114DC"
+			tasks: [{
+				id: "58C42946B7D18A6B"
+				item: "skilltree:wisdom_scroll"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			id: "441DFC4FED4A148D"
+			shape: "diamond"
+			tasks: [{
+				id: "153AFEED66EAB4D1"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Passive Skill Tree"
 			x: -3.5d
 			y: -9.0d
+		}
+		{
+			dependencies: ["441DFC4FED4A148D"]
+			description: ["Used to respec incase you messed up, or want to try something else."]
+			id: "3E767984E40FDB87"
+			tasks: [{
+				id: "425B9BFAB02589BC"
+				item: "skilltree:amnesia_scroll"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.5d
 		}
 	]
 	title: "Utility"
