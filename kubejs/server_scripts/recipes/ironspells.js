@@ -1,17 +1,6 @@
 ////
-// pipez 
+// iron spells 
 //// renik
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-  // event.remove({id: 'irons_spellbooks:frozen_bone_to_bonemeal'})
-
-//
-})
-//
 
 //
 ServerEvents.recipes(event => {

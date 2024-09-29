@@ -1,5 +1,5 @@
 ////
-// pipez 
+// plastek 2 
 //// renik
 
 //

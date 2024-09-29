@@ -1,5 +1,5 @@
 ////
-// pipez 
+// apotheosis 
 //// renik
 
 //
@@ -10,18 +10,5 @@ ServerEvents.recipes(event => {
   event.remove({id: 'apotheosis:potion_charm'})
 
 //
-})
-//
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //ADD
-
-// 
-
-
-//    
 })
 //

@@ -1,5 +1,5 @@
 ////
-// pipez 
+// thermal 
 //// renik
 
 //
@@ -47,12 +47,6 @@ ServerEvents.recipes(event => {
 //
 
   //ADD
-
-// Phytogro
-  // event.shaped('5x thermal:phytogro',
-  //   [' 2 ','111',' 2 '], {
-  //   1: 'prettypipes:pipe',
-  //   2: 'minecraft:chest'}).id('pipez:item_pipe')
 
 // Phytogro
   event.shapeless(Item.of('5x thermal:phytogro'), ['farmersdelight:organic_compost', '#forge:dusts/niter', '#forge:dusts/apatite', 'minecraft:bone_meal']).id('thermal:phytogro_5')

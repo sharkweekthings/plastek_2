@@ -1,5 +1,5 @@
 ////
-// pipez 
+// draconic evolution 
 //// renik
 
 //
@@ -11,18 +11,5 @@ ServerEvents.recipes(event => {
   event.remove({id: 'draconicevolution:modules/item_draconic_flight'})
 
 //
-})
-//
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //ADD
-
-// 
-
-
-//    
 })
 //

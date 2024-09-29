@@ -1,5 +1,5 @@
 ////
-// pipez 
+// mob grinding utils 
 //// renik
 
 //
@@ -12,22 +12,5 @@ ServerEvents.recipes(event => {
 
 
 //
-})
-//
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //ADD
-
-// Item Pipe
-  // event.shaped('4x pipez:item_pipe',
-  //   [' 2 ','111',' 2 '], {
-  //   1: 'prettypipes:pipe',
-  //   2: 'minecraft:chest'}).id('pipez:item_pipe')
-
-
-//    
 })
 //

@@ -1,16 +1,6 @@
 ////
-// pipez 
+// ae2 
 //// renik
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-
-//
-})
-//
 
 //
 ServerEvents.recipes(event => {

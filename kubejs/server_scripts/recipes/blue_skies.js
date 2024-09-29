@@ -1,17 +1,7 @@
 ////
-// pipez 
+// blue skies 
 //// renik
 
-//
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-  // event.remove({id: 'blue_skies:bone_meal_from_azulfo'})
-
-//
-})
-//
 
 //
 ServerEvents.recipes(event => {

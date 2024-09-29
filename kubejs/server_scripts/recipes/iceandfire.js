@@ -1,17 +1,7 @@
 ////
-// pipez 
+// ice and fire 
 //// renik
 
-//
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-  // event.remove({id: 'iceandfire:troll_tusk_bonemeal'})
-  // event.remove({id: 'iceandfire:skull_to_bone_meal'})
-//
-})
-//
 
 //
 ServerEvents.recipes(event => {

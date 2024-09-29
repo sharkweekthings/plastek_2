@@ -1,18 +1,6 @@
 ////
-// pipez 
+// skill tree 
 //// renik
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-  // event.remove({id: 'cataclysm:bone_meal'})
-
-//
-})
-//
-
 //
 ServerEvents.recipes(event => {
 //

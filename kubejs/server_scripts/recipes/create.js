@@ -1,5 +1,5 @@
 ////
-// pipez 
+// create 
 //// renik
 
 //
@@ -28,13 +28,6 @@ ServerEvents.recipes(event => {
 //
 
   //ADD
-
-// Item Pipe
-  // event.shaped('4x pipez:item_pipe',
-  //   [' 2 ','111',' 2 '], {
-  //   1: 'prettypipes:pipe',
-  //   2: 'minecraft:chest'}).id('pipez:item_pipe')
-
 
 // Replace Wheat Dough w/ Create Dough
   event.replaceInput({}, 'farmersdelight:wheat_dough', 'create:dough')

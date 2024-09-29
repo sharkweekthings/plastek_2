@@ -1,5 +1,5 @@
 ////
-// pipez 
+// farmers delight 
 //// renik
 
 //
@@ -15,21 +15,5 @@ ServerEvents.recipes(event => {
   event.remove({id: 'farmersdelight:organic_compost_from_tree_bark'})
 
 //
-})
-//
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //ADD
-
-// Item Pipe
-  // event.shaped('4x pipez:item_pipe',
-  //   [' 2 ','111',' 2 '], {
-  //   1: 'prettypipes:pipe',
-  //   2: 'minecraft:chest'}).id('pipez:item_pipe')
-
-//    
 })
 //

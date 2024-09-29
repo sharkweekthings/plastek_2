@@ -1,5 +1,5 @@
 ////
-// pipez 
+// industrial foregoing 
 //// renik
 
 //
@@ -21,24 +21,5 @@ ServerEvents.recipes(event => {
   event.remove({id: 'industrialforegoing:diamond_gear'})
 
 //
-})
-//
-
-//
-ServerEvents.recipes(event => {
-//
-
-  //ADD
-
-// Item Pipe
-  // event.shaped('pipez:item_pipe',
-  //   [' 2 ','111',' 2 '], {
-  //   1: 'prettypipes:pipe',
-  //   2: 'minecraft:chest'}).id('pipez:item_pipe')
-
-// Pink Slime Ball
-  // event.shapeless(Item.of('industrialforegoing:pink_slime'), ['minecraft:slime_ball', 'minecraft:pink_dye']).id('industrialforegoing:dissolution_chamber/pink_slime_ball')
-
-//    
 })
 //
