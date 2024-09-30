@@ -9,7 +9,7 @@
 		#If ability effects should apply. Disable this if you don't want any abilities to work. Useful for debugging.
 		tickAbilities = true
 		#The multiplier for ability XP requirement
-		abilityXpMultiplier = 10
+		abilityXpMultiplier = 2
 		#If potion abilities should show particle effects. This will also make them appear as in-game symbols.
 		showPotionEffectParticles = false
 		#If players should have particle effects for the abilities they carry.
