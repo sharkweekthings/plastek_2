@@ -4,7 +4,8 @@
   "rarity": "epic",
   "max_level": 1,
   "xp_per_level": 500,  
-  "condition": {
-  "type": "forge:mod_loaded",
-  "modid": "p2isnotamod"
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false
 }
