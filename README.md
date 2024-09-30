@@ -1,15 +1,29 @@
 ##
 ## Tips
 
-1) If you have any questions, you are welcome to join us on the [Discord](https://discord.gg/Tt8sGvQRH4)! Someone will try to answer your question as soon as they can. 
+1) If you have any questions, you are welcome to join us on the [Discord](https://discord.gg/b2NAFyCu)! Someone will try to answer your question as soon as they can. 
 
-2) When you first load in, there is a "Read Me" chapter of quests to get through. I suggest trying to find a world where there is a structure located near spawn (see Suggested World Seeds below). This will give you ample time to click through the "Read Me" quests before accepting the "Start Age 1" reward under "Main Progression". From here, you will start your journey in "Age 1" > "Utility"
+2) When you first load in, there is a "Read Me" chapter of quests to get through. I suggest trying to find a world where there is a structure located near spawn (see Suggested World Seeds below). This will give you ample time to click through the "Read Me" quests before accepting the "Start Age 1" reward under "Main Progression". From here, you will start your journey in "Age 1" > "Tools"
 
 3) 
 
 ##
 ## Suggested World Seeds
- - N/A
+EASIER START
+1) -4052349078916629433 - Start in a Plains with a Beekeepers house nearby.
+2) 3684454708010785943 - Start in a Clover Patch with a tiny home nearby.
+3) -8380276173941303126 - Start in a Maple Woods next to a Tower.
+4) 4888906723522008824 - Start in a Swamp at an Apothecary Hut.
+5) -1422910910800544248 - Start in a Snowy Taiga at a Tavern Village.
+6) -177377764378369927 - Start in a Lush Desert at an Oasis Village.
+7) -7403332326440007590 - Start in a Coniferous Forest at a Bathhouse.
+8) 2495452373623989788 - Start in a Plains at a village, with a Battletower nearby.
+9) 295671984905287247 - Start with an armada of ships in the sky, next to a Tinker Citadel.
+
+HARD START
+1) 4643090097723104334 - Start in a Dark Forest, but you're in a Sky Village.
+2) -2899808716149027100 - Start in a Snowblossom Grove with no structures around.
+3) -7144639993473530893 - Start in a Grassland with a Volcano nearby, and no structures around.
 
 
 ##
@@ -27,39 +41,30 @@
  - Open the "improvedmobs" folder
  - Open the "common.toml" file
  - Line 14 (Difficulty Increase)
-	 - **Age 0** - "0-0.01", "10-0" - (difficulty goes up at a rate of .01 until
-	   it hits 10, then stops)
-	 - **Age 1** - "15" - (difficulty set to 15 in agereward.js / difficulty for Age 1 is a flat value of 15)
-	 - **Age 2** - "20" - "20-0.05", "30-0" (difficulty set to 20 in
-	   agereward.js / goes up at a rate of .05 until it hits 30, then stops)
-	 - **Age 3** - "35" - "35-0.05", "50-0" (difficulty set to 35 in
-	   agereward.js / goes up at a rate of .05 until it hits 50, then stops)
-	 - **Age 4** - "55" - "55-0.05", "80-0" (difficulty set to 55 in
-	   agereward.js / goes up at a rate of .05 until it hits 80, then stops)
-	 - **Age 5** - "85" - "85-0.05", "100-0" (difficulty set to 85 in
-	   agereward.js / goes up at a rate of .05 until it hits 100, then
-	   stops)
-	 - **Age 6** - "105" - "105-0.05", "200-0" (difficulty set to 105 in
-	   agereward.js / goes up at a rate of .05 until it hits 200, then
-	   stops)
-	 - **Age 7** - "225" - "225-0.05", "250-0" (difficulty set to 225 in
-	   agereward.js / goes up at a rate of .05 until it hits 250, then
-	   stops)
+
+ 	"Difficulty Increase" = ["0-0.15", "10-0", "35-0.15", "50-0", "60-0.15", "75-0", "100-0.15", "150-0", "200-0.15", "250-0"]'
+
+	 - **Age 0** - "0-0.15", "10-0" - (difficulty goes up at a rate of .15 until it hits 10, then stops)
+	 - **Age 1** - "20" - (difficulty set to 20 in agereward.js / difficulty for Age 1 is a flat value of 20)
+	 - **Age 2** - "35" - "35-0.15", "50-0" (difficulty set to 35 in agereward.js / goes up at a rate of .15 until it hits 50, then stops)
+	 - **Age 3** - "60" - "60-0.15", "75-0" (difficulty set to 60 in agereward.js / goes up at a rate of .15 until it hits 75, then stops)
+	 - **Age 4** - "100" - "100-0.15", "150-0" (difficulty set to 100 in agereward.js / goes up at a rate of .15 until it hits 150, then stops)
+	 - **Age 5** - "200" - "200-0.15", "250-0" (difficulty set to 200 in agereward.js / goes up at a rate of .15 until it hits 250, then stops)
+
  - You will need to update each line to correspond with it's matching
    number in the agereward.js file. The only exception for this is Age
    0/1 due to Age 0 capping at Difficulty 10.
- - Difficulty scaling beyond 250 requires you to play with the settings
-   between Line 182 to 220.
  - Open the kubejs folder in the main directory
  - Open server_scripts
  - Open "agereward.js"
-	 - **Age 1** - Line 9 (set 15)
-	 - **Age 2** - Line 16 (set 20)
-	 - **Age 3** - Line 23 (set 35)
-	 - **Age 4** - Line 30 (set 20)
-	 - **Age 5** - Line 37 (set 55)
+	 - **Age 1** - Line 9 (set 20)
+	 - **Age 2** - Line 17 (set 35)
+	 - **Age 3** - Line 24 (set 60)
+	 - **Age 4** - Line 31 (set 100)
+	 - **Age 5** - Line 38 (set 200)
  - On each line you can change the number "set ##" to your chosen
    difficulty scaling.
+ - For more help, please reach out on Discord. I may refer you to the Improved Mobs Discord if I cannot assist.
    
 **AtomicStryker's Infernal Mobs**:
  - Navigate to your config folder
