@@ -23,7 +23,7 @@
 				""
 				"In order to make your first tool, the &bFlint Axe&r -- you'll need to find &bSticks&r and &bPebbles&r on the ground. Place some &bPebbles&r on your hotbar, and some in your offhand and start smashing them together. This should get you some &bFlint&r!"
 				""
-				"With Fl&bint&r you can make a &bFlint Axe&r. "
+				"With &bFlint&r you can make a &bFlint Axe&r. "
 				""
 				"With a &bFlint Axe&r you can start chopping down trees, and killing mobs to get &bBone&r. "
 				""
@@ -32,6 +32,11 @@
 				"To make &b1 Plank&r you will need to craft the &bHatchet&r together with the &bStripped Log&r. When you get your first &bSaw&r, you will be able to turn &b1 Stripped Log&r into &b4 Planks&r."
 			]
 			id: "47B600AF3A91F036"
+			rewards: [{
+				id: "6F03378EA34414EC"
+				item: "torchmaster:megatorch"
+				type: "item"
+			}]
 			shape: "diamond"
 			subtitle: "Tree Punchers 101"
 			tasks: [{
@@ -44,10 +49,7 @@
 			y: -5.0d
 		}
 		{
-			dependencies: [
-				"47B600AF3A91F036"
-				"62AA602891B61337"
-			]
+			dependencies: ["47B600AF3A91F036"]
 			id: "29B8689F4BABE2A9"
 			shape: "square"
 			tasks: [{
@@ -498,7 +500,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 6.5d
+			y: 7.5d
 		}
 		{
 			id: "23D911160352885B"
@@ -514,7 +516,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 6.5d
+			y: 7.5d
 		}
 		{
 			id: "231358939AE05CAF"
@@ -530,7 +532,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 6.5d
+			y: 7.5d
 		}
 		{
 			id: "729DFA90ED7E1ACE"
@@ -546,7 +548,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 7.5d
+			y: 8.5d
 		}
 		{
 			id: "24918F2C1D335A46"
@@ -562,7 +564,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 7.5d
+			y: 8.5d
 		}
 		{
 			id: "4A9D7282323248AB"
@@ -578,7 +580,7 @@
 				type: "item"
 			}]
 			x: 9.5d
-			y: 6.6d
+			y: 7.6d
 		}
 		{
 			id: "04F8661111EC36C5"
@@ -594,7 +596,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: 6.6d
+			y: 7.6d
 		}
 		{
 			id: "160DD5656DBFECCF"
@@ -610,7 +612,7 @@
 				type: "item"
 			}]
 			x: 11.5d
-			y: 6.6d
+			y: 7.6d
 		}
 		{
 			id: "54FE62D357D827BC"
@@ -626,7 +628,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 7.6d
+			y: 8.6d
 		}
 		{
 			id: "03A0B8C7C20D47CA"
@@ -642,7 +644,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 7.6d
+			y: 8.6d
 		}
 		{
 			id: "2D5416BABE0CCD96"

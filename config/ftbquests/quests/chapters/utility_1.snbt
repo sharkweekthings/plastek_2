@@ -1025,6 +1025,41 @@
 			x: -9.0d
 			y: 5.0d
 		}
+		{
+			dependencies: ["0C70FFE0A26C20AF"]
+			id: "62421ADA8CB9D45C"
+			tasks: [
+				{
+					id: "0A9869378B21AE58"
+					item: "torchmaster:megatorch"
+					type: "item"
+				}
+				{
+					id: "4CA1952BFC476A90"
+					item: "torchmaster:dreadlamp"
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"The Mega Torch will block hostile mob spawns from spawning within a 64 block radius. "
+				""
+				"The Dread Lamp does the same thing, but for passive mob spawns."
+			]
+			id: "0C70FFE0A26C20AF"
+			shape: "diamond"
+			tasks: [{
+				id: "6C1013CD30FFB8A5"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Torchmaster"
+			x: -10.5d
+			y: 2.5d
+		}
 	]
 	title: "Utility"
 }
