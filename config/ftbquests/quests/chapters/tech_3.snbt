@@ -403,7 +403,13 @@
 				"533C78AA70021871"
 				"0D978606646FA6CF"
 			]
-			description: [""]
+			description: [
+				"In the example the &9Thermopneumatic Processing Plant&r is on the ground and has Industrial Foregoing &3Plastic&r, a &3Dispenser Upgrade&r, and a &3Security Upgrade&r. A &3Heat Pipe&r used to transfer heat comes out of the back of the processing plant, while a &3Vortex Tube&r with the red side touching the &3Heat Pipe&r begins the heating process. "
+				""
+				"Once the plant reaches 100 degrees it will begin mixing &3Bio Diesel&r or &3LPG&r, and Industrial Foregoing &3Plastic&r to get &3Molten Plastic&r."
+				""
+				"{image:kubejs:textures/pneumaticcraft/pneumatic_thermo.png width:200 height:150 align:center}"
+			]
 			id: "65B1271CD4BA7576"
 			shape: "square"
 			tasks: [{
