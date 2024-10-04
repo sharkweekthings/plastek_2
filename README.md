@@ -75,4 +75,4 @@ HARD START
 ##
 ## Known Issues
 
- - N/A
+ - Some of the Everlasting Ability totems show that they require a specific amount of experience, but they actually require more. If you can't learn the ability try to gain 1 extra level to see if that lets you learn it.
