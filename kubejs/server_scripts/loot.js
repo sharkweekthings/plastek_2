@@ -51,6 +51,17 @@ LootJS.modifiers((e) => {
   LootEntry.of("apotheosis:rare_material").withWeight(60).limitCount([0, 1]),
   LootEntry.of("apotheosis:epic_material").withWeight(50).limitCount([0, 1]),
   LootEntry.of("apotheosis:uncommon_material").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:fire_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:ice_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:lightning_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("apotheosis:common_material").withWeight(70).limitCount([0, 1]),
+  LootEntry.of("apotheosis:mythic_material").withWeight(40).limitCount([0, 1]),
+  LootEntry.of("apotheosis:rare_material").withWeight(60).limitCount([0, 1]),
+  LootEntry.of("apotheosis:epic_material").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("apotheosis:uncommon_material").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:fire_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:ice_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:lightning_dragon_eye").withWeight(50).limitCount([0, 1]),
   LootEntry.of("artifacts:pocket_piston").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:charm_of_sinking").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:shock_pendant").withWeight(15).limitCount([0, 1]),
@@ -2076,7 +2087,30 @@ LootJS.modifiers((e) => {
   LootEntry.of("xkdeco:stone_water_bowl").withWeight(15).limitCount([0, 1]),
   LootEntry.of("xkdeco:podzol_slab").withWeight(15).limitCount([0, 1]),
   LootEntry.of("xkdeco:cyan_roof_small_end").withWeight(15).limitCount([0, 1])	
+      ]);
 
+// LOOT PASSIVE SKILL
+  e.addLootTypeModifier(LootType.CHEST)
+    .randomChance(0.35)
+    .addWeightedLoot(
+      [1], //1-3 rolls
+      [
+  LootEntry.of("skilltree:wisdom_scroll").withWeight(15).limitCount([0, 1])	
+      ]);
+
+// LOOT APOTHEOSIS
+  e.addLootTypeModifier(LootType.CHEST)
+    .randomChance(0.35)
+    .addWeightedLoot(
+      [1], //1-3 rolls
+      [
+  LootEntry.of("apotheosis:gem_dust").withWeight(75).limitCount([0, 1]),
+  LootEntry.of("apotheosis:common_material").withWeight(75).limitCount([0, 1]),
+  LootEntry.of("apotheosis:uncommon_material").withWeight(60).limitCount([0, 1]),
+  LootEntry.of("apotheosis:rare_material").withWeight(40).limitCount([0, 1]),
+  LootEntry.of("apotheosis:epic_material").withWeight(20).limitCount([0, 1]),
+  LootEntry.of("apotheosis:mythic_material").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("apotheosis:boss_summoner").withWeight(15).limitCount([0, 1])
       ]);
 
 });
