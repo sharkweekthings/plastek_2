@@ -129,7 +129,7 @@
 	"Idle Break" = false
 	#Chance for a mob to be able to steal items from inventory blocks
 	#Range: 0.0 ~ 1.0
-	"Stealer Chance" = 0.30000001192092896
+	"Stealer Chance" = 0.0
 	#List of blocks mobs shouldn't steal from. You can also add a modid to blacklist whole mods
 	"Steal Block Blacklist" = []
 	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
