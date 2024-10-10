@@ -21,15 +21,15 @@
 				""
 				"&6Natural Progression&r changes up the early game slightly, so heres what you need to know:"
 				""
-				"In order to make your first tool, the &bFlint Axe&r -- you'll need to find &bSticks&r and &bPebbles&r on the ground. Place some &bPebbles&r on your hotbar, and some in your offhand and start smashing them together. This should get you some &bFlint&r!"
+				"In order to make your first tool, the &3Flint Axe&r -- you'll need to find &3Sticks&r and &3Pebbles&r on the ground. Place some &3Pebbles&r on your hotbar, and some in your offhand and start smashing them together. This should get you some &3Flint&r!"
 				""
-				"With &bFlint&r you can make a &bFlint Axe&r. "
+				"With &3Flint&r you can make a &3Flint Axe&r. "
 				""
-				"With a &bFlint Axe&r you can start chopping down trees, and killing mobs to get &bBone&r. "
+				"With a &3Flint Axe&r you can start chopping down trees, and killing mobs to get &3Bone&r, which you'll need to smash together with &3Flint&r to get &3Bone Shard&r."
 				""
 				"To chop down a tree you should &aright click the tree to first strip it&r, then chop it. "
 				""
-				"To make &b1 Plank&r you will need to craft the &bHatchet&r together with the &bStripped Log&r. When you get your first &bSaw&r, you will be able to turn &b1 Stripped Log&r into &b4 Planks&r."
+				"To make &31 Plank&r you will need to craft the &3Hatchet&r together with the &3Stripped Log&r. When you get your first &3Saw&r, you will be able to turn &31 Stripped Log&r into &34 Planks&r."
 			]
 			id: "47B600AF3A91F036"
 			rewards: [{
@@ -744,8 +744,16 @@
 				"1E9BE701B5E51C9C"
 				"548895FEA0AB8009"
 				"577726B9BC8B4186"
+				"5379B103AB57748A"
+				"651A6BE3D2E291A5"
+				"07CB11C77E68CFFC"
+				"0C9B7F783C1909FE"
 			]
-			description: ["Craft a &bCopper Axe&r, &bPickaxe&r, &bShovel&r, and &bHoe&r to unlock &dSilver Equipment&r."]
+			description: [
+				"You will need to craft a full set of &3Copper Armor&r, as well as a &3Copper Axe&r, &3Pickaxe&r, &3Shovel&r, and &3Hoe&r. "
+				""
+				"This will unlock &dSilver Equipment&r."
+			]
 			id: "1F6113D2234C39DD"
 			rewards: [
 				{
@@ -777,8 +785,16 @@
 				"1F5D0EB248ED82F7"
 				"1B30586171734AB1"
 				"56BE817ADEAF99E4"
+				"0ADB567CC875825F"
+				"6FC8A80BAEE98A25"
+				"0CB577A8D3093F3B"
+				"0E37A92A7331C24A"
 			]
-			description: ["Craft a &bSilver Axe&r, &bPickaxe&r, &bShovel&r, and &bHoe&r to unlock &dIron Equipment&r."]
+			description: [
+				"You will need to craft a full set of &3Silver Armor&r, as well as a &3Silver Axe&r, &3Pickaxe&r, &3Shovel&r, and &3Hoe&r. "
+				""
+				"This will unlock &dIron Equipment&r."
+			]
 			id: "06F8EC95A7718D92"
 			rewards: [
 				{
@@ -809,7 +825,7 @@
 				"59407512A217AE6B"
 				"02E8A57F9B96CEA9"
 			]
-			description: ["Craft a &bBone Pickaxe&r, and &bBone Knife&r to start crafting &bCopper&r."]
+			description: ["Craft a &3Bone Pickaxe&r, and &3Bone Knife&r to start crafting &3Copper&r."]
 			id: "7F1D40E3D99C5160"
 			rewards: [
 				{
@@ -841,8 +857,16 @@
 				"06414155DED4D2F2"
 				"147992C2FD0D2031"
 				"3499E858EEFA6EB2"
+				"7220A1B20B0B7310"
+				"070F78B4A0918C1E"
+				"1C510407ECB1BAAD"
+				"3ED5EF01FE30C05D"
 			]
-			description: ["Craft a &bIron Axe&r, &bPickaxe&r, &bShovel&r, and &bHoe&r to unlock &dAll Other Equipment&r."]
+			description: [
+				"You will need to craft a full set of &3Iron Armor&r, as well as a &3Iron Axe&r, &3Pickaxe&r, &3Shovel&r, and &3Hoe&r. "
+				""
+				"This will unlock &dAll Other Equipment&r."
+			]
 			id: "47CDFFB62C641DEB"
 			rewards: [
 				{
@@ -875,11 +899,11 @@
 				"06F8EC95A7718D92"
 			]
 			description: [
-				" Make sure to consume your &bMiner's Certificate&r. This will unlock the ability to use &6Ultiminer&r by holding down the &a`&r button. "
+				" Make sure to consume your &3Miner's Certificate&r. This will unlock the ability to use &6Ultiminer&r by holding down the &a`&r button. "
 				""
 				"&cWARNING&r: While &6Ultiminer&r is a great way to mine a lot of blocks at once, it consumes a significant amount of food when you use it. "
 				""
-				"If you want to mine a lot of blocks you can get a &bFeeding Upgrade&r for your &bBackpack&r and throw a lot of food in there. &cJust be careful about adding anything with Sugars, so it doesn't go above 70%&r."
+				"If you want to mine a lot of blocks you can get a &3Feeding Upgrade&r for your &3Backpack&r and throw a lot of food in there. &cJust be careful about adding anything with Sugars, so it doesn't go above 70%&r."
 			]
 			id: "656B3891DDB47892"
 			rewards: [
@@ -919,9 +943,9 @@
 			can_repeat: true
 			dependencies: ["47B600AF3A91F036"]
 			description: [
-				"&6Natural Progression&r mod currently has a bug where all &bSticks&r and &bPebbles&r are spawning underwater. "
+				"&6Natural Progression&r mod currently has a bug where all &3Sticks&r and &3Pebbles&r are spawning underwater. "
 				""
-				"You can accept free &bSticks&r and &bPebbles&r from this &arepeatable quest&r."
+				"You can accept free &3Sticks&r and &3Pebbles&r from this &arepeatable quest&r."
 				""
 				"You can also find your own under water, but this is not the intended way for the mod. "
 			]

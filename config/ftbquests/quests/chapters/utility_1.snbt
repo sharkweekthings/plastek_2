@@ -343,7 +343,7 @@
 		}
 		{
 			description: [
-				"Apotheosis is a powerful mod that will let you find, and power your gear giving it various modifiers. "
+				"&6Apotheosis&r is a powerful mod that will let you find, and power your gear giving it various modifiers. "
 				""
 				"To put an gem into your gear with a socket, you will need to use the &9Smithing Table&r. "
 				""
@@ -1045,9 +1045,9 @@
 		}
 		{
 			description: [
-				"The Mega Torch will block hostile mob spawns from spawning within a 64 block radius. "
+				"The &3Mega Torch&r will block hostile mob spawns from spawning within a 64 block radius. "
 				""
-				"The Dread Lamp does the same thing, but for passive mob spawns."
+				"The &3Dread Lamp&r does the same thing, but for passive mob spawns."
 			]
 			id: "0C70FFE0A26C20AF"
 			shape: "diamond"

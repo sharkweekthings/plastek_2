@@ -48,7 +48,7 @@
 			y: -1.0d
 		}
 		{
-			description: ["In order to make any Chests or Barrels you'll need to make alot of Baskets."]
+			description: ["In order to make any &3Chests&r or &3Barrels&r you'll need to make alot of &3Baskets&r."]
 			id: "54B3B59FDFF1B9C7"
 			shape: "diamond"
 			tasks: [{

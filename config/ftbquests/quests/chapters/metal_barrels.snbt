@@ -163,7 +163,7 @@
 			y: 1.0d
 		}
 		{
-			description: ["With Metal Barrels you can upgrade you &3Wooden Barrel&r and increase storage capacity signifcantly. "]
+			description: ["With &6Metal Barrels&r you can upgrade you &3Wooden Barrel&r and increase storage capacity signifcantly. "]
 			id: "461280BAD0A88E10"
 			shape: "diamond"
 			tasks: [{

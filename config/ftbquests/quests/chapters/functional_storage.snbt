@@ -200,11 +200,11 @@
 		}
 		{
 			description: [
-				"Functional Storage allows you to create Drawers that contain one, or a few (depending on the drawer) items. With upgrades these drawers can hold a massive quantity of items. "
+				"&6Functional Storage&r allows you to create &3Storage Drawers&r that contain one, or a few (depending on the drawer) items. With upgrades these drawers can hold a massive quantity of items. "
 				""
-				"Be sure to make a Linking Tool which will allow you to link drawers to a Storage Controller. "
+				"Be sure to make a &3Linking Tool&r which will allow you to link drawers to a &9Storage Controller&r. "
 				""
-				"The Configuration Tool has a few functions, but you'll mostly use it for locking your drawers. "
+				"The &3Configuration Tool&r has a few functions, but you'll mostly use it for locking your drawers. "
 			]
 			id: "39BDF3F01D4BA50B"
 			shape: "diamond"
