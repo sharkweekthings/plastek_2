@@ -139,9 +139,9 @@
 		{
 			dependencies: ["324CADB3FE915800"]
 			description: [
-				"The basic frame consists of &b9 Stone Bricks&r, &92 Gilded Portal Blocks&r, and &91 Portal Keystone&r. "
+				"The basic frame consists of &39 Stone Bricks&r, &92 Gilded Portal Blocks&r, and &91 Portal Keystone&r. "
 				""
-				"You will need to add &92 Portal Crowns&r, and either &bWhite or Purple Banners&r over the &9Gilded Portal Blocks&r in order to activate &dTier 2 Dungeons&r with the &bAdvanced Portal Key&r. "
+				"You will need to add &92 Portal Crowns&r, and either &3White or Purple Banners&r over the &9Gilded Portal Blocks&r in order to activate &dTier 2 Dungeons&r with the &3Advanced Portal Key&r. "
 			]
 			id: "403012796042CA62"
 			shape: "diamond"
@@ -159,13 +159,13 @@
 			description: [
 				"All Keys must be activated by putting them in an Inscribing Station, or End Portal Frame block. "
 				""
-				"&bPortal Key&r: This is the basic key of this mod. Place it into a &9Portal Keystone&r to visit a dungeon."
+				"&3Portal Key&r: This is the basic key of this mod. Place it into a &3Portal Keystone&r to visit a dungeon."
 				""
-				"&bAdvanced Blank Portal Key&r: This requires &92 Portal Crowns&r placed next to the &9Portal Keystone&r, and a &bwhite or purple banner&r draped over the &9Portal Blocks&r, and will allow you to visit &dTier 2 dungeons&r."
+				"&3Advanced Blank Portal Key&r: This requires &92 Portal Crowns&r placed next to the &9Portal Keystone&r, and a &3white or purple banner&r draped over the &9Portal Blocks&r, and will allow you to visit &dTier 2 dungeons&r."
 				""
-				"&bPersonal Dimension Key&r: Brings you to a very flat, and empty personal dimension where you can build. "
+				"&3Personal Dimension Key&r: Brings you to a very flat, and empty personal dimension where you can build. "
 				""
-				"&bTeleporter Key&r: Brings you to a &9Teleporter Hub&r with 7 keys. All keys link back to the hub. This could help you setup a fast travel network through various dimensions. "
+				"&3Teleporter Key&r: Brings you to a &9Teleporter Hub&r with 7 keys. All keys link back to the hub. This could help you setup a fast travel network through various dimensions. "
 			]
 			id: "762FB1842B0194F1"
 			shape: "diamond"
@@ -199,9 +199,9 @@
 		{
 			dependencies: ["324CADB3FE915800"]
 			description: [
-				"&bBell of Secrets&r: Works in a &6Dimensional Dungeon&r. If there is loot in the room you are standing in, this bell will ring 8 times when clicked. "
+				"&3Bell of Secrets&r: Works in a &6Dimensional Dungeon&r. If there is loot in the room you are standing in, this bell will ring 8 times when clicked. "
 				""
-				"&bHomeward Pearl&r: Brings you back to the start of the dungeon."
+				"&3Homeward Pearl&r: Brings you back to the start of the dungeon."
 			]
 			id: "7C5CA16ABA0C3314"
 			shape: "diamond"

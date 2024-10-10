@@ -474,7 +474,7 @@
 			description: [
 				"The &9Aether Portal Frame&r can be constructed in the same basic shape as a &9Nether portal&r. "
 				""
-				"You'll need to use &bGlowstone&r blocks as the frame, and pour a &bBucket of Water&r to light it."
+				"You'll need to use &3Glowstone&r blocks as the frame, and pour a &3Bucket of Water&r to light it."
 			]
 			id: "7F6C916CD6C735FF"
 			rewards: [{
@@ -684,7 +684,7 @@
 			description: [
 				"The &6Slider&r will move around the room gaining speed as you do damage to it. "
 				""
-				"The only way to do any damage is to use a pick axe."
+				"The only way to do any damage is to use a &3Pickaxe&r."
 			]
 			id: "494C2037579B3BCB"
 			shape: "gear"
@@ -702,9 +702,9 @@
 			description: [
 				"The &6Valkyrie Queen&r uses basic melee attacks, but hits very hard. "
 				""
-				"Netherite or better gear is suggested. "
+				"&aNetherite or better gear is suggested. &r"
 				""
-				"Anything that increases your attack range will help make the fight easier."
+				"Anything that &aincreases your attack range&r will help make the fight easier."
 			]
 			id: "7E3409C2AC004328"
 			shape: "gear"
@@ -722,7 +722,7 @@
 			description: [
 				"The &6Sun Spirit&r cannot be damaged with basic weapons. "
 				""
-				"In order to damage the boss, you will need to wait for Ice Crystals to be launched, and hit them with your sword toward the Sun Spirt. This will spawn an add that you can attack with your sword. "
+				"In order to damage the boss, you will need to wait for &dIce Crystals&r to be launched, and hit them with your sword toward the &6Sun Spirt&r. This will spawn an add that you can attack with your sword. "
 			]
 			id: "188497DE4C468D17"
 			shape: "gear"
@@ -758,7 +758,7 @@
 			description: [
 				"This dungeon can be located floating on clouds in the sky. "
 				""
-				"The Valkyrie that inhabit this dungeon are non aggressive, but will fight back if they are attacked. You will need to kill regular Valkyrie until you get 10 Victory Medals. "
+				"&dThe Valkyrie&r that inhabit this dungeon are non aggressive, but will fight back if they are attacked. You will need to &ckill regular Valkyrie&r until you get &310 Victory Medals&r. "
 			]
 			id: "59867522AC65408D"
 			shape: "square"
@@ -774,7 +774,7 @@
 		{
 			dependencies: ["0D3E1F6DE2809DEE"]
 			description: [
-				"This dungeon can be located by finding islands that have many Golden Oak trees. "
+				"This dungeon can be located by finding islands that have many &3Golden Oak trees&r. "
 				""
 				"The dungeon is only 1 room that consists of the &6Sun Spirit&r that deals heavy fire damage. "
 			]

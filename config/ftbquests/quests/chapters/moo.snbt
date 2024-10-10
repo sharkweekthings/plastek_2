@@ -677,7 +677,7 @@
 			y: -2.5d
 		}
 		{
-			description: ["With Vinery you can make your very own wine that will produce useful potion effects. "]
+			description: ["With &6Vinery&r you can make your very own wine that will produce useful potion effects. "]
 			id: "5A5896C947DA8A15"
 			shape: "diamond"
 			tasks: [{
@@ -690,7 +690,7 @@
 			y: 1.0d
 		}
 		{
-			description: ["Cooking For Blockheads offers a wide range of utility for all of your cooking needs."]
+			description: ["&6Cooking For Blockheads&r offers a wide range of utility for all of your cooking needs."]
 			id: "58C012AD3D76A5CF"
 			shape: "diamond"
 			subtitle: "Make me a sandwich!"
@@ -705,9 +705,9 @@
 		}
 		{
 			description: [
-				"Auto Harvest and Ranch with Industrial Foregoing. "
+				"Auto Harvest and Ranch with&6 Industrial Foregoing&r. "
 				""
-				"Upgrades for this mod will unlock in Age 2."
+				"Upgrades for this mod will unlock in &dAge 2&r."
 			]
 			id: "6BB3BEBFE518D0F2"
 			shape: "diamond"
@@ -747,7 +747,7 @@
 			y: -4.0d
 		}
 		{
-			description: ["Slice and Dice will allow you to automate various cutting recipes. It also has a Sprinkler that will let you rain down some Water, Lava or (I forgot what else)."]
+			description: ["&6Slice and Dice&r will allow you to automate various cutting recipes. It also has a &3Sprinkler&r that will let you rain down some &3Water&r, &3Lava&r or &3Fluid XP&r."]
 			id: "598EFD7817B6EBD9"
 			shape: "diamond"
 			tasks: [{
@@ -773,7 +773,7 @@
 			y: -0.5d
 		}
 		{
-			description: ["This device will let you connect your AE2 and Cooking For Blockheads together."]
+			description: ["This device will let you connect your &6AE2&r and &6Cooking For Blockheads&r together."]
 			id: "34DA5277D437B0E4"
 			shape: "diamond"
 			tasks: [{
@@ -786,7 +786,7 @@
 		}
 		{
 			description: [
-				"Most of the kitchen necessities will need to be purchased through the Market people. "
+				"Most of the kitchen necessities will need to be purchased through &9the Market&r people. "
 				""
 				"&3Cow in a Jar&r still needs to be crafted by dropping an &3Anvil&r on a Cow to squish it into a &3Bottle.&r "
 			]

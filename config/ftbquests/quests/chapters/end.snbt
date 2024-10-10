@@ -31,8 +31,8 @@
 				id: "0CFC0E843B460728"
 				type: "advancement"
 			}]
-			x: 1.0d
-			y: -0.5d
+			x: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["5CDA5350C47E53C1"]
@@ -101,8 +101,8 @@
 				value: 1L
 			}]
 			title: "The Chaos Dragon"
-			x: 1.0d
-			y: 1.0d
+			x: -0.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["3874CDFDBD3C8178"]
@@ -114,8 +114,8 @@
 				type: "checkmark"
 			}]
 			title: "Cataclysm"
-			x: 2.5d
-			y: -2.0d
+			x: 2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["594A683C3D375208"]
@@ -127,8 +127,8 @@
 				type: "item"
 			}]
 			title: "Find a Ruined Citadel"
-			x: 4.0d
-			y: -2.0d
+			x: 3.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["594A683C3D375208"]
@@ -140,8 +140,8 @@
 				id: "4668DBF5683F2334"
 				type: "advancement"
 			}]
-			x: 5.0d
-			y: -2.0d
+			x: 4.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["7B1F4EF6DF4233B4"]
@@ -158,8 +158,8 @@
 				id: "655B7A972DE107CF"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: -2.0d
+			x: 5.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["38AA05F10498D676"]
@@ -176,8 +176,8 @@
 				id: "5B44EAA2BB887A38"
 				type: "advancement"
 			}]
-			x: 7.0d
-			y: -2.0d
+			x: 6.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1AD567B3ACC50DF9"]
@@ -228,8 +228,8 @@
 			]
 			shape: "gear"
 			title: "End Rewards"
-			x: 7.0d
-			y: -0.5d
+			x: 6.5d
+			y: 0.0d
 		}
 	]
 	title: "End"

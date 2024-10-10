@@ -867,8 +867,7 @@
 		{
 			dependencies: ["7F4A871DB08C7DEA"]
 			description: [
-				"Phase 1:"
-				""
+				"&dPhase 1&r:"
 				"The &6Alchemist&r will cycle between 4 different attacks. "
 				"     1) Spawn Lingering Poison in the 4 corners of the room."
 				"     2) Will launch 3 arrows in different directions."
@@ -877,8 +876,7 @@
 				""
 				""
 				""
-				"Phase 2:"
-				""
+				"&dPhase 2&r:"
 				"Starts when The &6Alchemist&r gets to 50% health. "
 				""
 				"He will gain an additional 2 attacks:"
@@ -1220,12 +1218,10 @@
 		{
 			dependencies: ["3B6D684D01D54D7D"]
 			description: [
-				"Phase 1:"
-				""
+				"&dPhase 1&r:"
 				"The &6Summoner&r will teleport around the room while shooting spheres, and summoning adds. "
 				""
-				"Phase 2: "
-				""
+				"&dPhase 2&r: "
 				"The &6Summoner&r will now he will begin to regenerate, summon lightning, and continue to summon adds."
 			]
 			id: "2C18FFC651E5F277"
@@ -1321,7 +1317,7 @@
 			description: [
 				"&6Blue Skies&r adds two dimensions. &3Everbright&r, and &5Everdawn&r. "
 				""
-				"To enter them, you'll need to find a &dGatekeeper&r in the &2Overworld&r, trade him some &bEmeralds&r for a &bZeal Lighter&r, and find the &9Gatekeeper's portal frame&r which should be close by. &aLight the frame like you would a Nether portal with the lighter&r."
+				"To enter them, you'll need to find a &dGatekeeper&r in the &2Overworld&r, trade him some &3Emeralds&r for a &3Zeal Lighter&r, and find the &9Gatekeeper's portal frame&r which should be close by. &aLight the frame like you would a Nether portal with the lighter&r."
 				""
 				"&l&c&nTools and Weapons from the Overworld do not work properly in either dimension.&r&r&r"
 				""
