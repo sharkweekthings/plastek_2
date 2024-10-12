@@ -1,0 +1,92 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "good_luck"
+	group: "29E2459388A87C4C"
+	icon: "botania:cosmetic_four_leaf_clover"
+	id: "18417645C8093DCC"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "392997B73DE58773"
+			tasks: [{
+				id: "6963331AD02F5249"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:supreme_measure"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "781589244BE58763"
+			tasks: [{
+				id: "6215E4EC640BCE30"
+				item: "tempad:he_who_remains_tempad"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "4E270322E30458EC"
+			tasks: [{
+				id: "014A7A3449559715"
+				item: "mythicbotany:mjoellnir"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "795CA7AB6FC52C96"
+			tasks: [{
+				id: "1E1C478AF6C45078"
+				item: "apotheosis:ender_library"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "0EDFB97EBEE9B0DF"
+			tasks: [{
+				id: "01999AEBAA6BC579"
+				item: {
+					Count: 1
+					id: "tiab:time_in_a_bottle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "54577D55D83F3D85"
+			shape: "diamond"
+			tasks: [{
+				id: "5EA6E4CF42CC5E55"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Whats This?"
+			x: 2.5d
+			y: -1.0d
+		}
+	]
+	title: "Good Luck!"
+}

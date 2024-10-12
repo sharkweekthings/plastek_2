@@ -460,6 +460,11 @@
 				}
 			]
 			shape: "gear"
+			tasks: [{
+				id: "6E934413FD418C2E"
+				title: "Ok"
+				type: "checkmark"
+			}]
 			title: "Nether Rewards"
 			x: 7.0d
 			y: -4.5d

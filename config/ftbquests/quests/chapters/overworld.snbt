@@ -1067,6 +1067,11 @@
 				}
 			]
 			shape: "gear"
+			tasks: [{
+				id: "4D8B9CBFADCF261D"
+				title: "Ok"
+				type: "checkmark"
+			}]
 			title: "Overworld Rewards"
 			x: 7.0d
 			y: -11.5d

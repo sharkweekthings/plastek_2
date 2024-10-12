@@ -227,6 +227,11 @@
 				}
 			]
 			shape: "gear"
+			tasks: [{
+				id: "36908FCABFC2FCD6"
+				title: "Ok"
+				type: "checkmark"
+			}]
 			title: "End Rewards"
 			x: 6.5d
 			y: 0.0d
