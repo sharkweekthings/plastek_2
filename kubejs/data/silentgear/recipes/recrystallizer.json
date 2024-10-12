@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "create:iron_sheet"
+    },
+    "/": {
+      "tag": "forge:ingots/azure_electrum"
+    },
+    "d": {
+      "tag": "forge:gems/diamond"
+    },
+    "e": {
+      "tag": "forge:gems/emerald"
+    },
+    "g": {
+      "tag": "forge:storage_blocks/gold"
+    }
+  },
+  "pattern": [
+    "/e/",
+    "/d/",
+    "#g#"
+  ],
+  "result": {
+    "item": "silentgear:recrystallizer"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "silentgear:compounding/gem",
+  "ingredients": [
+    {
+      "item": "ae2:fluix_dust"
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem"
+    }
+  ],
+  "result": {
+    "item": "ae2:fluix_crystal"
+  }
+}

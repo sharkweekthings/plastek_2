@@ -6,6 +6,19 @@
 ServerEvents.recipes(event => {
 //
 
+  //REMOVE
+  event.remove({id: 'ae2:transform/fluix_crystals'})
+  event.remove({id: 'ae2:transform/fluix_crystal'})
+
+//
+})
+//
+
+
+//
+ServerEvents.recipes(event => {
+//
+
   //ADD
 
 // Sky Stone Chest w/ Basket

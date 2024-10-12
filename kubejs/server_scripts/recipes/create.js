@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
 
   //REMOVE
   event.remove({id: 'create:crafting/appliances/dough'})
+  event.remove({id: 'create:mixing/compat/ae2/fluix_crystal'})
   event.remove({id: 'create:crafting/materials/andesite_alloy'})
   event.remove({id: 'create:crafting/materials/andesite_alloy_from_zinc'})
   event.remove({id: 'create:mixing/andesite_alloy_from_zinc'})
