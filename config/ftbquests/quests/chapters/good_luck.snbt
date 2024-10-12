@@ -25,7 +25,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -2.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["54577D55D83F3D85"]
@@ -73,9 +73,14 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 0.0d
+			y: -2.0d
 		}
 		{
+			description: [
+				"These here are some pretty powerful items. Some of them you'll be able to craft eventually. Some you can only find. "
+				""
+				"All of these items have a very low chance to drop inside most &3Chests&r, and &3Barrels&r that you find. "
+			]
 			id: "54577D55D83F3D85"
 			shape: "diamond"
 			tasks: [{
@@ -86,6 +91,23 @@
 			title: "Whats This?"
 			x: 2.5d
 			y: -1.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "5578E110AF3A2C2A"
+			tasks: [{
+				id: "6FC2DE775336EA30"
+				item: {
+					Count: 1
+					id: "constructionwand:infinity_wand"
+					tag: {
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
 		}
 	]
 	title: "Good Luck!"
