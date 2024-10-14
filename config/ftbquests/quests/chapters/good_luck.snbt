@@ -40,6 +40,11 @@
 		}
 		{
 			dependencies: ["54577D55D83F3D85"]
+			description: [
+				"Even if you get lucky and find this one, you won't really be able to wield it until you find a &3Ring of Thor&r. "
+				""
+				"The &3Ring of Thor&r comes from the &3Dice of Fate&r, which you can find in &3chests&r with a &cvery low % chance&r, or by farming the &dGaia Spirit&r. "
+			]
 			id: "4E270322E30458EC"
 			tasks: [{
 				id: "014A7A3449559715"
@@ -77,18 +82,19 @@
 		}
 		{
 			description: [
-				"These here are some pretty powerful items. Some of them you'll be able to craft eventually. Some you can only find. "
+				"Some of these items have &aalternative ways of obtaining&r them later on, such as &dcrafting&r or &ddefeating bosses&r. However, &afrom the very start&r you can &afind any of these items&r inside of most &3Chests&r, and &3Barrels&r that you discover in your adventures. "
 				""
-				"All of these items have a very low chance to drop inside most &3Chests&r, and &3Barrels&r that you find. "
+				"These are entirely RNG and have a &cvery low chance to drop&r. &aIf you find any of these items you got very lucky&r!"
 			]
 			id: "54577D55D83F3D85"
 			shape: "diamond"
+			subtitle: "Too OP."
 			tasks: [{
 				id: "5EA6E4CF42CC5E55"
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "Whats This?"
+			title: "Power Overwhelming"
 			x: 2.5d
 			y: -1.0d
 		}
@@ -108,6 +114,51 @@
 			}]
 			x: 1.5d
 			y: -2.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "60D6DA1913DF8DCE"
+			tasks: [{
+				id: "768BC79D4CBCEEB0"
+				item: "botania:dice"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "7B0742BA63DE88FE"
+			tasks: [
+				{
+					id: "52D4B63F479FDBCB"
+					item: "mysticalagradditions:nether_star_crux"
+					type: "item"
+				}
+				{
+					id: "77E4322AD866A78D"
+					item: "mysticalagradditions:dragon_egg_crux"
+					type: "item"
+				}
+				{
+					id: "4C02B7F0887239C1"
+					item: "mysticalagradditions:gaia_spirit_crux"
+					type: "item"
+				}
+				{
+					id: "3CEC8F2867CA6FF2"
+					item: "mysticalagradditions:awakened_draconium_crux"
+					type: "item"
+				}
+				{
+					id: "61AB459CB5BB2654"
+					item: "mysticalagradditions:nitro_crystal_crux"
+					type: "item"
+				}
+			]
+			title: "Various Crux's"
+			x: 3.5d
+			y: 0.0d
 		}
 	]
 	title: "Good Luck!"

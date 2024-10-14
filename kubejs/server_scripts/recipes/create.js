@@ -19,6 +19,8 @@ ServerEvents.recipes(event => {
   event.remove({id: 'sliceanddice:mixing/fertilizer/from_compost'})
   event.remove({id: 'create:crafting/kinetics/large_cogwheel_from_little'})
   event.remove({id: 'createaddition:crafting/modular_accumulator_electrum'})
+  event.remove({id: 'createaddition:crafting/modular_accumulator_electrum'})
+  event.remove({id: 'create:sequenced_assembly/precision_mechanism'})
 
 //
 })
