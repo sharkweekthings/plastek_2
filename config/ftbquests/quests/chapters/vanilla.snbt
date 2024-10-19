@@ -16,7 +16,7 @@
 				item: "minecraft:chest"
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: 0.0d
 		}
 		{
@@ -27,8 +27,8 @@
 				item: "minecraft:barrel"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.0d
+			x: -2.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["54B3B59FDFF1B9C7"]
@@ -44,8 +44,8 @@
 				item: "farmersdelight:basket"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -1.0d
+			x: -3.5d
+			y: 0.5d
 		}
 		{
 			description: ["In order to make any &3Chests&r or &3Barrels&r you'll need to make alot of &3Baskets&r."]
@@ -57,8 +57,498 @@
 				type: "checkmark"
 			}]
 			title: "Sorry"
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"7AB5D4180DB09CC4"
+				"34E78D296FE5E2ED"
+			]
+			id: "5640650E72BDAAEA"
+			tasks: [{
+				id: "4F9D1EF8D50B916C"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			id: "638EB4E35F41405B"
+			tasks: [{
+				id: "2358AE9BED1CF201"
+				item: "sophisticatedbackpacks:upgrade_base"
+				type: "item"
+			}]
 			x: 0.5d
-			y: -2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "4EAF4F9F7317CAE1"
+			tasks: [
+				{
+					id: "12182601B50BE99B"
+					item: "sophisticatedbackpacks:pickup_upgrade"
+					type: "item"
+				}
+				{
+					id: "12656BB4B68A5F24"
+					item: "sophisticatedbackpacks:advanced_pickup_upgrade"
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "0ABA0995CC4AB6CB"
+			tasks: [
+				{
+					id: "45DAD51F58434638"
+					item: "sophisticatedbackpacks:filter_upgrade"
+					type: "item"
+				}
+				{
+					id: "7F43DAE550A52FE9"
+					item: "sophisticatedbackpacks:advanced_filter_upgrade"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "42ABFA348B764E04"
+			tasks: [
+				{
+					id: "267FFD54A292D1AE"
+					item: "sophisticatedbackpacks:magnet_upgrade"
+					type: "item"
+				}
+				{
+					id: "6A8DD3A998DD4971"
+					item: "sophisticatedbackpacks:advanced_magnet_upgrade"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "75165E16BE3CA30C"
+			tasks: [
+				{
+					id: "4737A4E67C3C18FF"
+					item: "sophisticatedbackpacks:feeding_upgrade"
+					type: "item"
+				}
+				{
+					id: "751D9C950680EE9D"
+					item: "sophisticatedbackpacks:advanced_feeding_upgrade"
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "0BE6236A78C6894D"
+			tasks: [
+				{
+					id: "4B22872028869A07"
+					item: "sophisticatedbackpacks:compacting_upgrade"
+					type: "item"
+				}
+				{
+					id: "6AA5DEE448BA6A79"
+					item: "sophisticatedbackpacks:advanced_compacting_upgrade"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "6DE2AA3A79F054DE"
+			tasks: [
+				{
+					id: "6E533A4687BFF451"
+					item: "sophisticatedbackpacks:void_upgrade"
+					type: "item"
+				}
+				{
+					id: "7EF4D1EF61412E6E"
+					item: "sophisticatedbackpacks:advanced_void_upgrade"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "5A5068B2BA044F6D"
+			tasks: [
+				{
+					id: "1D47C74C96C8EB86"
+					item: "sophisticatedbackpacks:restock_upgrade"
+					type: "item"
+				}
+				{
+					id: "5EB4971AE17E106A"
+					item: "sophisticatedbackpacks:advanced_restock_upgrade"
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "78F716258C26AFC5"
+			tasks: [
+				{
+					id: "4964BC51534836A0"
+					item: "sophisticatedbackpacks:deposit_upgrade"
+					type: "item"
+				}
+				{
+					id: "72E2B9B73BC7ADDC"
+					item: "sophisticatedbackpacks:advanced_deposit_upgrade"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "7B2EF52654BC3C22"
+			tasks: [
+				{
+					id: "50850C6871131439"
+					item: "sophisticatedbackpacks:refill_upgrade"
+					type: "item"
+				}
+				{
+					id: "0184BF45928A21DE"
+					item: "sophisticatedbackpacks:advanced_refill_upgrade"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "26D2235E1F464F42"
+			tasks: [{
+				id: "311425BB27007CE4"
+				item: "sophisticatedbackpacks:inception_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "00C8C2FAC2459375"
+			tasks: [{
+				id: "6E916D62A9A470D2"
+				item: "sophisticatedbackpacks:everlasting_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "74615FBE8C93952D"
+			subtitle: "This can only be found in chests or barrels!"
+			tasks: [
+				{
+					id: "5B3AA4475C6A43D6"
+					item: "sophisticatedbackpacks:smelting_upgrade"
+					type: "item"
+				}
+				{
+					id: "17C027614B025794"
+					item: "sophisticatedbackpacks:auto_smelting_upgrade"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "4B2B22401FF12C27"
+			tasks: [
+				{
+					id: "5D352FFE7F8FE3E3"
+					item: "sophisticatedbackpacks:smoking_upgrade"
+					type: "item"
+				}
+				{
+					id: "674F39122B536F4F"
+					item: "sophisticatedbackpacks:auto_smoking_upgrade"
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "5890502EE26E95FB"
+			tasks: [
+				{
+					id: "766D54C0563C242C"
+					item: "sophisticatedbackpacks:blasting_upgrade"
+					type: "item"
+				}
+				{
+					id: "78B2B4A136D53AFE"
+					item: "sophisticatedbackpacks:auto_blasting_upgrade"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "6B7759342D4AE496"
+			tasks: [{
+				id: "123187DD57800793"
+				item: "sophisticatedbackpacks:crafting_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "36777FCDAA9ABDF7"
+			tasks: [{
+				id: "23CDC0D4FF56287F"
+				item: "sophisticatedbackpacks:stonecutter_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "2EC8420FC47F06F9"
+			tasks: [
+				{
+					id: "1BFC332FFEEEA779"
+					item: "sophisticatedbackpacks:stack_upgrade_starter_tier"
+					type: "item"
+				}
+				{
+					id: "27D6625806497688"
+					item: "sophisticatedbackpacks:stack_upgrade_tier_1"
+					type: "item"
+				}
+				{
+					id: "00E64DC3D70EE8ED"
+					item: "sophisticatedbackpacks:stack_upgrade_tier_2"
+					type: "item"
+				}
+				{
+					id: "27940A2453268540"
+					item: "sophisticatedbackpacks:stack_upgrade_tier_3"
+					type: "item"
+				}
+				{
+					id: "78E8A75594EC690A"
+					item: "sophisticatedbackpacks:stack_upgrade_tier_4"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "77A2704F9551D0B5"
+			tasks: [{
+				id: "0D6AC5B1C7A9BB71"
+				item: "sophisticatedbackpacks:jukebox_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "5960CEAD282364D2"
+			tasks: [
+				{
+					id: "55686845FA0C3D80"
+					item: "sophisticatedbackpacks:tool_swapper_upgrade"
+					type: "item"
+				}
+				{
+					id: "469A8355376F77D4"
+					item: "sophisticatedbackpacks:advanced_tool_swapper_upgrade"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "7749207461D52BDA"
+			tasks: [{
+				id: "7C45D7924DFC16A8"
+				item: "sophisticatedbackpacks:tank_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "46ABE925335C066C"
+			tasks: [
+				{
+					id: "18B8D6C39B6D96EB"
+					item: "sophisticatedbackpacks:pump_upgrade"
+					type: "item"
+				}
+				{
+					id: "2396AEFBED0ECB33"
+					item: "sophisticatedbackpacks:advanced_pump_upgrade"
+					type: "item"
+				}
+				{
+					id: "298FCDD676008CA9"
+					item: "sophisticatedbackpacks:xp_pump_upgrade"
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "52B3B09AB5BA8C90"
+			tasks: [{
+				id: "74428B675806B265"
+				item: "sophisticatedbackpacks:anvil_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["638EB4E35F41405B"]
+			id: "2316FFE66B36924B"
+			tasks: [
+				{
+					id: "6936BCE6D15714D9"
+					item: "sophisticatedbackpacks:chipped/botanist_workbench_upgrade"
+					type: "item"
+				}
+				{
+					id: "1485C556D611B262"
+					item: "sophisticatedbackpacks:chipped/glassblower_upgrade"
+					type: "item"
+				}
+				{
+					id: "1F9AD66C39F63125"
+					item: "sophisticatedbackpacks:chipped/carpenters_table_upgrade"
+					type: "item"
+				}
+				{
+					id: "004A5E1646B365D2"
+					item: "sophisticatedbackpacks:chipped/loom_table_upgrade"
+					type: "item"
+				}
+				{
+					id: "137CA918DD88EA61"
+					item: "sophisticatedbackpacks:chipped/mason_table_upgrade"
+					type: "item"
+				}
+				{
+					id: "3C0BD576CD4B8974"
+					item: "sophisticatedbackpacks:chipped/alchemy_bench_upgrade"
+					type: "item"
+				}
+				{
+					id: "557FC95D0822A03D"
+					item: "sophisticatedbackpacks:chipped/tinkering_table_upgrade"
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5640650E72BDAAEA"]
+			id: "52FFA3E691992828"
+			tasks: [{
+				id: "029246D5474217FF"
+				item: "sophisticatedbackpacks:copper_backpack"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["52FFA3E691992828"]
+			id: "03F9939977753992"
+			tasks: [{
+				id: "0393D5B807EF187B"
+				item: "sophisticatedbackpacks:iron_backpack"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["03F9939977753992"]
+			id: "2694808D51042470"
+			tasks: [{
+				id: "58C84BC5527DA89E"
+				item: "sophisticatedbackpacks:gold_backpack"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2694808D51042470"]
+			id: "54A7C357AE0ADF65"
+			tasks: [{
+				id: "27E82E773F6D9331"
+				item: "sophisticatedbackpacks:diamond_backpack"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["54A7C357AE0ADF65"]
+			id: "0602CB99A77F9CB8"
+			tasks: [{
+				id: "2B829FF5B82BC939"
+				item: "sophisticatedbackpacks:netherite_backpack"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
 		}
 	]
 	title: "Basic"
