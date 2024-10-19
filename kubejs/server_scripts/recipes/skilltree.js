@@ -9,10 +9,11 @@ ServerEvents.recipes(event => {
 
 // Wisdom Scroll
   event.shaped('skilltree:wisdom_scroll',
-    ['232','313','232'], {
+    ['242','313','232'], {
     1: 'minecraft:paper',
     2: 'mysticalagradditions:insanium_gemstone',
-    3: 'mob_grinding_utils:solid_xp_baby'}).id('skilltree:wisdom_scroll')
+    3: 'mob_grinding_utils:solid_xp_baby',
+    4: 'mysticalagradditions:nether_star_shard'}).id('skilltree:wisdom_scroll')
 
 // Amnesia Scroll
   event.shaped('skilltree:amnesia_scroll',

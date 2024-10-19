@@ -11,6 +11,7 @@ StartupEvents.registry('item', e => {
   e.create('empty_box')
   e.create('enchanted_feather')
   e.create('box_of_supreme_machine_frame_parts')
+  e.create('fake_wisdom_scroll').tooltip('The fates are cruel.. This is nothing more than a piece of paper made to look like a Wisdom Scroll...')
 
 })
 

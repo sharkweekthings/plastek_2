@@ -2174,7 +2174,8 @@ LootJS.modifiers((e) => {
     .addWeightedLoot(
       [1], //1-3 rolls
       [
-  LootEntry.of("skilltree:wisdom_scroll").withWeight(15).limitCount([0, 1])	
+  LootEntry.of("skilltree:wisdom_scroll").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("kubejs:fake_wisdom_scroll").withWeight(15).limitCount([0, 1])	
       ]);
 
 // LOOT APOTHEOSIS
