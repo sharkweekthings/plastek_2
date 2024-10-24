@@ -38,30 +38,13 @@ LootJS.modifiers((e) => {
 
       ]);
 
-// USEFUL LOOT
+
+// TRINKETS & ARTIFACTS
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.65)
+    .randomChance(0.75)
     .addWeightedLoot(
       [1, 3], //1-3 rolls
       [
-  LootEntry.of("advancementframes:advancement_frame").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("advancementframes:stat_frame").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("apotheosis:common_material").withWeight(70).limitCount([0, 1]),
-  LootEntry.of("apotheosis:mythic_material").withWeight(40).limitCount([0, 1]),
-  LootEntry.of("apotheosis:rare_material").withWeight(60).limitCount([0, 1]),
-  LootEntry.of("apotheosis:epic_material").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("apotheosis:uncommon_material").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:fire_dragon_eye").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:ice_dragon_eye").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:lightning_dragon_eye").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("apotheosis:common_material").withWeight(70).limitCount([0, 1]),
-  LootEntry.of("apotheosis:mythic_material").withWeight(40).limitCount([0, 1]),
-  LootEntry.of("apotheosis:rare_material").withWeight(60).limitCount([0, 1]),
-  LootEntry.of("apotheosis:epic_material").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("apotheosis:uncommon_material").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:fire_dragon_eye").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:ice_dragon_eye").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:lightning_dragon_eye").withWeight(50).limitCount([0, 1]),
   LootEntry.of("artifacts:pocket_piston").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:charm_of_sinking").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:shock_pendant").withWeight(15).limitCount([0, 1]),
@@ -109,26 +92,7 @@ LootJS.modifiers((e) => {
   LootEntry.of("constructionwand:iron_wand").withWeight(25).limitCount([0, 1]),
   LootEntry.of("constructionwand:stone_wand").withWeight(25).limitCount([0, 1]),
   LootEntry.of("dimdungeons:item_homeward_pearl").withWeight(30).limitCount([0, 1]),
-  LootEntry.of("dimdungeons:item_blank_advanced_key").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("dimdungeons:item_portal_key").withWeight(35).limitCount([0, 1]),
   LootEntry.of("dimdungeons:item_secret_bell").withWeight(50).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:ice_dragon_eye").withWeight(35).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:lightning_dragon_eye").withWeight(35).limitCount([0, 1]),
-  LootEntry.of("dragonfinder:fire_dragon_eye").withWeight(35).limitCount([0, 1]),
-  LootEntry.of("immersive_paintings:glow_painting").withWeight(35).limitCount([0, 1]),
-  LootEntry.of("immersive_paintings:painting").withWeight(35).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:invisibility_ring").withWeight(5).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:heavy_chain_necklace").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:poisonward_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:lurker_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:affinity_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:cooldown_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:silver_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:cast_time_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:fireward_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:mana_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:emerald_stoneplate_ring").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("irons_spellbooks:frostward_ring").withWeight(10).limitCount([0, 1]),
   LootEntry.of("nameless_trinkets:scarab_amulet").withWeight(15).limitCount([0, 1]),
   LootEntry.of("nameless_trinkets:sigil_of_baphomet").withWeight(15).limitCount([0, 1]),
   LootEntry.of("nameless_trinkets:rage_mind").withWeight(15).limitCount([0, 1]),
@@ -180,7 +144,6 @@ LootJS.modifiers((e) => {
   LootEntry.of("relics:rage_glove").withWeight(15).limitCount([0, 1]),
   LootEntry.of("relics:hunter_belt").withWeight(15).limitCount([0, 1]),
   LootEntry.of("relics:ice_breaker").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("relics:researching_table").withWeight(15).limitCount([0, 1]),
   LootEntry.of("relics:arrow_quiver").withWeight(15).limitCount([0, 1]),
   LootEntry.of("relics:horse_flute").withWeight(15).limitCount([0, 1]),
   LootEntry.of("relics:reflection_necklace").withWeight(15).limitCount([0, 1]),
@@ -221,15 +184,48 @@ LootJS.modifiers((e) => {
   LootEntry.of("tarotcards:the_chariot").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_emperor").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_fool").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("tarotcards:tarot_deck").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_hierophant").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("tarotcards:the_empress").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_moon").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_tower").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_sun").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_magician").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_hermit").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("tarotcards:the_star").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("tarotcards:the_star").withWeight(15).limitCount([0, 1])
+      ]);
+
+// USEFUL LOOT
+  e.addLootTypeModifier(LootType.CHEST)
+    .randomChance(0.85)
+    .addWeightedLoot(
+      [1, 3], //1-3 rolls
+      [
+  LootEntry.of("advancementframes:advancement_frame").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("advancementframes:stat_frame").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("apotheosis:common_material").withWeight(70).limitCount([0, 1]),
+  LootEntry.of("apotheosis:mythic_material").withWeight(40).limitCount([0, 1]),
+  LootEntry.of("apotheosis:rare_material").withWeight(60).limitCount([0, 1]),
+  LootEntry.of("apotheosis:epic_material").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("apotheosis:uncommon_material").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:fire_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:ice_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dragonfinder:lightning_dragon_eye").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("constructionwand:iron_wand").withWeight(25).limitCount([0, 1]),
+  LootEntry.of("constructionwand:stone_wand").withWeight(25).limitCount([0, 1]),
+  LootEntry.of("dimdungeons:item_secret_bell").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("immersive_paintings:glow_painting").withWeight(35).limitCount([0, 1]),
+  LootEntry.of("immersive_paintings:painting").withWeight(35).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:invisibility_ring").withWeight(5).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:heavy_chain_necklace").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:poisonward_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:lurker_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:affinity_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:cooldown_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:silver_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:cast_time_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:fireward_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:mana_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:emerald_stoneplate_ring").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("irons_spellbooks:frostward_ring").withWeight(10).limitCount([0, 1]),
   LootEntry.of("pipez:basic_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("pipez:advanced_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("pipez:improved_upgrade").withWeight(15).limitCount([0, 1]),
@@ -311,7 +307,7 @@ LootJS.modifiers((e) => {
   LootEntry.of("sophisticatedbackpacks:chipped/loom_table_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:chipped/tinkering_table_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:jukebox_upgrade").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("sophisticatedbackpacks:diamond_backpack").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("sophisticatedbackpacks:diamond_backpack").withWeight(5).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:advanced_tool_swapper_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:stonecutter_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:smoking_upgrade").withWeight(15).limitCount([0, 1]),
@@ -439,7 +435,26 @@ LootJS.modifiers((e) => {
   LootEntry.of("powah:magmator_basic").withWeight(20).limitCount([0, 1]),
   LootEntry.of("powah:solar_panel_basic").withWeight(20).limitCount([0, 1]),
   LootEntry.of("powah:thermo_generator_starter").withWeight(20).limitCount([0, 1]),
-  LootEntry.of("powah:magmator_starter").withWeight(20).limitCount([0, 1])
+  LootEntry.of("powah:magmator_starter").withWeight(20).limitCount([0, 1]),
+  LootEntry.of("skilltree:copper_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:iron_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:golden_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:simple_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:traveler_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:fisherman_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:assassin_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:healer_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:scholar_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:arsonist_necklace").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:fiery_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:armored_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:gilded_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:toxic_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:diamond_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:healing_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:silent_quiver").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("skilltree:bone_quiver").withWeight(15).limitCount([0, 1])
       ]);
 
 // STATUE / PLUSHIE LOOT
@@ -1106,33 +1121,14 @@ LootJS.modifiers((e) => {
   LootEntry.of("statues:display_stand").withWeight(15).limitCount([0, 1]),
   LootEntry.of("statues:azzaro").withWeight(15).limitCount([0, 1]),
   LootEntry.of("statues:rabbit_wh_statue").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("statues:sheep_statue_orange").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:copper_ring").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:iron_ring").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:golden_ring").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:simple_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:traveler_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:fisherman_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:assassin_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:healer_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:scholar_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:arsonist_necklace").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:fiery_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:armored_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:gilded_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:toxic_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:diamond_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:healing_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:silent_quiver").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("skilltree:bone_quiver").withWeight(15).limitCount([0, 1])
+  LootEntry.of("statues:sheep_statue_orange").withWeight(15).limitCount([0, 1])
       ]);
 
 // HATS LOOT
   e.addLootTypeModifier(LootType.CHEST)
     .randomChance(0.85)
     .addWeightedLoot(
-      [1, 2], //1-3 rolls
+      [1, 2], //1-2 rolls
       [
   LootEntry.of("simplehats:acornhat").withWeight(15).limitCount([0, 1]),	
   LootEntry.of("simplehats:aegishat").withWeight(15).limitCount([0, 1]),	
@@ -1440,7 +1436,9 @@ LootJS.modifiers((e) => {
 
 // LOOT DECO
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.85)
+    .randomChance(1.0
+
+    )
     .addWeightedLoot(
       [1, 2], //1-3 rolls
       [
@@ -2170,7 +2168,7 @@ LootJS.modifiers((e) => {
 
 // LOOT PASSIVE SKILL
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.35)
+    .randomChance(0.75)
     .addWeightedLoot(
       [1], //1-3 rolls
       [
@@ -2180,9 +2178,9 @@ LootJS.modifiers((e) => {
 
 // LOOT APOTHEOSIS
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.35)
+    .randomChance(0.95)
     .addWeightedLoot(
-      [1], //1-3 rolls
+      [1, 2], //1-2 rolls
       [
   LootEntry.of("apotheosis:gem_dust").withWeight(75).limitCount([0, 1]),
   LootEntry.of("apotheosis:common_material").withWeight(75).limitCount([0, 1]),

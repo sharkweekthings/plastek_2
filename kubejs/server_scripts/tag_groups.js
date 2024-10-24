@@ -9,6 +9,8 @@ ServerEvents.tags('item', event => {
 
 event.add('p2:age_1_item', 
   [
+  'thermal:charcoal_block',
+  'thermal:sawdust_block',
   'pipez:basic_upgrade',
   'pipez:advanced_upgrade',
   'pipez:improved_upgrade',
@@ -592,6 +594,8 @@ event.add('p2:age_3_item',
 
 event.add('p2:age_3_exception', 
   [
+  'thermal:charcoal_block',
+  'thermal:sawdust_block',
   'draconicevolution:item_draconium_auto_feed',
   'draconicevolution:item_wyvern_proj_grav_comp',
   'draconicevolution:item_wyvern_hill_step',

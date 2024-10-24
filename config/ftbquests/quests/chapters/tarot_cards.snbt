@@ -20,6 +20,7 @@
 				table_id: 5124368461700878780L
 				type: "random"
 			}]
+			subtitle: "Store all of your cards inside a Tarot Deck!"
 			tasks: [{
 				id: "1EE5D298F460C458"
 				item: {
@@ -54,8 +55,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 1.0d
+			x: -1.0d
+			y: 0.5d
 		}
 		{
 			id: "1CC135677D48D728"
@@ -74,8 +75,8 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.0d
+			x: 0.0d
+			y: 0.5d
 		}
 		{
 			id: "683B8718B0CAABD8"
@@ -94,8 +95,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.5d
-			y: 1.0d
+			x: 1.0d
+			y: 0.5d
 		}
 		{
 			id: "27B40E70BA9E20A4"
@@ -114,8 +115,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.0d
+			x: 2.0d
+			y: 0.5d
 		}
 		{
 			id: "309A9AB2BD5E928B"
@@ -134,8 +135,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.5d
-			y: 1.0d
+			x: 3.0d
+			y: 0.5d
 		}
 		{
 			id: "6CBBA75DA496C312"
@@ -154,8 +155,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.5d
-			y: 1.0d
+			x: 4.0d
+			y: 1.5d
 		}
 		{
 			id: "52D5532E14DDB1D9"
@@ -174,8 +175,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: 1.0d
+			x: 5.0d
+			y: 1.5d
 		}
 		{
 			id: "14BD489ACF303855"
@@ -194,17 +195,19 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: 1.0d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			id: "00078FB97A8B66D8"
+			invisible: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "090CC96362C97844"
 				table_id: 5124368461700878780L
 				type: "random"
 			}]
+			subtitle: "THIS CARD HAS BEEN DISABLED"
 			tasks: [{
 				id: "66D52BCA0BAAAFA8"
 				item: {
@@ -214,8 +217,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 2.0d
+			x: 2.5d
+			y: 3.5d
 		}
 		{
 			id: "7052467FEE2F55E4"
@@ -234,8 +237,8 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 2.0d
+			x: 0.0d
+			y: 1.5d
 		}
 		{
 			id: "122798231655E938"
@@ -254,8 +257,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.5d
-			y: 2.0d
+			x: 1.0d
+			y: 1.5d
 		}
 		{
 			id: "0581DF1077CC4CFC"
@@ -274,8 +277,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.5d
-			y: 2.0d
+			x: 2.0d
+			y: 1.5d
 		}
 		{
 			id: "3D86A12AA7506FEC"
@@ -294,8 +297,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 3.0d
+			y: 1.5d
 		}
 		{
 			id: "1FF79DB6FD8F2279"
@@ -314,8 +317,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.5d
-			y: 2.0d
+			x: 2.5d
+			y: 2.5d
 		}
 		{
 			id: "7C271D708B2EF67A"
@@ -335,7 +338,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 2.0d
+			y: 2.5d
 		}
 		{
 			id: "17868EE38D96D57C"
@@ -354,8 +357,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: 2.0d
+			x: 3.5d
+			y: 2.5d
 		}
 		{
 			id: "5128F16F00D5DDA2"
@@ -374,8 +377,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: 1.0d
+			x: 0.5d
+			y: 2.5d
 		}
 		{
 			id: "0DFDD22AE7C0B9A0"
@@ -394,8 +397,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: -1.0d
+			y: 1.5d
 		}
 		{
 			id: "6FA2852ED425569B"
@@ -414,8 +417,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.0d
+			x: 4.0d
+			y: 0.5d
 		}
 		{
 			id: "308E9DCE4C0AEAC1"
@@ -434,8 +437,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 3.0d
+			x: 5.0d
+			y: 0.5d
 		}
 		{
 			id: "492B4EB9DDE9BBBB"
@@ -454,8 +457,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 3.0d
+			x: 6.0d
+			y: 0.5d
 		}
 		{
 			id: "63BDA83AB6224CFD"
@@ -474,8 +477,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: 2.0d
+			x: 1.5d
+			y: 2.5d
 		}
 	]
 	title: "Tarot Cards"
