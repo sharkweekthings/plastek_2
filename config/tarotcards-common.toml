@@ -14,25 +14,25 @@
 	["Tarot Cards".Cards]
 		#Percentage of damage increase to living (0.5 = +50%)
 		#Range: 0.0 ~ 100.0
-		death_damagebonus = 0.2
+		death_damagebonus = 0.1
 		#Percentage chance of dealing double damage (0.5 = 50%)
 		#Range: 0.0 ~ 1.0
 		judgement_damagechance = 0.15
 		#Percentage of fall damage negated (0.5 = 50%)
 		#Range: 0.0 ~ 1.0
-		the_tower_damagenegation = 1.0
+		the_tower_damagenegation = 0.5
 		#Percentage of damage returned to the attacker (1.0 = 100%)
 		#Range: 0.0 ~ 100.0
-		justice_damagemultiplier = 0.25
+		justice_damagemultiplier = 0.15
 		#Amplifier for effect (1 = II)
 		#Range: 0 ~ 20
 		strength_amplifier = 1
 		#Multiplier for hunger gained (0.5 = -50%, 0 = no change)
 		#Range: 0.0 ~ 1.0
-		temperance_reduction = 0.25
+		temperance_reduction = 0.05
 		#Percentage increase of base speed (0.5 = +50%)
 		#Range: 0.0 ~ 100.0
-		the_chariot_speedboost = 0.2
+		the_chariot_speedboost = 0.1
 		#Amplifier for effect (1 = II)
 		#Range: 0 ~ 20
 		the_devil_weaknessamplifier = 2
@@ -47,7 +47,7 @@
 		the_fool_jumpboost = 2
 		#How much of the damage is converted to experience
 		#Range: 0.0 ~ 1.0
-		the_hanged_man_xpratio = 0.5
+		the_hanged_man_xpratio = 0.05
 		#Max amount of experience that can be obtained from an instance of damage
 		#Range: > 0
 		the_hanged_man_xpcap = 25
@@ -59,12 +59,12 @@
 		the_hermit_armorbonus = 10.0
 		#Percentage increase of experience (2 = +200%)
 		#Range: 1.0 ~ 100.0
-		the_hierophant_xpboost = 1.5
+		the_hierophant_xpboost = 1.0
 		#Stops upgrading enchantment books when they are at max level
 		the_highpriestess_capenchants = true
 		#How much each level of enchantment costs to upgrade (cost = enchantment_level * this_config)
 		#Range: 1 ~ 100
-		the_highpriestess_upgrademultiplier = 3
+		the_highpriestess_upgrademultiplier = 10
 		#How close allies need to be to apply regeneration
 		#Range: 0.0 ~ 256.0
 		the_lovers_range = 5.0
@@ -73,10 +73,10 @@
 		the_lovers_regenamplifier = 2
 		#Percentage increase of reach distance (0.5 = +50%)
 		#Range: 0.0 ~ 100.0
-		the_star_reachboost = 0.5
+		the_star_reachboost = 0.15
 		#Percentage increase of base health (0.5 = +50%)
 		#Range: 0.0 ~ 100.0
-		the_sun_healthboost = 0.25
+		the_sun_healthboost = 0.1
 		#How close non-allies need to be to apply slowness
 		#Range: 0.0 ~ 256.0
 		the_world_range = 3.0
