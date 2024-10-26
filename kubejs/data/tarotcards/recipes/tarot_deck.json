@@ -7,13 +7,13 @@
 	],
 	"key": {
 		"X": {
-			"item": "botania:terrasteel_nugget"
+			"item": "mythicbotany:alfsteel_ingot"
 		},
 		"Z": {
 			"item": "minecraft:paper"
 		},
 		"O": {
-			"item": "minecraft:chest"
+			"item": "kubejs:empty_box"
 		}
 	},
 	"result": {

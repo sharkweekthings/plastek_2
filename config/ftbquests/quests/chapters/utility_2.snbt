@@ -169,8 +169,8 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
-			y: -8.5d
+			x: -9.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["3A93B9E4F7E3F3FA"]
@@ -203,8 +203,8 @@
 					type: "item"
 				}
 			]
-			x: -8.5d
-			y: -7.5d
+			x: -9.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["3A93B9E4F7E3F3FA"]
@@ -237,8 +237,8 @@
 					type: "item"
 				}
 			]
-			x: -7.5d
-			y: -7.5d
+			x: -8.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["3A93B9E4F7E3F3FA"]
@@ -271,8 +271,8 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
-			y: -8.5d
+			x: -7.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["24E0D90ABED593EC"]
@@ -282,8 +282,8 @@
 				item: "industrialforegoing:dissolution_chamber"
 				type: "item"
 			}]
-			x: -8.0d
-			y: -6.5d
+			x: -8.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["3E33D04FC1DB5D45"]
@@ -294,8 +294,8 @@
 				item: "productivebees:upgrade_base"
 				type: "item"
 			}]
-			x: -8.0d
-			y: -1.0d
+			x: -8.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -322,8 +322,8 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
-			y: 0.0d
+			x: -8.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -333,8 +333,8 @@
 				item: "productivebees:upgrade_time"
 				type: "item"
 			}]
-			x: -7.0d
-			y: -0.5d
+			x: -7.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -351,8 +351,8 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
-			y: -0.5d
+			x: -9.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -362,8 +362,8 @@
 				item: "productivebees:upgrade_comb_block"
 				type: "item"
 			}]
-			x: -10.0d
-			y: -1.0d
+			x: -10.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -373,8 +373,8 @@
 				item: "productivebees:upgrade_anti_teleport"
 				type: "item"
 			}]
-			x: -9.0d
-			y: -1.5d
+			x: -9.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -384,8 +384,8 @@
 				item: "productivebees:upgrade_range"
 				type: "item"
 			}]
-			x: -7.0d
-			y: -1.5d
+			x: -7.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -395,8 +395,8 @@
 				item: "productivebees:upgrade_bee_sampler"
 				type: "item"
 			}]
-			x: -6.0d
-			y: -1.0d
+			x: -6.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2CEB7706B5E3A18A"]
@@ -406,8 +406,8 @@
 				item: "productivebees:upgrade_simulator"
 				type: "item"
 			}]
-			x: -8.0d
-			y: -2.0d
+			x: -8.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["4C0C21BE3E13BB3B"]
@@ -418,7 +418,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["5765326D510D2DD9"]
@@ -429,7 +429,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["5765326D510D2DD9"]
@@ -440,7 +440,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["5765326D510D2DD9"]
@@ -455,7 +455,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["5765326D510D2DD9"]
@@ -472,7 +472,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["5765326D510D2DD9"]
@@ -483,7 +483,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["2BB3817A8F929536"]
@@ -494,7 +494,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -11.5d
+			y: -9.5d
 		}
 		{
 			dependencies: ["3CDB016CF089C97F"]
@@ -505,7 +505,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -12.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -516,7 +516,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -13.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -527,7 +527,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -13.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -538,7 +538,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: -13.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -549,7 +549,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -13.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -560,7 +560,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -13.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -571,7 +571,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: -14.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -582,7 +582,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -14.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -593,7 +593,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -14.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["7B50D9B0A0AE676B"]
@@ -604,7 +604,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -14.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1139,7 +1139,7 @@
 				type: "checkmark"
 			}]
 			title: "Making Power With Create"
-			x: -8.0d
+			x: -8.5d
 			y: -10.0d
 		}
 		{
@@ -1150,7 +1150,7 @@
 				item: "createaddition:electric_motor"
 				type: "item"
 			}]
-			x: -8.5d
+			x: -9.0d
 			y: -13.5d
 		}
 		{
@@ -1161,7 +1161,7 @@
 				item: "createaddition:alternator"
 				type: "item"
 			}]
-			x: -7.5d
+			x: -8.0d
 			y: -13.5d
 		}
 		{
@@ -1172,7 +1172,7 @@
 				item: "createaddition:rolling_mill"
 				type: "item"
 			}]
-			x: -8.0d
+			x: -8.5d
 			y: -11.5d
 		}
 		{
@@ -1183,7 +1183,7 @@
 				item: "createaddition:connector"
 				type: "item"
 			}]
-			x: -6.5d
+			x: -7.0d
 			y: -10.5d
 		}
 		{
@@ -1194,7 +1194,7 @@
 				item: "createaddition:tesla_coil"
 				type: "item"
 			}]
-			x: -6.5d
+			x: -7.0d
 			y: -14.0d
 		}
 		{
@@ -1205,7 +1205,7 @@
 				item: "createaddition:modular_accumulator"
 				type: "item"
 			}]
-			x: -9.5d
+			x: -10.0d
 			y: -14.0d
 		}
 		{
@@ -1216,7 +1216,7 @@
 				item: "createaddition:portable_energy_interface"
 				type: "item"
 			}]
-			x: -8.0d
+			x: -8.5d
 			y: -14.5d
 		}
 		{
@@ -1234,7 +1234,7 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
+			x: -9.5d
 			y: -12.5d
 		}
 		{
@@ -1245,7 +1245,7 @@
 				item: "createaddition:gold_spool"
 				type: "item"
 			}]
-			x: -8.0d
+			x: -8.5d
 			y: -12.5d
 		}
 		{
@@ -1256,7 +1256,7 @@
 				item: "createaddition:electrum_spool"
 				type: "item"
 			}]
-			x: -7.0d
+			x: -7.5d
 			y: -12.5d
 		}
 		{
@@ -1267,7 +1267,7 @@
 				item: "createaddition:straw"
 				type: "item"
 			}]
-			x: -9.5d
+			x: -10.0d
 			y: -10.5d
 		}
 		{
@@ -1293,7 +1293,7 @@
 			}]
 			title: "The Scanner"
 			x: -2.5d
-			y: -10.0d
+			y: -8.0d
 		}
 		{
 			description: ["These gadgets will help change the way you build in Minecraft."]
@@ -1306,7 +1306,7 @@
 			}]
 			title: "Building Gadgets"
 			x: -2.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			description: ["Various upgrades for Industrial Foregoing machines."]
@@ -1318,8 +1318,8 @@
 				type: "checkmark"
 			}]
 			title: "Industrial Foregoing Upgrades"
-			x: -8.0d
-			y: -5.0d
+			x: -8.5d
+			y: -4.5d
 		}
 		{
 			description: ["Various upgrades for Productive Bees."]
@@ -1331,8 +1331,8 @@
 				type: "checkmark"
 			}]
 			title: "Productive Bees Upgrades"
-			x: -8.0d
-			y: -3.5d
+			x: -8.5d
+			y: -2.5d
 		}
 		{
 			description: ["Teleport from one stone to other stones you've discovered."]
@@ -1345,7 +1345,7 @@
 			}]
 			title: "Waystones"
 			x: -1.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			description: ["Moving Energy, Items, Fluids, and Gas. "]
@@ -1481,7 +1481,7 @@
 			}]
 			title: "Time in a Bottle"
 			x: -3.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["14BE16CC0948089F"]
@@ -1496,7 +1496,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["60EF1760EF954F3B"]
@@ -1513,7 +1513,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -6.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["0EE9E4C0AB99494C"]
@@ -1610,7 +1610,7 @@
 				}
 			]
 			x: -2.5d
-			y: -5.5d
+			y: -3.5d
 		}
 		{
 			description: [
@@ -1627,7 +1627,7 @@
 			}]
 			title: "Fly Away with Botania"
 			x: -2.5d
-			y: -8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["3E33D04FC1DB5D45"]
@@ -1637,8 +1637,8 @@
 				item: "productivebees:centrifuge"
 				type: "item"
 			}]
-			x: -9.5d
-			y: -3.0d
+			x: -10.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["35261400F7A077F6"]
@@ -1648,8 +1648,8 @@
 				item: "productivebees:powered_centrifuge"
 				type: "item"
 			}]
-			x: -10.5d
-			y: -2.5d
+			x: -11.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4C9297CD716F4B83"]
@@ -1659,8 +1659,8 @@
 				item: "productivebees:heated_centrifuge"
 				type: "item"
 			}]
-			x: -11.0d
-			y: -1.5d
+			x: -11.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["3E33D04FC1DB5D45"]
@@ -1698,8 +1698,8 @@
 				}
 			]
 			title: "Productive Bees Machines"
-			x: -6.5d
-			y: -3.0d
+			x: -7.0d
+			y: -2.0d
 		}
 		{
 			description: ["When you get the materials to craft this, it will let you duplicate quite a few different items."]
@@ -1712,7 +1712,7 @@
 			}]
 			title: "Tome of Alkahestry"
 			x: -2.5d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["3DCE4E3E5410E329"]
@@ -1729,7 +1729,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			description: ["These should get you roughly 500 blocks within range of a Stage 4 / 5 dragon."]
@@ -1742,7 +1742,7 @@
 			}]
 			title: "Dragon Location"
 			x: -1.5d
-			y: -9.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["77DCBCD690E805D2"]
@@ -1753,7 +1753,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -9.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["77DCBCD690E805D2"]
@@ -1764,7 +1764,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -10.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["77DCBCD690E805D2"]
@@ -1775,7 +1775,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["113F841A54C510A4"]
@@ -1797,8 +1797,8 @@
 				title: "Elevators"
 				type: "item"
 			}]
-			x: 7.5d
-			y: -10.0d
+			x: -6.0d
+			y: -3.5d
 		}
 		{
 			description: [
@@ -1816,8 +1816,8 @@
 				type: "checkmark"
 			}]
 			title: "Elevator ID"
-			x: 6.0d
-			y: -10.0d
+			x: -7.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["441DFC4FED4A148D"]
@@ -1833,7 +1833,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: -8.5d
+			y: -6.5d
 		}
 		{
 			id: "441DFC4FED4A148D"
@@ -1845,7 +1845,7 @@
 			}]
 			title: "Passive Skill Tree"
 			x: -3.5d
-			y: -9.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["441DFC4FED4A148D"]
@@ -1857,7 +1857,30 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: -9.5d
+			y: -7.5d
+		}
+		{
+			id: "4471FB13DC29A5D3"
+			shape: "diamond"
+			tasks: [{
+				id: "2C5DAFC7026FDB31"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "RF Tools"
+			x: -9.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4471FB13DC29A5D3"]
+			id: "50F6544542EC5F87"
+			tasks: [{
+				id: "22B2A5F3F13FB18B"
+				item: "rftoolsutility:crafter1"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.5d
 		}
 	]
 	title: "Utility"

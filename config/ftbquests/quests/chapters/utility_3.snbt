@@ -25,11 +25,6 @@
 			id: "6CFB2522CDAAF4D8"
 			tasks: [
 				{
-					id: "2C612D09F23CC168"
-					item: "rftoolsutility:crafter1"
-					type: "item"
-				}
-				{
 					id: "6AD6A131571F0788"
 					item: "rftoolsutility:crafter2"
 					type: "item"
@@ -40,7 +35,7 @@
 					type: "item"
 				}
 			]
-			title: "Auto Crafting"
+			title: "Better Auto Crafting"
 			x: -0.5d
 			y: -7.5d
 		}

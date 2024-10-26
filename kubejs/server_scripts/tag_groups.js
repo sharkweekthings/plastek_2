@@ -9,6 +9,8 @@ ServerEvents.tags('item', event => {
 
 event.add('p2:age_1_item', 
   [
+  'mekanism:sawdust',
+  'thermal:sawdust',
   'thermal:charcoal_block',
   'thermal:sawdust_block',
   'pipez:basic_upgrade',
@@ -453,6 +455,7 @@ event.add('p2:age_1_exception',
 
 event.add('p2:age_2_item', 
   [
+  'rftoolsutility:crafter1',
   'botania:natura_pylon',
   'mythicbotany:mana_infuser',
   'botania:terra_plate',
@@ -594,6 +597,7 @@ event.add('p2:age_3_item',
 
 event.add('p2:age_3_exception', 
   [
+  'rftoolsutility:crafter1',
   'thermal:charcoal_block',
   'thermal:sawdust_block',
   'draconicevolution:item_draconium_auto_feed',
@@ -649,6 +653,7 @@ event.add('p2:age_3_exception',
   'draconicevolution:item_wyvern_auto_fire',
   'draconicevolution:item_wyvern_auto_feed',
   'draconicevolution:item_draconic_aoe',
+  'thermal:sawdust',
   'thermal:lumium_block',
   'thermal:silver_block',
   'thermal:copper_block',
@@ -883,6 +888,7 @@ event.add('p2:age_4_item',
 
 event.add('p2:age_4_exception', 
   [
+  'mekanism:sawdust',
   'mekanism:block_refined_obsidian',
   'mekanism:block_bronze',
   'mekanism:block_osmium',
