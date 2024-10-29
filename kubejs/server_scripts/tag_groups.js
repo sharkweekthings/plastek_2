@@ -9,6 +9,7 @@ ServerEvents.tags('item', event => {
 
 event.add('p2:age_1_item', 
   [
+  'industrialforegoing:dryrubber',
   'mekanism:sawdust',
   'thermal:sawdust',
   'thermal:charcoal_block',
@@ -455,6 +456,7 @@ event.add('p2:age_1_exception',
 
 event.add('p2:age_2_item', 
   [
+  'thermal:device_tree_extractor',
   'rftoolsutility:crafter1',
   'botania:natura_pylon',
   'mythicbotany:mana_infuser',
@@ -476,6 +478,7 @@ event.add('p2:age_2_item',
 
 event.add('p2:age_2_exception', 
   [
+  'industrialforegoing:dryrubber',
   'pipez:basic_upgrade',
   'pipez:advanced_upgrade',
   'pipez:improved_upgrade',
@@ -597,6 +600,7 @@ event.add('p2:age_3_item',
 
 event.add('p2:age_3_exception', 
   [
+  'thermal:device_tree_extractor',
   'rftoolsutility:crafter1',
   'thermal:charcoal_block',
   'thermal:sawdust_block',
@@ -3147,6 +3151,11 @@ event.add('irons_spellbooks:lategame_helmet',
   'irons_spellbooks:priest_helmet',
   'irons_spellbooks:pyromancer_helmet',
   'irons_spellbooks:shadowwalker_helmet'
+])
+
+event.add('thermal:crafting/dies', 
+[
+  'kubejs:wire_mould'
 ])
 
 // add silent saws to be usable with nat prog

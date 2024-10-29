@@ -169,7 +169,7 @@
 	"Guardian Chance" = 0.5
 	#Chance for mobs to be able to summon a flying mount
 	#Range: 0.0 ~ 1.0
-	"Phantom Chance" = 0.5
+	"Phantom Chance" = 0.0
 	#Set this to true to allow tnt thrown by mobs to destroy blocks
 	"TNT Block Destruction" = false
 	#Chance a breaker mob to ignore line of sight

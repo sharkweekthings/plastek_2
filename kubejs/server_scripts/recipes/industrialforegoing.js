@@ -23,3 +23,17 @@ ServerEvents.recipes(event => {
 //
 })
 //
+
+//
+ServerEvents.recipes(event => {
+//
+
+  //ADD
+
+// Rubber to Dry Rubber
+  event.smelting('industrialforegoing:dryrubber', 'thermal:rubber').id('industrialforegoing:plastic')
+
+
+//    
+})
+//

@@ -48,11 +48,20 @@ ServerEvents.recipes(event => {
 
   //ADD
 
+// Arboreal Extractor
+  event.shaped('thermal:device_tree_extractor',
+    [' 2 ','212',' 2 '], {
+    1: 'industrialforegoing:machine_frame_advanced',
+    2: 'kubejs:stone_gear'}).id('thermal:device_tree_extractor')
+
 // Phytogro
   event.shapeless(Item.of('5x thermal:phytogro'), ['farmersdelight:organic_compost', '#forge:dusts/niter', '#forge:dusts/apatite', 'minecraft:bone_meal']).id('thermal:phytogro_5')
 
 // Replace Thermal Machine Frame with Industrial Foregoing
   event.replaceInput({}, 'thermal:machine_frame', 'industrialforegoing:machine_frame_advanced')
+
+// Dry Rubber to Cured Rubber
+  event.blasting('thermal:cured_rubber', 'industrialforegoing:dryrubber').id('thermal:smelting/cured_rubber_from_smelting')
 
 
 //    

@@ -1,8 +1,13 @@
 {
   "type": "thermal:press",
-  "ingredient": {
-    "tag": "forge:ingots/gold"
-  },
+  "ingredients": [
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "item": "kubejs:wire_mould"
+    }
+  ],
   "result": [
     {
       "item": "createaddition:gold_wire",

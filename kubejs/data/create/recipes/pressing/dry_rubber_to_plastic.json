@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "industrialforegoing:dryrubber"
+    }
+  ],
+  "results": [
+    {
+      "item": "industrialforegoing:plastic"
+    }
+  ]
+}

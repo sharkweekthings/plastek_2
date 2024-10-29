@@ -19,7 +19,7 @@ ServerEvents.recipes(event => {
 
   //ADD
 
-// 
+// Bone to Bone Meal Smelting
   event.smelting('minecraft:bone_meal', 'minecraft:bone').id('quark:tweaks/smelting/bone_meal_utility')
 
 // Chest w/ Basket

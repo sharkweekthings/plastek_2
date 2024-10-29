@@ -1,0 +1,21 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 1.0,
+      "count": 1,
+      "item": "thermal:quartz_dust"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "thermal:quartz_dust"
+    }
+  ]
+}

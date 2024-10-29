@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "thermal:quartz_dust"
+    },
+    {
+      "amount": 150,
+      "fluid": "industrialforegoing:latex",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "industrialforegoing:dryrubber"
+    }
+  ]
+}

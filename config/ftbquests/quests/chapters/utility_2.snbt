@@ -1797,8 +1797,8 @@
 				title: "Elevators"
 				type: "item"
 			}]
-			x: -6.0d
-			y: -3.5d
+			x: 7.5d
+			y: -10.0d
 		}
 		{
 			description: [
@@ -1816,8 +1816,8 @@
 				type: "checkmark"
 			}]
 			title: "Elevator ID"
-			x: -7.5d
-			y: -3.5d
+			x: 6.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["441DFC4FED4A148D"]
@@ -1867,7 +1867,7 @@
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "RF Tools"
+			title: "Early RF Tools"
 			x: -9.5d
 			y: -3.5d
 		}
@@ -1880,6 +1880,29 @@
 				type: "item"
 			}]
 			x: -11.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5246999BDDE74D2D"]
+			id: "3EA053A6AAD434C4"
+			tasks: [{
+				id: "179B22A86846E312"
+				item: "thermal:device_tree_extractor"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			id: "5246999BDDE74D2D"
+			shape: "diamond"
+			tasks: [{
+				id: "6F9F4F40E06FDC1E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Early Thermal"
+			x: -7.5d
 			y: -3.5d
 		}
 	]

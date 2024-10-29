@@ -1,8 +1,13 @@
 {
   "type": "thermal:press",
-  "ingredient": {
-    "tag": "forge:ingots/iron"
-  },
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "item": "kubejs:wire_mould"
+    }
+  ],
   "result": [
     {
       "item": "createaddition:iron_wire",

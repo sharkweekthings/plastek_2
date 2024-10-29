@@ -50,6 +50,12 @@ ServerEvents.recipes(event => {
     1: 'kubejs:nether_stone',
     2: 'mob_grinding_utils:solid_xp_baby'}).id('p2:infused_nether_stone')
 
+// Wire Mould
+  event.shaped('kubejs:wire_mould',
+    [' 1 ','121',' 1 '], {
+    1: 'pneumaticcraft:ingot_iron_compressed',
+    2: '#forge:wires'}).id('p2:wire_mould')
+
 
 // Box of Supreme Machine Frame Parts
   event.shapeless(Item.of('kubejs:box_of_supreme_machine_frame_parts'), ['thermal:diamond_gear', 'create:iron_sheet', 'create:iron_sheet', 'create:sturdy_sheet', 'create:sturdy_sheet', 'pneumaticcraft:compressed_iron_gear', 'industrialforegoing:machine_frame_advanced', 'kubejs:empty_box']).id('p2:box_of_supreme_machine_frame_parts')

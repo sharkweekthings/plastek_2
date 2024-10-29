@@ -1,8 +1,13 @@
 {
   "type": "thermal:press",
-  "ingredient": {
-    "tag": "forge:ingots/copper"
-  },
+  "ingredients": [
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "item": "kubejs:wire_mould"
+    }
+  ],
   "result": [
     {
       "item": "createaddition:copper_wire",

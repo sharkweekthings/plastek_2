@@ -1,8 +1,13 @@
 {
   "type": "thermal:press",
-  "ingredient": {
-    "tag": "forge:ingots/electrum"
-  },
+  "ingredients": [
+    {
+      "tag": "forge:ingots/electrum"
+    },
+    {
+      "item": "kubejs:wire_mould"
+    }
+  ],
   "result": [
     {
       "item": "createaddition:electrum_wire",
