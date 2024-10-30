@@ -11,7 +11,7 @@
 		}
 	}
 	id: "320A26FC41362EE6"
-	order_index: 12
+	order_index: 8
 	quest_links: [ ]
 	quests: [
 		{
@@ -184,7 +184,7 @@
 			y: -1.5d
 		}
 		{
-			description: ["Can be obtained by crafting 8 Insanium Essence around an Orb of the Summoner."]
+			description: ["Can be obtained by attaining &34 Godforged Pearls&r, an &3Orb of the Summoner&r, and &34 Insanium Gemstones&r, and crafting it all together on a &9Crafting Table&r."]
 			id: "20788815179D5B06"
 			rewards: [{
 				exclude_from_claim_all: true

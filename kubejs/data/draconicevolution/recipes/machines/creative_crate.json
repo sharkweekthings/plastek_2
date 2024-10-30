@@ -1,7 +1,7 @@
 {
   "type": "draconicevolution:fusion_crafting",
   "catalyst": {
-    "item": "thermal:fluid_tank_construction"
+    "item": "thermal:fluid_tank_creative_augment"
   },
   "ingredients": [
     {
