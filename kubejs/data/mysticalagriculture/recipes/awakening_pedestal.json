@@ -14,6 +14,9 @@
     },
     "G": {
       "tag": "forge:ingots/gold"
+    },
+    "Z": {
+      "tag": "forge:ingots/alfsteel"
     }
   },
   "result": {
