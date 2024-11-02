@@ -12,7 +12,7 @@
   "outputs": [
     {
       "fluid": {
-        "tag": "forge:crude_oil"
+        "fluid": "pneumaticcraft:oil"
       },
       "amount": 75
     }

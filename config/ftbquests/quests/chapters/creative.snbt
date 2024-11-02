@@ -13,24 +13,20 @@
 			id: "0BEBFE314FCC18F1"
 			shape: "square"
 			tasks: [{
-				id: "0B0A3606530D632B"
+				id: "60D0E3C13DBAB43C"
 				item: {
 					Count: 1
 					id: "mekanism:creative_energy_cube"
 					tag: {
 						mekData: {
-							EnergyContainers: [{
-								Container: 0b
-								stored: "18446744073709551615.9999"
-							}]
 							componentConfig: {
 								config0: {
-									side0: 4
-									side1: 4
-									side2: 4
-									side3: 4
-									side4: 4
-									side5: 4
+									side0: 1
+									side1: 1
+									side2: 1
+									side3: 1
+									side4: 1
+									side5: 1
 								}
 							}
 						}
@@ -366,17 +362,6 @@
 			}]
 			x: 3.5d
 			y: 1.5d
-		}
-		{
-			dependencies: ["1FB936FE4FB8C47C"]
-			id: "4AB397C1E5CA46BD"
-			tasks: [{
-				id: "26976DB778E6C1DD"
-				item: "tempad:he_who_remains_tempad"
-				type: "item"
-			}]
-			x: 3.5d
-			y: -6.0d
 		}
 		{
 			description: [

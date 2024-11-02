@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "amount": 350,
+      "fluid": "create:chocolate",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "silentcompat:dark_chocolate_ingot"
+    }
+  ]
+}

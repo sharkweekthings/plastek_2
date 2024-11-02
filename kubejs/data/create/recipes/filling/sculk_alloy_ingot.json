@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "amount": 350,
+      "fluid": "thermal:ender",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "silentcompat:sculk_alloy_ingot"
+    }
+  ]
+}

@@ -33,6 +33,10 @@ ClientEvents.lang('en_us', event => {
   	rename('farmersdelight:cabbage', "Savoy Cabbage")
   	rename('farmersdelight:cabbage_seeds', "Savoy Cabbage Seeds")
 
+// SILENT
+  	rename('silentcompat:dark_chocolate_ingot', "Chocolate Covered Plastic")
+  	rename('silentcompat:dark_chocolate_nugget', "Chocolate Covered Plastic Nugget")
+
 
 
 //
