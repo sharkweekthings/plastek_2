@@ -477,7 +477,6 @@
     {"output": {"item": "minecraft:tropical_fish_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 15},"category": "eggs"},
     {"output": {"item": "minecraft:chicken_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 25},"category": "eggs"},
     {"output": {"item": "statues:statue_bat_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "eggs"},
-    {"output": {"item": "supplementaries:red_merchant_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 64},"category": "eggs"},
     {"output": {"item": "thermal:blizz_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "eggs"},
     {"output": {"item": "thermal:blitz_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "eggs"},
     {"output": {"item": "thermal:basalz_spawn_egg","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "eggs"}
