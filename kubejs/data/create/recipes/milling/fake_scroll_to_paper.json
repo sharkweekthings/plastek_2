@@ -1,0 +1,21 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kubejs:fake_wisdom_scroll"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 1.0,
+      "count": 1,
+      "item": "minecraft:paper"
+    },
+    {
+      "chance": 0.15,
+      "count": 1,
+      "item": "minecraft:paper"
+    }
+  ]
+}

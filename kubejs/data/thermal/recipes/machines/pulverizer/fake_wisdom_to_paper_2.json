@@ -1,0 +1,18 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+      "item": "kubejs:fake_wisdom_scroll"
+  },
+  "result": [
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    {
+      "item": "minecraft:paper",
+      "count": 1,
+      "chance": 0.5
+    }
+  ],
+  "experience": 0.2
+}
