@@ -1905,6 +1905,54 @@
 			x: -7.5d
 			y: -3.5d
 		}
+		{
+			id: "13429418844DD11E"
+			shape: "diamond"
+			tasks: [{
+				id: "7EB414F37B827747"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Comforts"
+			x: 3.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["13429418844DD11E"]
+			id: "7715062918310CF4"
+			tasks: [{
+				id: "53E1B7D63DE2717F"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "comforts:sleeping_bags"
+					}
+				}
+				title: "Sleeping Bags"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["13429418844DD11E"]
+			id: "612AFD80091A1D61"
+			tasks: [{
+				id: "2FC565EEC8DA8B20"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "comforts:hammocks"
+					}
+				}
+				title: "Hammocks"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -9.5d
+		}
 	]
 	title: "Utility"
 }
