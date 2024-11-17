@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"wpw",
+	"ccc",
+	"g g"
+  ],
+  "key": {
+	"c": {
+	  "item": "powah:solar_panel_basic"
+	},
+	"g": {
+	  "item": "powah:steel_energized"
+	},
+	"p": {
+	  "item": "pneumaticcraft:solar_cell"
+	},
+	"w": {
+	  "item": "createaddition:electrum_wire"
+	}
+  },
+  "result": {
+	"item": "powah:solar_panel_hardened"
+  }
+}

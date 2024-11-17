@@ -34,7 +34,7 @@
         {"type": "minecraft:item","name": "apotheosis:mythic_material","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:epic_material","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:blazing_hellshelf","weight": 1},
-        {"type": "minecraft:item","name": "artidfacts:night_vision_goggles","weight": 1},
+        {"type": "minecraft:item","name": "artifacts:night_vision_goggles","weight": 1},
         {"type": "minecraft:item","name": "artifacts:pocket_piston","weight": 1},
         {"type": "minecraft:item","name": "artifacts:charm_of_sinking","weight": 1},
         {"type": "minecraft:item","name": "artifacts:shock_pendant","weight": 1},

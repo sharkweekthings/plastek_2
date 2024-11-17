@@ -60,10 +60,6 @@ JEIEvents.hideItems(event => {
 	event.hide('powah:thermo_generator_niotic')
 	event.hide('powah:thermo_generator_spirited')
 	event.hide('powah:thermo_generator_nitro')
-	event.hide('powah:solar_panel_blazing')
-	event.hide('powah:solar_panel_niotic')
-	event.hide('powah:solar_panel_spirited')
-	event.hide('powah:solar_panel_nitro')
 
 // PRODUCTIVE BEES
 	event.hide('productivebees:experience')

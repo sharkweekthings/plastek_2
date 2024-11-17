@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	" p ",
+	"ccc",
+	"g g"
+  ],
+  "key": {
+	"c": {
+	  "item": "powah:solar_panel_blazing"
+	},
+	"g": {
+	  "item": "powah:crystal_niotic"
+	},
+	"p": {
+	  "item": "pneumaticcraft:solar_cell"
+	}
+  },
+  "result": {
+	"item": "powah:solar_panel_niotic"
+  }
+}

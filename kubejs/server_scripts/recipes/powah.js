@@ -25,11 +25,5 @@ ServerEvents.recipes(event => {
   event.remove({id: 'powah:crafting/thermo_generator_nitro'})
   event.remove({id: 'powah:crafting/solar_panel_starter'})
   event.remove({id: 'powah:crafting/solar_panel_basic'})
-  event.remove({id: 'powah:crafting/solar_panel_hardened'})
-  event.remove({id: 'powah:crafting/solar_panel_blazing'})
-  event.remove({id: 'powah:crafting/solar_panel_niotic'})
-  event.remove({id: 'powah:crafting/solar_panel_spirited'})
-  event.remove({id: 'powah:crafting/solar_panel_nitro'})
-//
 })
 //

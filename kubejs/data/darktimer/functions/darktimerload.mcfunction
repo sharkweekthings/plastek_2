@@ -1,0 +1,1 @@
+schedule function darktimer:darktimerwarn10 30s

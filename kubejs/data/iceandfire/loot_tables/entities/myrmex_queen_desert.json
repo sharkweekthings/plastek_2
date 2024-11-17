@@ -1,32 +1,71 @@
 {
   "pools": [
     {
-      "name": "bottle",
-      "rolls": 1,
+      "name": "myrmex_queen_desert",
+      "rolls": 3,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "cataclysm:sandstorm_in_a_bottle"
-        }
-      ]
-    },
-    {
-      "name": "skull",
-      "rolls": 1,
-      "entries": [
+          "type": "item",
+          "name": "iceandfire:myrmex_desert_chitin",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 12
+              }
+            },
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ]
+        },
         {
-          "type": "minecraft:item",
-          "name": "cataclysm:remnant_skull"
-        }
-      ]
-    },
-    {
-      "name": "metal",
-      "rolls": 1,
-      "entries": [
+          "type": "item",
+          "name": "iceandfire:myrmex_desert_resin",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 12
+              }
+            },
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        },
         {
-          "type": "minecraft:item",
-          "name": "cataclysm:ancient_metal_block"
+          "type": "item",
+          "name": "iceandfire:myrmex_stinger",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": -1,
+                "max": 1
+              }
+            },
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 0
+              }
+            }
+          ]
         }
       ]
     },
@@ -39,7 +78,6 @@
         {"type": "minecraft:item","name": "apotheosis:glowing_hellshelf","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:boss_summoner","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:rectifier_t3","weight": 1},
-        {"type": "minecraft:item","name": "apotheosis:ender_library","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:mythic_material","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:epic_material","weight": 1},
         {"type": "minecraft:item","name": "apotheosis:blazing_hellshelf","weight": 1},
@@ -87,7 +125,6 @@
         {"type": "minecraft:item","name": "artifacts:umbrella","weight": 1},
         {"type": "minecraft:item","name": "artifacts:snowshoes","weight": 1},
         {"type": "minecraft:item","name": "artifacts:eternal_steak","weight": 1},
-        {"type": "minecraft:item","name": "born_in_chaos_v1:supreme_measure","weight": 1},
         {"type": "minecraft:item","name": "constructionwand:iron_wand","weight": 1},
         {"type": "minecraft:item","name": "constructionwand:stone_wand","weight": 1},
         {"type": "minecraft:item","name": "dimdungeons:item_homeward_pearl","weight": 1},
@@ -278,79 +315,13 @@
         {"type": "minecraft:item","name": "tarotcards:the_magician","weight": 1},
         {"type": "minecraft:item","name": "tarotcards:the_hermit","weight": 1},
         {"type": "minecraft:item","name": "tarotcards:the_star","weight": 1},
-        {"type": "minecraft:item","name": "tempad:he_who_remains_tempad","weight": 1},
         {"type": "minecraft:item","name": "tempad:tempad","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_aoe","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_auto_feed","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_damage","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_ender_collection","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_energy","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_energy_link","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_flight","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_jump","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_large_shield_capacity","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_accuracy","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_anti_immune","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_damage","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_grav_comp","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_penetration","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_proj_velocity","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_shield_capacity","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_shield_control","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_shield_recovery","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_speed","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_tree_harvest","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconic_undying","weight": 1},
         {"type": "minecraft:item","name": "draconicevolution:item_draconium_aoe","weight": 1},
         {"type": "minecraft:item","name": "draconicevolution:item_draconium_auto_feed","weight": 1},
         {"type": "minecraft:item","name": "draconicevolution:item_draconium_damage","weight": 1},
         {"type": "minecraft:item","name": "draconicevolution:item_draconium_energy","weight": 1},
         {"type": "minecraft:item","name": "draconicevolution:item_draconium_jump","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_draconium_speed","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_aoe","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_aqua_adapt","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_auto_feed","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_auto_fire","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_damage","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_ender_collection","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_energy","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_energy_link","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_flight","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_hill_step","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_jump","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_junk_filter","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_large_shield_capacity","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_mining_stability","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_night_vision","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_proj_accuracy","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_proj_damage","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_proj_grav_comp","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_proj_penetration","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_proj_velocity","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_shield_capacity","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_shield_control","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_shield_recovery","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_speed","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_tree_harvest","weight": 1},
-        {"type": "minecraft:item","name": "draconicevolution:item_wyvern_undying","weight": 1}
-      ]
-    },
-    {
-      "name": "disc",
-      "conditions": [
-        {
-          "condition": "random_chance_with_looting",
-          "chance": 0.1,
-          "looting_multiplier": 0.1
-        }
-      ],
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "cataclysm:music_disc_ancient_remnant",
-          "weight": 1
-        }
+        {"type": "minecraft:item","name": "draconicevolution:item_draconium_speed","weight": 1}
       ]
     }
   ]
