@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "/": {
+      "tag": "forge:ingots/iron"
+    },
+    "i": {
+      "item": "create:iron_sheet"
+    },
+    "f": {
+      "item": "minecraft:blast_furnace"
+    },
+    "b": {
+      "item": "minecraft:brick"
+    }
+  },
+  "pattern": [
+    "bii",
+    "bf/",
+    "/f/"
+  ],
+  "result": {
+    "item": "silentgear:metal_alloyer"
+  }
+}
