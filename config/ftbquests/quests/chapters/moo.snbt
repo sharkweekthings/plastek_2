@@ -163,7 +163,7 @@
 				type: "item"
 			}]
 			x: -12.5d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["006EC724C42A91BF"]
@@ -181,7 +181,7 @@
 				type: "item"
 			}]
 			x: -13.5d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: [
@@ -203,10 +203,10 @@
 			}]
 			title: "Hopper Botany Pot"
 			x: -13.5d
-			y: -4.5d
+			y: -3.5d
 		}
 		{
-			dependencies: ["644BAA2A03614FC5"]
+			dependencies: ["2E12D425C205CDBC"]
 			id: "5ED68A2AF28C4E7F"
 			tasks: [{
 				id: "5086693B89D166D6"
@@ -221,7 +221,7 @@
 				type: "item"
 			}]
 			x: -12.5d
-			y: -4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["2E12D425C205CDBC"]
@@ -239,10 +239,10 @@
 				type: "item"
 			}]
 			x: -11.5d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
-			dependencies: ["5ED68A2AF28C4E7F"]
+			dependencies: ["2288864C907E2F6A"]
 			id: "5DCB2F889DCB70EC"
 			tasks: [{
 				id: "43DCFC64DC962E50"
@@ -257,7 +257,7 @@
 				type: "item"
 			}]
 			x: -11.5d
-			y: -4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["2288864C907E2F6A"]
@@ -276,10 +276,10 @@
 			}]
 			title: "Creative Botany Pot"
 			x: -10.5d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
-			dependencies: ["5DCB2F889DCB70EC"]
+			dependencies: ["3FCB085E15333155"]
 			id: "08AC396C43405580"
 			tasks: [{
 				id: "2C6907DDDE2E73F0"
@@ -294,7 +294,7 @@
 				type: "item"
 			}]
 			x: -10.5d
-			y: -4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["6F51530CCB2F4539"]
@@ -743,8 +743,8 @@
 				type: "checkmark"
 			}]
 			title: "Better Botany Potting"
-			x: -14.5d
-			y: -4.0d
+			x: -13.5d
+			y: -6.0d
 		}
 		{
 			description: ["&6Slice and Dice&r will allow you to automate various cutting recipes. It also has a &3Sprinkler&r that will let you rain down some &3Water&r, &3Lava&r or &3Fluid XP&r."]

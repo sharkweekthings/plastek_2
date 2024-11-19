@@ -5,7 +5,7 @@
       "tag": "forge:ingots/iron"
     },
     "i": {
-      "item": "create:iron_sheet"
+      "tag": "minecraft:slabs"
     },
     "f": {
       "item": "minecraft:blast_furnace"
@@ -15,8 +15,8 @@
     }
   },
   "pattern": [
-    "bii",
-    "bf/",
+    "bib",
+    "bfb",
     "/f/"
   ],
   "result": {
