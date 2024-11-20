@@ -133,7 +133,7 @@ ServerEvents.recipes(event => {
   event.shaped('botanypotstiers:elite_terracotta_botany_pot',
     ['   ',' 2 ','313'], {
     1: 'botanypots:terracotta_botany_pot',
-    2: 'mysticalagriculture:inferium_gemstone',
+    2: 'mysticalagriculture:tertium_gemstone',
     3: 'mysticalagriculture:prudentium_essence'}).id('p2:elite_terracotta_botany_pot')
 
 // Elite Botany Pot Colors
@@ -243,7 +243,7 @@ ServerEvents.recipes(event => {
   event.shaped('botanypotstiers:ultra_terracotta_botany_pot',
     ['   ',' 2 ','313'], {
     1: 'botanypotstiers:elite_terracotta_botany_pot',
-    2: 'mysticalagriculture:tertium_gemstone',
+    2: 'mysticalagriculture:supremium_gemstone',
     3: 'mysticalagriculture:imperium_essence'}).id('p2:ultra_terracotta_botany_pot')
 
 // Ultra Botany Pot Colors
