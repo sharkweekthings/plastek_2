@@ -162,7 +162,7 @@
 				title: "Elite Botany Pot"
 				type: "item"
 			}]
-			x: -12.5d
+			x: -13.5d
 			y: -4.5d
 		}
 		{
@@ -180,7 +180,7 @@
 				title: "Botany Pot"
 				type: "item"
 			}]
-			x: -13.5d
+			x: -14.5d
 			y: -4.5d
 		}
 		{
@@ -202,7 +202,7 @@
 				type: "item"
 			}]
 			title: "Hopper Botany Pot"
-			x: -13.5d
+			x: -14.5d
 			y: -3.5d
 		}
 		{
@@ -220,7 +220,7 @@
 				title: "Elite Hopper Botany Pot"
 				type: "item"
 			}]
-			x: -12.5d
+			x: -13.5d
 			y: -3.5d
 		}
 		{
@@ -238,7 +238,7 @@
 				title: "Ultra Botany Pot"
 				type: "item"
 			}]
-			x: -11.5d
+			x: -12.5d
 			y: -4.5d
 		}
 		{
@@ -256,7 +256,7 @@
 				title: "Ultra Hopper Botany Pot"
 				type: "item"
 			}]
-			x: -11.5d
+			x: -12.5d
 			y: -3.5d
 		}
 		{
@@ -275,7 +275,7 @@
 				type: "item"
 			}]
 			title: "Creative Botany Pot"
-			x: -10.5d
+			x: -11.5d
 			y: -4.5d
 		}
 		{
@@ -293,7 +293,7 @@
 				title: "Creative Hopper Botany Pot"
 				type: "item"
 			}]
-			x: -10.5d
+			x: -11.5d
 			y: -3.5d
 		}
 		{
@@ -743,7 +743,7 @@
 				type: "checkmark"
 			}]
 			title: "Better Botany Potting"
-			x: -13.5d
+			x: -14.5d
 			y: -6.0d
 		}
 		{

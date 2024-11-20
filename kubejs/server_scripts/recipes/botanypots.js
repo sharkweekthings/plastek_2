@@ -353,7 +353,7 @@ ServerEvents.recipes(event => {
   event.shaped('botanypotstiers:creative_terracotta_botany_pot',
     ['   ',' 2 ','313'], {
     1: 'botanypotstiers:ultra_terracotta_botany_pot',
-    2: 'mysticalagriculture:tertium_gemstone',
+    2: 'mysticalagradditions:insanium_gemstone',
     3: 'mysticalagradditions:creative_essence'}).id('p2:creative_terracotta_botany_pot')
 
 // Creative Botany Pot Colors
