@@ -166,7 +166,7 @@
 			y: -4.5d
 		}
 		{
-			dependencies: ["006EC724C42A91BF"]
+			dependencies: ["21B8B2D077BF1740"]
 			id: "4C310CF30DD887FD"
 			tasks: [{
 				id: "06605A209732893D"
@@ -744,7 +744,7 @@
 			}]
 			title: "Better Botany Potting"
 			x: -14.5d
-			y: -6.0d
+			y: -7.0d
 		}
 		{
 			description: ["&6Slice and Dice&r will allow you to automate various cutting recipes. It also has a &3Sprinkler&r that will let you rain down some &3Water&r, &3Lava&r or &3Fluid XP&r."]
@@ -800,6 +800,17 @@
 			title: "Kitchen Necessities"
 			x: -2.5d
 			y: -4.0d
+		}
+		{
+			dependencies: ["006EC724C42A91BF"]
+			id: "21B8B2D077BF1740"
+			tasks: [{
+				id: "7AFCE61B675D7660"
+				item: "supplementaries:planter"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -5.5d
 		}
 	]
 	title: "Moo"
