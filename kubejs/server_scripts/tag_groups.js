@@ -3181,10 +3181,59 @@ event.add('thermal:crafting/dies',
   'kubejs:wire_mould'
 ])
 
+event.remove('tombstone:seeds', 
+[
+  'mysticalagriculture:aluminum_seeds',
+  'mysticalagriculture:amethyst_bronze_seeds',
+  'mysticalagriculture:aquamarine_seeds',
+  'mysticalagriculture:cobalt_seeds',
+  'mysticalagriculture:dark_steel_seeds',
+  'mysticalagriculture:end_steel_seeds',
+  'mysticalagriculture:fiery_ingot_seeds',
+  'mysticalagriculture:grains_of_infinity_seeds',
+  'mysticalagriculture:ironwood_seeds',
+  'mysticalagriculture:menril_seeds',
+  'mysticalagriculture:pig_iron_seeds',
+  'mysticalagriculture:peridot_seeds',
+  'mysticalagriculture:pulsating_alloy_seeds',
+  'mysticalagriculture:queens_slime_seeds',
+  'mysticalagriculture:rock_crystal_seeds',
+  'mysticalagriculture:rose_gold_seeds',
+  'mysticalagriculture:rubber_seeds',
+  'mysticalagriculture:starmetal_seeds',
+  'mysticalagriculture:soularium_seeds',
+  'mysticalagriculture:titanium_seeds',
+  'mysticalagriculture:tungsten_seeds',
+  'mysticalagriculture:vibrant_alloy_seeds',
+  'mysticalagriculture:yellorium_seeds',
+  'mysticalagriculture:steelleaf_seeds',
+  'mysticalagriculture:certus_quartz_seeds',
+  'mysticalagriculture:blazing_crystal_seeds',
+  'mysticalagriculture:diamond_seeds',
+  'mysticalagriculture:draconium_seeds',
+  'mysticalagriculture:dragon_egg_seeds',
+  'mysticalagriculture:fluix_seeds',
+  'mysticalagriculture:flux_infused_gem_seeds',
+  'mysticalagriculture:flux_infused_ingot_seeds',
+  'mysticalagriculture:ghast_seeds',
+  'mysticalagriculture:manasteel_seeds',
+  'mysticalagriculture:nether_star_seeds',
+  'mysticalagriculture:netherite_seeds',
+  'mysticalagriculture:osmium_seeds',
+  'mysticalagriculture:wither_skeleton_seeds',
+  'mysticalagriculture:nether_star_seeds',
+  'mysticalagriculture:gaia_spirit_seeds',
+  'mysticalagriculture:awakened_draconium_seeds',
+  'mysticalagriculture:nitro_crystal_seeds',
+  'mysticalagriculture:emerald_seeds',
+  'mysticalagriculture:enderium_seeds',
+  'mysticalagriculture:terrasteel_seeds',
+  'mysticalagriculture:niotic_crystal_seeds',
+  'mysticalagriculture:spirited_crystal_seeds'
+])
+
 // add silent saws to be usable with nat prog
 event.add('natprog:saw', 'silentgear:saw')
-
-
 
 //
 })

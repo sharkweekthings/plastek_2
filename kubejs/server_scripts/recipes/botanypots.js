@@ -7,10 +7,7 @@ ServerEvents.recipes(event => {
 //
 
   //REMOVE
-// event.remove({ mod: 'botanypots' })
-// event.remove({ mod: 'botanypotstiers' })
 event.remove({ output: '#botanypots:all_botany_pots' })
-// event.remove({id:/botanypots:mysticalagriculture\/crop/})
 
 
 //

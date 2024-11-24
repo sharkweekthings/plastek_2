@@ -1,0 +1,56 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "nameless_trinkets:unknown_fragment"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "chance": 0.05,
+      "count": 1,
+      "item": "draconicevolution:small_chaos_frag"
+    },
+    {
+      "chance": 0.05,
+      "count": 1,
+      "item": "silentgear:nether_star_fragment"
+    },
+    {
+      "chance": 0.10,
+      "count": 1,
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "chance": 0.10,
+      "count": 1,
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "chance": 0.15,
+      "count": 1,
+      "item": "silentgear:diamond_shard"
+    },
+    {
+      "chance": 0.15,
+      "count": 1,
+      "item": "silentgear:emerald_shard"
+    },
+    {
+      "chance": 0.20,
+      "count": 1,
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "chance": 0.20,
+      "count": 1,
+      "item": "mysticalagriculture:prosperity_shard"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "biomancy:mineral_fragment"
+    }
+  ]
+}
