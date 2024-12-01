@@ -53,6 +53,18 @@ ServerEvents.recipes(event => {
     1: 'aether:skyroot_planks',
     2: 'farmersdelight:basket',
     3: '#necraft:wooden_slabs'}).id('aether:skyroot_barrel')
+    
+// Custom Chest
+  event.shaped('2x minecraft:chest',
+    ['1 1','121','111'], {
+    1: 'mysticalagriculture:wood_essence',
+    2: 'create:andesite_casing'}).id('minecraft:chest_custom')
+    
+// Custom Barrel
+  event.shaped('2x minecraft:barrel',
+    ['111','121','1 1'], {
+    1: 'mysticalagriculture:wood_essence',
+    2: 'create:andesite_casing'}).id('minecraft:barrel_custom')
 
 //    
 })

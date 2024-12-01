@@ -372,7 +372,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["37795596BF84017A"]
+			dependencies: ["6906746377A70FFE"]
 			id: "5F7D4A0F391E889E"
 			tasks: [
 				{
@@ -388,7 +388,7 @@
 				}
 			]
 			title: "Mystical Infusion"
-			x: 0.5d
+			x: -0.5d
 			y: -2.5d
 		}
 		{
@@ -418,7 +418,7 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.5d
 			y: -3.5d
 		}
 		{
@@ -435,7 +435,7 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
+			x: -2.5d
 			y: -3.5d
 		}
 		{
@@ -452,7 +452,7 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
+			x: -3.5d
 			y: -3.5d
 		}
 		{
@@ -469,7 +469,7 @@
 				}
 				type: "item"
 			}]
-			x: -3.5d
+			x: -4.5d
 			y: -3.5d
 		}
 		{
@@ -486,7 +486,7 @@
 				}
 				type: "item"
 			}]
-			x: -4.5d
+			x: -5.5d
 			y: -3.5d
 		}
 		{
@@ -497,7 +497,7 @@
 				item: "mysticalagriculture:master_infusion_crystal"
 				type: "item"
 			}]
-			x: -5.5d
+			x: -6.5d
 			y: -3.5d
 		}
 		{
@@ -508,7 +508,7 @@
 				item: "mysticalagriculture:prosperity_seed_base"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -3.5d
 			y: -4.5d
 		}
 		{
@@ -519,7 +519,7 @@
 				item: "mysticalagriculture:soulium_seed_base"
 				type: "item"
 			}]
-			x: -3.5d
+			x: -4.5d
 			y: -4.5d
 		}
 		{
@@ -530,7 +530,7 @@
 				item: "mysticalagriculture:inferium_essence"
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.5d
 			y: -2.5d
 		}
 		{
@@ -541,7 +541,7 @@
 				item: "mysticalagriculture:prudentium_essence"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -2.5d
 			y: -2.5d
 		}
 		{
@@ -552,7 +552,7 @@
 				item: "mysticalagriculture:tertium_essence"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -3.5d
 			y: -2.5d
 		}
 		{
@@ -563,7 +563,7 @@
 				item: "mysticalagriculture:imperium_essence"
 				type: "item"
 			}]
-			x: -3.5d
+			x: -4.5d
 			y: -2.5d
 		}
 		{
@@ -574,7 +574,7 @@
 				item: "mysticalagriculture:supremium_essence"
 				type: "item"
 			}]
-			x: -4.5d
+			x: -5.5d
 			y: -2.5d
 		}
 		{
@@ -596,7 +596,7 @@
 				item: "mysticalagradditions:insanium_essence"
 				type: "item"
 			}]
-			x: -5.5d
+			x: -6.5d
 			y: -2.5d
 		}
 		{
@@ -648,7 +648,7 @@
 				}
 			]
 			title: "Fly Away"
-			x: -7.0d
+			x: -8.0d
 			y: -3.0d
 		}
 		{
@@ -773,8 +773,20 @@
 				type: "checkmark"
 			}]
 			title: "Insanium Eye"
-			x: -7.0d
+			x: -8.0d
 			y: -2.0d
+		}
+		{
+			dependencies: ["37795596BF84017A"]
+			description: ["&6Artifacts&r, &6Nameless Trinkets&r, &6Tarot Cards&r, and &6Relics&r can all be right clicked against an &3Amethyst Block&r to receive an &3Unknown Fragment&r."]
+			id: "6906746377A70FFE"
+			tasks: [{
+				id: "5A3FAE3DE5FB6097"
+				item: "nameless_trinkets:unknown_fragment"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
 		}
 	]
 	title: "Magic"

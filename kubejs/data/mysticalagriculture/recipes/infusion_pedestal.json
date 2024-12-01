@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "GCG",
-    "ZYZ",
-    "VSV"
+    "VYV",
+    "SFS"
   ],
   "key": {
     "S": {
@@ -15,8 +15,8 @@
     "G": {
       "tag": "forge:ingots/gold"
     },
-    "Z": {
-      "tag": "forge:ingots/terrasteel"
+    "F": {
+      "item": "nameless_trinkets:unknown_fragment"
     },
     "Y": {
       "item": "botania:pixie_dust"

@@ -3,6 +3,7 @@
     "stage": "age_2",
     "itemList": [],
     "modList": [
+      "create_connected",
       "pneumaticcraft",
       "pipez",
       "createaddition",

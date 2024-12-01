@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "pneumaticcraft:cannon_barrel"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "D": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "pattern": [
+    " I ",
+    " I ",
+    "DBD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "pneumaticcraft:pneumatic_cylinder"
+  },
+  "show_notification": true
+}

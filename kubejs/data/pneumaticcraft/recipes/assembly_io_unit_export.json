@@ -1,0 +1,27 @@
+{
+  "type": "pneumaticcraft:crafting_shaped_no_mirror",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:mechanical_arm"
+    },
+    "C": {
+      "item": "pneumaticcraft:pneumatic_cylinder"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "pattern": [
+    "   ",
+    "B C",
+    "IHI"
+  ],
+  "result": {
+    "item": "pneumaticcraft:assembly_io_unit_export"
+  },
+  "show_notification": true
+}

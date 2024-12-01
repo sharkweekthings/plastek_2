@@ -34,6 +34,12 @@ ServerEvents.recipes(event => {
     2: 'pneumaticcraft:plastic',
     3: 'createaddition:electrum_wire'}).id('pneumaticcraft:pressure_chamber/transistor')
 
+// Drill Program
+  event.shaped('pneumaticcraft:assembly_program_drill',
+    [' 2 ','212',' 2 '], {
+    1: 'create:mechanical_drill',
+    2: 'create:crafting_blueprint'}).id('pnematiccraft:drill_program_custom')
+
 
 //    
 })

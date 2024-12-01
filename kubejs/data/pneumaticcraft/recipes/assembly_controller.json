@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "functionalstorage:controller_extension"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    },
+    "T": {
+      "item": "pneumaticcraft:pressure_tube"
+    }
+  },
+  "pattern": [
+    " B ",
+    " T ",
+    "III"
+  ],
+  "result": {
+    "item": "pneumaticcraft:assembly_controller"
+  },
+  "show_notification": true
+}

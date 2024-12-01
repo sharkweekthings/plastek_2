@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:mechanical_arm"
+    },
+    "C": {
+      "item": "pneumaticcraft:pneumatic_cylinder"
+    },
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "pattern": [
+    "  D",
+    "C B",
+    "III"
+  ],
+  "result": {
+    "item": "pneumaticcraft:assembly_drill"
+  },
+  "show_notification": true
+}
