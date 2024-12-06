@@ -10,11 +10,14 @@
     },
     "T": {
       "item": "pneumaticcraft:pressure_tube"
+    },
+    "Z": {
+      "item": "create_connected:control_chip"
     }
   },
   "pattern": [
     " B ",
-    " T ",
+    "ZTZ",
     "III"
   ],
   "result": {

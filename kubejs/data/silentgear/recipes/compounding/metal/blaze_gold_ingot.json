@@ -1,0 +1,18 @@
+{
+  "type": "silentgear:compounding/metal",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "silentgear:blaze_gold_dust"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "silentgear:blaze_gold_ingot"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "silentgear:compounding/metal",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/silver"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "silentgear:azure_silver_dust"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "silentgear:azure_silver_ingot"
+  }
+}

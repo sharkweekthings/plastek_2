@@ -417,8 +417,8 @@
 				item: "waystones:waystone"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.0d
+			x: -0.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["5765326D510D2DD9"]
@@ -1345,7 +1345,7 @@
 			}]
 			title: "Waystones"
 			x: -1.5d
-			y: 1.0d
+			y: -5.5d
 		}
 		{
 			description: ["Moving Energy, Items, Fluids, and Gas. "]
@@ -1481,7 +1481,7 @@
 			}]
 			title: "Time in a Bottle"
 			x: -3.5d
-			y: 1.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["14BE16CC0948089F"]
@@ -1495,8 +1495,8 @@
 				}
 				type: "item"
 			}]
-			x: -5.0d
-			y: 1.0d
+			x: -4.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["60EF1760EF954F3B"]

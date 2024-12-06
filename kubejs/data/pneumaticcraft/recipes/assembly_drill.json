@@ -13,11 +13,14 @@
     },
     "I": {
       "tag": "forge:ingots/compressed_iron"
+    },
+    "Z": {
+      "item": "create_connected:control_chip"
     }
   },
   "pattern": [
     "  D",
-    "C B",
+    "CZB",
     "III"
   ],
   "result": {

@@ -10,6 +10,11 @@ ServerEvents.recipes(event => {
   event.remove({id: 'silentgear:glowing_dust'})
   event.remove({id: 'silentgear:blazing_dust'})
   event.remove({id: 'silentgear:glittery_dust'})
+  event.remove({id: 'silentgear:azure_silver_dust_smelting'})
+  event.remove({id: 'silentgear:blaze_gold_dust_smelting'})
+  event.remove({id: 'silentgear:azure_silver_dust_blasting'})
+  event.remove({id: 'silentgear:blaze_gold_dust_blasting'})
+  event.remove({id: 'silentgear:blaze_gold_ingot'})
 
 //
 })
