@@ -773,7 +773,7 @@
 				item: "cataclysm:music_disc_ender_guardian"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: 6.0d
 		}
 		{
@@ -789,7 +789,7 @@
 				item: "cataclysm:music_disc_ignis"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 1.5d
 			y: 6.0d
 		}
 		{
@@ -805,7 +805,7 @@
 				item: "cataclysm:music_disc_the_harbinger"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 2.5d
 			y: 6.0d
 		}
 		{
@@ -821,7 +821,7 @@
 				item: "cataclysm:music_disc_the_leviathan"
 				type: "item"
 			}]
-			x: 4.5d
+			x: 3.5d
 			y: 6.0d
 		}
 		{
@@ -837,7 +837,39 @@
 				item: "cataclysm:music_disc_ancient_remnant"
 				type: "item"
 			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			id: "4E09D749DE59EC3B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B792DD8DA7562B0"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0C6AD7F9497BE4CE"
+				item: "create_connected:music_disc_elevator"
+				type: "item"
+			}]
 			x: 5.5d
+			y: 6.0d
+		}
+		{
+			id: "67163847F34EF933"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13267EE2FABE11A6"
+				table_id: 5124368461700878780L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7CA2E0F9BF142A18"
+				item: "create_connected:music_disc_interlude"
+				type: "item"
+			}]
+			x: 6.5d
 			y: 6.0d
 		}
 	]

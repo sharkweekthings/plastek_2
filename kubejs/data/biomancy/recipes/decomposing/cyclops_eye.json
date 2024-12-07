@@ -1,0 +1,1 @@
+{"type":"biomancy:decomposing","ingredient":{"item":"iceandfire:cyclops_eye"},"nutrientsCost":1,"processingTime":108,"results":[{"countRange":{"type":"uniform","max":5,"min":1},"item":"biomancy:flesh_bits"}]}
