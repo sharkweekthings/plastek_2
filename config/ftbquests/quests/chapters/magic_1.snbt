@@ -854,6 +854,11 @@
 				type: "item"
 			}]
 			shape: "heart"
+			tasks: [{
+				id: "27DC5E536F10F683"
+				title: "Ok"
+				type: "checkmark"
+			}]
 			title: "Spirit Eye"
 			x: 1.0d
 			y: -3.5d

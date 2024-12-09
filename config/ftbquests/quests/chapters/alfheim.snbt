@@ -1362,6 +1362,11 @@
 				type: "item"
 			}]
 			shape: "heart"
+			tasks: [{
+				id: "62A073D5810E8C7C"
+				title: "Ok"
+				type: "checkmark"
+			}]
 			title: "Dragon Eye"
 			x: 5.0d
 			y: 1.5d
