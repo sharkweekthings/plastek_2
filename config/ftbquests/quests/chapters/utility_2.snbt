@@ -1711,8 +1711,8 @@
 				type: "checkmark"
 			}]
 			title: "Tome of Alkahestry"
-			x: -2.5d
-			y: 2.0d
+			x: -1.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["3DCE4E3E5410E329"]
@@ -1728,8 +1728,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
-			y: 3.5d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			description: ["These should get you roughly 500 blocks within range of a Stage 4 / 5 dragon."]
@@ -1833,7 +1833,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: -6.5d
+			y: 1.5d
 		}
 		{
 			id: "441DFC4FED4A148D"
@@ -1845,7 +1845,7 @@
 			}]
 			title: "Passive Skill Tree"
 			x: -3.5d
-			y: -7.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["441DFC4FED4A148D"]
@@ -1857,7 +1857,7 @@
 				type: "item"
 			}]
 			x: -5.0d
-			y: -7.5d
+			y: 0.5d
 		}
 		{
 			id: "4471FB13DC29A5D3"
@@ -1914,8 +1914,8 @@
 				type: "checkmark"
 			}]
 			title: "Comforts"
-			x: 3.0d
-			y: -10.0d
+			x: -3.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["13429418844DD11E"]
@@ -1932,8 +1932,8 @@
 				title: "Sleeping Bags"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -10.5d
+			x: -5.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["13429418844DD11E"]
@@ -1950,8 +1950,204 @@
 				title: "Hammocks"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -9.5d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			id: "3E049A06255073C8"
+			shape: "diamond"
+			subtitle: "quest dialogues to be updated some day."
+			tasks: [{
+				id: "2C02616A0BDBBB14"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Create: Connected"
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "67EF693760484F20"
+			tasks: [{
+				id: "194A1E347172C3F9"
+				item: "create_connected:encased_chain_cogwheel"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "459BA21BCC7ABBBC"
+			tasks: [
+				{
+					id: "04021D55602BFA0B"
+					item: "create_connected:crank_wheel"
+					type: "item"
+				}
+				{
+					id: "13F123D0772E906D"
+					item: "create_connected:large_crank_wheel"
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "44D0A01277BC8E9A"
+			tasks: [
+				{
+					id: "7712A263EBD50EA9"
+					item: "create_connected:inverted_clutch"
+					type: "item"
+				}
+				{
+					id: "6E890EA81B0AB8B3"
+					item: "create_connected:overstress_clutch"
+					type: "item"
+				}
+				{
+					id: "59BDB5F4C57D2041"
+					item: "create_connected:centrifugal_clutch"
+					type: "item"
+				}
+				{
+					id: "08C629D76508BD92"
+					item: "create_connected:freewheel_clutch"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "5E1A43721046AECB"
+			tasks: [{
+				id: "18D7D5DB4DA440CB"
+				item: "create_connected:inverted_gearshift"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "4776E92040E024EC"
+			tasks: [
+				{
+					id: "1724E4FA999F40CC"
+					item: "create_connected:parallel_gearbox"
+					type: "item"
+				}
+				{
+					id: "4E6580A081CED469"
+					item: "create_connected:vertical_parallel_gearbox"
+					type: "item"
+				}
+				{
+					id: "22FB5A6DD95336C8"
+					item: "create_connected:six_way_gearbox"
+					type: "item"
+				}
+				{
+					id: "151527FB2AB2CF16"
+					item: "create_connected:vertical_six_way_gearbox"
+					type: "item"
+				}
+				{
+					id: "776492D8833C7693"
+					item: "create_connected:brass_gearbox"
+					type: "item"
+				}
+				{
+					id: "25AE31B774CEABCD"
+					item: "create_connected:vertical_brass_gearbox"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "63E219BE63995DA5"
+			tasks: [{
+				id: "41374F6A47477530"
+				item: "create_connected:inventory_access_port"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "643B2C095925CD4C"
+			tasks: [{
+				id: "187D62D0931BF9F9"
+				item: "create_connected:inventory_bridge"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "77C07752342E1410"
+			tasks: [{
+				id: "265ADD1349BE2B4C"
+				item: "create_connected:sequenced_pulse_generator"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "1A9C769B25E082F8"
+			tasks: [{
+				id: "2A3B59AB58BE81C7"
+				item: "create_connected:linked_transmitter"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "6662E996E1B182B4"
+			tasks: [{
+				id: "4CAA96C8849334D3"
+				item: "create_connected:shear_pin"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "47A0A6D1573B4C73"
+			tasks: [{
+				id: "053A6A58888F3E74"
+				item: "create_connected:item_silo"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3E049A06255073C8"]
+			id: "36D429C712210945"
+			tasks: [{
+				id: "6DF777B651C7E24D"
+				item: "create_connected:fluid_vessel"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
 		}
 	]
 	title: "Utility"
