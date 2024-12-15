@@ -180,15 +180,15 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["4388077AB25A92E0"]
+			dependencies: ["148C466F8319AF0F"]
 			id: "7FA4F8F8457F5063"
 			shape: "square"
 			tasks: [{
 				id: "624325B0455EBADA"
-				item: "kubejs:wooden_gear"
+				item: "create_connected:control_chip"
 				type: "item"
 			}]
-			x: -10.5d
+			x: -9.5d
 			y: 1.5d
 		}
 		{
@@ -200,7 +200,7 @@
 				item: "create:iron_sheet"
 				type: "item"
 			}]
-			x: -9.5d
+			x: -10.5d
 			y: 1.5d
 		}
 		{
@@ -855,7 +855,7 @@
 			}]
 			title: "Making a Pity Machine Frame"
 			x: -11.0d
-			y: 3.0d
+			y: 7.5d
 		}
 		{
 			description: [
@@ -991,6 +991,99 @@
 			title: "Making Diamond"
 			x: 7.0d
 			y: 5.5d
+		}
+		{
+			dependencies: ["1A92C275A7385C14"]
+			id: "148C466F8319AF0F"
+			shape: "square"
+			tasks: [
+				{
+					id: "57E70F2E6E21E255"
+					item: "create:electron_tube"
+					type: "item"
+				}
+				{
+					id: "032A9BEAC244766A"
+					item: "create:golden_sheet"
+					type: "item"
+				}
+				{
+					id: "3D986EFFD3A2C87A"
+					item: "kubejs:wooden_gear"
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1A92C275A7385C14"]
+			id: "0C56CF360A75AB46"
+			shape: "square"
+			tasks: [{
+				id: "33EA78C5C15F7E1B"
+				item: "create:iron_sheet"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1A92C275A7385C14"]
+			id: "60DD30D2F0B420EF"
+			shape: "square"
+			tasks: [{
+				id: "68F0D9488C5C68AA"
+				item: "create:polished_rose_quartz"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1A92C275A7385C14"]
+			id: "461B38FF6B9AEB14"
+			shape: "square"
+			tasks: [{
+				id: "3C52517514B16E78"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1A92C275A7385C14"]
+			id: "5535E2257367D882"
+			shape: "square"
+			tasks: [{
+				id: "3B956C32BAC74480"
+				item: "minecraft:redstone"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 4.5d
+		}
+		{
+			description: [
+				"For &3Nether Quartz&r you have some options like &6Resource Chickens&r, &6Mystical Agriculture&r, &6Productive Bees&r, or even &9Washing&r &3Soul Sand&r!"
+				""
+				"You'll craft these together to make &3Rose Quartz&r which will need to be &9Sanded&r down with &3Sandpaper&r."
+				""
+				"Craft the &3Rose Quartz&r and an &3Iron Sheet&r to make an &3Electron Tube&r. "
+				""
+				"Then you just setup &92 Deployers&r and a &9Press&r in a &9Crafting Assembly&r to send &31 Golden Sheet&r, &31 Electron Tube&r, and &31 Wooden Gear&r through &l&c3 times&r&r to make a &3Control Chip&r."
+			]
+			id: "1A92C275A7385C14"
+			shape: "diamond"
+			tasks: [{
+				id: "7A4A13EC4432B01B"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Making a Control Chip"
+			x: -9.5d
+			y: 6.0d
 		}
 	]
 	title: "Tech"

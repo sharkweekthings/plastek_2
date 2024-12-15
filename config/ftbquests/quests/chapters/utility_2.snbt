@@ -1954,6 +1954,7 @@
 			y: -6.5d
 		}
 		{
+			description: ["Create: Connected adds many quality of life items that will help upgrade your contraptions. "]
 			id: "3E049A06255073C8"
 			shape: "diamond"
 			subtitle: "quest dialogues to be updated some day."

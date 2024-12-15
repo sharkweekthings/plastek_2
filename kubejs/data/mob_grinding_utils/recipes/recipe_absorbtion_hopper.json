@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "supplementaries:spring_launcher"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "O": {
+      "tag": "forge:obsidian"
+    },
+    "Z": {
+      "item": "forge:obsidian"
+    }
+  },
+  "pattern": [
+    " E ",
+    " O ",
+    "OHO"
+  ],
+  "result": {
+    "item": "mob_grinding_utils:absorption_hopper"
+  },
+  "show_notification": true
+}

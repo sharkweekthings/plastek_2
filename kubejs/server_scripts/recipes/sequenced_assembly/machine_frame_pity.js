@@ -45,7 +45,7 @@ ServerEvents.recipes((event) => {
     type: "create:deploying",
      ingredients: [{
       item: "create:brass_casing",},[{ // incomplete item
-      item: "kubejs:wooden_gear",},],], // item to deploy
+      item: "create_connected:control_chip",},],], // item to deploy
      results: [{
       item: "create:brass_casing",},],
 },

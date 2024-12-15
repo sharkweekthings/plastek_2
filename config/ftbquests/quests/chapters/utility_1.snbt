@@ -108,7 +108,7 @@
 				title: "Ok"
 				type: "checkmark"
 			}]
-			title: "Basic Mob Grinding"
+			title: "Mob Grinding"
 			x: -3.5d
 			y: 0.5d
 		}

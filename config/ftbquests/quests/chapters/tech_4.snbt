@@ -130,19 +130,19 @@
 				"0C481B280BEC851B"
 			]
 			description: [
-				"This is just a quick run down on roughly what to do with the machines below, to produce Sulfuric Acid. "
+				"This is just a quick run down on roughly what to do with the machines below, to produce &3Sulfuric Acid&r. "
 				""
-				"#1 Electrolytic Separator - Pumping water into this will produce Hydrogen and Oxygen"
+				"#1 &9Electrolytic Separator&r - Pumping water into this will produce &3Hydrogen&r and &3Oxygen&r"
 				""
-				"#2 Rotary Condensentrator - Pumping water into this will produce Water Vapor"
+				"#2 &9Rotary Condensentrator&r - Pumping water into this will produce &3Water Vapor&r"
 				""
-				"#3 Chemical Oxidizer - Placing Sulfur Dust into this machine will result in Sulfur Dioxide"
+				"#3 &9Chemical Oxidizer&r - Placing &3Sulfur Dust&r into this machine will result in &3Sulfur Dioxide&r"
 				""
-				"#4 Chemical Infuser - On one side, pump the Oxygen from a Electrolytic Separator, on the other side pump in the Sulfur Dioxide from your Chemical Oxidizer to produce Sulfur Trioxide."
+				"#4 &9Chemical Infuser&r - On one side, pump the &3Oxygen&r from a &9Electrolytic Separator&r, on the other side pump in the &3Sulfur Dioxide&r from your &9Chemical Oxidizer&r to produce &3Sulfur Trioxide&r."
 				""
-				"#5 Chemical Infuser - On one side, pump the Water Vapor from a Rotary Condensentrator, on the other side pump in the Sulfur Trioxide from the last Chemical Infuser. "
+				"#5 &9Chemical Infuser&r - On one side, pump the &3Water Vapor&r from a &9Rotary Condensentrator&r, on the other side pump in the &3Sulfur Trioxide&r from the last &9Chemical Infuser&r. "
 				""
-				"This should net you some Sulfuric Acid! "
+				"This should net you some &3Sulfuric Acid&r! "
 			]
 			icon: "mekanism:sulfuric_acid_bucket"
 			id: "76E824CE8DB0B85A"
@@ -268,19 +268,19 @@
 				"77D410BDD7749612"
 			]
 			description: [
-				"This is just a quick run down on roughly what to do with the machines below, to produce Hydrogen Chloride. "
+				"This is just a quick run down on roughly what to do with the machines below, to produce &3Hydrogen Chloride&r. "
 				""
-				"#1 Electrolytic Separator - Pumping water into this will produce Hydrogen and Oxygen"
+				"#1 &9Electrolytic Separator&r - Pumping water into this will produce &3Hydrogen&r and &3Oxygen&r"
 				""
-				"#1 Thermal Evaporation Plant - Sending water to the Thermal Evaporation Plant will create Brine.  Adding 4 Solar Generators to your Plant will significantly increase the production speed."
+				"#1 &9Thermal Evaporation Plant&r - Sending water to the &9Thermal Evaporation Plant&r will create &3Brine&r.  Adding &94 Solar Generators&r to your &9Thermal Evaporation Plant&r will significantly increase the production speed."
 				""
-				"#2 Electrolytic Separator - Send Brine to a Electrolytic Separator and that will create Sodium and Chlorine"
+				"#2 &9Electrolytic Separator&r - Send &bBrine&r to a &9Electrolytic Separator&r and that will create &3Sodium&r and &3Chlorine&r"
 				""
-				"#3 Electrolytic Separator - Sending Water to another Separator will create Hydrogen and Oxygen"
+				"#3 &9Electrolytic Separator&r - Sending water to another &9Separator&r will create &3Hydrogen&r and &3Oxygen&r"
 				""
-				"#4 Chemical Infuser - Send Chlorine from one of the Electrolytic Separators, and Hydrogen from the other.  "
+				"#4 &9Chemical Infuser&r - Send &3Chlorine&r from one of the &9Electrolytic Separators&r, and &3Hydrogen&r from the other.  "
 				""
-				"This should net you some Hydrogen Chloride!"
+				"This should net you some &3Hydrogen Chloride&r!"
 			]
 			icon: "mekanism:hydrogen_chloride_bucket"
 			id: "43EF2658175AD5F2"
@@ -309,7 +309,7 @@
 			description: [
 				"This one is easy. "
 				""
-				"Either send some excess Oxygen to the machine, or setup another Electrolytic Separator and use the Oxygen from that. "
+				"Either send some excess &3Oxygen&r to the machine, or setup another &9Electrolytic Separator&r and use the &3Oxygen&r from that. "
 			]
 			icon: "mekanism:oxygen_bucket"
 			id: "6AB5CC77CFE5CC53"
@@ -685,7 +685,7 @@
 		}
 		{
 			description: [
-				"While not absolutely necessary to complete the pack, it's a cool setup to make, and it allows you to multiple various ores."
+				"While not absolutely necessary to complete the pack, it's a cool setup to make, and it allows you to multiply various ores."
 				""
 				"Click on the buckets to see the corresponding steps."
 				""
