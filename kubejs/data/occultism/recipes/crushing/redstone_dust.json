@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false,
+  "ingredient": {
+    "tag": "forge:ores/redstone"
+  },
+  "result": {
+    "count": 4,
+    "item": "minecraft:redstone"
+  }
+}

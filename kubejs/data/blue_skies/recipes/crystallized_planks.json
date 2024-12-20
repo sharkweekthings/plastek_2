@@ -3,7 +3,7 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "blue_skies:logs/crystallized"
+      "item": "blue_skies:crystallized_log"
     },
     {
       "tag": "natprog:saw"

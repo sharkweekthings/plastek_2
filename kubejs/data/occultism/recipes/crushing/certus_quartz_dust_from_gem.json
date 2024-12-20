@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false,
+  "ingredient": {
+    "tag": "forge:gems/certus_quartz"
+  },
+  "result": {
+    "count": 1,
+    "item": "ae2:certus_quartz_dust"
+  }
+}

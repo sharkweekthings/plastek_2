@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false,
+  "ingredient": {
+    "tag": "forge:storage_blocks/raw_azure_silver"
+  },
+  "result": {
+    "count": 18,
+    "item": "silentgear:azure_silver_dust"
+  }
+}

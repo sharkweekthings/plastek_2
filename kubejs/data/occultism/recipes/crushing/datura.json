@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false,
+  "ingredient": {
+    "tag": "forge:crops/datura"
+  },
+  "result": {
+    "count": 2,
+    "item": "occultism:datura_seeds"
+  }
+}

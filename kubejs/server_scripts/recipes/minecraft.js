@@ -49,10 +49,10 @@ ServerEvents.recipes(event => {
     
 // Chest w/ Basket - Skyroot
   event.shaped('minecraft:barrel',
-    ['111','121','111'], {
+    ['111','121','131'], {
     1: 'aether:skyroot_planks',
     2: 'farmersdelight:basket',
-    3: '#necraft:wooden_slabs'}).id('aether:skyroot_barrel')
+    3: '#minecraft:wooden_slabs'}).id('aether:skyroot_barrel')
     
 // Custom Chest
   event.shaped('2x minecraft:chest',
