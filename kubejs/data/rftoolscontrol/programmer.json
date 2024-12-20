@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "create:brass_casing"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "q": {
+      "tag": "forge:gems/quartz"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "rqr",
+    "pFp",
+    "rqr"
+  ],
+  "result": {
+    "item": "rftoolscontrol:programmer"
+  }
+}

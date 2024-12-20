@@ -18,6 +18,12 @@
     "Pam's HarvestCraft 2 Trees Saplings": {
       "enabled": false
     },
+    "BiomesOPlenty Seeds": {
+      "enabled": false
+    },
+    "BiomesOPlenty Saplings": {
+      "enabled": false
+    },
     "Create Fertilizer": {
       "enabled": false
     }

@@ -182,7 +182,13 @@
 		{
 			dependencies: ["148C466F8319AF0F"]
 			id: "7FA4F8F8457F5063"
-			shape: "square"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00089135EB3F2154"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
 			tasks: [{
 				id: "624325B0455EBADA"
 				item: "create_connected:control_chip"

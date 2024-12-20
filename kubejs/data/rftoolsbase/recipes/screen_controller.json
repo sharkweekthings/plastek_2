@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "create:brass_casing"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "ror",
+    "GFG",
+    "rGr"
+  ],
+  "result": {
+    "item": "rftoolsutility:screen_controller"
+  }
+}

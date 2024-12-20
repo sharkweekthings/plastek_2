@@ -14,7 +14,7 @@
 				"557DF7E5E2D70A6D"
 				"0FC8B43992F6D95A"
 			]
-			description: ["Take 2 Capacitors, 2 Transistors, and an Unassembled PCB to create a Printed Circuit Board."]
+			description: ["Take 2 Capacitors, 2 Transistors, 1 Control Chip, and an Unassembled PCB to create a Printed Circuit Board."]
 			id: "3358AA85460F3437"
 			rewards: [
 				{
@@ -80,7 +80,7 @@
 				item: "pneumaticcraft:unassembled_pcb"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 3.5d
 			y: -4.0d
 		}
 		{
@@ -250,7 +250,7 @@
 				}
 			]
 			title: "Laser Assembly"
-			x: 3.5d
+			x: 4.5d
 			y: -4.0d
 		}
 		{
@@ -262,7 +262,7 @@
 				item: "pneumaticcraft:empty_pcb"
 				type: "item"
 			}]
-			x: 4.5d
+			x: 5.5d
 			y: -4.0d
 		}
 		{
@@ -280,7 +280,7 @@
 				item: "pneumaticcraft:plastic"
 				type: "item"
 			}]
-			x: 6.5d
+			x: 7.5d
 			y: -4.0d
 		}
 		{
@@ -293,7 +293,7 @@
 				item: "create:copper_sheet"
 				type: "item"
 			}]
-			x: 6.5d
+			x: 7.5d
 			y: -5.0d
 		}
 		{
@@ -305,7 +305,7 @@
 				item: "thermal:emerald_dust"
 				type: "item"
 			}]
-			x: 6.5d
+			x: 7.5d
 			y: -2.0d
 		}
 		{
@@ -322,7 +322,7 @@
 				item: "thermal:machine_smelter"
 				type: "item"
 			}]
-			x: 5.5d
+			x: 6.5d
 			y: -4.0d
 		}
 		{
@@ -334,7 +334,7 @@
 				item: "thermal:machine_pulverizer"
 				type: "item"
 			}]
-			x: 7.5d
+			x: 8.5d
 			y: -2.0d
 		}
 		{
@@ -346,7 +346,7 @@
 				item: "minecraft:emerald"
 				type: "item"
 			}]
-			x: 7.5d
+			x: 8.5d
 			y: -1.0d
 		}
 		{
@@ -362,7 +362,7 @@
 				item: "pneumaticcraft:heat_frame"
 				type: "item"
 			}]
-			x: 7.5d
+			x: 8.5d
 			y: -4.0d
 		}
 		{
@@ -384,7 +384,7 @@
 				type: "item"
 			}]
 			title: "Bucket of Molten Plastic"
-			x: 10.5d
+			x: 11.5d
 			y: -4.0d
 		}
 		{
@@ -395,7 +395,7 @@
 				item: "minecraft:barrel"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 10.0d
 			y: -4.0d
 		}
 		{
@@ -417,7 +417,7 @@
 				item: "pneumaticcraft:thermopneumatic_processing_plant"
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.0d
 			y: -3.0d
 		}
 		{
@@ -429,7 +429,7 @@
 				item: "industrialforegoing:plastic"
 				type: "item"
 			}]
-			x: 11.0d
+			x: 12.0d
 			y: -3.0d
 		}
 		{
@@ -441,7 +441,7 @@
 				item: "industrialforegoing:latex_processing_unit"
 				type: "item"
 			}]
-			x: 10.5d
+			x: 11.5d
 			y: 0.0d
 		}
 		{
@@ -456,7 +456,7 @@
 				item: "industrialforegoing:dryrubber"
 				type: "item"
 			}]
-			x: 11.0d
+			x: 12.0d
 			y: -1.0d
 		}
 		{
@@ -468,7 +468,7 @@
 				item: "thermal:machine_furnace"
 				type: "item"
 			}]
-			x: 11.0d
+			x: 12.0d
 			y: -2.0d
 		}
 		{
@@ -482,7 +482,7 @@
 				type: "checkmark"
 			}]
 			title: "Latex"
-			x: 11.0d
+			x: 12.0d
 			y: 1.0d
 		}
 		{
@@ -496,7 +496,7 @@
 				type: "checkmark"
 			}]
 			title: "Water"
-			x: 10.0d
+			x: 11.0d
 			y: 1.0d
 		}
 		{
@@ -508,7 +508,7 @@
 				item: "industrialforegoing:fluid_extractor"
 				type: "item"
 			}]
-			x: 11.0d
+			x: 12.0d
 			y: 3.0d
 		}
 		{
@@ -522,7 +522,7 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 11.0d
+			x: 12.0d
 			y: 2.0d
 		}
 		{
@@ -564,7 +564,7 @@
 				type: "checkmark"
 			}]
 			title: "Making Plastic Sheets"
-			x: 11.0d
+			x: 12.0d
 			y: 4.5d
 		}
 		{
@@ -1399,7 +1399,7 @@
 				type: "item"
 			}]
 			title: "Green Paste"
-			x: 6.5d
+			x: 7.5d
 			y: -3.0d
 		}
 		{
@@ -1409,7 +1409,7 @@
 				item: "minecraft:green_dye"
 				type: "item"
 			}]
-			x: 5.5d
+			x: 6.5d
 			y: -2.0d
 		}
 		{
@@ -1426,7 +1426,7 @@
 				type: "checkmark"
 			}]
 			title: "We Need More Copper"
-			x: 6.5d
+			x: 7.5d
 			y: -6.5d
 		}
 		{
@@ -1439,7 +1439,7 @@
 				type: "checkmark"
 			}]
 			title: "Making Emeralds"
-			x: 7.5d
+			x: 8.5d
 			y: 0.5d
 		}
 		{
@@ -1453,7 +1453,7 @@
 				type: "checkmark"
 			}]
 			title: "LPG or Biodiesel"
-			x: 9.5d
+			x: 10.5d
 			y: -2.0d
 		}
 		{
@@ -1485,7 +1485,7 @@
 				type: "checkmark"
 			}]
 			title: "Plastic Eye"
-			x: 5.0d
+			x: 6.0d
 			y: -5.5d
 		}
 		{
@@ -1551,6 +1551,21 @@
 			title: "Infused Eye"
 			x: 4.5d
 			y: 0.5d
+		}
+		{
+			dependencies: [
+				"7FA4F8F8457F5063"
+				"399379D6E1029527"
+			]
+			id: "16A84E9E6CBB9D2B"
+			shape: "square"
+			tasks: [{
+				id: "1B3C0E3CC8A9AB77"
+				item: "create_connected:control_chip"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
 		}
 	]
 	title: "Tech"

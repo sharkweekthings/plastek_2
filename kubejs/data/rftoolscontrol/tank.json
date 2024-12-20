@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "create:brass_casing"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "Fii",
+    "iGG",
+    "iGG"
+  ],
+  "result": {
+    "item": "rftoolscontrol:tank"
+  }
+}
