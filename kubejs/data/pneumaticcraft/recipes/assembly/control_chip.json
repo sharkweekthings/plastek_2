@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:assembly_drill",
+  "input": {
+    "item": "kubejs:box_of_control_chip_parts"
+  },
+  "program": "laser",
+  "result": {
+    "item": "create_connected:control_chip"
+  }
+}

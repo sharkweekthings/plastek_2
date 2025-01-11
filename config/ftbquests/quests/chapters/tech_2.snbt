@@ -703,7 +703,10 @@
 		}
 		{
 			dependencies: ["2D1FAA0187DF7378"]
-			description: ["{image:kubejs:textures/pneumaticcraft/pneumatic_laser_drill.png width:250 height:200 align:center}"]
+			description: [
+				"Sample shown with Laser Included:"
+				"{image:kubejs:textures/pneumaticcraft/pneumatic_laser_drill.png width:250 height:200 align:center}"
+			]
 			id: "09746EBDE4B1BEF6"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -761,7 +764,7 @@
 			}]
 			title: "Box of Supreme Machine Frame Parts"
 			x: 5.5d
-			y: 2.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["280BB7C5FD073093"]
@@ -773,7 +776,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 3.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["280BB7C5FD073093"]
@@ -786,7 +789,7 @@
 			}]
 			title: "Empty Box"
 			x: 4.5d
-			y: 3.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["280BB7C5FD073093"]
@@ -798,7 +801,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: 3.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["280BB7C5FD073093"]
@@ -810,7 +813,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 4.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["280BB7C5FD073093"]
@@ -823,7 +826,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 4.5d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -839,7 +842,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: 5.5d
+			y: 8.5d
 		}
 		{
 			description: [
@@ -915,6 +918,8 @@
 				"You'll need to craft together an &3Empty Box&r, &3Advanced Machine Frame&r, &3Compressed Iron Gear&r, &3Sturdy Sheet&r, &33 Iron Sheet&r, and some &3Pressure Chamber Glass&r to get the &3Supreme Machine Frame Parts Box&r."
 				""
 				"Place the parts box in your &9Drill Assembly&r to get a &3Supreme Machine Frame&r."
+				""
+				"You may upgrade this build with a &3Laser Program&r, or &3Drill and Laser Program&r, and an &9Assembly Laser&r. "
 			]
 			id: "280BB7C5FD073093"
 			shape: "diamond"
@@ -925,7 +930,7 @@
 			}]
 			title: "Making a Box of Machine Parts"
 			x: 5.5d
-			y: 7.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["68C8F1782C968DDB"]
@@ -996,7 +1001,7 @@
 			}]
 			title: "Making Diamond"
 			x: 7.0d
-			y: 5.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["1A92C275A7385C14"]
@@ -1094,6 +1099,60 @@
 			title: "Making a Control Chip"
 			x: -9.5d
 			y: 6.0d
+		}
+		{
+			description: ["The optional &9Laser&r can be added if you have a &3Laser Program&r, or a &3Drill and Laser Program&r. "]
+			id: "18D3039652D5B1A1"
+			tasks: [{
+				id: "1BD220A52AF33A0E"
+				item: "pneumaticcraft:assembly_laser"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"127DD22DEECF892E"
+				"0F7079C882CA1618"
+			]
+			description: [
+				"You can craft a &3Drill Program&r and &3Laser Program&r together to create a singular &3Drill and Laser Program&r."
+				""
+				"This will allow you to use both a &9Drill&r, and &9Laser&r in your &9Pneumatic Assembly&r."
+			]
+			id: "2E3C5CC468B2A20B"
+			tasks: [{
+				id: "0FA3392466C23402"
+				item: "pneumaticcraft:assembly_program_drill_laser"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			description: ["The &9Drill Assembly&r is necessary to make the &3Supreme Machine Frame&r."]
+			id: "127DD22DEECF892E"
+			shape: "square"
+			tasks: [{
+				id: "4745BA83C8A1D7EE"
+				item: "pneumaticcraft:assembly_program_drill"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			description: ["One of the things the &3Laser Program&r can do is assist in producing &3Control Circuits&r."]
+			id: "0F7079C882CA1618"
+			shape: "circle"
+			tasks: [{
+				id: "7341530ED6508DC6"
+				item: "pneumaticcraft:assembly_program_laser"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
 		}
 	]
 	title: "Tech"

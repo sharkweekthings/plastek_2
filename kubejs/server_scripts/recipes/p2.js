@@ -60,6 +60,9 @@ ServerEvents.recipes(event => {
 // Box of Supreme Machine Frame Parts
   event.shapeless(Item.of('kubejs:box_of_supreme_machine_frame_parts'), ['thermal:diamond_gear', 'create:iron_sheet', 'create:iron_sheet', 'create:sturdy_sheet', 'create:sturdy_sheet', 'pneumaticcraft:compressed_iron_gear', 'industrialforegoing:machine_frame_advanced', 'kubejs:empty_box']).id('p2:box_of_supreme_machine_frame_parts')
 
+// Box of Control Chip Parts
+  event.shapeless(Item.of('kubejs:box_of_control_chip_parts'), ['#forge:plates/gold', 'create:electron_tube', 'create:electron_tube', 'thermal:copper_gear', 'kubejs:empty_box']).id('p2:box_of_control_chip_parts')
+
 
 //    
 })
