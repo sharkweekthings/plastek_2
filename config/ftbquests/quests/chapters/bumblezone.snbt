@@ -380,7 +380,7 @@
 			y: -1.5d
 		}
 		{
-			description: ["Search inside the &9Honey Cocoons&r for a chance to find another &bHoney Compass&r that will lead you to the &dQueen's Throne Room&r."]
+			description: ["Search inside the &9Honey Cocoons&r for a chance to find another &3Honey Compass&r that will lead you to the &dQueen's Throne Room&r."]
 			id: "12398B27815E82A2"
 			tasks: [{
 				advancement: "the_bumblezone:tools/obtain_throne_honey_compass"

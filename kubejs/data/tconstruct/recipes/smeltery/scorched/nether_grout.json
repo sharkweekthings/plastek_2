@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tconstruct:grout"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    [
+      {
+        "item": "minecraft:soul_sand"
+      },
+      {
+        "item": "minecraft:soul_soil"
+      }
+    ],
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "tconstruct:nether_grout"
+  }
+}

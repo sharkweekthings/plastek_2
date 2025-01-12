@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
 
   //REMOVE
   event.remove({id: 'minecraft:bone_meal'})
+  event.remove([{ type: 'minecraft:smelting', output: '#p2:ingots' }, { type: 'minecraft:blasting', output: '#p2:ingots' }])
 
 //
 })

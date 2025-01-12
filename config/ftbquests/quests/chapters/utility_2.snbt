@@ -2150,6 +2150,104 @@
 			x: -1.0d
 			y: 4.5d
 		}
+		{
+			dependencies: ["649793AF65917E79"]
+			id: "745EE67E302C7DAA"
+			tasks: [
+				{
+					id: "2C1B243C0DF2950A"
+					item: "tconstruct:crafting_station"
+					type: "item"
+				}
+				{
+					id: "68646114F29388D6"
+					item: "tconstruct:part_builder"
+					type: "item"
+				}
+				{
+					id: "7006B461D101AD13"
+					item: "tconstruct:tinker_station"
+					type: "item"
+				}
+				{
+					id: "657B4492B5A0796B"
+					item: "tconstruct:modifier_worktable"
+					type: "item"
+				}
+				{
+					id: "43C9ABB134026198"
+					item: "tconstruct:tinkers_chest"
+					type: "item"
+				}
+				{
+					id: "087F7BC64BE5FAC2"
+					item: "tconstruct:part_chest"
+					type: "item"
+				}
+				{
+					id: "388BBAE4BBDC0358"
+					item: "tconstruct:cast_chest"
+					type: "item"
+				}
+				{
+					id: "78C5FD58F72DF16B"
+					item: "tconstruct:tinkers_anvil"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["649793AF65917E79"]
+			id: "6D9A0FE164DC638A"
+			tasks: [
+				{
+					id: "2CDF21C6F3CC469C"
+					item: "tconstruct:foundry_controller"
+					type: "item"
+				}
+				{
+					id: "0B236A3D60DB27A9"
+					item: "tconstruct:scorched_fuel_tank"
+					type: "item"
+				}
+				{
+					id: "553D173D560A134C"
+					item: "tconstruct:scorched_table"
+					type: "item"
+				}
+				{
+					id: "01F6997A43E537ED"
+					item: "tconstruct:scorched_basin"
+					type: "item"
+				}
+				{
+					id: "02543A43F2D7E585"
+					item: "tconstruct:scorched_faucet"
+					type: "item"
+				}
+				{
+					id: "46791433A1609371"
+					item: "tconstruct:scorched_drain"
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -10.0d
+		}
+		{
+			id: "649793AF65917E79"
+			shape: "diamond"
+			tasks: [{
+				id: "3E04CE6F979F834E"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "More Tinkering"
+			x: 3.0d
+			y: -10.0d
+		}
 	]
 	title: "Utility"
 }

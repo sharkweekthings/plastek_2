@@ -325,8 +325,8 @@
 				type: "checkmark"
 			}]
 			title: "Glassential"
-			x: -9.5d
-			y: 1.5d
+			x: -10.5d
+			y: -0.5d
 		}
 		{
 			description: ["This is just one way to store liquids. "]
@@ -361,8 +361,8 @@
 				type: "checkmark"
 			}]
 			title: "Apotheosis"
-			x: -9.5d
-			y: 3.5d
+			x: -11.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["58E712AAC0CAC553"]
@@ -372,8 +372,8 @@
 				item: "apotheosis:salvaging_table"
 				type: "item"
 			}]
-			x: -10.5d
-			y: 6.0d
+			x: -14.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["58E712AAC0CAC553"]
@@ -383,8 +383,8 @@
 				item: "apotheosis:gem_cutting_table"
 				type: "item"
 			}]
-			x: -9.5d
-			y: 6.0d
+			x: -14.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["58E712AAC0CAC553"]
@@ -402,8 +402,8 @@
 				}
 			]
 			title: "Reforging"
-			x: -8.5d
-			y: 6.0d
+			x: -14.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["58E712AAC0CAC553"]
@@ -413,8 +413,8 @@
 				item: "minecraft:smithing_table"
 				type: "item"
 			}]
-			x: -10.0d
-			y: 5.0d
+			x: -13.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["3757965889271C76"]
@@ -521,7 +521,7 @@
 				}
 			]
 			x: 1.5d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -545,7 +545,7 @@
 			]
 			title: "Extraction Modules"
 			x: 2.5d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -556,7 +556,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -567,7 +567,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -578,7 +578,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -589,7 +589,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -600,7 +600,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -623,7 +623,7 @@
 				}
 			]
 			x: 4.5d
-			y: 4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -646,7 +646,7 @@
 				}
 			]
 			x: 1.5d
-			y: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["673D9E8425C53084"]
@@ -657,7 +657,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -680,7 +680,7 @@
 				}
 			]
 			x: 2.5d
-			y: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -691,7 +691,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -714,7 +714,7 @@
 				}
 			]
 			x: 4.5d
-			y: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -725,7 +725,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 6.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -736,7 +736,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 6.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -760,7 +760,7 @@
 			]
 			title: "Speed Increase Modules"
 			x: 3.5d
-			y: 6.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -771,7 +771,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 6.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -794,7 +794,7 @@
 				}
 			]
 			x: 2.0d
-			y: 7.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -818,7 +818,7 @@
 			]
 			title: "Low Fluid Filter"
 			x: 3.0d
-			y: 7.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["2C1E8B6C1B9FCA19"]
@@ -842,7 +842,7 @@
 			]
 			title: "Fluid Retrieval Modules"
 			x: 4.0d
-			y: 7.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["673D9E8425C53084"]
@@ -853,7 +853,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["673D9E8425C53084"]
@@ -864,7 +864,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["673D9E8425C53084"]
@@ -875,7 +875,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			description: ["Early game piping system for items and fluids."]
@@ -888,7 +888,7 @@
 			}]
 			title: "Pretty Pipes"
 			x: 3.0d
-			y: 0.0d
+			y: 0.5d
 		}
 		{
 			description: ["Purchase Dust from the Market to upgrade your resources to make even stronger gear."]
@@ -960,8 +960,8 @@
 					type: "item"
 				}
 			]
-			x: -11.5d
-			y: 0.0d
+			x: -12.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["78F101D025C293AB"]
@@ -978,8 +978,8 @@
 					type: "item"
 				}
 			]
-			x: -10.5d
-			y: 0.0d
+			x: -11.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["78F101D025C293AB"]
@@ -989,8 +989,8 @@
 				item: "glassential:glass_ghostly"
 				type: "item"
 			}]
-			x: -9.5d
-			y: 0.0d
+			x: -10.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["78F101D025C293AB"]
@@ -1000,8 +1000,8 @@
 				item: "glassential:glass_light"
 				type: "item"
 			}]
-			x: -8.5d
-			y: 0.0d
+			x: -9.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["78F101D025C293AB"]
@@ -1011,8 +1011,8 @@
 				item: "glassential:glass_redstone"
 				type: "item"
 			}]
-			x: -7.5d
-			y: 0.0d
+			x: -8.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["58E712AAC0CAC553"]
@@ -1022,8 +1022,8 @@
 				item: "apotheosis:augmenting_table"
 				type: "item"
 			}]
-			x: -9.0d
-			y: 5.0d
+			x: -13.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0C70FFE0A26C20AF"]
@@ -1040,8 +1040,8 @@
 					type: "item"
 				}
 			]
-			x: -12.0d
-			y: 2.5d
+			x: -8.0d
+			y: 0.5d
 		}
 		{
 			description: [
@@ -1057,8 +1057,226 @@
 				type: "checkmark"
 			}]
 			title: "Torchmaster"
+			x: -9.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"&cFor now you won't be able to make any tools or equipment&r with &6Tinkers&r, we'll just be making &3Ingots&r. You'll need to use &6Silent Gear&r, or find another source for that. &aIn a later age, you'll gain access to the Casts necessary to make them&r."
+				""
+				"While you may find some &3Ingots&r in &3Chests&r and &3Barrels&r throughout the world, the only way to create them is by using the &9Melter&r or &9Smeltery&r. Once you're &ain a later age there will be more options&r for &acreating most ingots&r. "
+				""
+				"This section will lead you through the &9Melter&r and &9Smeltery&r."
+			]
+			hide_text_until_complete: false
+			id: "09B1523ACD3811C7"
+			shape: "diamond"
+			subtitle: "Due to some changes, JEI will not be 100% accurate for Tinkers. "
+			tasks: [{
+				id: "5006D05FC3B0B297"
+				title: "Only A Little Tinkery"
+				type: "checkmark"
+			}]
 			x: -10.5d
-			y: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["09B1523ACD3811C7"]
+			id: "7D758D03FC7AF38F"
+			shape: "square"
+			tasks: [{
+				id: "526593F37080D2B1"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["09B1523ACD3811C7"]
+			id: "3C6F2BA8767FA6F4"
+			shape: "square"
+			tasks: [{
+				id: "48EAE1B8740B9F45"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["09B1523ACD3811C7"]
+			id: "2E8CB9FA1553051D"
+			shape: "square"
+			tasks: [{
+				id: "7E9F33436403F6F0"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["09B1523ACD3811C7"]
+			id: "538244A7AF7AAAA4"
+			shape: "square"
+			tasks: [{
+				id: "4F666A2602783F17"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7D758D03FC7AF38F"
+				"3C6F2BA8767FA6F4"
+				"2E8CB9FA1553051D"
+				"538244A7AF7AAAA4"
+			]
+			id: "4B65E3CFC57B220F"
+			shape: "square"
+			tasks: [{
+				id: "49F5EF130447D804"
+				item: "tconstruct:grout"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B65E3CFC57B220F"]
+			id: "06FF572C55951478"
+			shape: "square"
+			tasks: [{
+				id: "5DFBA413BE094E65"
+				item: "tconstruct:seared_brick"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["06FF572C55951478"]
+			id: "4EB9A44A923B291C"
+			shape: "square"
+			tasks: [
+				{
+					id: "0E89E5A6F123073A"
+					item: "tconstruct:seared_melter"
+					type: "item"
+				}
+				{
+					id: "0486EFE0A502FD8B"
+					item: "tconstruct:seared_heater"
+					type: "item"
+				}
+				{
+					id: "76FA286C1843EF0D"
+					item: "tconstruct:seared_faucet"
+					type: "item"
+				}
+				{
+					id: "73B1D1B1051DB4A7"
+					item: "tconstruct:seared_drain"
+					type: "item"
+				}
+			]
+			title: "The Seared Melter"
+			x: -11.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["09B1523ACD3811C7"]
+			id: "1AEE972409EC567B"
+			shape: "square"
+			tasks: [
+				{
+					id: "5910B86386D970F6"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "tconstruct:casts/single_use/blank"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02794AFDD9BC9382"
+					item: "tconstruct:ingot_cast"
+					type: "item"
+				}
+				{
+					id: "0B5B29F3FD25B143"
+					item: "tconstruct:nugget_cast"
+					type: "item"
+				}
+			]
+			title: "Casts"
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["06FF572C55951478"]
+			id: "7C72ABFFB4D78A83"
+			shape: "square"
+			tasks: [
+				{
+					id: "0F9F4BF66C4456DE"
+					item: "tconstruct:seared_basin"
+					type: "item"
+				}
+				{
+					id: "14C631F3E042AFA9"
+					item: "tconstruct:seared_table"
+					type: "item"
+				}
+			]
+			title: "Seared Casting Table, and Basin"
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["06FF572C55951478"]
+			id: "5F63C76C198B6C98"
+			shape: "square"
+			tasks: [
+				{
+					id: "51C12C120EB02DE3"
+					item: "tconstruct:smeltery_controller"
+					type: "item"
+				}
+				{
+					id: "555A5AC33F91B818"
+					item: "tconstruct:seared_fuel_tank"
+					type: "item"
+				}
+			]
+			title: "The Smeltery"
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["06FF572C55951478"]
+			id: "244A4F583A1DC3AF"
+			shape: "square"
+			tasks: [
+				{
+					id: "248D8713763A46CB"
+					item: "tconstruct:seared_bricks"
+					type: "item"
+				}
+				{
+					id: "118F1ADCDC54A5F0"
+					item: "tconstruct:seared_glass"
+					type: "item"
+				}
+			]
+			title: "The Smeltery's Construction Blocks"
+			x: -10.0d
+			y: 7.0d
 		}
 	]
 	title: "Utility"

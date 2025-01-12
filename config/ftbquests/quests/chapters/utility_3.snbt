@@ -1952,6 +1952,18 @@
 			x: -6.5d
 			y: -4.0d
 		}
+		{
+			id: "34A68425ACB714B1"
+			shape: "diamond"
+			tasks: [{
+				id: "456420D01FC383DE"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "No More Tinkering"
+			x: -1.5d
+			y: -5.0d
+		}
 	]
 	title: "Utility"
 }

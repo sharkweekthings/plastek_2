@@ -45,8 +45,8 @@
 				type: "checkmark"
 			}]
 			title: "Sticks, Stones, and Bones"
-			x: 7.0d
-			y: -5.0d
+			x: 5.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["47B600AF3A91F036"]
@@ -500,7 +500,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 7.5d
+			y: 7.0d
 		}
 		{
 			id: "23D911160352885B"
@@ -516,7 +516,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 7.5d
+			y: 7.0d
 		}
 		{
 			id: "231358939AE05CAF"
@@ -532,7 +532,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 7.5d
+			y: 7.0d
 		}
 		{
 			id: "729DFA90ED7E1ACE"
@@ -548,7 +548,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 8.5d
+			y: 8.0d
 		}
 		{
 			id: "24918F2C1D335A46"
@@ -564,7 +564,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 8.5d
+			y: 8.0d
 		}
 		{
 			id: "4A9D7282323248AB"
@@ -580,7 +580,7 @@
 				type: "item"
 			}]
 			x: 9.5d
-			y: 7.6d
+			y: 7.1d
 		}
 		{
 			id: "04F8661111EC36C5"
@@ -596,7 +596,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: 7.6d
+			y: 7.1d
 		}
 		{
 			id: "160DD5656DBFECCF"
@@ -612,7 +612,7 @@
 				type: "item"
 			}]
 			x: 11.5d
-			y: 7.6d
+			y: 7.1d
 		}
 		{
 			id: "54FE62D357D827BC"
@@ -628,7 +628,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 8.6d
+			y: 8.1d
 		}
 		{
 			id: "03A0B8C7C20D47CA"
@@ -644,7 +644,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 8.6d
+			y: 8.1d
 		}
 		{
 			id: "2D5416BABE0CCD96"
@@ -899,7 +899,7 @@
 				"06F8EC95A7718D92"
 			]
 			description: [
-				" Make sure to consume your &3Miner's Certificate&r. This will unlock the ability to use &6Ultiminer&r by holding down the &a`&r button. "
+				"Make sure to consume your &3Miner's Certificate&r. This will unlock the ability to use &6Ultiminer&r by holding down the &a`&r button. "
 				""
 				"&cWARNING&r: While &6Ultiminer&r is a great way to mine a lot of blocks at once, it consumes a significant amount of food when you use it. "
 				""
@@ -943,6 +943,8 @@
 			can_repeat: true
 			dependencies: ["47B600AF3A91F036"]
 			description: [
+				"As of 1/11/2025 this quest no longer exists, and most people shouldn't even see this. Unfortunately, you need to get your own Pebbles and Sticks. "
+				""
 				"&6Natural Progression&r mod currently has a bug where all &3Sticks&r and &3Pebbles&r are spawning underwater. "
 				""
 				"You can accept free &3Sticks&r and &3Pebbles&r from this &arepeatable quest&r."
@@ -950,20 +952,7 @@
 				"You can also find your own under water, but this is not the intended way for the mod. "
 			]
 			id: "62AA602891B61337"
-			rewards: [
-				{
-					count: 20
-					id: "2EEB37867D00379E"
-					item: "natprog:andesite_pebble"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "0BA953BD11E0DB94"
-					item: "minecraft:stick"
-					type: "item"
-				}
-			]
+			invisible: true
 			shape: "heart"
 			subtitle: "This temporary quest is to resolve an issue with the mod Natural Progression"
 			tasks: [{
@@ -972,8 +961,8 @@
 				type: "checkmark"
 			}]
 			title: "Free Real Estate"
-			x: 8.5d
-			y: -5.0d
+			x: 5.0d
+			y: -4.5d
 		}
 	]
 	title: "Tools"
