@@ -15,7 +15,7 @@
     {
       "chance": 0.15,
       "count": 1,
-      "item": "moremekanismprocessing:dust_zinc"
+      "item": "kubejs:zinc_dust"
     }
   ]
 }

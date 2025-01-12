@@ -188,6 +188,10 @@ ServerEvents.recipes(event => {
   event.remove({id: 'tconstruct:smeltery/casting/metal/aluminum/wire_gold_cast'})
   event.remove({id: 'tconstruct:smeltery/casting/metal/aluminum/ingot_gold_cast'})
   event.remove({id: 'tconstruct:smeltery/casting/metal/aluminum/ingot_sand_cast'})
+  event.remove({id: 'tconstruct:smeltery/casts/sand/molding/adze_head'})
+  event.remove({id: 'tconstruct:smeltery/casts/red_sand/molding/adze_head'})
+  event.remove({id: 'tconstruct:smeltery/casts/sand/molding/tough_binding_sand_cast'})
+  event.remove({id: 'tconstruct:smeltery/casts/red_sand/molding/tough_binding_red_sand_cast'})
 
 
 //

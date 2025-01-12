@@ -162,6 +162,9 @@ ServerEvents.recipes(event => {
     3: 'industrialforegoing:machine_frame_supreme',
     4: 'pneumaticcraft:printed_circuit_board'}).id('mekanism:teleporter')
 
+// Replace Mekanism Quartz Dust with Thermal Quartz Dust
+  event.replaceInput({}, 'mekanism:dust_quartz', 'thermal:quartz_dust')    
+
 
 //    
 })

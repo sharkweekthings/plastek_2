@@ -10,6 +10,6 @@
     "amount": 90,
     "tag": "forge:molten_steel"
   },
-  "result": "tconstruct:adze_head_cast",
+  "result": "kubejs:adze_head_steel_cast",
   "switch_slots": true
 }

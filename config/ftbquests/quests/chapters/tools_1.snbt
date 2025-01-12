@@ -295,6 +295,11 @@
 			y: 0.0d
 		}
 		{
+			dependencies: [
+				"4EB9A44A923B291C"
+				"7F1D40E3D99C5160"
+			]
+			hide_dependency_lines: true
 			id: "04FB9C09400F9C90"
 			tasks: [{
 				id: "5D8AB06A5438472B"
@@ -311,6 +316,11 @@
 			y: 3.0d
 		}
 		{
+			dependencies: [
+				"4EB9A44A923B291C"
+				"7F1D40E3D99C5160"
+			]
+			hide_dependency_lines: true
 			id: "4EC818A849D61B8B"
 			rewards: [{
 				id: "0A2985CFD6D3EF77"
@@ -334,6 +344,11 @@
 			y: 2.0d
 		}
 		{
+			dependencies: [
+				"4EB9A44A923B291C"
+				"7F1D40E3D99C5160"
+			]
+			hide_dependency_lines: true
 			id: "1E9BE701B5E51C9C"
 			rewards: [{
 				id: "72A6FCBA4F706732"
@@ -357,6 +372,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["06F8EC95A7718D92"]
+			hide_dependency_lines: true
 			id: "0216F652856C97DE"
 			shape: "square"
 			tasks: [{
@@ -374,6 +391,8 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["06F8EC95A7718D92"]
+			hide_dependency_lines: true
 			id: "06414155DED4D2F2"
 			shape: "square"
 			tasks: [{
@@ -391,6 +410,11 @@
 			y: 5.5d
 		}
 		{
+			dependencies: [
+				"4EB9A44A923B291C"
+				"7F1D40E3D99C5160"
+			]
+			hide_dependency_lines: true
 			id: "548895FEA0AB8009"
 			rewards: [{
 				id: "581FF244266426C2"
@@ -414,6 +438,11 @@
 			y: 2.5d
 		}
 		{
+			dependencies: [
+				"4EB9A44A923B291C"
+				"7F1D40E3D99C5160"
+			]
+			hide_dependency_lines: true
 			id: "577726B9BC8B4186"
 			rewards: [{
 				id: "19D7B22A2800DCE0"
@@ -437,6 +466,8 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["06F8EC95A7718D92"]
+			hide_dependency_lines: true
 			id: "4AFF03A430507DBD"
 			tasks: [{
 				id: "41326EAAF8C296FA"
@@ -453,6 +484,8 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["06F8EC95A7718D92"]
+			hide_dependency_lines: true
 			id: "147992C2FD0D2031"
 			shape: "square"
 			tasks: [{
@@ -470,6 +503,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["06F8EC95A7718D92"]
+			hide_dependency_lines: true
 			id: "3499E858EEFA6EB2"
 			shape: "square"
 			tasks: [{
@@ -487,6 +522,7 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "4A5342F08CD5D21D"
 			tasks: [{
 				id: "4C9A4B7F43E97E56"
@@ -503,6 +539,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "23D911160352885B"
 			tasks: [{
 				id: "7FF06AED87E3BF37"
@@ -519,6 +556,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "231358939AE05CAF"
 			tasks: [{
 				id: "11223564CD6D6A00"
@@ -535,6 +573,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "729DFA90ED7E1ACE"
 			tasks: [{
 				id: "2D8790BD027459CB"
@@ -551,6 +590,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "24918F2C1D335A46"
 			tasks: [{
 				id: "3E676F56FF84D9F7"
@@ -567,6 +607,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "4A9D7282323248AB"
 			tasks: [{
 				id: "479F907906593216"
@@ -583,6 +624,7 @@
 			y: 7.1d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "04F8661111EC36C5"
 			tasks: [{
 				id: "1B4EA2A76F5B3C56"
@@ -599,6 +641,7 @@
 			y: 7.1d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "160DD5656DBFECCF"
 			tasks: [{
 				id: "538DCC74C18DC6B0"
@@ -615,6 +658,7 @@
 			y: 7.1d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "54FE62D357D827BC"
 			tasks: [{
 				id: "30822279FB836866"
@@ -631,6 +675,7 @@
 			y: 8.1d
 		}
 		{
+			dependencies: ["47CDFFB62C641DEB"]
 			id: "03A0B8C7C20D47CA"
 			tasks: [{
 				id: "7B8D2895CB77017E"
@@ -647,6 +692,8 @@
 			y: 8.1d
 		}
 		{
+			dependencies: ["1F6113D2234C39DD"]
+			hide_dependency_lines: true
 			id: "2D5416BABE0CCD96"
 			rewards: [{
 				id: "21E9467541A3EA3D"
@@ -670,6 +717,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["1F6113D2234C39DD"]
+			hide_dependency_lines: true
 			id: "1F5D0EB248ED82F7"
 			rewards: [{
 				id: "176142056BE51B10"
@@ -693,6 +742,9 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["1F6113D2234C39DD"]
+			hide_dependency_lines: true
+			hide_text_until_complete: false
 			id: "1B30586171734AB1"
 			rewards: [{
 				id: "5B84CF4654F808A3"
@@ -716,6 +768,8 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["1F6113D2234C39DD"]
+			hide_dependency_lines: true
 			id: "56BE817ADEAF99E4"
 			rewards: [{
 				id: "01BEBA52819FF059"
@@ -825,7 +879,17 @@
 				"59407512A217AE6B"
 				"02E8A57F9B96CEA9"
 			]
-			description: ["Craft a &3Bone Pickaxe&r, and &3Bone Knife&r to start crafting &3Copper&r."]
+			description: [
+				"Crafting a &3Bone Pickaxe&r, and &3Bone Knife&r is your next step. "
+				""
+				"Before you can make any &3Ingots&r you'll need to setup a &9Melter&r. "
+				""
+				"&a&oYou should check out Age 1 Utility from here&r&r:  "
+				""
+				"{ \"text\": \"Only a Little Tinkery\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"09B1523ACD3811C7\" } }"
+				""
+				"Once your &9Melter&r is setup, you can start making &3Ingots&r, which will let you start crafting Tools, Armors, and Weapons. "
+			]
 			id: "7F1D40E3D99C5160"
 			rewards: [
 				{

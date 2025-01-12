@@ -103,6 +103,7 @@ JEIEvents.hideItems(event => {
 	event.hide('mekanism:sawdust')
 	event.hide('mekanism:induction_casing')
 	event.hide('mekanism:induction_port')
+	event.hide('mekanism:dust_quartz')
 	event.hide('mekanismgenerators:fusion_reactor_controller')
 	event.hide('mekanismgenerators:fusion_reactor_frame')
 	event.hide('mekanismgenerators:fusion_reactor_port')

@@ -410,7 +410,7 @@
 			id: "3339B4641268EB28"
 			tasks: [{
 				id: "42BEFB167254E62D"
-				item: "moremekanismprocessing:dust_zinc"
+				item: "kubejs:zinc_dust"
 				type: "item"
 			}]
 			title: "Zinc Dust"

@@ -13,6 +13,7 @@ StartupEvents.registry('item', e => {
   e.create('box_of_supreme_machine_frame_parts')
   e.create('box_of_control_chip_parts')
   e.create('wire_mould')
+  e.create('zinc_dust')
   e.create('fake_wisdom_scroll').tooltip('The fates are cruel.. This is nothing more than a piece of paper made to look like a Wisdom Scroll...')
   e.create('bow_grip_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/bow_grip')
   e.create('bow_limb_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/bow_limb')
@@ -38,6 +39,8 @@ StartupEvents.registry('item', e => {
   e.create('maille_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/maille')
   e.create('tough_tool_handle_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/tough_handle')
   e.create('wire_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/wire')
+  e.create('adze_head_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/adze_head')
+  e.create('tough_binding_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/tough_binding')
 
 })
 

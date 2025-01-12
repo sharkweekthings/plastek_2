@@ -1964,6 +1964,93 @@
 			x: -1.5d
 			y: -5.0d
 		}
+		{
+			id: "5F0A89468C44E50D"
+			tasks: [
+				{
+					id: "24BAD544C61D92E0"
+					item: "kubejs:bow_grip_steel_cast"
+					type: "item"
+				}
+				{
+					id: "553BA27827C8C1E1"
+					item: "kubejs:bow_limb_steel_cast"
+					type: "item"
+				}
+				{
+					id: "66C8C53CEA1D44D7"
+					item: "kubejs:broad_axe_head_steel_cast"
+					type: "item"
+				}
+				{
+					id: "27B863122E9F6215"
+					item: "kubejs:broad_blade_steel_cast"
+					type: "item"
+				}
+				{
+					id: "68BE6BEF707F34B1"
+					item: "kubejs:coin_steel_cast"
+					type: "item"
+				}
+				{
+					id: "642A2AC44139ADEB"
+					item: "kubejs:gear_steel_cast"
+					type: "item"
+				}
+				{
+					id: "2E3BB0CCF504BD9F"
+					item: "kubejs:gem_steel_cast"
+					type: "item"
+				}
+				{
+					id: "51A24B720F8D5B32"
+					item: "kubejs:hammer_head_steel_cast"
+					type: "item"
+				}
+				{
+					id: "6EB131992A351FA7"
+					item: "kubejs:large_plate_steel_cast"
+					type: "item"
+				}
+				{
+					id: "4B8E643975020CED"
+					item: "kubejs:pick_head_steel_cast"
+					type: "item"
+				}
+				{
+					id: "677B82DF065FFF52"
+					item: "kubejs:repair_kit_steel_cast"
+					type: "item"
+				}
+				{
+					id: "221E229AC75A542E"
+					item: "kubejs:rod_steel_cast"
+					type: "item"
+				}
+				{
+					id: "2ED268DA9B7E8FC6"
+					item: "kubejs:round_plate_steel_cast"
+					type: "item"
+				}
+				{
+					id: "67383A19A1CF0C62"
+					item: "kubejs:small_axe_head_steel_cast"
+					type: "item"
+				}
+				{
+					id: "0DAD96C8C46A12CA"
+					item: "kubejs:small_blade_steel_cast"
+					type: "item"
+				}
+				{
+					id: "26D908918DD58946"
+					item: "kubejs:tool_binding_steel_cast"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -5.0d
+		}
 	]
 	title: "Utility"
 }
