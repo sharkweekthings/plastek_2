@@ -1953,6 +1953,11 @@
 			y: -4.0d
 		}
 		{
+			description: [
+				"This is it. It's the end of the road with your Tinkering upgrades! "
+				""
+				"If you're still looking to make Armors, Tools, and Weapons -- you can!"
+			]
 			id: "34A68425ACB714B1"
 			shape: "diamond"
 			tasks: [{
@@ -1965,6 +1970,7 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["34A68425ACB714B1"]
 			id: "5F0A89468C44E50D"
 			tasks: [
 				{
@@ -2028,11 +2034,6 @@
 					type: "item"
 				}
 				{
-					id: "2ED268DA9B7E8FC6"
-					item: "kubejs:round_plate_steel_cast"
-					type: "item"
-				}
-				{
 					id: "67383A19A1CF0C62"
 					item: "kubejs:small_axe_head_steel_cast"
 					type: "item"
@@ -2048,7 +2049,8 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
+			title: "Steel Casts"
+			x: -3.0d
 			y: -5.0d
 		}
 	]

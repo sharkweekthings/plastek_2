@@ -10,7 +10,7 @@
 	quests: [
 		{
 			dependencies: ["68725324D55B51C1"]
-			description: ["Throw a Demon's Dream Fruit into a fire which will create Spiritfire."]
+			description: ["Throw a &3Demon's Dream Fruit&r into a &9fire&r which will create &9Spiritfire&r."]
 			id: "443F8B9C27C28D3F"
 			shape: "square"
 			tasks: [{
@@ -23,7 +23,7 @@
 		}
 		{
 			dependencies: ["443F8B9C27C28D3F"]
-			description: ["See below for a chart of what you can throw into the Spiritfire."]
+			description: ["See below for a chart of what you can throw into the &9Spiritfire&r."]
 			icon: "occultism:spirit_fire"
 			id: "5B3952A8211B79D5"
 			shape: "square"
@@ -572,11 +572,11 @@
 				"08D7828FF5E1164E"
 			]
 			description: [
-				"To get an Iesnium Ingot you will need to complete 2 Occultism rituals."
+				"To get an &3Iesnium Ingot&r you will need to complete 2 &6Occultism&r &dRituals&r."
 				""
-				"You need to make an Infused Pickaxe to be able to mine Iesnium ore. "
+				"You need to make an &3Infused Pickaxe&r to be able to mine &3Iesnium Ore&r. "
 				""
-				"You also need to make Otherworldly Goggles to see the Iesnium in the Nether. "
+				"You also need to make &3Otherworldly Goggles&r to see the &3Iesnium&r in the &cNether&r. "
 			]
 			id: "3662EBE85E2BC6C5"
 			shape: "gear"
@@ -686,9 +686,9 @@
 		{
 			dependencies: ["14B1D3C124E08C82"]
 			description: [
-				"Place the daisy on the ground and surround it with logs. "
+				"Place the &3Pure Daisy&r on the ground and surround it with &3logs&r. "
 				""
-				"Eventually they should convert into Livingwood Logs."
+				"Eventually they should convert into &3Livingwood Logs&r."
 			]
 			id: "194A4ABD1F30B051"
 			shape: "square"
@@ -703,9 +703,9 @@
 		{
 			dependencies: ["14B1D3C124E08C82"]
 			description: [
-				"Place the daisy on the ground and surround it with stone. "
+				"Place the &3Pure Daisy&r on the ground and surround it with &3Stone&r. "
 				""
-				"Eventually they should convert into Livingrock."
+				"Eventually they should convert into &3Livingrock&r."
 			]
 			id: "4DB48DC649082355"
 			shape: "square"

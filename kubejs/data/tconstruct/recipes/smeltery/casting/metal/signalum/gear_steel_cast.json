@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "kubejs:gear_steel_cast"
+  },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:gears/signalum"
+      }
+    }
+  ],
+  "cooling_time": 114,
+  "fluid": {
+    "amount": 360,
+    "tag": "forge:molten_signalum"
+  },
+  "result": {
+    "tag": "forge:gears/signalum"
+  }
+}

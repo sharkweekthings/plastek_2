@@ -1189,6 +1189,15 @@
 		}
 		{
 			dependencies: ["09B1523ACD3811C7"]
+			description: [
+				"To start, you'll probably need to make some &3Sand Casts&r for a bit. &cIt's a real pain&r, so hopefully you have enough &3Gold&r for a more permanent solution."
+				""
+				"Just place the &3Sand Cast&r on a &9Casting Table&r, and place your &3Ingot&r on top, then remove the &3Ingot&r. This will give you a one time use &3Cast&r that will let you create an &3Ingot&r. "
+				""
+				"Once you upgrade your &3Casts&r from &3Sand&r to &3Gold&r, it will have &ainfinite uses&r. You can also make a cast for &3Plates&r, &3Gears&r, &3Wires&r, and &3Rods&r. "
+				""
+				"Eventually you'll be able to make upgraded &3Steel Casts&r for many of the other missing &3Tinker's Casts&r, as well as &amore output for the component pieces&r."
+			]
 			id: "1AEE972409EC567B"
 			shape: "square"
 			tasks: [
@@ -1201,6 +1210,7 @@
 							value: "tconstruct:casts/single_use/blank"
 						}
 					}
+					title: "Single Use Casts"
 					type: "item"
 				}
 				{
@@ -1211,6 +1221,21 @@
 				{
 					id: "0B5B29F3FD25B143"
 					item: "tconstruct:nugget_cast"
+					type: "item"
+				}
+				{
+					id: "6CC47042DB7D980E"
+					item: "tconstruct:wire_cast"
+					type: "item"
+				}
+				{
+					id: "2CD06FCDDBB5FB0C"
+					item: "tconstruct:gear_cast"
+					type: "item"
+				}
+				{
+					id: "1C4CB2DBB4AA4EF8"
+					item: "tconstruct:rod_cast"
 					type: "item"
 				}
 			]

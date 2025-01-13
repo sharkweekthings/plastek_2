@@ -9,6 +9,13 @@ ServerEvents.tags('item', event => {
 
 event.add('p2:age_1_item', 
   [
+  'tconstruct:seared_ingot_gauge',
+  'tconstruct:rod_cast',
+  'tconstruct:plate_cast',
+  'tconstruct:gear_cast',
+  'tconstruct:wire_cast',
+  'tconstruct:nugget_cast',
+  'tconstruct:ingot_cast',
   'tconstruct:seared_drain',
   'tconstruct:encyclopedia',
   'tconstruct:tinkers_gadgetry',
@@ -519,6 +526,13 @@ event.add('p2:age_2_item',
 
 event.add('p2:age_2_exception', 
   [
+  'tconstruct:seared_ingot_gauge',
+  'tconstruct:rod_cast',
+  'tconstruct:plate_cast',
+  'tconstruct:gear_cast',
+  'tconstruct:wire_cast',
+  'tconstruct:nugget_cast',
+  'tconstruct:ingot_cast',
   'tconstruct:seared_drain',
   'tconstruct:encyclopedia',
   'tconstruct:tinkers_gadgetry',

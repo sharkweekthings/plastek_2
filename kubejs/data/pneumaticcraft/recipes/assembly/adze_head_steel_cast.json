@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:assembly_drill",
+  "input": {
+    "item": "kubejs:box_of_adze_head_steel_cast_parts"
+  },
+  "program": "laser",
+  "result": {
+    "item": "kubejs:adze_head_steel_cast"
+  }
+}

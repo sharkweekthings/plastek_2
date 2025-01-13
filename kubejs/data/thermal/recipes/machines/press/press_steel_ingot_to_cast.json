@@ -1,0 +1,15 @@
+{
+  "type": "thermal:press",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "kubejs:blank_steel_cast",
+      "count": 1
+    }
+  ]
+}

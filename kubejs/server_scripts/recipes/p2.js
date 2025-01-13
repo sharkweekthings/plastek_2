@@ -63,7 +63,84 @@ ServerEvents.recipes(event => {
 // Box of Control Chip Parts
   event.shapeless(Item.of('kubejs:box_of_control_chip_parts'), ['#forge:plates/gold', 'create:electron_tube', 'create:electron_tube', 'thermal:copper_gear', 'kubejs:empty_box']).id('p2:box_of_control_chip_parts')
 
-
+// Box of Bow Grip Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_bow_grip_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:bow_grip', 'kubejs:empty_box']).id('p2:box_of_bow_grip_steel_cast_parts')
+  
+// Box of Bow Limb Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_bow_limb_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:bow_limb', 'kubejs:empty_box']).id('p2:box_of_bow_limb_steel_cast_parts')
+  
+// Box of Broad Axe Head Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_broad_axe_head_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:broad_axe_head', 'kubejs:empty_box']).id('p2:box_of_broad_axe_head_steel_cast_parts')
+  
+// Box of Broad Blade Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_broad_blade_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:broad_blade', 'kubejs:empty_box']).id('p2:box_of_broad_blade_steel_cast_parts')
+  
+// Box of Coin Steel Cast parts
+  event.shapeless(Item.of('kubejs:box_of_coin_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:coins', 'kubejs:empty_box']).id('p2:box_of_coin_steel_cast_parts')
+  
+// Box of Gear Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_gear_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:gears', 'kubejs:empty_box']).id('p2:box_of_gear_steel_cast_parts')
+  
+// Box of Gem Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_gem_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:gems', 'kubejs:empty_box']).id('p2:box_of_gem_steel_cast_parts')
+  
+// Box of Hammer Head Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_hammer_head_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:hammer_head', 'kubejs:empty_box']).id('p2:box_of_hammer_head_steel_cast_parts')
+  
+// Box of Large Plate Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_large_plate_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:large_plate', 'kubejs:empty_box']).id('p2:box_of_large_plate_steel_cast_parts')
+  
+// Box of Pick Head Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_pick_head_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:pick_head', 'kubejs:empty_box']).id('p2:box_of_pick_head_steel_cast_parts')
+  
+// Box of Repair Kit Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_repair_kit_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:repair_kit', 'kubejs:empty_box']).id('p2:box_of_repair_kit_steel_cast_parts')
+  
+// Box of Rod Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_rod_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:rods', 'kubejs:empty_box']).id('p2:box_of_rod_steel_cast_parts')
+  
+// Box of Round Plate Steel Cast Parts
+  // event.shapeless(Item.of('kubejs:box_of_round_plate_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:', 'kubejs:empty_box']).id('p2:box_of_round_plate_steel_cast_parts')
+  
+// Box of Small Axe Head Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_small_axe_head_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:small_axe_head', 'kubejs:empty_box']).id('p2:box_of_small_axe_head_steel_cast_parts')
+  
+// Box of Small Blade Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_small_blade_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:small_blade', 'kubejs:empty_box']).id('p2:box_of_small_blade_steel_cast_parts')
+  
+// Box of Tool Binding Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_tool_binding_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:', 'kubejs:empty_box']).id('p2:box_of_tool_binding_steel_cast_parts')
+  
+// Box of Tool Handle Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_tool_handle_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:tool_handle', 'kubejs:empty_box']).id('p2:box_of_tool_handle_steel_cast_parts')
+  
+// Box of Chestplate Plating Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_chestplate_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:chestplate_plating', 'kubejs:empty_box']).id('p2:box_of_chestplate_plating_steel_cast_parts')
+  
+// Box of Helmet Plating Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_helmet_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:helmet_plating', 'kubejs:empty_box']).id('p2:box_of_helmet_plating_steel_cast_parts')
+  
+// Box of Leggings Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_leggings_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:leggings_plating', 'kubejs:empty_box']).id('p2:box_of_leggings_plating_steel_cast_parts')
+  
+// Box of Boots Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_boots_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:boots_plating', 'kubejs:empty_box']).id('p2:box_of_boots_plating_steel_cast_parts')
+  
+// Box of Maille Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_maille_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:maille', 'kubejs:empty_box']).id('p2:box_of_maille_steel_cast_parts')
+  
+// Box of Tough Handle Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_tough_handle_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:tough_handle', 'kubejs:empty_box']).id('p2:box_of_tough_handle_steel_cast_parts')
+  
+// Box of Wire Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_wire_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:wires', 'kubejs:empty_box']).id('p2:box_of_wire_steel_cast_parts')
+  
+// Box of Adze Head Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_adze_head_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:adze_head', 'kubejs:empty_box']).id('p2:box_of_adze_head_steel_cast_parts')
+  
+// Box of Tough Binding Steel Cast Parts
+  event.shapeless(Item.of('kubejs:box_of_tough_binding_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:tough_binding', 'kubejs:empty_box']).id('p2:box_of_tough_binding_steel_cast_parts')
+  
 //    
 })
 //
