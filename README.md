@@ -1,7 +1,7 @@
 ##
 ## Tips
 
-1) If you have any questions, you are welcome to join us on the [Discord](https://discord.gg/b2NAFyCu)! Someone will try to answer your question as soon as they can. 
+1) If you have any questions, you are welcome to join us on the [Discord](https://discord.gg/pjkZP4QN)! Someone will try to answer your question as soon as they can. 
 
 2) When you first load in, there is a "Read Me" chapter of quests to get through. I suggest trying to find a world where there is a structure located near spawn (see Suggested World Seeds below). This will give you ample time to click through the "Read Me" quests before accepting the "Start Age 1" reward under "Main Progression". From here, you will start your journey in "Age 1" > "Tools"
 
@@ -10,20 +10,11 @@
 ##
 ## Suggested World Seeds
 EASIER START
-1) -4052349078916629433 - Start in a Plains with a Beekeepers house nearby.
-2) 3684454708010785943 - Start in a Clover Patch with a tiny home nearby.
-3) -8380276173941303126 - Start in a Maple Woods next to a Tower.
-4) 4888906723522008824 - Start in a Swamp at an Apothecary Hut.
-5) -1422910910800544248 - Start in a Snowy Taiga at a Tavern Village.
-6) -177377764378369927 - Start in a Lush Desert at an Oasis Village.
-7) -7403332326440007590 - Start in a Coniferous Forest at a Bathhouse.
-8) 2495452373623989788 - Start in a Plains at a village, with a Battletower nearby.
-9) 295671984905287247 - Start with an armada of ships in the sky, next to a Tinker Citadel.
+- N/A - Need to repopulate seed list with new seeds
 
 HARD START
-1) 4643090097723104334 - Start in a Dark Forest, but you're in a Sky Village.
-2) -2899808716149027100 - Start in a Snowblossom Grove with no structures around.
-3) -7144639993473530893 - Start in a Grassland with a Volcano nearby, and no structures around.
+- N/A - Need to repopulate seed list with new seeds
+
 
 
 ##
