@@ -51,7 +51,7 @@
 				item: "mythicbotany:mjoellnir"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 1.0d
 			y: -1.0d
 		}
 		{
@@ -62,7 +62,7 @@
 				item: "apotheosis:ender_library"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 4.0d
 			y: -1.0d
 		}
 		{
@@ -159,6 +159,58 @@
 			title: "Various Crux's"
 			x: 3.5d
 			y: 0.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "1F8AE2F5D4E7C906"
+			tasks: [{
+				id: "781602031976546E"
+				item: "enigmaticlegacy:enigmatic_item"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "1B86699223AF5E50"
+			tasks: [{
+				id: "4D8B5BDECFF2B6B3"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:ascension_amulet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "0A8D776520445669"
+			tasks: [{
+				id: "75B4F63DC5278D22"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:enigmatic_eye"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["54577D55D83F3D85"]
+			id: "66ACFAAB1DD3006F"
+			tasks: [{
+				id: "5E9907F5733A7CEA"
+				item: "enigmaticlegacy:infinimeal"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
 		}
 	]
 	title: "Good Luck!"

@@ -10,9 +10,11 @@ LootJS.modifiers(event => {
   event.addLootTypeModifier(LootType.CHEST).replaceLoot("minecraft:gold_ingot", "minecraft:gold_nugget");
   event.addLootTypeModifier(LootType.CHEST).replaceLoot("minecraft:iron_ingot", "minecraft:iron_nugget");
   event.addLootTypeModifier(LootType.CHEST).replaceLoot("minecraft:iron_ingot", "minecraft:iron_nugget");
+  event.addLootTypeModifier(LootType.CHEST).replaceLoot("pneumaticcraft:ingot_iron_compressed", "silentgear:diamond_shard");
+  event.addLootTypeModifier(LootType.CHEST).replaceLoot("botania:manasteel_ingot", "silentgear:diamond_shard");
 });
 
-// All Dragons Drop Dragon Heart
+// ALL DRAGONS DROP DRAGON HEART
   LootJS.modifiers(event => {
     event.addEntityLootModifier
     ( 'iceandfire:fire_dragon',
@@ -38,12 +40,11 @@ LootJS.modifiers((e) => {
 
       ]);
 
-
 // TRINKETS & ARTIFACTS
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.75)
+    .randomChance(0.65)
     .addWeightedLoot(
-      [1, 3], //1-3 rolls
+      [0, 2], //0-2 rolls
       [
   LootEntry.of("artifacts:pocket_piston").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:charm_of_sinking").withWeight(15).limitCount([0, 1]),
@@ -91,8 +92,8 @@ LootJS.modifiers((e) => {
   LootEntry.of("artifacts:eternal_steak").withWeight(15).limitCount([0, 1]),
   LootEntry.of("constructionwand:iron_wand").withWeight(25).limitCount([0, 1]),
   LootEntry.of("constructionwand:stone_wand").withWeight(25).limitCount([0, 1]),
-  LootEntry.of("dimdungeons:item_homeward_pearl").withWeight(30).limitCount([0, 1]),
-  LootEntry.of("dimdungeons:item_secret_bell").withWeight(50).limitCount([0, 1]),
+  LootEntry.of("dimdungeons:item_homeward_pearl").withWeight(40).limitCount([0, 1]),
+  LootEntry.of("dimdungeons:item_secret_bell").withWeight(40).limitCount([0, 1]),
   LootEntry.of("nameless_trinkets:scarab_amulet").withWeight(15).limitCount([0, 1]),
   LootEntry.of("nameless_trinkets:sigil_of_baphomet").withWeight(15).limitCount([0, 1]),
   LootEntry.of("nameless_trinkets:rage_mind").withWeight(15).limitCount([0, 1]),
@@ -189,14 +190,32 @@ LootJS.modifiers((e) => {
   LootEntry.of("tarotcards:the_sun").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_magician").withWeight(15).limitCount([0, 1]),
   LootEntry.of("tarotcards:the_hermit").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("tarotcards:the_star").withWeight(15).limitCount([0, 1])
+  LootEntry.of("tarotcards:the_star").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:iron_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:monster_charm").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:super_magnet_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:golden_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:mining_charm").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:cursed_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:mega_sponge").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:ascension_amulet").withWeight(1).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:xp_scroll").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:ender_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:magnet_ring").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:heaven_scroll").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:fabulous_scroll").withWeight(10).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:enigmatic_eye").withWeight(1).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:extradimensional_eye").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:enigmatic_amulet").withWeight(5).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:enigmatic_item").withWeight(1).limitCount([0, 1]),
+  LootEntry.of("enigmaticlegacy:infinimeal").withWeight(1).limitCount([0, 1])
       ]);
 
 // USEFUL LOOT
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.85)
+    .randomChance(0.70)
     .addWeightedLoot(
-      [1, 3], //1-3 rolls
+      [0, 2], //0-2 rolls
       [
   LootEntry.of("advancementframes:advancement_frame").withWeight(50).limitCount([0, 1]),
   LootEntry.of("advancementframes:stat_frame").withWeight(50).limitCount([0, 1]),
@@ -1436,11 +1455,9 @@ LootJS.modifiers((e) => {
 
 // LOOT DECO
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(1.0
-
-    )
+    .randomChance(0.90)
     .addWeightedLoot(
-      [1, 2], //1-3 rolls
+      [1, 4], //1-3 rolls
       [
   LootEntry.of("nightlights:fairy_lights_blue").withWeight(15).limitCount([0, 1]),
   LootEntry.of("nightlights:octopus_pink").withWeight(15).limitCount([0, 1]),
