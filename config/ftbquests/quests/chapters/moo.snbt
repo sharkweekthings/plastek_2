@@ -461,14 +461,14 @@
 					Count: 1
 					id: "itemfilters:tag"
 					tag: {
-						value: "vinery:wine_racks"
+						value: "p2:wine_racks"
 					}
 				}
 				title: "Wine Rack"
 				type: "item"
 			}]
 			x: -10.0d
-			y: 2.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -479,7 +479,7 @@
 				type: "item"
 			}]
 			x: -9.0d
-			y: 2.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -490,7 +490,7 @@
 				type: "item"
 			}]
 			x: -8.0d
-			y: 2.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -501,7 +501,7 @@
 				type: "item"
 			}]
 			x: -7.0d
-			y: 2.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -512,7 +512,7 @@
 				type: "item"
 			}]
 			x: -11.0d
-			y: 2.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -529,7 +529,7 @@
 				type: "item"
 			}]
 			x: -10.0d
-			y: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -546,7 +546,7 @@
 				type: "item"
 			}]
 			x: -9.0d
-			y: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["5A5896C947DA8A15"]
@@ -563,7 +563,7 @@
 				type: "item"
 			}]
 			x: -8.0d
-			y: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["17B3B5D1CD42BA6C"]
@@ -641,7 +641,7 @@
 				type: "item"
 			}]
 			x: -9.5d
-			y: -2.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["598EFD7817B6EBD9"]
@@ -652,7 +652,7 @@
 				type: "item"
 			}]
 			x: -8.5d
-			y: -2.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["34DA5277D437B0E4"]
@@ -687,7 +687,7 @@
 			}]
 			title: "Become a Wine Maker"
 			x: -9.0d
-			y: 1.0d
+			y: 1.5d
 		}
 		{
 			description: ["&6Cooking For Blockheads&r offers a wide range of utility for all of your cooking needs."]
@@ -757,7 +757,7 @@
 			}]
 			title: "Slice and Dice"
 			x: -9.0d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			description: ["&9The Market&r people deal primarily in &bPlastim Scrap&r as their preferred currency. They sell a range of useful items."]

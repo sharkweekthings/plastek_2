@@ -56,6 +56,7 @@
 					type: "item"
 				}
 			]
+			title: "Red Dragon Scale Armor"
 			x: -9.5d
 			y: -6.5d
 		}
@@ -107,6 +108,7 @@
 					type: "item"
 				}
 			]
+			title: "Bronze Dragon Scale Armor"
 			x: -8.5d
 			y: -6.5d
 		}
@@ -158,6 +160,7 @@
 					type: "item"
 				}
 			]
+			title: "Emerald Dragon Scale Armor"
 			x: -7.5d
 			y: -6.5d
 		}
@@ -209,6 +212,7 @@
 					type: "item"
 				}
 			]
+			title: "Gray Dragon Scale Armor"
 			x: -9.5d
 			y: -5.5d
 		}
@@ -260,6 +264,7 @@
 					type: "item"
 				}
 			]
+			title: "Blue Dragon Scale Armor"
 			x: -8.5d
 			y: -5.5d
 		}
@@ -311,6 +316,7 @@
 					type: "item"
 				}
 			]
+			title: "White Dragon Scale Armor"
 			x: -7.5d
 			y: -5.5d
 		}
@@ -362,6 +368,7 @@
 					type: "item"
 				}
 			]
+			title: "Sapphire Dragon Scale Armor"
 			x: -5.5d
 			y: -6.5d
 		}
@@ -413,6 +420,7 @@
 					type: "item"
 				}
 			]
+			title: "Silver Dragon Scale Armor"
 			x: -4.5d
 			y: -6.5d
 		}
@@ -464,6 +472,7 @@
 					type: "item"
 				}
 			]
+			title: "Electric Blue Dragon Scale Armor"
 			x: -3.5d
 			y: -6.5d
 		}
@@ -515,6 +524,7 @@
 					type: "item"
 				}
 			]
+			title: "Amethyst Dragon Scale Armor"
 			x: -5.5d
 			y: -5.5d
 		}
@@ -566,6 +576,7 @@
 					type: "item"
 				}
 			]
+			title: "Copper Dragon Scale Armor"
 			x: -4.5d
 			y: -5.5d
 		}
@@ -617,6 +628,7 @@
 					type: "item"
 				}
 			]
+			title: "Black Dragon Scale Armor"
 			x: -3.5d
 			y: -5.5d
 		}
@@ -1196,6 +1208,7 @@
 					type: "item"
 				}
 			]
+			title: "The Runes You Need"
 			x: -0.5d
 			y: -0.5d
 		}

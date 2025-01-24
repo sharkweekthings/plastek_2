@@ -108,6 +108,7 @@
 				title: "Any Decorative Grave"
 				type: "item"
 			}]
+			title: "Decorative Grave"
 			x: 2.5d
 			y: -1.5d
 		}
@@ -227,6 +228,7 @@
 					type: "item"
 				}
 			]
+			title: "Chipped Workbenches"
 			x: -0.5d
 			y: -5.0d
 		}
@@ -245,7 +247,6 @@
 		}
 		{
 			dependencies: ["046D5107963760D0"]
-			description: [""]
 			id: "1A2FCD1E658CD612"
 			tasks: [{
 				id: "161249155CD56CE4"

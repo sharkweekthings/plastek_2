@@ -3254,6 +3254,40 @@ event.add('p2:ingots',
 	'thermal:enderium_ingot'
 ])
 
+event.add('p2:wine_racks', 
+[
+  'vinery:oak_wine_rack_small',
+  'vinery:birch_wine_rack_big',
+  'vinery:birch_wine_rack_mid',
+  'vinery:oak_wine_rack_big',
+  'vinery:oak_wine_rack_mid',
+  'vinery:acacia_wine_rack_mid',
+  'vinery:acacia_wine_rack_big',
+  'vinery:spruce_wine_rack_small',
+  'vinery:birch_wine_rack_small',
+  'vinery:jungle_wine_rack_mid',
+  'vinery:jungle_wine_rack_big',
+  'vinery:cherry_wine_rack_small',
+  'vinery:dark_oak_wine_rack_small',
+  'vinery:dark_cherry_wine_rack_small',
+  'vinery:mangrove_wine_rack_small',
+  'vinery:jungle_wine_rack_small',
+  'vinery:spruce_wine_rack_big',
+  'vinery:spruce_wine_rack_mid',
+  'vinery:bamboo_wine_rack_small',
+  'vinery:cherry_wine_rack_big',
+  'vinery:cherry_wine_rack_mid',
+  'vinery:dark_oak_wine_rack_mid',
+  'vinery:dark_oak_wine_rack_big',
+  'vinery:dark_cherry_wine_rack_big',
+  'vinery:dark_cherry_wine_rack_mid',
+  'vinery:acacia_wine_rack_small',
+  'vinery:bamboo_wine_rack_big',
+  'vinery:bamboo_wine_rack_mid',
+  'vinery:mangrove_wine_rack_mid',
+  'vinery:mangrove_wine_rack_big'
+])
+
 event.remove('tombstone:seeds', 
 [
   'mysticalagriculture:copper_alloy_seeds',
