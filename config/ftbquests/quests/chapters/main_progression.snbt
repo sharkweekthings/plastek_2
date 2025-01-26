@@ -154,6 +154,53 @@
 										}
 									}
 								}
+								tconstruct: {
+									0: {
+										Count: 1b
+										id: "tconstruct:mighty_smelting"
+									}
+									1: {
+										Count: 1b
+										id: "tconstruct:puny_smelting"
+										tag: {
+											mantle: {
+												book: {
+													current_page: ""
+												}
+											}
+										}
+									}
+									2: {
+										Count: 1b
+										id: "tconstruct:fantastic_foundry"
+									}
+									3: {
+										Count: 1b
+										id: "tconstruct:materials_and_you"
+										tag: {
+											mantle: {
+												book: {
+													current_page: "intro.introduction"
+												}
+											}
+										}
+									}
+									4: {
+										Count: 1b
+										id: "tconstruct:tinkers_gadgetry"
+									}
+									5: {
+										Count: 1b
+										id: "tconstruct:encyclopedia"
+										tag: {
+											mantle: {
+												book: {
+													current_page: "intro.foreward"
+												}
+											}
+										}
+									}
+								}
 								theoneprobe: {
 									0: {
 										Count: 1b
@@ -457,7 +504,7 @@
 			}
 			id: "1096E237173C58B8"
 			rewards: [{
-				id: "26531E901728F94B"
+				id: "6903A671E9F2EB94"
 				item: {
 					Count: 1
 					id: "eccentrictome:tome"
@@ -583,6 +630,53 @@
 									id: "patchouli:guide_book"
 									tag: {
 										"patchouli:book": "storagenetwork:network_book"
+									}
+								}
+							}
+							tconstruct: {
+								0: {
+									Count: 1b
+									id: "tconstruct:mighty_smelting"
+								}
+								1: {
+									Count: 1b
+									id: "tconstruct:puny_smelting"
+									tag: {
+										mantle: {
+											book: {
+												current_page: ""
+											}
+										}
+									}
+								}
+								2: {
+									Count: 1b
+									id: "tconstruct:fantastic_foundry"
+								}
+								3: {
+									Count: 1b
+									id: "tconstruct:materials_and_you"
+									tag: {
+										mantle: {
+											book: {
+												current_page: "intro.introduction"
+											}
+										}
+									}
+								}
+								4: {
+									Count: 1b
+									id: "tconstruct:tinkers_gadgetry"
+								}
+								5: {
+									Count: 1b
+									id: "tconstruct:encyclopedia"
+									tag: {
+										mantle: {
+											book: {
+												current_page: "intro.foreward"
+											}
+										}
 									}
 								}
 							}

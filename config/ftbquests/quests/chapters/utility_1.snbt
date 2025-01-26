@@ -1040,6 +1040,7 @@
 					type: "item"
 				}
 			]
+			title: "Mega Torch and Dread Lamp"
 			x: -8.0d
 			y: 0.5d
 		}

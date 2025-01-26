@@ -1,7 +1,7 @@
 ##
 ## Tips
 
-1) If you have any questions, you are welcome to join us on the [Discord](https://discord.gg/pjkZP4QN)! Someone will try to answer your question as soon as they can. 
+1) If you have any questions, you are welcome to join us on the [Discord](https://discord.gg/Tt8sGvQRH4)! Someone will try to answer your question as soon as they can. 
 
 2) When you first load in, there is a "Read Me" chapter of quests to get through. I suggest trying to find a world where there is a structure located near spawn (see Suggested World Seeds below). This will give you ample time to click through the "Read Me" quests before accepting the "Start Age 1" reward under "Main Progression". From here, you will start your journey in "Age 1" > "Tools"
 

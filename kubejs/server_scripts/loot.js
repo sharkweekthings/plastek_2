@@ -55,7 +55,7 @@ LootJS.modifiers((e) => {
   LootEntry.of("artifacts:superstitious_hat").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:fire_gauntlet").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:crystal_heart").withWeight(15).limitCount([0, 1]),
-  LootEntry.of("artidfacts:night_vision_goggles").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("artifacts:night_vision_goggles").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:vampiric_glove").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:thorn_pendant").withWeight(15).limitCount([0, 1]),
   LootEntry.of("artifacts:plastic_drinking_hat").withWeight(15).limitCount([0, 1]),

@@ -169,6 +169,7 @@
 					type: "item"
 				}
 			]
+			title: "Addon: Range"
 			x: -9.5d
 			y: -8.0d
 		}
@@ -203,6 +204,7 @@
 					type: "item"
 				}
 			]
+			title: "Addon: Speed"
 			x: -9.0d
 			y: -7.0d
 		}
@@ -237,6 +239,7 @@
 					type: "item"
 				}
 			]
+			title: "Addon: Efficiency"
 			x: -8.0d
 			y: -7.0d
 		}
@@ -271,6 +274,7 @@
 					type: "item"
 				}
 			]
+			title: "Addon: Processing"
 			x: -7.5d
 			y: -8.0d
 		}
@@ -351,6 +355,7 @@
 					type: "item"
 				}
 			]
+			title: "Upgrade: BaBee Stuff"
 			x: -9.5d
 			y: 0.5d
 		}
@@ -790,6 +795,7 @@
 					type: "item"
 				}
 			]
+			title: "Jet Boots Upgrade"
 			x: 3.0d
 			y: -5.5d
 		}
@@ -818,6 +824,7 @@
 					type: "item"
 				}
 			]
+			title: "Jumping Upgrade"
 			x: 4.0d
 			y: -5.5d
 		}
@@ -1071,6 +1078,7 @@
 					type: "item"
 				}
 			]
+			title: "Pressure Tubes"
 			x: 4.5d
 			y: -14.5d
 		}
@@ -1993,6 +2001,7 @@
 					type: "item"
 				}
 			]
+			title: "Crank Wheels"
 			x: -3.5d
 			y: 3.5d
 		}
@@ -2021,6 +2030,7 @@
 					type: "item"
 				}
 			]
+			title: "Clutches"
 			x: -2.5d
 			y: 3.5d
 		}
@@ -2070,6 +2080,7 @@
 					type: "item"
 				}
 			]
+			title: "Gearboxes"
 			x: -0.5d
 			y: 3.5d
 		}
@@ -2195,6 +2206,7 @@
 					type: "item"
 				}
 			]
+			title: "Crafting Stations"
 			x: 1.5d
 			y: -10.0d
 		}
@@ -2233,6 +2245,7 @@
 					type: "item"
 				}
 			]
+			title: "The Foundry"
 			x: 0.5d
 			y: -10.0d
 		}

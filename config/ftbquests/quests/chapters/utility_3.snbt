@@ -105,6 +105,7 @@
 					type: "item"
 				}
 			]
+			title: "Energy Screen Modules"
 			x: 2.5d
 			y: -7.0d
 		}
@@ -135,6 +136,7 @@
 					type: "item"
 				}
 			]
+			title: "Inventory Screen Modules"
 			x: 3.5d
 			y: -6.5d
 		}
@@ -182,6 +184,7 @@
 					type: "item"
 				}
 			]
+			title: "Fluid Screen Modules"
 			x: 3.5d
 			y: -7.5d
 		}

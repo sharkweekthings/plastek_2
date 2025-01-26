@@ -602,7 +602,11 @@
 		{
 			can_repeat: true
 			dependencies: ["15FB00D2E063E9D3"]
-			description: ["For a little early/mid game flight before you get your Flugel Tiara; you can do this repeatable quest for a Potion of Flying. It wil grant 8 minutes of Creative Flight. "]
+			description: [
+				"For a little early/mid game flight before you get your Flugel Tiara; you can do this repeatable quest for a Potion of Flying. It wil grant 8 minutes of Creative Flight. "
+				""
+				"Who knows, you might even find a different way to fly."
+			]
 			id: "72EFC8502EC73EC1"
 			rewards: [{
 				id: "00FDB2DFC46096A4"

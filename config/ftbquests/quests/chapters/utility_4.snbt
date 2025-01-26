@@ -492,7 +492,7 @@
 					type: "item"
 				}
 			]
-			title: "Logistical Transporter"
+			title: "Logistical Transporters"
 			x: 2.0d
 			y: -2.0d
 		}
@@ -511,7 +511,7 @@
 					type: "item"
 				}
 			]
-			title: "Restrictive Transporter"
+			title: "Restrictive and Diversive Transporter"
 			x: 3.0d
 			y: -2.0d
 		}
@@ -540,7 +540,7 @@
 					type: "item"
 				}
 			]
-			title: "Thermodynamic Conductor"
+			title: "Thermodynamic Conductors"
 			x: 4.0d
 			y: -2.0d
 		}
