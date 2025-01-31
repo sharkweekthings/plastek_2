@@ -1084,6 +1084,11 @@
 		{
 			dependencies: ["09B1523ACD3811C7"]
 			id: "7D758D03FC7AF38F"
+			rewards: [{
+				id: "18AD08F3EDC1D85A"
+				type: "xp"
+				xp: 5
+			}]
 			shape: "square"
 			tasks: [{
 				id: "526593F37080D2B1"
@@ -1096,6 +1101,11 @@
 		{
 			dependencies: ["09B1523ACD3811C7"]
 			id: "3C6F2BA8767FA6F4"
+			rewards: [{
+				id: "314A403AAEBED3C2"
+				type: "xp"
+				xp: 5
+			}]
 			shape: "square"
 			tasks: [{
 				id: "48EAE1B8740B9F45"
@@ -1108,6 +1118,11 @@
 		{
 			dependencies: ["09B1523ACD3811C7"]
 			id: "2E8CB9FA1553051D"
+			rewards: [{
+				id: "383C0D3F05662AA8"
+				type: "xp"
+				xp: 5
+			}]
 			shape: "square"
 			tasks: [{
 				id: "7E9F33436403F6F0"
@@ -1120,6 +1135,11 @@
 		{
 			dependencies: ["09B1523ACD3811C7"]
 			id: "538244A7AF7AAAA4"
+			rewards: [{
+				id: "6A78C45769F70458"
+				type: "xp"
+				xp: 5
+			}]
 			shape: "square"
 			tasks: [{
 				id: "4F666A2602783F17"
@@ -1137,6 +1157,11 @@
 				"538244A7AF7AAAA4"
 			]
 			id: "4B65E3CFC57B220F"
+			rewards: [{
+				id: "6E7374F1EC017657"
+				type: "xp"
+				xp: 5
+			}]
 			shape: "square"
 			tasks: [{
 				id: "49F5EF130447D804"
@@ -1149,6 +1174,11 @@
 		{
 			dependencies: ["4B65E3CFC57B220F"]
 			id: "06FF572C55951478"
+			rewards: [{
+				id: "7C45602363274315"
+				type: "xp"
+				xp: 5
+			}]
 			shape: "square"
 			tasks: [{
 				id: "5DFBA413BE094E65"
@@ -1161,6 +1191,11 @@
 		{
 			dependencies: ["06FF572C55951478"]
 			id: "4EB9A44A923B291C"
+			rewards: [{
+				id: "48CCCA18C4C068BB"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [
 				{
@@ -1200,6 +1235,11 @@
 				"Eventually you'll be able to make upgraded &3Steel Casts&r for many of the other missing &3Tinker's Casts&r, as well as &amore output for the component pieces&r."
 			]
 			id: "1AEE972409EC567B"
+			rewards: [{
+				id: "37F2987C580E31BE"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [
 				{
@@ -1247,6 +1287,11 @@
 		{
 			dependencies: ["06FF572C55951478"]
 			id: "7C72ABFFB4D78A83"
+			rewards: [{
+				id: "460D4CE32DEA26D3"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [
 				{
@@ -1267,6 +1312,11 @@
 		{
 			dependencies: ["06FF572C55951478"]
 			id: "5F63C76C198B6C98"
+			rewards: [{
+				id: "256EF0792512DABD"
+				type: "xp"
+				xp: 20
+			}]
 			shape: "square"
 			tasks: [
 				{
@@ -1287,6 +1337,11 @@
 		{
 			dependencies: ["06FF572C55951478"]
 			id: "244A4F583A1DC3AF"
+			rewards: [{
+				id: "6266FFC77D230997"
+				type: "xp"
+				xp: 20
+			}]
 			shape: "square"
 			tasks: [
 				{

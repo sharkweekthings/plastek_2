@@ -51,6 +51,11 @@
 		{
 			dependencies: ["47B600AF3A91F036"]
 			id: "29B8689F4BABE2A9"
+			rewards: [{
+				id: "3127B01016A1B98B"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [{
 				id: "682750491BAC8CFD"
@@ -171,6 +176,11 @@
 		{
 			dependencies: ["6BB77F47FC3E6965"]
 			id: "089E5A8387186778"
+			rewards: [{
+				id: "7280CF525A35D483"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [{
 				id: "10EA471C22DCDAAB"
@@ -295,12 +305,14 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"4EB9A44A923B291C"
-				"7F1D40E3D99C5160"
-			]
+			dependencies: ["7F1D40E3D99C5160"]
 			hide_dependency_lines: true
 			id: "04FB9C09400F9C90"
+			rewards: [{
+				id: "5F33EB48E897E170"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "5D8AB06A5438472B"
 				item: {
@@ -316,10 +328,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"4EB9A44A923B291C"
-				"7F1D40E3D99C5160"
-			]
+			dependencies: ["7F1D40E3D99C5160"]
 			hide_dependency_lines: true
 			id: "4EC818A849D61B8B"
 			rewards: [{
@@ -344,10 +353,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"4EB9A44A923B291C"
-				"7F1D40E3D99C5160"
-			]
+			dependencies: ["7F1D40E3D99C5160"]
 			hide_dependency_lines: true
 			id: "1E9BE701B5E51C9C"
 			rewards: [{
@@ -375,6 +381,11 @@
 			dependencies: ["06F8EC95A7718D92"]
 			hide_dependency_lines: true
 			id: "0216F652856C97DE"
+			rewards: [{
+				id: "0D393F5C7C29B731"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [{
 				id: "20C37210E7B37AAC"
@@ -394,6 +405,11 @@
 			dependencies: ["06F8EC95A7718D92"]
 			hide_dependency_lines: true
 			id: "06414155DED4D2F2"
+			rewards: [{
+				id: "7B9DDFFA1AFCA1C1"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [{
 				id: "1DB1C03DFCD119B7"
@@ -410,10 +426,7 @@
 			y: 5.5d
 		}
 		{
-			dependencies: [
-				"4EB9A44A923B291C"
-				"7F1D40E3D99C5160"
-			]
+			dependencies: ["7F1D40E3D99C5160"]
 			hide_dependency_lines: true
 			id: "548895FEA0AB8009"
 			rewards: [{
@@ -438,10 +451,7 @@
 			y: 2.5d
 		}
 		{
-			dependencies: [
-				"4EB9A44A923B291C"
-				"7F1D40E3D99C5160"
-			]
+			dependencies: ["7F1D40E3D99C5160"]
 			hide_dependency_lines: true
 			id: "577726B9BC8B4186"
 			rewards: [{
@@ -469,6 +479,11 @@
 			dependencies: ["06F8EC95A7718D92"]
 			hide_dependency_lines: true
 			id: "4AFF03A430507DBD"
+			rewards: [{
+				id: "24C4D2D86ACD543A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "41326EAAF8C296FA"
 				item: {
@@ -487,6 +502,11 @@
 			dependencies: ["06F8EC95A7718D92"]
 			hide_dependency_lines: true
 			id: "147992C2FD0D2031"
+			rewards: [{
+				id: "10FE0C93D63F0031"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [{
 				id: "670B4DCC1E15CF65"
@@ -506,6 +526,11 @@
 			dependencies: ["06F8EC95A7718D92"]
 			hide_dependency_lines: true
 			id: "3499E858EEFA6EB2"
+			rewards: [{
+				id: "0911F39C7B7C0672"
+				type: "xp"
+				xp: 10
+			}]
 			shape: "square"
 			tasks: [{
 				id: "4FB1655E18527606"
@@ -524,6 +549,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "4A5342F08CD5D21D"
+			rewards: [{
+				id: "3133D65C1CFE89AC"
+				type: "xp"
+				xp: 15
+			}]
 			tasks: [{
 				id: "4C9A4B7F43E97E56"
 				item: {
@@ -541,6 +571,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "23D911160352885B"
+			rewards: [{
+				id: "35C083531C986BA0"
+				type: "xp"
+				xp: 15
+			}]
 			tasks: [{
 				id: "7FF06AED87E3BF37"
 				item: {
@@ -558,6 +593,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "231358939AE05CAF"
+			rewards: [{
+				id: "3ED570242C3FE841"
+				type: "xp"
+				xp: 15
+			}]
 			tasks: [{
 				id: "11223564CD6D6A00"
 				item: {
@@ -575,6 +615,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "729DFA90ED7E1ACE"
+			rewards: [{
+				id: "41B624A7D651A409"
+				type: "xp"
+				xp: 15
+			}]
 			tasks: [{
 				id: "2D8790BD027459CB"
 				item: {
@@ -592,6 +637,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "24918F2C1D335A46"
+			rewards: [{
+				id: "31C731DE2723CE27"
+				type: "xp"
+				xp: 15
+			}]
 			tasks: [{
 				id: "3E676F56FF84D9F7"
 				item: {
@@ -609,6 +659,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "4A9D7282323248AB"
+			rewards: [{
+				id: "0C8D001D2AEAD428"
+				type: "xp"
+				xp: 20
+			}]
 			tasks: [{
 				id: "479F907906593216"
 				item: {
@@ -626,6 +681,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "04F8661111EC36C5"
+			rewards: [{
+				id: "3EA15C807FB9855D"
+				type: "xp"
+				xp: 20
+			}]
 			tasks: [{
 				id: "1B4EA2A76F5B3C56"
 				item: {
@@ -643,6 +703,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "160DD5656DBFECCF"
+			rewards: [{
+				id: "5DA2C2F48B3E8383"
+				type: "xp"
+				xp: 20
+			}]
 			tasks: [{
 				id: "538DCC74C18DC6B0"
 				item: {
@@ -660,6 +725,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "54FE62D357D827BC"
+			rewards: [{
+				id: "5CB7794334F2E1BD"
+				type: "xp"
+				xp: 20
+			}]
 			tasks: [{
 				id: "30822279FB836866"
 				item: {
@@ -677,6 +747,11 @@
 		{
 			dependencies: ["47CDFFB62C641DEB"]
 			id: "03A0B8C7C20D47CA"
+			rewards: [{
+				id: "0D34447C35CF9798"
+				type: "xp"
+				xp: 20
+			}]
 			tasks: [{
 				id: "7B8D2895CB77017E"
 				item: {
@@ -692,7 +767,10 @@
 			y: 8.1d
 		}
 		{
-			dependencies: ["1F6113D2234C39DD"]
+			dependencies: [
+				"1F6113D2234C39DD"
+				"4EB9A44A923B291C"
+			]
 			hide_dependency_lines: true
 			id: "2D5416BABE0CCD96"
 			rewards: [{
@@ -717,7 +795,10 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["1F6113D2234C39DD"]
+			dependencies: [
+				"1F6113D2234C39DD"
+				"4EB9A44A923B291C"
+			]
 			hide_dependency_lines: true
 			id: "1F5D0EB248ED82F7"
 			rewards: [{
@@ -742,7 +823,10 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["1F6113D2234C39DD"]
+			dependencies: [
+				"1F6113D2234C39DD"
+				"4EB9A44A923B291C"
+			]
 			hide_dependency_lines: true
 			hide_text_until_complete: false
 			id: "1B30586171734AB1"
@@ -768,7 +852,10 @@
 			y: 2.5d
 		}
 		{
-			dependencies: ["1F6113D2234C39DD"]
+			dependencies: [
+				"1F6113D2234C39DD"
+				"4EB9A44A923B291C"
+			]
 			hide_dependency_lines: true
 			id: "56BE817ADEAF99E4"
 			rewards: [{
@@ -805,6 +892,14 @@
 			]
 			description: [
 				"You will need to craft a full set of &3Copper Armor&r, as well as a &3Copper Axe&r, &3Pickaxe&r, &3Shovel&r, and &3Hoe&r. "
+				""
+				"Before you can make any other type of &3Ingots&r you'll need to setup a &9Melter&r. "
+				""
+				"&a&oYou should check out Age 1 Utility from here&r&r:  "
+				""
+				"{ \"text\": \"Only a Little Tinkery\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"09B1523ACD3811C7\" } }"
+				""
+				"Once your &9Melter&r is setup, you can start making other &3Ingots&r, which will let you start crafting Tools, Armors, and Weapons. "
 				""
 				"This will unlock &dSilver Equipment&r."
 			]
@@ -880,15 +975,9 @@
 				"02E8A57F9B96CEA9"
 			]
 			description: [
-				"Crafting a &3Bone Pickaxe&r, and &3Bone Knife&r is your next step. "
+				"Crafting a &3Bone Pickaxe&r, &3Bone Knife&r, and a &9Blast Furnace&r is your next step. "
 				""
-				"Before you can make any &3Ingots&r you'll need to setup a &9Melter&r. "
-				""
-				"&a&oYou should check out Age 1 Utility from here&r&r:  "
-				""
-				"{ \"text\": \"Only a Little Tinkery\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"09B1523ACD3811C7\" } }"
-				""
-				"Once your &9Melter&r is setup, you can start making &3Ingots&r, which will let you start crafting Tools, Armors, and Weapons. "
+				"This will allow you to start blasting &3Copper Ores&r into &3Ingots&r."
 			]
 			id: "7F1D40E3D99C5160"
 			rewards: [

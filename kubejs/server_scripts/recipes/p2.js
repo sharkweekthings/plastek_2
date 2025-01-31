@@ -109,7 +109,7 @@ ServerEvents.recipes(event => {
   event.shapeless(Item.of('kubejs:box_of_small_blade_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:small_blade', 'kubejs:empty_box']).id('p2:box_of_small_blade_steel_cast_parts')
   
 // Box of Tool Binding Steel Cast Parts
-  event.shapeless(Item.of('kubejs:box_of_tool_binding_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:', 'kubejs:empty_box']).id('p2:box_of_tool_binding_steel_cast_parts')
+  event.shapeless(Item.of('kubejs:box_of_tool_binding_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:tool_binding', 'kubejs:empty_box']).id('p2:box_of_tool_binding_steel_cast_parts')
   
 // Box of Tool Handle Steel Cast Parts
   event.shapeless(Item.of('kubejs:box_of_tool_handle_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:tool_handle', 'kubejs:empty_box']).id('p2:box_of_tool_handle_steel_cast_parts')
