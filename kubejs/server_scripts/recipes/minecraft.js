@@ -32,6 +32,9 @@ ServerEvents.recipes(event => {
 // Deepslate Copper Ore to Ingot
   event.blasting('minecraft:copper_ingot', 'minecraft:deepslate_copper_ore').id('p2:deepslate_copper_ore_to_ingot')
 
+// Raw Copper to Ingot
+  event.blasting('minecraft:copper_ingot', 'minecraft:raw_copper').id('p2:raw_copper_to_ingot')
+
 // Blast Furnace
   event.shaped('minecraft:blast_furnace',
     ['323','313','333'], {

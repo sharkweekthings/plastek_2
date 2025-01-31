@@ -208,7 +208,9 @@ LootJS.modifiers((e) => {
   LootEntry.of("enigmaticlegacy:extradimensional_eye").withWeight(15).limitCount([0, 1]),
   LootEntry.of("enigmaticlegacy:enigmatic_amulet").withWeight(5).limitCount([0, 1]),
   LootEntry.of("enigmaticlegacy:enigmatic_item").withWeight(1).limitCount([0, 1]),
-  LootEntry.of("enigmaticlegacy:infinimeal").withWeight(1).limitCount([0, 1])
+  LootEntry.of("enigmaticlegacy:infinimeal").withWeight(1).limitCount([0, 1]),
+  LootEntry.of("samurai_dynasty:oni_mask").withWeight(1).limitCount([0, 1]),
+  LootEntry.of("samurai_dynasty:kitsune_mask").withWeight(1).limitCount([0, 1])
       ]);
 
 // USEFUL LOOT

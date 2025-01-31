@@ -1464,6 +1464,10 @@
 				"Now you have Polonium, and a massive quantity of power. You're ready to start making Anti-Matter! "
 				""
 				"Just pump energy and Polonium into the Super Critical Phase Shifter to produce Anti-Matter Pellets."
+				""
+				"{image:kubejs:textures/mekanism/mekanism_supercritical_phase.png width:150 height:150 align:center}"
+				""
+				"&e&oImage used is from the Mekanism Wiki: https://wiki.aidancbrady.com/wiki/File:Supercritical_Phase_Shifter.png&r&r"
 			]
 			id: "27B63658469BEC98"
 			shape: "diamond"
