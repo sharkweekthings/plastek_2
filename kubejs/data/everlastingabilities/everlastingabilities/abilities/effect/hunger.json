@@ -5,5 +5,9 @@
   "rarity": "rare",
   "max_level": 3,
   "xp_per_level": 300,
-  "effect": "minecraft:hunger"
+  "effect": "minecraft:hunger",
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false
 }

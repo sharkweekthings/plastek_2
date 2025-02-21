@@ -6,5 +6,9 @@
   "max_level": 1,
   "xp_per_level": 400,
   "effect": "minecraft:night_vision",
-  "duration_factor": 27
+  "duration_factor": 27,
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false
 }

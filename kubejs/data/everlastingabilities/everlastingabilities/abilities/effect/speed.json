@@ -5,5 +5,9 @@
   "rarity": "common",
   "max_level": 5,
   "xp_per_level": 300,
-  "effect": "minecraft:speed"
+  "effect": "minecraft:speed",
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false
 }

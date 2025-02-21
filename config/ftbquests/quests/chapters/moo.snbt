@@ -138,6 +138,7 @@
 		}
 		{
 			dependencies: ["58C012AD3D76A5CF"]
+			description: ["You'll find this on the &6Farming for Blockheads&r &9Market&r block."]
 			id: "1B3DDFC48FD31D68"
 			tasks: [{
 				id: "755149B352D8CD51"

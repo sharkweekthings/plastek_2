@@ -1461,9 +1461,16 @@
 		{
 			dependencies: ["3AD87E8909BCBC81"]
 			description: [
-				"Now you have Polonium, and a massive quantity of power. You're ready to start making Anti-Matter! "
+				"Now you have &3Polonium&r, and a massive quantity of power. You're ready to start making &5Anti-Matter&r! "
 				""
-				"Just pump energy and Polonium into the Super Critical Phase Shifter to produce Anti-Matter Pellets."
+				"Just pump energy and &3Polonium&r into the &1Super Critical Phase Shifter&r to produce &3Anti-Matter Pellets&r."
+				""
+				"You will need:"
+				""
+				"- 72 &3SPS Casings&r, which includes 12 for the SPS Ports."
+				"- 123 &3Reactor&r or &3Structural Glass&r"
+				"- 3 &3SPS Ports&r"
+				"- 1 &3Supercharged Coil&r"
 				""
 				"{image:kubejs:textures/mekanism/mekanism_supercritical_phase.png width:150 height:150 align:center}"
 				""

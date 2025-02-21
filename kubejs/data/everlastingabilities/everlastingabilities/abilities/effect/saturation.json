@@ -1,4 +1,8 @@
 {
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false,
   "type": "everlastingabilities:effect",
   "target": "self",
   "name": "ability.everlastingabilities.saturation",

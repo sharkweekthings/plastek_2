@@ -6,39 +6,16 @@
   "loops": 3,
   "results": [
     {
+      "chance": 33.33,
       "item": "create_connected:control_chip"
     },
     {
-      "chance": 8.0,
+      "chance": 33.33,
       "item": "kubejs:wooden_gear"
     },
     {
-      "chance": 8.0,
+      "chance": 33.33,
       "item": "create:electron_tube"
-    },
-    {
-      "chance": 5.0,
-      "item": "create:golden_sheet"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:gold_nugget"
-    },
-    {
-      "chance": 2.0,
-      "item": "create:iron_sheet"
-    },
-    {
-      "chance": 2.0,
-      "item": "create:crushed_raw_gold"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:quartz"
-    },
-    {
-      "chance": 3.0,
-      "item": "minecraft:compass"
     }
   ],
   "sequence": [

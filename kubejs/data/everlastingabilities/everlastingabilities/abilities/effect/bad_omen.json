@@ -5,5 +5,9 @@
   "rarity": "epic",
   "max_level": 4,
   "xp_per_level": 400,
-  "effect": "minecraft:bad_omen"
+  "effect": "minecraft:bad_omen",
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false
 }
