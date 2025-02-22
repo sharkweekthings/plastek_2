@@ -4,6 +4,6 @@
   "name": "ability.everlastingabilities.haste",
   "rarity": "common",
   "max_level": 5,
-  "xp_per_level": 300,
+  "xp_per_level": 350,
   "effect": "minecraft:haste"
 }

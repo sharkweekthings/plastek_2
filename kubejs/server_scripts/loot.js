@@ -42,7 +42,7 @@ LootJS.modifiers((e) => {
 
 // TRINKETS & ARTIFACTS
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.65)
+    .randomChance(0.50)
     .addWeightedLoot(
       [0, 2], //0-2 rolls
       [
@@ -2187,7 +2187,7 @@ LootJS.modifiers((e) => {
 
 // LOOT PASSIVE SKILL
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.75)
+    .randomChance(0.70)
     .addWeightedLoot(
       [1], //1-3 rolls
       [

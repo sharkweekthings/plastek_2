@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "forge:nuggets/lumium"
+    },
+    "L": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    },
+    "P": {
+      "tag": "forge:plates/invar"
+    }
+  },
+  "pattern": [
+    "PPG",
+    "PLG",
+    " PG"
+  ],
+  "result": {
+    "count": 2,
+    "item": "modularrouters:blank_upgrade"
+  },
+  "show_notification": true
+}

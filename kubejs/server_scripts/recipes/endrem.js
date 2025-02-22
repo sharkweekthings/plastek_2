@@ -1,5 +1,5 @@
 ////
-// cataclysm 
+// end remastered 
 //// renik
 
 
@@ -8,8 +8,6 @@ ServerEvents.recipes(event => {
 //
 
   //ADD
-
-
 
 // Insanium Eye
   event.shaped('endrem:cursed_eye',

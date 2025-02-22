@@ -12,6 +12,7 @@ ServerEvents.recipes(event => {
   event.remove({id: 'quark:building/crafting/furnaces/blackstone_blast_furnace'})
   event.remove({id: 'quark:building/crafting/furnaces/deepslate_blast_furnace'})
   event.remove([{ type: 'minecraft:smelting', output: '#p2:ingots' }, { type: 'minecraft:blasting', output: '#p2:ingots' }])
+  event.remove({id: 'hyperbox:hyperbox'})
 
 //
 })

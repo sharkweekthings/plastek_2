@@ -42,6 +42,8 @@
 				""
 				"This pack has a total of &a1,536 different foods&r you can make. To account for uncraftable items, you will gain &a1 Heart&r for each milestone &aup to 1,400 foods&r."
 				""
+				"But be careful! With the &6DIET&r mod, &cif you drop below 10%&r in your Proteins, Fruits, Vegetables, or Grains -- &cyou will receive penalties&r. &aStaying above 80%&r will grant &avarious benefits&r. Sugar is a special case. You won't want to go &cabove 70%&r otherwise &cyou'll have a sugar crash and receive penalties&r. Staying between &a20-30% will grant a movement speed bonus&r. "
+				""
 				"You might find additional HP boosts through the mods listed in the \"Power\" quest. "
 			]
 			icon: "artifacts:crystal_heart"
@@ -65,7 +67,7 @@
 				""
 				"For &6Everlasting Abilities&r the equip cost has been inflated significantly, and you are only allowed to equip 4 total abilities. "
 				""
-				"&6Passive Skill Tree&r is also added to this pack. However, t&ahe only way to obtain skill points is by crafting them&r. &cYou won't be able to craft them until Age 2&r. &aTo access the skill tree press O&r."
+				"&6Passive Skill Tree&r is also added to this pack. However, &athe only way to obtain skill points is by finding them in chests and barrels throughout the world&r. To access the skill tree press O."
 			]
 			icon: {
 				Count: 1

@@ -37,6 +37,14 @@ ServerEvents.recipes(event => {
   event.remove({id: 'thermal:parts/netherite_gear'})
   event.remove({id: 'thermal:parts/emerald_gear'})
   event.remove({id: 'thermal:parts/quartz_gear'})
+  event.remove({id: 'thermal:bronze_dust_4'})
+  event.remove({id: 'thermal:electrum_dust_2'})
+  event.remove({id: 'thermal:invar_dust_3'})
+  event.remove({id: 'thermal:constantan_dust_2'})
+  event.remove({id: 'thermal:signalum_dust_4'})
+  event.remove({id: 'thermal:lumium_dust_4'})
+  event.remove({id: 'thermal:enderium_dust_2'})
+
 
 //
 })

@@ -1,0 +1,45 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:air"
+    },
+    {
+      "type": "mysticalagriculture:crop_has_material",
+      "crop": "mysticalagriculture:air"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "thermal:signalum_ingot"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "thermal:signalum_ingot"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "thermal:signalum_ingot"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "thermal:signalum_ingot"
+    }
+  ],
+  "input": {
+      "item": "industrialforegoing:machine_frame_supreme"
+  },
+  "result": {
+    "item": "hyperbox:hyperbox"
+  }
+}

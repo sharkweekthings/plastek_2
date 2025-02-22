@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "forge:nuggets/lumium"
+    },
+    "P": {
+      "tag": "forge:plates/invar"
+    },
+    "R": {
+      "tag": "forge:dusts/signalum"
+    },
+    "Z": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  },
+  "pattern": [
+    " R ",
+    "PZP",
+    "GGG"
+  ],
+  "result": {
+    "count": 3,
+    "item": "modularrouters:blank_module"
+  },
+  "show_notification": true
+}
