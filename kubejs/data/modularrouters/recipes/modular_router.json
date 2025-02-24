@@ -2,23 +2,27 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "A": {
-      "item": "sfm:cable"
-    },
     "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "I": {
       "tag": "forge:alloys/advanced"
     },
-    "C": {
+    "M": {
+      "item": "modularrouters:blank_module"
+    },
+    "Z": {
       "item": "industrialforegoing:machine_frame_supreme"
     }
   },
   "pattern": [
-    "ABA",
-    "BCB",
-    "ABA"
+    "IBI",
+    "BZB",
+    "IMI"
   ],
   "result": {
-    "item": "sfm:manager"
+    "count": 2,
+    "item": "modularrouters:modular_router"
   },
   "show_notification": true
 }

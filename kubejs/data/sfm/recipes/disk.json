@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "R": {
-      "item": "minecraft:redstone_block"
+      "item": "pneumaticcraft:printed_circuit_board"
     },
     "a": {
       "tag": "forge:dyes/red"
@@ -19,13 +19,10 @@
     },
     "e": {
       "item": "minecraft:redstone"
-    },
-    "p": {
-      "item": "minecraft:paper"
     }
   },
   "pattern": [
-    "pbp",
+    "ebe",
     "aRc",
     "ede"
   ],

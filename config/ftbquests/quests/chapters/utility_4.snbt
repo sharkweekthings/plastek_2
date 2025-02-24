@@ -17,7 +17,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: -5.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -28,7 +28,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -5.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -39,7 +39,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -5.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -50,7 +50,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -5.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -61,7 +61,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -72,7 +72,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -83,7 +83,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -94,7 +94,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -105,7 +105,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -116,7 +116,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -127,7 +127,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -4.0d
+			y: -7.5d
 		}
 		{
 			dependencies: [
@@ -140,8 +140,8 @@
 				item: "draconicevolution:item_chaotic_aoe"
 				type: "item"
 			}]
-			x: -6.0d
-			y: 1.0d
+			x: -10.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -154,8 +154,8 @@
 				item: "draconicevolution:item_chaotic_damage"
 				type: "item"
 			}]
-			x: -5.0d
-			y: 1.0d
+			x: -9.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -168,8 +168,8 @@
 				item: "draconicevolution:item_chaotic_energy"
 				type: "item"
 			}]
-			x: -4.0d
-			y: 1.0d
+			x: -8.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -182,8 +182,8 @@
 				item: "draconicevolution:item_chaotic_flight"
 				type: "item"
 			}]
-			x: -3.0d
-			y: 1.0d
+			x: -7.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -196,8 +196,8 @@
 				item: "draconicevolution:item_chaotic_jump"
 				type: "item"
 			}]
-			x: -2.0d
-			y: 1.0d
+			x: -6.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -210,8 +210,8 @@
 				item: "draconicevolution:item_chaotic_large_shield_capacity"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 1.0d
+			x: -5.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -224,8 +224,8 @@
 				item: "draconicevolution:item_chaotic_proj_accuracy"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.0d
+			x: -4.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -238,8 +238,8 @@
 				item: "draconicevolution:item_chaotic_proj_damage"
 				type: "item"
 			}]
-			x: -6.0d
-			y: 2.0d
+			x: -10.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -252,8 +252,8 @@
 				item: "draconicevolution:item_chaotic_proj_grav_comp"
 				type: "item"
 			}]
-			x: -5.0d
-			y: 2.0d
+			x: -9.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -266,8 +266,8 @@
 				item: "draconicevolution:item_chaotic_proj_penetration"
 				type: "item"
 			}]
-			x: -4.0d
-			y: 2.0d
+			x: -8.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -280,8 +280,8 @@
 				item: "draconicevolution:item_chaotic_proj_velocity"
 				type: "item"
 			}]
-			x: -3.0d
-			y: 2.0d
+			x: -7.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -294,8 +294,8 @@
 				item: "draconicevolution:item_chaotic_shield_capacity"
 				type: "item"
 			}]
-			x: -2.0d
-			y: 2.0d
+			x: -6.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -308,8 +308,8 @@
 				item: "draconicevolution:item_chaotic_shield_control"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 2.0d
+			x: -5.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -322,8 +322,8 @@
 				item: "draconicevolution:item_chaotic_shield_recovery"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: -4.5d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -336,8 +336,8 @@
 				item: "draconicevolution:item_chaotic_tree_harvest"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 1.0d
+			x: -3.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -350,8 +350,8 @@
 				item: "draconicevolution:item_chaotic_undying"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: -3.5d
+			y: 2.5d
 		}
 		{
 			description: ["Upgrading Mekanism"]
@@ -364,7 +364,7 @@
 			}]
 			title: "Mekanism"
 			x: -2.5d
-			y: -2.5d
+			y: -6.0d
 		}
 		{
 			description: ["The final Draconic Evolution modules."]
@@ -377,8 +377,8 @@
 				type: "checkmark"
 			}]
 			title: "Draconic Evolution - Chaotic Modules"
-			x: -2.5d
-			y: -0.5d
+			x: -7.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -406,8 +406,8 @@
 				}
 			]
 			title: "Universal Cables"
-			x: 2.0d
-			y: -3.0d
+			x: -8.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -435,8 +435,8 @@
 				}
 			]
 			title: "Mechanical Pipes"
-			x: 3.0d
-			y: -3.0d
+			x: -7.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -464,8 +464,8 @@
 				}
 			]
 			title: "Pressurized Tubes"
-			x: 4.0d
-			y: -3.0d
+			x: -6.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -493,8 +493,8 @@
 				}
 			]
 			title: "Logistical Transporters"
-			x: 2.0d
-			y: -2.0d
+			x: -8.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -512,8 +512,8 @@
 				}
 			]
 			title: "Restrictive and Diversive Transporter"
-			x: 3.0d
-			y: -2.0d
+			x: -7.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -541,8 +541,8 @@
 				}
 			]
 			title: "Thermodynamic Conductors"
-			x: 4.0d
-			y: -2.0d
+			x: -6.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["5C187BB255DD32EA"]
@@ -556,8 +556,8 @@
 				}
 				type: "item"
 			}]
-			x: -5.0d
-			y: -1.5d
+			x: -4.0d
+			y: -4.5d
 		}
 		{
 			description: ["The power of teleportation at your finger tips. "]
@@ -569,8 +569,1203 @@
 				type: "checkmark"
 			}]
 			title: "Tempad"
-			x: -3.5d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1336CBEE426C4F5A"]
+			description: ["The new Eccentric Tome just adds the Modular Routers book."]
+			id: "6575E94B0FEAC7D0"
+			rewards: [{
+				id: "2AB85B4110F3AD90"
+				item: {
+					Count: 1
+					id: "eccentrictome:tome"
+					tag: {
+						"eccentrictome:mods": {
+							ae2: {
+								0: {
+									Count: 1b
+									id: "ae2:guide"
+								}
+							}
+							aether: {
+								0: {
+									Count: 1b
+									id: "aether:book_of_lore"
+								}
+							}
+							apotheosis: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "apotheosis:apoth_chronicle"
+									}
+								}
+							}
+							botania: {
+								0: {
+									Count: 1b
+									id: "botania:lexicon"
+									tag: {
+										"botania:elven_unlock": 1b
+									}
+								}
+							}
+							buildinggadgets2: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+									}
+								}
+							}
+							dimdungeons: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "dimdungeons:guide_book"
+									}
+								}
+							}
+							industrialforegoing: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "industrialforegoing:industrial_foregoing"
+									}
+								}
+							}
+							irons_spellbooks: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "irons_spellbooks:iss_guide_book"
+									}
+								}
+							}
+							modularrouters: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "modularrouters:book"
+									}
+								}
+							}
+							mysticalagriculture: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "mysticalagriculture:guide"
+									}
+								}
+							}
+							pneumaticcraft: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "pneumaticcraft:book"
+									}
+								}
+							}
+							productivebees: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "productivebees:guide"
+									}
+								}
+							}
+							rftoolsbase: {
+								0: {
+									Count: 1b
+									id: "rftoolsbase:manual"
+								}
+							}
+							sebastrnlib: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+									}
+								}
+							}
+							solcarrot: {
+								0: {
+									Count: 1b
+									id: "solcarrot:food_book"
+								}
+							}
+							storagenetwork: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "storagenetwork:network_book"
+									}
+								}
+							}
+							tconstruct: {
+								0: {
+									Count: 1b
+									id: "tconstruct:puny_smelting"
+									tag: {
+										mantle: {
+											book: {
+												current_page: ""
+											}
+										}
+									}
+								}
+								1: {
+									Count: 1b
+									id: "tconstruct:mighty_smelting"
+								}
+								2: {
+									Count: 1b
+									id: "tconstruct:tinkers_gadgetry"
+								}
+								3: {
+									Count: 1b
+									id: "tconstruct:encyclopedia"
+									tag: {
+										mantle: {
+											book: {
+												current_page: "intro.foreward"
+											}
+										}
+									}
+								}
+								4: {
+									Count: 1b
+									id: "tconstruct:materials_and_you"
+									tag: {
+										mantle: {
+											book: {
+												current_page: "intro.introduction"
+											}
+										}
+									}
+								}
+								5: {
+									Count: 1b
+									id: "tconstruct:fantastic_foundry"
+								}
+							}
+							theoneprobe: {
+								0: {
+									Count: 1b
+									id: "theoneprobe:probenote"
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2E8D6CE5305AE778"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Modular Routers"
+			x: -1.0d
 			y: -1.5d
+		}
+		{
+			id: "30E9EA48ED4DC1F5"
+			shape: "diamond"
+			tasks: [{
+				id: "3AF9AEB5FAE08010"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Super Factory Manager"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6575E94B0FEAC7D0"]
+			id: "2CFA162B20D6C8F3"
+			tasks: [{
+				id: "7E41B596697FB96E"
+				item: "modularrouters:modular_router"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6575E94B0FEAC7D0"]
+			id: "75A0F132971ADF91"
+			tasks: [{
+				id: "0A811874A3D74102"
+				item: "modularrouters:augment_core"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6575E94B0FEAC7D0"]
+			id: "2DC3D92C2DC2B017"
+			tasks: [{
+				id: "182B5840AF086FC0"
+				item: "modularrouters:regulator_augment"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6575E94B0FEAC7D0"]
+			id: "636D22DB4CC2622D"
+			tasks: [{
+				id: "623ED8E7835EFA5C"
+				item: "modularrouters:blank_upgrade"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6575E94B0FEAC7D0"]
+			id: "647BCCECD1D71918"
+			tasks: [{
+				id: "0032A25CD91BA679"
+				item: "modularrouters:blank_module"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30E9EA48ED4DC1F5"]
+			id: "0C063C3F41E4EDD5"
+			tasks: [{
+				id: "6E6D0278C7A4A0B2"
+				item: "sfm:manager"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30E9EA48ED4DC1F5"]
+			id: "34AE81B3539A27D1"
+			tasks: [
+				{
+					id: "70A771FD7A532C88"
+					item: "sfm:cable"
+					type: "item"
+				}
+				{
+					id: "7772A879FEE2E490"
+					item: "sfm:fancy_cable"
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30E9EA48ED4DC1F5"]
+			id: "4AB9230366D63E0E"
+			tasks: [{
+				id: "3F66D6DBDBAF5431"
+				item: "sfm:printing_press"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30E9EA48ED4DC1F5"]
+			id: "39BA327335062CF2"
+			tasks: [{
+				id: "077B178F0EA1C171"
+				item: "sfm:water_tank"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30E9EA48ED4DC1F5"]
+			id: "4ECD625C4E19D869"
+			tasks: [{
+				id: "3F6775E4B38C675E"
+				item: {
+					Count: 1
+					id: "sfm:disk"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30E9EA48ED4DC1F5"]
+			id: "059E3B7291C72012"
+			tasks: [
+				{
+					id: "1353F0823DB4B729"
+					item: {
+						Count: 1
+						id: "sfm:labelgun"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "5925578891507FBE"
+					item: "sfm:network_tool"
+					type: "item"
+				}
+				{
+					id: "597B889E37458F59"
+					item: "sfm:form"
+					type: "item"
+				}
+			]
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "232A7E5A7FB1A656"
+			tasks: [
+				{
+					id: "7E08303F3E4FBF0A"
+					item: "modularrouters:extruder_module_1"
+					type: "item"
+				}
+				{
+					id: "4AB46347FFD09065"
+					item: "modularrouters:extruder_module_2"
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "6CA351C8DBEEE88A"
+			tasks: [{
+				id: "71309AEA8CD9A441"
+				item: "modularrouters:activator_module"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "125F6169F1AC1349"
+			tasks: [{
+				id: "1489268862533F1A"
+				item: "modularrouters:breaker_module"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "36F926AEADB935DB"
+			tasks: [{
+				id: "146FC6D70677516C"
+				item: "modularrouters:detector_module"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "0C808E53408867C5"
+			tasks: [{
+				id: "6B328B6184AD1C91"
+				item: "modularrouters:distributor_module"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "628F40AD3EBD5067"
+			tasks: [{
+				id: "308368C0703156B3"
+				item: "modularrouters:dropper_module"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "6D342F6CF74D7A95"
+			tasks: [
+				{
+					id: "0DD9951E1C73F8F3"
+					item: "modularrouters:energy_distributor_module"
+					type: "item"
+				}
+				{
+					id: "6BD336E576C8F3AC"
+					item: "modularrouters:energy_output_module"
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "4890E011FBFAAC36"
+			tasks: [{
+				id: "04FD76D26A45A00E"
+				item: "modularrouters:flinger_module"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "6066ED1EF0C3BBD0"
+			tasks: [
+				{
+					id: "56026475CC34D0DE"
+					item: "modularrouters:fluid_module"
+					type: "item"
+				}
+				{
+					id: "184FBE77D361612C"
+					item: "modularrouters:fluid_module_2"
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "0E9F59CB88CACE42"
+			tasks: [{
+				id: "06F5FE2B2B0D052C"
+				item: "modularrouters:placer_module"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "7B076D4FFD6683C7"
+			tasks: [{
+				id: "20C0E5A58AAFB9B2"
+				item: "modularrouters:player_module"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "6556B5B0E7256783"
+			tasks: [
+				{
+					id: "33CFE3C5CFE7DEBA"
+					item: "modularrouters:puller_module_1"
+					type: "item"
+				}
+				{
+					id: "5FCB22CF2FF555D4"
+					item: "modularrouters:puller_module_2"
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "41EE6DBDB9F548B5"
+			tasks: [
+				{
+					id: "2351A07B27DE1AC8"
+					item: "modularrouters:sender_module_1"
+					type: "item"
+				}
+				{
+					id: "16C75AA8A1C3F874"
+					item: "modularrouters:sender_module_2"
+					type: "item"
+				}
+				{
+					id: "69CD272AECD89F4D"
+					item: "modularrouters:sender_module_3"
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "536D0FEE5D9D3A9F"
+			tasks: [{
+				id: "02A3B41C4933D569"
+				item: "modularrouters:vacuum_module"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647BCCECD1D71918"]
+			id: "505C9BBE0977FAA4"
+			tasks: [{
+				id: "30F74E32A939CC81"
+				item: "modularrouters:void_module"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "1D8D1B620DFCDF72"
+			tasks: [{
+				id: "7FC7A62C7EC9785F"
+				item: "modularrouters:blast_upgrade"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "3D00C6F11D02CC56"
+			tasks: [{
+				id: "27ED44373846A5C0"
+				item: "modularrouters:camouflage_upgrade"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "4A029BFB1A786284"
+			tasks: [{
+				id: "451625B25C2C6118"
+				item: "modularrouters:energy_upgrade"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "205DC775E5C3BF57"
+			tasks: [{
+				id: "1A52526099A6E25F"
+				item: "modularrouters:fluid_upgrade"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "68B913A3381645BF"
+			tasks: [{
+				id: "15F7DFAD1A8E8504"
+				item: "modularrouters:muffler_upgrade"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "16AB58D779A12A81"
+			tasks: [{
+				id: "7D4C7185A57E3838"
+				item: "modularrouters:security_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "47DE9C3A01481178"
+			tasks: [{
+				id: "1BAA8DB640CA70D1"
+				item: "modularrouters:speed_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "19507C141ACB5F70"
+			tasks: [{
+				id: "1801FBA9EFC46AD9"
+				item: "modularrouters:stack_upgrade"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["636D22DB4CC2622D"]
+			id: "05AEBD07364F6D66"
+			tasks: [{
+				id: "0F4E072221F3A257"
+				item: "modularrouters:sync_upgrade"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "59C54570BDE88AE9"
+			tasks: [{
+				id: "674F1FFE98A72AF2"
+				item: "modularrouters:fast_pickup_augment"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "0BA8BDCC565EC7C3"
+			tasks: [{
+				id: "59F98616E5549544"
+				item: "modularrouters:filter_round_robin_augment"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "6C7411946E0186C4"
+			tasks: [{
+				id: "14DF724D3185C2D1"
+				item: "modularrouters:mimic_augment"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "23F2A7C61272D263"
+			tasks: [{
+				id: "07613A73C4473618"
+				item: "modularrouters:pickup_delay_augment"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "25C83113CEA443BD"
+			tasks: [{
+				id: "376FC0149C6D74DB"
+				item: "modularrouters:pushing_augment"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "4C18028D516CBF16"
+			tasks: [
+				{
+					id: "433C5537E77CBFFF"
+					item: "modularrouters:range_down_augment"
+					type: "item"
+				}
+				{
+					id: "0014F2FEC0B241F5"
+					item: "modularrouters:range_up_augment"
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "0D204C3AA9E54668"
+			tasks: [{
+				id: "5D1F4F9B38D52555"
+				item: "modularrouters:redstone_augment"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "6EB396BB07FC671C"
+			tasks: [{
+				id: "3D9C80AB37AA6691"
+				item: "modularrouters:regulator_augment"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "49C3441FDF326C07"
+			tasks: [{
+				id: "77A93AD3DFEDDF7D"
+				item: "modularrouters:stack_augment"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["75A0F132971ADF91"]
+			id: "674110B6CEA427B2"
+			tasks: [{
+				id: "0FCE7E75E3A16D6C"
+				item: "modularrouters:xp_vacuum_augment"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6575E94B0FEAC7D0"]
+			icon: {
+				Count: 1
+				id: "eccentrictome:tome"
+				tag: {
+					"eccentrictome:mods": {
+						ae2: {
+							0: {
+								Count: 1b
+								id: "ae2:guide"
+							}
+						}
+						aether: {
+							0: {
+								Count: 1b
+								id: "aether:book_of_lore"
+							}
+						}
+						apotheosis: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "apotheosis:apoth_chronicle"
+								}
+							}
+						}
+						botania: {
+							0: {
+								Count: 1b
+								id: "botania:lexicon"
+								tag: {
+									"botania:elven_unlock": 1b
+								}
+							}
+						}
+						buildinggadgets2: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+								}
+							}
+						}
+						dimdungeons: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "dimdungeons:guide_book"
+								}
+							}
+						}
+						industrialforegoing: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "industrialforegoing:industrial_foregoing"
+								}
+							}
+						}
+						irons_spellbooks: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "irons_spellbooks:iss_guide_book"
+								}
+							}
+						}
+						modularrouters: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "modularrouters:book"
+								}
+							}
+						}
+						mysticalagriculture: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "mysticalagriculture:guide"
+								}
+							}
+						}
+						pneumaticcraft: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "pneumaticcraft:book"
+								}
+							}
+						}
+						productivebees: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "productivebees:guide"
+								}
+							}
+						}
+						rftoolsbase: {
+							0: {
+								Count: 1b
+								id: "rftoolsbase:manual"
+							}
+						}
+						sebastrnlib: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+								}
+							}
+						}
+						solcarrot: {
+							0: {
+								Count: 1b
+								id: "solcarrot:food_book"
+							}
+						}
+						storagenetwork: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "storagenetwork:network_book"
+								}
+							}
+						}
+						tconstruct: {
+							0: {
+								Count: 1b
+								id: "tconstruct:puny_smelting"
+								tag: {
+									mantle: {
+										book: {
+											current_page: ""
+										}
+									}
+								}
+							}
+							1: {
+								Count: 1b
+								id: "tconstruct:mighty_smelting"
+							}
+							2: {
+								Count: 1b
+								id: "tconstruct:tinkers_gadgetry"
+							}
+							3: {
+								Count: 1b
+								id: "tconstruct:encyclopedia"
+								tag: {
+									mantle: {
+										book: {
+											current_page: "intro.foreward"
+										}
+									}
+								}
+							}
+							4: {
+								Count: 1b
+								id: "tconstruct:materials_and_you"
+								tag: {
+									mantle: {
+										book: {
+											current_page: "intro.introduction"
+										}
+									}
+								}
+							}
+							5: {
+								Count: 1b
+								id: "tconstruct:fantastic_foundry"
+							}
+						}
+						theoneprobe: {
+							0: {
+								Count: 1b
+								id: "theoneprobe:probenote"
+							}
+						}
+					}
+				}
+			}
+			id: "1D95962C82B864FB"
+			rewards: [{
+				id: "1671BF75043BCA99"
+				item: {
+					Count: 1
+					id: "eccentrictome:tome"
+					tag: {
+						"eccentrictome:mods": {
+							ae2: {
+								0: {
+									Count: 1b
+									id: "ae2:guide"
+								}
+							}
+							aether: {
+								0: {
+									Count: 1b
+									id: "aether:book_of_lore"
+								}
+							}
+							apotheosis: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "apotheosis:apoth_chronicle"
+									}
+								}
+							}
+							botania: {
+								0: {
+									Count: 1b
+									id: "botania:lexicon"
+									tag: {
+										"botania:elven_unlock": 1b
+									}
+								}
+							}
+							buildinggadgets2: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+									}
+								}
+							}
+							dimdungeons: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "dimdungeons:guide_book"
+									}
+								}
+							}
+							industrialforegoing: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "industrialforegoing:industrial_foregoing"
+									}
+								}
+							}
+							irons_spellbooks: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "irons_spellbooks:iss_guide_book"
+									}
+								}
+							}
+							modularrouters: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "modularrouters:book"
+									}
+								}
+							}
+							mysticalagriculture: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "mysticalagriculture:guide"
+									}
+								}
+							}
+							pneumaticcraft: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "pneumaticcraft:book"
+									}
+								}
+							}
+							productivebees: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "productivebees:guide"
+									}
+								}
+							}
+							rftoolsbase: {
+								0: {
+									Count: 1b
+									id: "rftoolsbase:manual"
+								}
+							}
+							sebastrnlib: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+									}
+								}
+							}
+							solcarrot: {
+								0: {
+									Count: 1b
+									id: "solcarrot:food_book"
+								}
+							}
+							storagenetwork: {
+								0: {
+									Count: 1b
+									id: "patchouli:guide_book"
+									tag: {
+										"patchouli:book": "storagenetwork:network_book"
+									}
+								}
+							}
+							tconstruct: {
+								0: {
+									Count: 1b
+									id: "tconstruct:puny_smelting"
+									tag: {
+										mantle: {
+											book: {
+												current_page: ""
+											}
+										}
+									}
+								}
+								1: {
+									Count: 1b
+									id: "tconstruct:mighty_smelting"
+								}
+								2: {
+									Count: 1b
+									id: "tconstruct:tinkers_gadgetry"
+								}
+								3: {
+									Count: 1b
+									id: "tconstruct:encyclopedia"
+									tag: {
+										mantle: {
+											book: {
+												current_page: "intro.foreward"
+											}
+										}
+									}
+								}
+								4: {
+									Count: 1b
+									id: "tconstruct:materials_and_you"
+									tag: {
+										mantle: {
+											book: {
+												current_page: "intro.introduction"
+											}
+										}
+									}
+								}
+								5: {
+									Count: 1b
+									id: "tconstruct:fantastic_foundry"
+								}
+							}
+							theoneprobe: {
+								0: {
+									Count: 1b
+									id: "theoneprobe:probenote"
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "13AB329FC2362255"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Updated Eccentric Tome Recovery"
+			x: -2.0d
+			y: -2.5d
 		}
 	]
 	title: "Utility"

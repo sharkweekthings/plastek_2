@@ -700,7 +700,7 @@
 			}]
 			title: "Eccentric Tome Recovery"
 			x: 0.0d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["748D248A8A809914"]

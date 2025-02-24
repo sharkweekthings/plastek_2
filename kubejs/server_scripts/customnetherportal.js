@@ -1,5 +1,5 @@
 // Custom Nether Portal Script
-// author: LadyLexxie
+// initial author: LadyLexxie
 // Quentin765 for the edits to this, which made it possible for the Nether Portal to be about any shape/size that the vanilla portal can be.
 
 let PORTAL_HEIGHT = 32

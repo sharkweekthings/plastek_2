@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "B": {
-      "item": "minecraft:iron_bars"
+      "item": "mekanism:advanced_universal_cable"
     },
     "C": {
       "tag": "forge:chests"
     },
     "D": {
-      "tag": "forge:dyes/black"
+      "item": "thermal:cured_rubber"
     },
     "G": {
       "item": "minecraft:light_weighted_pressure_plate"
