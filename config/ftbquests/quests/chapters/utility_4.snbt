@@ -780,7 +780,7 @@
 				type: "checkmark"
 			}]
 			title: "Modular Routers"
-			x: -1.0d
+			x: -0.5d
 			y: -1.5d
 		}
 		{
@@ -803,7 +803,7 @@
 				item: "modularrouters:modular_router"
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.0d
 			y: -1.5d
 		}
 		{
@@ -814,18 +814,7 @@
 				item: "modularrouters:augment_core"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["6575E94B0FEAC7D0"]
-			id: "2DC3D92C2DC2B017"
-			tasks: [{
-				id: "182B5840AF086FC0"
-				item: "modularrouters:regulator_augment"
-				type: "item"
-			}]
-			x: 1.5d
+			x: 4.0d
 			y: -1.5d
 		}
 		{
@@ -836,7 +825,7 @@
 				item: "modularrouters:blank_upgrade"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 3.0d
 			y: -1.5d
 		}
 		{
@@ -847,7 +836,7 @@
 				item: "modularrouters:blank_module"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 2.0d
 			y: -1.5d
 		}
 		{
@@ -958,7 +947,7 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
+			x: 5.5d
 			y: -4.0d
 		}
 		{
@@ -969,7 +958,7 @@
 				item: "modularrouters:activator_module"
 				type: "item"
 			}]
-			x: 0.0d
+			x: -0.5d
 			y: -4.0d
 		}
 		{
@@ -980,7 +969,7 @@
 				item: "modularrouters:breaker_module"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.5d
 			y: -4.0d
 		}
 		{
@@ -991,7 +980,7 @@
 				item: "modularrouters:detector_module"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: -4.0d
 		}
 		{
@@ -1002,7 +991,7 @@
 				item: "modularrouters:distributor_module"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.5d
 			y: -4.0d
 		}
 		{
@@ -1013,7 +1002,7 @@
 				item: "modularrouters:dropper_module"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.5d
 			y: -4.0d
 		}
 		{
@@ -1031,7 +1020,7 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
+			x: 4.5d
 			y: -4.0d
 		}
 		{
@@ -1042,7 +1031,7 @@
 				item: "modularrouters:flinger_module"
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.0d
 			y: -3.0d
 		}
 		{
@@ -1060,7 +1049,7 @@
 					type: "item"
 				}
 			]
-			x: 0.5d
+			x: 0.0d
 			y: -3.0d
 		}
 		{
@@ -1071,7 +1060,7 @@
 				item: "modularrouters:placer_module"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 1.0d
 			y: -3.0d
 		}
 		{
@@ -1082,7 +1071,7 @@
 				item: "modularrouters:player_module"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 2.0d
 			y: -3.0d
 		}
 		{
@@ -1100,7 +1089,7 @@
 					type: "item"
 				}
 			]
-			x: 3.5d
+			x: 3.0d
 			y: -3.0d
 		}
 		{
@@ -1123,7 +1112,7 @@
 					type: "item"
 				}
 			]
-			x: 4.5d
+			x: 4.0d
 			y: -3.0d
 		}
 		{
@@ -1134,7 +1123,7 @@
 				item: "modularrouters:vacuum_module"
 				type: "item"
 			}]
-			x: 5.5d
+			x: 5.0d
 			y: -3.0d
 		}
 		{
@@ -1145,7 +1134,7 @@
 				item: "modularrouters:void_module"
 				type: "item"
 			}]
-			x: -1.0d
+			x: -1.5d
 			y: -4.0d
 		}
 		{
@@ -1156,7 +1145,7 @@
 				item: "modularrouters:blast_upgrade"
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.0d
 			y: 0.0d
 		}
 		{
@@ -1167,7 +1156,7 @@
 				item: "modularrouters:camouflage_upgrade"
 				type: "item"
 			}]
-			x: 0.5d
+			x: 0.0d
 			y: 0.0d
 		}
 		{
@@ -1178,7 +1167,7 @@
 				item: "modularrouters:energy_upgrade"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 1.0d
 			y: 0.0d
 		}
 		{
@@ -1189,7 +1178,7 @@
 				item: "modularrouters:fluid_upgrade"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 2.0d
 			y: 0.0d
 		}
 		{
@@ -1200,7 +1189,7 @@
 				item: "modularrouters:muffler_upgrade"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -1211,7 +1200,7 @@
 				item: "modularrouters:security_upgrade"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.5d
 			y: 1.0d
 		}
 		{
@@ -1222,7 +1211,7 @@
 				item: "modularrouters:speed_upgrade"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: 1.0d
 		}
 		{
@@ -1233,7 +1222,7 @@
 				item: "modularrouters:stack_upgrade"
 				type: "item"
 			}]
-			x: 0.0d
+			x: -0.5d
 			y: 1.0d
 		}
 		{
@@ -1244,7 +1233,7 @@
 				item: "modularrouters:sync_upgrade"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.5d
 			y: 1.0d
 		}
 		{
@@ -1255,7 +1244,7 @@
 				item: "modularrouters:fast_pickup_augment"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
@@ -1266,7 +1255,7 @@
 				item: "modularrouters:filter_round_robin_augment"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.5d
 			y: 0.0d
 		}
 		{
@@ -1277,7 +1266,7 @@
 				item: "modularrouters:mimic_augment"
 				type: "item"
 			}]
-			x: 7.0d
+			x: 6.5d
 			y: 0.0d
 		}
 		{
@@ -1288,7 +1277,7 @@
 				item: "modularrouters:pickup_delay_augment"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.5d
 			y: 0.0d
 		}
 		{
@@ -1299,7 +1288,7 @@
 				item: "modularrouters:pushing_augment"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: 0.0d
 		}
 		{
@@ -1317,7 +1306,7 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
+			x: 4.5d
 			y: 1.0d
 		}
 		{
@@ -1328,7 +1317,7 @@
 				item: "modularrouters:redstone_augment"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.5d
 			y: 1.0d
 		}
 		{
@@ -1339,7 +1328,7 @@
 				item: "modularrouters:regulator_augment"
 				type: "item"
 			}]
-			x: 7.0d
+			x: 6.5d
 			y: 1.0d
 		}
 		{
@@ -1350,7 +1339,7 @@
 				item: "modularrouters:stack_augment"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.5d
 			y: 1.0d
 		}
 		{
@@ -1361,7 +1350,7 @@
 				item: "modularrouters:xp_vacuum_augment"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.5d
 			y: 1.0d
 		}
 		{
@@ -1765,7 +1754,7 @@
 			}]
 			title: "Updated Eccentric Tome Recovery"
 			x: -2.0d
-			y: -2.5d
+			y: -1.5d
 		}
 	]
 	title: "Utility"

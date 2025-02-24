@@ -6,5 +6,9 @@
   "xp_per_level": 200,
   "attribute": "generic.attack_speed",
   "amount_factor": 2,
-  "operation": "add_value"
+  "operation": "add_value",
+  "obtainable_on_player_spawn": false,
+  "obtainable_on_mob_spawn": false,
+  "obtainable_on_craft": false,
+  "obtainable_on_loot": false
 }
