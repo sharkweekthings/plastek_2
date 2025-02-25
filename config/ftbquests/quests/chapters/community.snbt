@@ -14,21 +14,23 @@
 				""
 				"A member of the community named &dLune&r was kind enough to share some code that makes this all possible! "
 				""
-				"1) You will need to craft at least one of the items in the quest line, and have a power source. You can connect more Hives/Centrifuges, and you'll definitely need more Cables."
+				"1) You will need to craft at least one of the items in the quest line, and have a power source. You can connect more &9Hives/Centrifuges&r, and you'll definitely need more &3Cables&r."
 				""
-				"2) Place everything down in the way you want it, and connect it up with the Inventory Cables. "
+				"2) Place everything down in the way you want it, and connect it up with the &3Inventory Cables&r. "
 				""
-				"3) With an open hand, right click on the Factory Manager and place in your Factory Manager Program Disk."
+				"3) With an open hand, right click on the &9Factory Manager&r and place in your &3Factory Manager Program Disk&r."
 				""
 				"4) Click \"Edit\" and paste all lines from here: &n&bhttps://pastebin.com/s5QJiqWD&r&r"
 				""
-				"5) With the Label Gun selected on your Hot Bar right click it while looking in the air."
+				"5) With the &3Label Gun&r selected on your Hot Bar right click it while looking in the air."
 				""
 				"6) Go through each of the options (hive, buffer, energybuffer, controller, cent, and centpower) and select the appropriate block"
 				""
-				"7) With your Label Gun, you'll want to right click on the Factory Manager which will read \"Pushed Labels\" to the manager."
+				"7) With your &3Label Gun&r, you'll want to right click on the &9Factory Manager&r which will read \"Pushed Labels\" to the manager."
 				""
-				"In the example image I am using a Creative Energy Cube for the example, you'll need to feed in your own power to the 'energybuffer'."
+				"In the example image I am using a &9Creative Energy Cube&r for the example, you'll need to feed in your own power to the 'energybuffer'."
+				""
+				"{image:kubejs:textures/sfm/sfm_bee.png width:200 height:150 align:center}"
 			]
 			id: "172194FF7C647C9A"
 			shape: "diamond"
@@ -42,6 +44,7 @@
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			id: "3E955CF7B2743150"
 			tasks: [{
 				id: "04D1C1414FC98900"
@@ -52,6 +55,7 @@
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			id: "70A8CACB37BF86BC"
 			tasks: [{
 				id: "363BF7C6CD30B354"
@@ -66,8 +70,10 @@
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			description: ["Any Beehive should do, but to pass the quest you'll need an Advanced Beehive."]
 			id: "4126D5AB027F0072"
+			subtitle: "hive"
 			tasks: [{
 				id: "08461D69CA4ECC9C"
 				item: {
@@ -80,21 +86,24 @@
 				title: "A Beehive"
 				type: "item"
 			}]
-			x: -3.0d
+			x: -1.0d
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			description: ["A Powered or Heated Centrifuge will work, but the Powered is needed for the Quest."]
 			id: "1B6492CFF532BBAE"
+			subtitle: "cent and centpower"
 			tasks: [{
 				id: "19F91AD1D7CF9B44"
 				item: "productivebees:powered_centrifuge"
 				type: "item"
 			}]
-			x: -2.0d
+			x: 0.0d
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			id: "470891BCA49FCB90"
 			tasks: [{
 				id: "24F0454EE593BAC9"
@@ -109,23 +118,26 @@
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			id: "339DEEF291E467A5"
+			subtitle: "controller"
 			tasks: [{
 				id: "289F325086D83D83"
 				item: "functionalstorage:storage_controller"
 				type: "item"
 			}]
-			x: -1.0d
+			x: 1.0d
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			id: "4232F0EAD18E565F"
 			tasks: [{
 				id: "178E0D2F72CD3974"
 				item: "sfm:cable"
 				type: "item"
 			}]
-			x: -4.0d
+			x: -3.0d
 			y: -7.0d
 		}
 		{
@@ -136,8 +148,55 @@
 				item: "sfm:fancy_cable"
 				type: "item"
 			}]
-			x: -4.0d
+			x: -3.0d
 			y: -8.0d
+		}
+		{
+			description: ["Any chest/barrel/etc should work, but a vanilla Chest is needed for the quest."]
+			id: "244B639732D8D958"
+			subtitle: "buffer"
+			tasks: [{
+				id: "44BE3FF25602D041"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			description: ["You'll need your own power source to power everything. "]
+			icon: {
+				Count: 1
+				id: "mekanism:creative_energy_cube"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "18446744073709551615.9999"
+						}]
+						componentConfig: {
+							config0: {
+								side0: 4
+								side1: 4
+								side2: 4
+								side3: 4
+								side4: 4
+								side5: 4
+							}
+						}
+					}
+				}
+			}
+			id: "14F4BBDAF7037BAC"
+			subtitle: "energybuffer"
+			tasks: [{
+				id: "64C10432713ACC6F"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "A Power Source"
+			x: -4.0d
+			y: -7.0d
 		}
 	]
 	title: "Community"

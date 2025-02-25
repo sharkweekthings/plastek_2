@@ -382,6 +382,8 @@
 				"&bAge 5&r: 1000 Claims | 100 Chunk Loading"
 				""
 				"You can also see various leaderboard stats by typing &b/leaderboards&r and tabbing through the various statistics."
+				""
+				"If your chunks and claims don't update after selecting your 'Age Reward' you'll need to reload the client."
 			]
 			hide_dependency_lines: true
 			icon: "minecraft:writable_book"

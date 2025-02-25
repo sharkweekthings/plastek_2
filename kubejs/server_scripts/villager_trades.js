@@ -1,3 +1,7 @@
+////
+// disable some trades from fluix researcher
+//// renik
+
 MoreJSEvents.villagerTrades((event) =>{
     // event.removeModdedTrades();
     event.removeVanillaTrades(['ae2:fluix_researcher'], [3]);
