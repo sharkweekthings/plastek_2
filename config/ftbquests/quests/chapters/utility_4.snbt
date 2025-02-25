@@ -406,8 +406,8 @@
 				}
 			]
 			title: "Universal Cables"
-			x: -8.5d
-			y: -6.5d
+			x: -3.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -435,8 +435,8 @@
 				}
 			]
 			title: "Mechanical Pipes"
-			x: -7.5d
-			y: -6.5d
+			x: -2.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -464,8 +464,8 @@
 				}
 			]
 			title: "Pressurized Tubes"
-			x: -6.5d
-			y: -6.5d
+			x: -1.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -493,8 +493,8 @@
 				}
 			]
 			title: "Logistical Transporters"
-			x: -8.5d
-			y: -5.5d
+			x: -3.5d
+			y: -9.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -512,8 +512,8 @@
 				}
 			]
 			title: "Restrictive and Diversive Transporter"
-			x: -7.5d
-			y: -5.5d
+			x: -2.5d
+			y: -9.5d
 		}
 		{
 			dependencies: ["08484CCEC519C231"]
@@ -541,8 +541,8 @@
 				}
 			]
 			title: "Thermodynamic Conductors"
-			x: -6.5d
-			y: -5.5d
+			x: -1.5d
+			y: -9.5d
 		}
 		{
 			dependencies: ["5C187BB255DD32EA"]

@@ -1,0 +1,45 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:air"
+    },
+    {
+      "type": "mysticalagriculture:crop_has_material",
+      "crop": "mysticalagriculture:air"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "samurai_dynasty:steel_ingot"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "samurai_dynasty:steel_ingot"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "samurai_dynasty:steel_ingot"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "samurai_dynasty:steel_ingot"
+    }
+  ],
+  "input": {
+      "item": "silentcompat:raw_plasteel"
+  },
+  "result": {
+    "item": "silentcompat:plasteel_ingot"
+  }
+}

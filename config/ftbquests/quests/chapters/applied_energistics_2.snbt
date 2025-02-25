@@ -37,7 +37,7 @@
 				item: "ae2:charger"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 1.0d
 		}
 		{
@@ -48,7 +48,7 @@
 				item: "ae2:inscriber"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 7.0d
 			y: 0.0d
 		}
 		{
@@ -118,7 +118,9 @@
 			description: [
 				"The first machines you will build for Applied Energistics 2 begins here. "
 				""
-				"To get some &3Fluix&r you'll need to throw &3Redstone&r, &3Nether Quartz&r, and &3Charged Certus Quartz&r in some water. "
+				"To get some &3Fluix&r you'll need to throw &3Redstone&r, &3Nether Quartz&r, &3Charged Certus Quartz&r, and &3Fresh Water&r into the &9Recrystallizer&r. "
+				""
+				"If you're not progressed enough for &6The End&r, you can always buy some &3Azure Silver Dust&r from the &9Market&r!"
 			]
 			id: "548134C655C0099F"
 			shape: "diamond"
@@ -150,7 +152,7 @@
 				item: "ae2:charged_certus_quartz_crystal"
 				type: "item"
 			}]
-			x: 7.0d
+			x: 8.0d
 			y: 0.5d
 		}
 		{
@@ -214,7 +216,7 @@
 				}
 			]
 			title: "Cables"
-			x: 6.0d
+			x: 7.0d
 			y: 3.5d
 		}
 		{
@@ -995,7 +997,7 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
+			x: 8.5d
 			y: 3.5d
 		}
 		{
@@ -1042,6 +1044,17 @@
 				type: "item"
 			}]
 			x: 4.0d
+			y: 0.5d
+		}
+		{
+			description: ["Need to power up your system, but you're too early in the game for that and &chave no power&r? No worries. With the &9Crystal Resonance Generator&r, you can &agenerate up to 20AE/t.&r"]
+			id: "6DA2FFE437DF7C73"
+			tasks: [{
+				id: "34FE8635082CF146"
+				item: "ae2:crystal_resonance_generator"
+				type: "item"
+			}]
+			x: 6.0d
 			y: 0.5d
 		}
 	]

@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
 
   //REMOVE
   event.remove({id: 'pneumaticcraft:pressure_chamber/empty_pcb'})
+  event.remove({id: 'pneumaticcraft:pressure_chamber/etching_acid'})
 
 
 //

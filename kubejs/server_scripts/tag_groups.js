@@ -3345,6 +3345,19 @@ event.remove('tombstone:seeds',
 // add silent saws to be usable with nat prog
 event.add('natprog:saw', 'silentgear:saw')
 
+event.add('snd:fertilizer', 'sliceanddice:fertilizer')
+
+
 //
 })
 //
+
+ServerEvents.tags('fluid', event => {
+
+event.add('biomancy:acid', 
+  [
+  'biomancy:acid',
+  'biomancy:flowing_acid'
+  ])
+
+})
