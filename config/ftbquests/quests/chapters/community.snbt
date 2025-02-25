@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["1336CBEE426C4F5A"]
 			description: [
 				"This series will help guide you to managing your bees with &6Super Factory Manager&r! "
 				""
@@ -34,6 +35,7 @@
 			]
 			id: "172194FF7C647C9A"
 			shape: "diamond"
+			subtitle: "Available in Age 4"
 			tasks: [{
 				id: "6D9C2D40A9050DBD"
 				title: "Ok"
@@ -152,6 +154,7 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			description: ["Any chest/barrel/etc should work, but a vanilla Chest is needed for the quest."]
 			id: "244B639732D8D958"
 			subtitle: "buffer"
@@ -160,10 +163,12 @@
 				item: "minecraft:chest"
 				type: "item"
 			}]
+			title: "Some Kind of Storage"
 			x: -2.0d
 			y: -7.0d
 		}
 		{
+			dependencies: ["172194FF7C647C9A"]
 			description: ["You'll need your own power source to power everything. "]
 			icon: {
 				Count: 1
