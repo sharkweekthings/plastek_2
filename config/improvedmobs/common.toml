@@ -14,7 +14,7 @@
 	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
 	#Then it increases by 1 per mc day till it reaches 30 and then stops.
 	#If you want to use negative values use | instead of - as the delimiter.
-	"Difficulty Increase" = ["0-0.15", "25-0", "50-0.15", "75-0", "100-0.15", "125-0", "150-0.15", "175-0", "200-0.15", "1000-0"]
+	"Difficulty Increase" = ["0-0.15", "25-0", "50-0.15", "75-0", "100-0.15", "125-0", "150-0.15", "175-0", "200-0.15", "50000-0"]
 	#Wether difficulty should only increase with at least one online players or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
