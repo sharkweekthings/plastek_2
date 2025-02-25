@@ -1,0 +1,19 @@
+{
+  "type": "pneumaticcraft:fluid_mixer",
+  "fluid_output": {
+    "amount": 100,
+    "fluid": "biomancy:acid"
+  },
+  "input1": {
+    "type": "pneumaticcraft:fluid",
+    "amount": 50,
+    "fluid": "pneumaticcraft:lpg"
+  },
+  "input2": {
+    "type": "pneumaticcraft:fluid",
+    "amount": 50,
+    "tag": "forge:experience"
+  },
+  "pressure": 2.0,
+  "time": 300
+}

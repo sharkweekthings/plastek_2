@@ -172,7 +172,7 @@
 				item: "immersive_paintings:painting"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 2.0d
 			y: -5.0d
 		}
 		{
@@ -229,7 +229,7 @@
 				}
 			]
 			title: "Chipped Workbenches"
-			x: -0.5d
+			x: -1.0d
 			y: -5.0d
 		}
 		{
@@ -266,6 +266,34 @@
 			}]
 			x: -2.0d
 			y: -1.5d
+		}
+		{
+			description: [
+				"Show how much your doing damage wise. The dummy can be equipped with various armors. "
+				""
+				"May be a little finnicky with BetterCombat, and not work with all weapons all the time. "
+			]
+			id: "071214D497BEE8E0"
+			shape: "diamond"
+			tasks: [{
+				id: "67EA1FD7266D0217"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "MmmMmmMmmmmm"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["071214D497BEE8E0"]
+			id: "7BA8C9F1396AF4DF"
+			tasks: [{
+				id: "0BE1D7E477EB64F2"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
 		}
 	]
 	title: "General"
