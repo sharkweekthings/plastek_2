@@ -1,6 +1,6 @@
 {
   "item": "dragons_eye",
-  "chance": 0.01,
+  "chance": 0.0,
   "loot_tables": [
     {
       "f_135804_": "minecraft",

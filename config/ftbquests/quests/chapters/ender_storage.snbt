@@ -5,7 +5,7 @@
 	group: "79C502F79CD205E5"
 	icon: "enderstorage:ender_chest"
 	id: "104314095EFC1C80"
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{

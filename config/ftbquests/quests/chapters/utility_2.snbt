@@ -977,7 +977,7 @@
 			]
 			title: "Air Compressors"
 			x: 4.0d
-			y: -12.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -996,7 +996,7 @@
 			]
 			title: "Liquid Compressors"
 			x: 5.0d
-			y: -12.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1008,7 +1008,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -12.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1036,12 +1036,13 @@
 				}
 			]
 			x: 6.0d
-			y: -12.5d
+			y: -11.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
 			description: ["Create Pressure using Rotational Force"]
 			id: "4604B0D0D13C3855"
+			invisible: true
 			tasks: [
 				{
 					id: "2205678834E63C68"
@@ -1055,8 +1056,8 @@
 				}
 			]
 			title: "Rotational Pressure"
-			x: 3.5d
-			y: -11.5d
+			x: 2.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1080,7 +1081,7 @@
 			]
 			title: "Pressure Tubes"
 			x: 4.5d
-			y: -14.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1091,7 +1092,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: -13.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1102,7 +1103,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -13.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1113,7 +1114,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: -13.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
@@ -1124,18 +1125,19 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -13.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1910D1A25858E624"]
 			id: "6C08185739571384"
+			invisible: true
 			tasks: [{
 				id: "497D1A96853DCF5A"
 				item: "compressedcreativity:air_blower"
 				type: "item"
 			}]
-			x: 5.5d
-			y: -11.5d
+			x: 7.0d
+			y: -12.0d
 		}
 		{
 			description: ["You can now use Create to create power! These machines from Create: Crafts and Additions will help. "]
@@ -1964,6 +1966,7 @@
 		{
 			description: ["Create: Connected adds many quality of life items that will help upgrade your contraptions. "]
 			id: "3E049A06255073C8"
+			invisible: true
 			shape: "diamond"
 			subtitle: "quest dialogues to be updated some day."
 			tasks: [{

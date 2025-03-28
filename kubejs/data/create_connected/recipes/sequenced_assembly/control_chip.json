@@ -7,7 +7,7 @@
   "results": [
     {
       "chance": 33.33,
-      "item": "create_connected:control_chip"
+      "item": "kubejs:temporary_control_chip"
     },
     {
       "chance": 33.33,
@@ -23,7 +23,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create_connected:incomplete_control_chip"
+          "item": "kubejs:incomplete_temporary_control_chip"
         },
         {
           "item": "create:electron_tube"
@@ -31,7 +31,7 @@
       ],
       "results": [
         {
-          "item": "create_connected:incomplete_control_chip"
+          "item": "kubejs:incomplete_temporary_control_chip"
         }
       ]
     },
@@ -39,7 +39,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create_connected:incomplete_control_chip"
+          "item": "kubejs:incomplete_temporary_control_chip"
         },
         {
           "item": "kubejs:wooden_gear"
@@ -47,7 +47,7 @@
       ],
       "results": [
         {
-          "item": "create_connected:incomplete_control_chip"
+          "item": "kubejs:incomplete_temporary_control_chip"
         }
       ]
     },
@@ -55,17 +55,17 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "create_connected:incomplete_control_chip"
+          "item": "kubejs:incomplete_temporary_control_chip"
         }
       ],
       "results": [
         {
-          "item": "create_connected:incomplete_control_chip"
+          "item": "kubejs:incomplete_temporary_control_chip"
         }
       ]
     }
   ],
   "transitionalItem": {
-    "item": "create_connected:incomplete_control_chip"
+    "item": "kubejs:incomplete_temporary_control_chip"
   }
 }

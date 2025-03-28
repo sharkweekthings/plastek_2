@@ -1,6 +1,6 @@
 {
   "item": "electric_paddle",
-  "chance": 0.005,
+  "chance": 0.0,
   "loot_tables": [
     {
       "f_135804_": "minecraft",

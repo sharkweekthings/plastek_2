@@ -26,10 +26,10 @@
   ],
   "result": [
     {
-      "item": "samurai_dynasty:steel_ingot"
+      "item": "create:brass_ingot"
     },
     {
-      "item": "samurai_dynasty:steel_ingot",
+      "item": "create:brass_ingot",
       "chance": 0.3
     }
   ],

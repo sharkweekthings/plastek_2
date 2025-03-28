@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "thermal:sawdust"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:cardboard"
+    }
+  ]
+}

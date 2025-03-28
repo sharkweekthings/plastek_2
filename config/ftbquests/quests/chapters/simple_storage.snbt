@@ -5,7 +5,7 @@
 	group: "79C502F79CD205E5"
 	icon: "storagenetwork:request"
 	id: "62B0B9D9B7D76503"
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{

@@ -42,7 +42,8 @@ StartupEvents.registry('item', e => {
   e.create('box_of_tough_binding_steel_cast_parts')
   e.create('box_of_tough_handle_steel_cast_parts')
   e.create('box_of_wire_steel_cast_parts')
-
+  e.create('temporary_control_chip').tooltip('Made of the same materials, but it somehow feels cheaper...')
+  e.create('incomplete_temporary_control_chip').tooltip('Made of the same materials, but it somehow feels cheaper...')
   e.create('fake_wisdom_scroll').tooltip('The fates are cruel.. This is nothing more than a piece of paper made to look like a Wisdom Scroll...')
   e.create('bow_grip_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/bow_grip')
   e.create('bow_limb_steel_cast').tag('tconstruct:casts/multi_use').tag('tconstruct:casts/multi_use/bow_limb')

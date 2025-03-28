@@ -286,7 +286,7 @@
 		}
 		{
 			dependencies: ["092D2D9BBD18EB72"]
-			description: ["Most crops and trees have a season associated with them. &cIf the crop is not in season&r, it will &l&cnot&r&r grow. You can counter this by using &aGreenhouse Glass&r (&oany Green Stained Glass&r) "]
+			description: ["Most crops and trees have a season associated with them. &cIf the crop is not in season&r, it will &l&cnot&r&r grow. You can counter this by using &3Greenhouse Glass&r (&oany &aGreen Stained Glass&r&r) "]
 			hide_dependency_lines: true
 			icon: "minecraft:wheat_seeds"
 			id: "672220A1E0B85F2D"
@@ -342,6 +342,10 @@
 				"&bAge 3&r: 6"
 				"&bAge 4&r: 10"
 				"&bAge 5&r: 20"
+				""
+				"&6Create 0.6&r: While not integrated into the pack for progression, this pack does use Create 0.6, so enjoy all the new features! "
+				""
+				"Looking for a good breakdown of the Create changes? Check out &6Polartt's&r video: &b&b&n&ohttps://www.youtube.com/watch?v=FGVkC8ZVHHw&r&r&r&r"
 				""
 				"You can use the &a/back&r command to go back through your various teleports (5 minute cooldown)"
 				""

@@ -1,4 +1,4 @@
-f{
+{
   "type": "thermal:smelter",
   "ingredients": [
     {
@@ -27,7 +27,7 @@ f{
     },
     {
       "item": "samurai_dynasty:steel_ingot",
-      "chance": 0.4
+      "chance": 0.3
     }
   ],
   "experience": 0.2,

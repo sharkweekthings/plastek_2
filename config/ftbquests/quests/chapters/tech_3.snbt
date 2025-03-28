@@ -1561,7 +1561,7 @@
 			shape: "square"
 			tasks: [{
 				id: "1B3C0E3CC8A9AB77"
-				item: "create_connected:control_chip"
+				item: "kubejs:temporary_control_chip"
 				type: "item"
 			}]
 			x: 2.5d

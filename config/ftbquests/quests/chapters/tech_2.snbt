@@ -191,7 +191,7 @@
 			shape: "gear"
 			tasks: [{
 				id: "624325B0455EBADA"
-				item: "create_connected:control_chip"
+				item: "kubejs:temporary_control_chip"
 				type: "item"
 			}]
 			x: -9.5d
