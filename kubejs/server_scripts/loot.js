@@ -366,6 +366,8 @@ LootJS.modifiers((e) => {
   LootEntry.of("sophisticatedbackpacks:magnet_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:blasting_upgrade").withWeight(15).limitCount([0, 1]),
   LootEntry.of("sophisticatedbackpacks:battery_upgrade").withWeight(15).limitCount([0, 1]),
+  LootEntry.of("botanypots:terracotta_hopper_botany_pot").withWeight(20).limitCount([0, 1]),
+  LootEntry.of("botanypotstiers:elite_terracotta_hopper_botany_pot").withWeight(15).limitCount([0, 1]),
   LootEntry.of("constructionwand:infinity_wand").withWeight(1).limitCount([0, 1]),
   LootEntry.of("constructionwand:diamond_wand").withWeight(35).limitCount([0, 1]),
   LootEntry.of("apotheosis:ender_library").withWeight(5).limitCount([0, 1]),
