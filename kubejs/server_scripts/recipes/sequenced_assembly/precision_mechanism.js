@@ -3,17 +3,6 @@
 //// renik
 
 //
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-  event.remove({id: 'create:sequenced_assembly/track'})
-
-//
-})
-//
-
-//
 ServerEvents.recipes((event) => {
 //
 

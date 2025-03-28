@@ -3,17 +3,6 @@
 //// renik
 
 //
-ServerEvents.recipes(event => {
-//
-
-  //REMOVE
-  event.remove({id: 'create:sequenced_assembly/track'})
-
-//
-})
-//
-
-//
 ServerEvents.recipes((event) => {
 //
 
@@ -45,7 +34,7 @@ ServerEvents.recipes((event) => {
     type: "create:deploying",
      ingredients: [{
       item: "create:brass_casing",},[{ // incomplete item
-      item: "create_connected:control_chip",},],], // item to deploy
+      item: "kubejs:temporary_control_chip",},],], // item to deploy
      results: [{
       item: "create:brass_casing",},],
 },

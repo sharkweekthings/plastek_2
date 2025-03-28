@@ -5,7 +5,7 @@
 	group: "79C502F79CD205E5"
 	icon: "ae2:controller"
 	id: "49003CDC4D5E6B69"
-	order_index: 6
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -37,8 +37,8 @@
 				item: "ae2:charger"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 5.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["548134C655C0099F"]
@@ -49,7 +49,7 @@
 				type: "item"
 			}]
 			x: 7.0d
-			y: 0.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2C8346B524BDED63"]
@@ -136,27 +136,29 @@
 		{
 			dependencies: ["7377F63BFCC4212E"]
 			id: "66C01F1D69682A72"
+			shape: "circle"
 			tasks: [{
 				id: "71940BFCA63E1CAB"
 				item: "ae2:fluix_crystal"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 0.5d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["548134C655C0099F"]
+			dependencies: ["2AFF651107625D6F"]
 			id: "6E691472309458FE"
+			shape: "circle"
 			tasks: [{
 				id: "7696595A5EB8E0CA"
 				item: "ae2:charged_certus_quartz_crystal"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 0.5d
+			x: 5.0d
+			y: 1.5d
 		}
 		{
-			dependencies: ["2AFF651107625D6F"]
+			dependencies: ["66C01F1D69682A72"]
 			id: "1680A01BDF81DFF4"
 			tasks: [
 				{
@@ -216,7 +218,7 @@
 				}
 			]
 			title: "Cables"
-			x: 7.0d
+			x: 4.0d
 			y: 3.5d
 		}
 		{
@@ -997,7 +999,7 @@
 					type: "item"
 				}
 			]
-			x: 8.5d
+			x: 5.5d
 			y: 3.5d
 		}
 		{
@@ -1047,6 +1049,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["548134C655C0099F"]
 			description: ["Need to power up your system, but you're too early in the game for that and &chave no power&r? No worries. With the &9Crystal Resonance Generator&r, you can &agenerate up to 20AE/t.&r"]
 			id: "6DA2FFE437DF7C73"
 			tasks: [{
