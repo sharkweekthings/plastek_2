@@ -1,2 +1,2 @@
-tellraw @a {"text": "A dark mage will clear dropped items in 30 minutes..", "color": "red", "bold":"false"}
+tellraw @a {"text": "There are 30 minutes until a Plastim Storm sweeps across the lands, which will destroy all items on the ground.", "color": "red", "bold":"false"}
 schedule function darktimer:darktimerwarn1 1740s

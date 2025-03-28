@@ -21,9 +21,10 @@ ServerEvents.recipes(event => {
 
 // Botany Pot
   event.shaped('botanypots:terracotta_botany_pot',
-    ['   ',' 2 ','212'], {
+    ['   ',' 3 ','212'], {
     1: 'supplementaries:planter',
-    2: 'minecraft:terracotta'}).id('p2:terracotta_botany_pot')
+    2: 'minecraft:terracotta',
+    3: 'mysticalagriculture:prudentium_gemstone'}).id('p2:terracotta_botany_pot')
 
 // Botany Pot Colors
   event.shapeless(Item.of('botanypots:white_terracotta_botany_pot'), ['botanypots:terracotta_botany_pot', 'minecraft:white_terracotta']).id('p2:white_terracotta_botany_pot')
@@ -408,7 +409,7 @@ ServerEvents.recipes(event => {
 // Creative Hopper Botany Pot
   event.shapeless(Item.of('botanypotstiers:creative_terracotta_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_botany_pot', 'minecraft:hopper']).id('p2:creative_terracotta_hopper_botany_pot')
 
-// creative Hopper Botany Pot Colors
+// Creative Hopper Botany Pot Colors
   event.shapeless(Item.of('botanypotstiers:creative_white_terracotta_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_hopper_botany_pot', 'minecraft:white_terracotta']).id('p2:creative_white_terracotta_hopper_botany_pot')
   event.shapeless(Item.of('botanypotstiers:creative_white_concrete_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_hopper_botany_pot', 'minecraft:white_concrete']).id('p2:creative_white_concrete_hopper_botany_pot')
   event.shapeless(Item.of('botanypotstiers:creative_white_glazed_terracotta_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_hopper_botany_pot', 'minecraft:white_glazed_terracotta']).id('p2:creative_white_glazed_terracotta_hopper_botany_pot')
@@ -457,6 +458,13 @@ ServerEvents.recipes(event => {
   event.shapeless(Item.of('botanypotstiers:creative_black_terracotta_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_hopper_botany_pot', 'minecraft:black_terracotta']).id('p2:creative_black_terracotta_hopper_botany_pot')
   event.shapeless(Item.of('botanypotstiers:creative_black_concrete_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_hopper_botany_pot', 'minecraft:black_concrete']).id('p2:creative_black_concrete_hopper_botany_pot')
   event.shapeless(Item.of('botanypotstiers:creative_black_glazed_terracotta_hopper_botany_pot'), ['botanypotstiers:creative_terracotta_hopper_botany_pot', 'minecraft:black_glazed_terracotta']).id('p2:creative_black_glazed_terracotta_hopper_botany_pot')
+
+// Upgrades
+
+  event.shapeless(Item.of('botanypotstiers:elite_terracotta_hopper_botany_pot'), ['botanypots:terracotta_hopper_botany_pot', 'mysticalagriculture:prudentium_essence', 'mysticalagriculture:prudentium_essence', 'mysticalagriculture:tertium_gemstone']).id('p2:hopper_to_elite_upgrade')
+  event.shapeless(Item.of('botanypotstiers:ultra_terracotta_hopper_botany_pot'), ['botanypotstiers:elite_terracotta_hopper_botany_pot', 'mysticalagriculture:imperium_essence', 'mysticalagriculture:imperium_essence', 'mysticalagriculture:supremium_gemstone']).id('p2:elite_to_ultra_upgrade')
+  event.shapeless(Item.of('botanypotstiers:creative_terracotta_hopper_botany_pot'), ['botanypotstiers:ultra_terracotta_hopper_botany_pot', 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', 'mysticalagradditions:insanium_gemstone']).id('p2:ultra_to_creative_upgrade')
+
 
 //    
 })

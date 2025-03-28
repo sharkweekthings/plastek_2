@@ -10,6 +10,12 @@
 	quests: [
 		{
 			id: "1911F551B6AA8179"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41D89923CFB18F31"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Jump jump!"
 			tasks: [{
@@ -31,6 +37,12 @@
 		}
 		{
 			id: "4815FAB2FA3ED3C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F5DDC3BA7C6A7AD"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "minecraft:chest"
@@ -46,6 +58,12 @@
 		{
 			hide_until_deps_visible: false
 			id: "5C899D066568B671"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C88D4302D34564A"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "minecraft:barrel"
@@ -61,6 +79,12 @@
 		{
 			description: ["ring it 10,000 times!"]
 			id: "2B183DD23ECACF2D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E8E5C921430C45D"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "You can ring my bell, ring my bell"
 			tasks: [{
@@ -77,6 +101,12 @@
 		}
 		{
 			id: "22ADF51A60B34E3F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13A65F7BD393AA82"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "artifacts:villager_hat"
@@ -91,6 +121,12 @@
 		}
 		{
 			id: "21F10D4407703500"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D7B1A56C302BE3B"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "statues:pufferfish_statue"
@@ -105,6 +141,12 @@
 		}
 		{
 			id: "6EE9D9A011BE89E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "500B8FFF4ABD5F74"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "artifacts:crystal_heart"
@@ -120,6 +162,12 @@
 		{
 			description: ["To get credit for this one - you'll need to pump the fluid through a \"Task Screen\"."]
 			id: "19D7C6D09CCAABA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "468CC514200F4F7B"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				amount: 100000L
@@ -132,6 +180,12 @@
 		}
 		{
 			id: "577A63ABDB76FAC9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07CC007185FAECFD"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "minecraft:oak_planks"
@@ -146,6 +200,12 @@
 		}
 		{
 			id: "1A9E054FACEA6E81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CE4E49776283358"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "statues:pillager_statue"
@@ -160,6 +220,12 @@
 		}
 		{
 			id: "774C9A815EB538CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EC4B57ED886C428"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				id: "645864FA3F6CBE4F"
@@ -174,6 +240,12 @@
 		{
 			icon: "plushies:wandering_trader_plushie"
 			id: "199A67606FDC25C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42326CF538C1B991"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				id: "55CD396ECF5B2D71"
@@ -188,6 +260,12 @@
 		{
 			icon: "lootr:trophy"
 			id: "1A71B12FCD61748C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F42CD27EE8A3CBA"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				id: "690CB8ACCFDC714A"
@@ -208,6 +286,12 @@
 				}
 			}
 			id: "1DC4F5003BB67B0F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "45FD7A13CCD394A9"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				id: "24AE0AACDB4F4224"
@@ -465,6 +549,12 @@
 		{
 			can_repeat: true
 			id: "497EB09BBEB99CE0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F32BCA1DF8EE93C"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:zombie"
@@ -478,6 +568,12 @@
 		{
 			can_repeat: true
 			id: "2B55C0A8A2EB0B35"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01FA43DF1D7F2C2F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:skeleton"
@@ -491,6 +587,12 @@
 		{
 			can_repeat: true
 			id: "276187115DFE694C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4EB9CD5947594708"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:wither_skeleton"
@@ -504,6 +606,12 @@
 		{
 			can_repeat: true
 			id: "472C85C9DE8C9AE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F949736ACEA90EA"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:creeper"
@@ -517,6 +625,12 @@
 		{
 			can_repeat: true
 			id: "3DF8FD4C3F26A6B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FA1BB9833A399FE"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -531,6 +645,12 @@
 		{
 			can_repeat: true
 			id: "0556F43BEE5E4A5A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6643F16B988D17B9"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:villager"
@@ -544,6 +664,12 @@
 		{
 			can_repeat: true
 			id: "53550D3BA82CC16B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D6A504A2B298255"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:wandering_trader"
@@ -557,6 +683,12 @@
 		{
 			can_repeat: true
 			id: "41C4395D9034FBAA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4500A50C8F249591"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:trader_llama"
@@ -570,6 +702,12 @@
 		{
 			can_repeat: true
 			id: "00CC77ABCCCDF9F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76709715EC118867"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:warden"
@@ -582,6 +720,12 @@
 		}
 		{
 			id: "6A79A1EB3DCD961E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DBF63532712F96E"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "minecraft:blue_bed"
@@ -596,6 +740,12 @@
 		}
 		{
 			id: "3A261121B8F723FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34C3523F0281127D"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "minecraft:furnace"
@@ -610,6 +760,12 @@
 		}
 		{
 			id: "67D741A143CBBC3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22F38BC41FD24567"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: {
@@ -630,6 +786,12 @@
 		}
 		{
 			id: "29AD6D4197DEBA8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75E021C31EC1C97F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				icon: "minecraft:cake"
@@ -645,6 +807,12 @@
 		{
 			can_repeat: true
 			id: "4335995C5DBC4BBE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7457CA065E2A66CA"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:blaze"
@@ -658,6 +826,12 @@
 		{
 			can_repeat: true
 			id: "30CF22972952D660"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05A1CA973BB06030"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:wither"
@@ -672,6 +846,12 @@
 		{
 			can_repeat: true
 			id: "6C72FD9C4FFB840C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "271AC17CDC508905"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:ender_dragon"
@@ -686,6 +866,12 @@
 			can_repeat: true
 			icon: "mutantmonsters:mutant_creeper_spawn_egg"
 			id: "01790CCE71C5EC88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F65AD9ADE38FCEE"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "mutantmonsters:mutant_creeper"
@@ -700,6 +886,12 @@
 		{
 			can_repeat: true
 			id: "3770520E8219F138"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EAF7CC36D393665"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "mutantmonsters:mutant_enderman"
@@ -714,6 +906,12 @@
 		{
 			can_repeat: true
 			id: "024376745ACED4A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7325D3883DEA49E1"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "mutantmonsters:mutant_skeleton"
@@ -728,6 +926,12 @@
 		{
 			can_repeat: true
 			id: "4C20EF59956B0410"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33E673B59D3AF9A4"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "mutantmonsters:mutant_snow_golem"
@@ -742,6 +946,12 @@
 		{
 			can_repeat: true
 			id: "455DE22FB92CFF37"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51B27F8095810FE4"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "mutantmonsters:mutant_zombie"
@@ -756,6 +966,12 @@
 		{
 			can_repeat: true
 			id: "4E95A3249DE2CD15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21E82DD78CBC4C52"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -771,6 +987,12 @@
 		{
 			can_repeat: true
 			id: "63F6107692964951"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A9B06D07BF396BA"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -786,6 +1008,12 @@
 		{
 			can_repeat: true
 			id: "5865ABDEA8238A07"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21D20F59E103F837"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -801,6 +1029,12 @@
 		{
 			can_repeat: true
 			id: "5464DA8198EC8F1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31103DC9B426381E"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -816,6 +1050,12 @@
 		{
 			can_repeat: true
 			id: "104926BAE954D118"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4FF94DC0C7F00D56"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -831,6 +1071,12 @@
 		{
 			can_repeat: true
 			id: "2FA681C3F6BA86E1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DF54A0852310AD1"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -846,6 +1092,12 @@
 		{
 			can_repeat: true
 			id: "63AFDB294D0C325F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E2C0590EF459F53"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -861,6 +1113,12 @@
 		{
 			can_repeat: true
 			id: "6151B0CA858822EA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03C5AE4CA38CF637"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -876,6 +1134,12 @@
 		{
 			can_repeat: true
 			id: "3EFC53C080A1B855"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6457F74C5FA19114"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -891,6 +1155,12 @@
 		{
 			can_repeat: true
 			id: "27CF7E3ED76FCFEE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1FA9DB917B3D7537"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -906,6 +1176,12 @@
 		{
 			can_repeat: true
 			id: "2EA0BFA432A3331A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62454A2C7AEE3309"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -921,6 +1197,12 @@
 		{
 			can_repeat: true
 			id: "52AEBC9CB0A04FA6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30A4EF8A2E5F8D7F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -936,6 +1218,12 @@
 		{
 			can_repeat: true
 			id: "47652C5364C84F8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6468DA1951FB0989"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -951,6 +1239,12 @@
 		{
 			can_repeat: true
 			id: "52E5FA489951AFB0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "45DD5EF3389532C1"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -966,6 +1260,12 @@
 		{
 			can_repeat: true
 			id: "7309AEE38F72FACE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31E90883303D3869"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -981,6 +1281,12 @@
 		{
 			can_repeat: true
 			id: "2F9C629B5DAE60B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2FF59A950A4D73D4"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -996,6 +1302,12 @@
 		{
 			can_repeat: true
 			id: "13EA7B2444D5ADED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41351EDDA9A80BAB"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -1011,6 +1323,12 @@
 		{
 			can_repeat: true
 			id: "12B71DD642E4A940"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E741264CF168BD6"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "End the Enderman"
 			tasks: [{
@@ -1026,6 +1344,12 @@
 		{
 			can_repeat: true
 			id: "00DBC04ACF612B59"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29EAE13E3C9FF58A"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:cave_spider"
@@ -1039,6 +1363,12 @@
 		{
 			can_repeat: true
 			id: "683217156BFF66E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59EA6CD08E21B12D"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				count: 50L
@@ -1052,6 +1382,12 @@
 		{
 			can_repeat: true
 			id: "7EE65B002B0B8427"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "287A8F52EF30CEB0"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:slime"
@@ -1065,6 +1401,12 @@
 		{
 			can_repeat: true
 			id: "27E7A8D5BF01B027"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59904194E62060B5"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:spider"
@@ -1078,6 +1420,12 @@
 		{
 			can_repeat: true
 			id: "3057171C85D11B72"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B728CD0E0955D53"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			tasks: [{
 				entity: "minecraft:pillager"
@@ -1091,6 +1439,12 @@
 		{
 			can_repeat: true
 			id: "36D2D3C2D653601E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A227F50B51ED856"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1106,6 +1460,12 @@
 		{
 			can_repeat: true
 			id: "68DFE408A3CF1011"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2317B56E9AA4D64A"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1121,6 +1481,12 @@
 		{
 			can_repeat: true
 			id: "62F1B69AB52F8B52"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "414CEA1F2D316734"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1136,6 +1502,12 @@
 		{
 			can_repeat: true
 			id: "3D7B84D07011C000"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52F20C0C0C444E6F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1151,6 +1523,12 @@
 		{
 			can_repeat: true
 			id: "3D6F3F564299F779"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75F1388F6A0D0D1F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1166,6 +1544,12 @@
 		{
 			can_repeat: true
 			id: "77E6480E93DD8DA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "257A78E91888B1EC"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1181,6 +1565,12 @@
 		{
 			can_repeat: true
 			id: "5C865CAE4A8E4698"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29C5D1B8CB300FE2"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1196,6 +1586,12 @@
 		{
 			can_repeat: true
 			id: "17040E4DCDCD630A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "735131EE8DEA8030"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1212,6 +1608,12 @@
 			can_repeat: true
 			icon: "iceandfire:spawn_egg_myrmex_sentinel"
 			id: "09F18B81D7487BB7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "14D70B22B6726335"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1226,6 +1628,12 @@
 		{
 			can_repeat: true
 			id: "5B5F2C8EE40E91C5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4DECF0BABD329106"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1241,6 +1649,12 @@
 		{
 			can_repeat: true
 			id: "7ECAFBB67A675F63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21E791A73B9029FA"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1256,6 +1670,12 @@
 		{
 			can_repeat: true
 			id: "17861F9E7F794AE0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3AF255C0BDACBDB1"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1271,6 +1691,12 @@
 		{
 			can_repeat: true
 			id: "53406D88D248418E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6CC56F34ECFDA748"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1286,6 +1712,12 @@
 		{
 			can_repeat: true
 			id: "525BE9B38D392480"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13F641FF372D0719"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1301,6 +1733,12 @@
 		{
 			can_repeat: true
 			id: "42B8E13BC0A0FA53"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D09B20E2C92D07F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1316,6 +1754,12 @@
 		{
 			can_repeat: true
 			id: "3CC9439DA5589EAB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4EA0AD2DBFB36AE3"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [
@@ -1340,6 +1784,12 @@
 		{
 			can_repeat: true
 			id: "20F2A786D2E45A0A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C485FEE84FECC7F"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1355,6 +1805,12 @@
 		{
 			can_repeat: true
 			id: "7694D17E30023932"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D48823F6F42CCD1"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1370,6 +1826,12 @@
 		{
 			can_repeat: true
 			id: "275DF6A8C6BF418A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C67344F0A184489"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1385,6 +1847,12 @@
 		{
 			can_repeat: true
 			id: "02C9A522771A99CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D739593F9C08DA5"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1400,6 +1868,12 @@
 		{
 			can_repeat: true
 			id: "097967ADEBD9B438"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "274834535BF14921"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1415,6 +1889,12 @@
 		{
 			can_repeat: true
 			id: "3D2A31BDF6E53B9B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CCC586697B5F750"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1430,6 +1910,12 @@
 		{
 			can_repeat: true
 			id: "784626ED5BC75F76"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E8856D6F6EC8CC2"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1445,6 +1931,12 @@
 		{
 			can_repeat: true
 			id: "7226D9210236FA97"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B8821BDAF8116D3"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1460,6 +1952,12 @@
 		{
 			can_repeat: true
 			id: "203F97BC0CAECC23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4748861D821E0B10"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1475,6 +1973,12 @@
 		{
 			can_repeat: true
 			id: "21B979DE25124CA2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06916B126D0681F6"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1490,6 +1994,12 @@
 		{
 			can_repeat: true
 			id: "39FB68FCA61AE88D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4429CD39B09F5C3A"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1505,6 +2015,12 @@
 		{
 			can_repeat: true
 			id: "0E88237593023640"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42FF86E659461B24"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1520,6 +2036,12 @@
 		{
 			can_repeat: true
 			id: "36B291EB11322964"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F4EBCE858F491E8"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			shape: "circle"
 			subtitle: "Beasts of Ice and Fire"
 			tasks: [{
@@ -1535,6 +2057,12 @@
 		{
 			icon: "born_in_chaos_v1:decrepit_skeleton_spawn_egg"
 			id: "17B35893856CCBE4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03FB1AFBF5313C31"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			tasks: [{
 				entity: "born_in_chaos_v1:decrepit_skeleton"
 				id: "7B98CCB460F67D8D"
@@ -1547,6 +2075,12 @@
 		{
 			icon: "born_in_chaos_v1:skeleton_demoman_spawn_egg"
 			id: "5760DBFD338F41FE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4243F453A83ECBF7"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			tasks: [{
 				entity: "born_in_chaos_v1:skeleton_demoman"
 				id: "474902F1D49569FF"
@@ -1559,6 +2093,12 @@
 		{
 			icon: "born_in_chaos_v1:decaying_zombie_not_despawn_spawn_egg"
 			id: "44556A036EDFC01E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "126724376D2A16FA"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			tasks: [{
 				entity: "born_in_chaos_v1:decaying_zombie_not_despawn"
 				id: "675B7E80715D5820"
@@ -1571,6 +2111,12 @@
 		{
 			icon: "born_in_chaos_v1:zombie_lumberjack_spawn_egg"
 			id: "101328DC25196402"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55E867C28ED8AB4B"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			tasks: [{
 				entity: "born_in_chaos_v1:zombie_lumberjack"
 				id: "3A91D7CAEBB2D199"
@@ -1582,6 +2128,12 @@
 		}
 		{
 			id: "0ADF1B7EEE0A1F26"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D2D4861AC620C9C"
+				table_id: 2698554318784890319L
+				type: "random"
+			}]
 			subtitle: "End the Enderman"
 			tasks: [{
 				entity: "minecraft:endermite"

@@ -27,7 +27,7 @@
 				item: "cookingforblockheads:cow_jar"
 				type: "item"
 			}]
-			x: -3.0d
+			x: -2.0d
 			y: -2.5d
 		}
 		{
@@ -111,7 +111,7 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
+			x: -2.0d
 			y: 2.5d
 		}
 		{
@@ -122,7 +122,7 @@
 				item: "cookingforblockheads:toaster"
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: 2.5d
 		}
 		{
@@ -133,7 +133,7 @@
 				item: "cookingforblockheads:fruit_basket"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: 3.5d
 		}
 		{
@@ -305,7 +305,7 @@
 				item: "pamhc2foodcore:bakewareitem"
 				type: "item"
 			}]
-			x: -3.5d
+			x: -2.5d
 			y: -0.5d
 		}
 		{
@@ -316,7 +316,7 @@
 				item: "pamhc2foodcore:cuttingboarditem"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: -0.5d
 		}
 		{
@@ -327,7 +327,7 @@
 				item: "pamhc2foodcore:juiceritem"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -0.5d
 			y: -0.5d
 		}
 		{
@@ -338,7 +338,7 @@
 				item: "pamhc2foodcore:grinderitem"
 				type: "item"
 			}]
-			x: -3.5d
+			x: -2.5d
 			y: 0.5d
 		}
 		{
@@ -349,7 +349,7 @@
 				item: "pamhc2foodcore:mixingbowlitem"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: 0.5d
 		}
 		{
@@ -360,7 +360,7 @@
 				item: "pamhc2foodcore:potitem"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -0.5d
 			y: 0.5d
 		}
 		{
@@ -371,7 +371,7 @@
 				item: "pamhc2foodcore:rolleritem"
 				type: "item"
 			}]
-			x: -3.5d
+			x: -2.5d
 			y: 1.5d
 		}
 		{
@@ -382,7 +382,7 @@
 				item: "pamhc2foodcore:saucepanitem"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: 1.5d
 		}
 		{
@@ -393,7 +393,7 @@
 				item: "pamhc2foodcore:skilletitem"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -0.5d
 			y: 1.5d
 		}
 		{
@@ -404,7 +404,7 @@
 				item: "industrialforegoing:mob_imprisonment_tool"
 				type: "item"
 			}]
-			x: -5.0d
+			x: -4.0d
 			y: 1.0d
 		}
 		{
@@ -580,7 +580,7 @@
 				}
 				type: "item"
 			}]
-			x: -6.0d
+			x: -5.0d
 			y: 1.0d
 		}
 		{
@@ -597,7 +597,7 @@
 				}
 				type: "item"
 			}]
-			x: -3.5d
+			x: -2.5d
 			y: -1.5d
 		}
 		{
@@ -608,7 +608,7 @@
 				item: "farmersdelight:cooking_pot"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: -1.5d
 		}
 		{
@@ -630,7 +630,7 @@
 				item: "farmersdelight:cutting_board"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -0.5d
 			y: -1.5d
 		}
 		{
@@ -674,7 +674,7 @@
 				item: "cookingforblockheads:fridge"
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: -2.5d
 		}
 		{
@@ -799,7 +799,7 @@
 				type: "checkmark"
 			}]
 			title: "Kitchen Necessities"
-			x: -2.5d
+			x: -1.5d
 			y: -4.0d
 		}
 		{
@@ -812,6 +812,17 @@
 			}]
 			x: -14.5d
 			y: -5.5d
+		}
+		{
+			dependencies: ["17B3B5D1CD42BA6C"]
+			id: "1B6C1C76041C5730"
+			tasks: [{
+				id: "240090E8DD6CE04A"
+				item: "tconstruct:piggy_backpack"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
 		}
 	]
 	title: "Moo"

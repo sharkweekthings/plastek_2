@@ -842,12 +842,14 @@
 		}
 		{
 			id: "4E09D749DE59EC3B"
+			invisible: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1B792DD8DA7562B0"
 				table_id: 5124368461700878780L
 				type: "random"
 			}]
+			subtitle: "MOD IS CURRENTLY DISABLED QUESTS ARE NOT READY"
 			tasks: [{
 				id: "0C6AD7F9497BE4CE"
 				item: "create_connected:music_disc_elevator"
@@ -858,12 +860,14 @@
 		}
 		{
 			id: "67163847F34EF933"
+			invisible: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "13267EE2FABE11A6"
 				table_id: 5124368461700878780L
 				type: "random"
 			}]
+			subtitle: "MOD IS CURRENTLY DISABLED QUESTS ARE NOT READY"
 			tasks: [{
 				id: "7CA2E0F9BF142A18"
 				item: "create_connected:music_disc_interlude"

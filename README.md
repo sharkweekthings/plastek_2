@@ -69,3 +69,5 @@ HARD START
  - Sometimes a Myrmex Colony from Ice and Fire will crash your server. This doesnt occur with all Myrmex colonies, but it does occur with somne. If this happens, you will need to use NBT Explorer to edit your coords, and avoid the region / chunk with the Myrmex Colony in it. You can get NBT Explorer from here: https://github.com/jaquadro/NBTExplorer/releases
 
  - Some of the Everlasting Ability totems show that they require a specific amount of experience, but they actually require more. If you can't learn the ability try to gain 1 extra level to see if that lets you learn it.
+
+ - Andesite Alloy in the Metal Alloyer can be created with any variation of Andesite and Iron Ingot, despite there not being alternate recipes.

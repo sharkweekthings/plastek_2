@@ -1043,6 +1043,7 @@
 			description: ["Create Pressure using Rotational Force"]
 			id: "4604B0D0D13C3855"
 			invisible: true
+			subtitle: "MOD IS CURRENTLY DISABLED QUESTS ARE NOT READY"
 			tasks: [
 				{
 					id: "2205678834E63C68"
@@ -1131,6 +1132,7 @@
 			dependencies: ["1910D1A25858E624"]
 			id: "6C08185739571384"
 			invisible: true
+			subtitle: "MOD IS CURRENTLY DISABLED QUESTS ARE NOT READY"
 			tasks: [{
 				id: "497D1A96853DCF5A"
 				item: "compressedcreativity:air_blower"
@@ -1968,7 +1970,7 @@
 			id: "3E049A06255073C8"
 			invisible: true
 			shape: "diamond"
-			subtitle: "quest dialogues to be updated some day."
+			subtitle: "MOD IS CURRENTLY DISABLED QUESTS ARE NOT READY"
 			tasks: [{
 				id: "2C02616A0BDBBB14"
 				title: "Ok"

@@ -1,3 +1,3 @@
 kill @e[type=item]
-tellraw @a {"text": "A dark mage has cleared dropped items!", "color": "green", "bold":"true"}
+tellraw @a {"text": "The Plastim Storm has passed, all items on the ground have disintegrated.", "color": "green", "bold":"true"}
 schedule function darktimer:darktimerload 1s

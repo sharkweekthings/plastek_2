@@ -260,7 +260,7 @@
 				"4AC332BFF797B89F"
 				"1F8FDBC1E18CC4CC"
 			]
-			description: ["For now, the only way to make a Brass Ingot will be to put your Copper and Zinc in a Heated Mixer."]
+			description: ["For now, the only way to make a &3Brass Ingot&r will be to put your &3Copper&r and &3Zinc&r in a &9Heated Mixer&r."]
 			id: "523E964D13C3A106"
 			shape: "square"
 			tasks: [
@@ -366,7 +366,7 @@
 		}
 		{
 			description: [
-				"If you capture a chicken with an &3Animal Capture Net&r and feed it &35 Copper Blocks&r you can Automate &3Copper Ingots.&r"
+				"If you capture a chicken with an &3Animal Capture Net&r and feed it &25 Copper Ingots&r you can Automate &3Copper Ingots.&r"
 				""
 				"By default the chicken &4won't output quickly&r, or plentifully. If you &2breed chickens together&r though, the &2baby will inherit it's parent stat plus more&r. Your chickens stats can increase to &2Growth 10, Gain 10, and Strength 10&r."
 				""
@@ -509,7 +509,7 @@
 				"50A5C2D4A1DD9159"
 				"51399FFE1601E2E7"
 			]
-			description: ["Put your Iron Ingots and Andesite in here to make Andesite Alloy"]
+			description: ["Put your &3Iron Ingots&r and &3Andesite&r in here to make &3Andesite Alloy&r"]
 			id: "2F0B01E0A634FFE9"
 			shape: "square"
 			tasks: [{

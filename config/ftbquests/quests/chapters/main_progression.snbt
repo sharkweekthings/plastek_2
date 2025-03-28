@@ -213,17 +213,6 @@
 					type: "item"
 				}
 				{
-					id: "7DC1E497AD011710"
-					item: {
-						Count: 1
-						id: "healingflasks:healing_flask"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
 					icon: "supplementaries:sign_post_oak"
 					id: "48A96B2C9212C592"
 					title: "Start Age 1"
@@ -368,6 +357,12 @@
 				"To obtain the scrap from &3Plastim Bottles&r and &3Plastim Bags&r, you'll need to find a way to crush them up so you can get that sweet, non toxic, &3Plastim Scrap&r and buy stuff from a &9Market&r person. "
 			]
 			id: "1262B64803792801"
+			rewards: [{
+				id: "0F15897788F0952E"
+				item: "pamhc2foodcore:pumpkindonutitem"
+				random_bonus: 9
+				type: "item"
+			}]
 			subtitle: "The World"
 			tasks: [{
 				id: "266E45AE7B5D8C5D"
@@ -705,19 +700,25 @@
 		{
 			dependencies: ["748D248A8A809914"]
 			description: [
-				"Plastim wreaked havoc across many planets and dimensions, as well. This resulted in the creation, or discovery of new dimensions. "
+				"Plastim wreaked havoc across many planets and dimensions, as well. This resulted in the destruction, creation, or discovery of new dimensions. "
 				""
 				"&6The Bumblezone&r - The &9Council of Bee Queens&r made it clear that no &3Plastim&r was to be allowed within the walls of the Great Hive. However, as a result of this, people thought a war would be coming soon and quickly banded together to steal all of the hives &3Gold&r. Now &3Gold&r can be scattered throughout the &3Overworld&r. The bees really didn't care as much as we thought they would."
 				""
-				"&aTwilight Forest&r - &3Plastim&r completely decimated the &aTwilight Forest&r, turning it into a desolate wasteland of pure nothingness. The portal is now blocked by over 6 million &3Plastim&r blocks, after the &9Great Tower of Tim&r collapsed at the portal entrance. &dShaun&r, a powerful wizard attempted to cast a spell into the portal to be able to re-enter at a later point, but instead of creating a safe barrier at the entrance, he caused a rift in the Overworld opening various portals to the &bEverbright&r, and &3Everdawn&r, and ultimately leading to the discovery of &bThe Aether&r. "
+				"&aTwilight Forest&r - &3Plastim&r completely decimated the &aTwilight Forest&r, turning it into a desolate wasteland of pure nothingness. The portal is now blocked by over 6 million &3Plastim&r blocks, after the &9Great Tower of Tim&r collapsed at the portal entrance. &dShryan&r, a powerful wizard attempted to cast a spell into the portal to be able to re-enter at a later point, but instead of creating a safe barrier at the entrance, he caused a rift in the Overworld opening various portals to the &bEverbright&r, and &bEverdawn&r, and ultimately leading to the discovery of &bThe Aether&r. "
 				""
 				"&0The Otherside&r - &3Plastim&r proved to be completely disasterous to the inhabitants of the &0Otherside&r. Even before the toxins released, &3Plastim&r was known to instantly kill any creature that came within 5 feet of it. With the monster population down, many people attempted to live here. This lead to massive structures being built underground. Due to the nature of &0The Otherside&r, once the toxins released, they never dissipated leaving the entire dimension unexplorable, even with the strongest protective gear, and resistances. "
 				""
 				"&bAlfheim&r - Like the &6Bumblezone&r the inhabitants of &bAlfheim&r refused to allow &3Plastim&r into their lands. As the planets were being destroyed, it was discovered that dragons had the ability to teleport home, which happened to be &bAlfheim&r. Now &bAlfheim&r is the only place populated with dragons. "
 				""
-				"&eAd Astra Planets&r - It eventually got to a point where many of the planets were fully stripped of their resources during the great Shark Week. It was a full week dedicated to dismantling every planet block by block searching for any remnants of &3Sharkinite&r, and &3Weekonium&r. Even if the technology to build a rocket was still around today, you would find nothing up there but vast emptiness. "
+				"&eAd Astra Planets&r - It eventually got to a point where &cmany of the planets were fully stripped of their resources during the great Shark Week&r. It was a full week dedicated to dismantling every planet, block by block searching for any remnants of &3Sharkinite&r, and &3Weekonium&r. Even if the technology to build a rocket was still around today, you would find nothing up there but vast emptiness. "
 			]
 			id: "7EA5B0F8D6DC5F9E"
+			rewards: [{
+				id: "1B8BD1DDF588A035"
+				item: "pamhc2foodcore:appleyogurtitem"
+				random_bonus: 9
+				type: "item"
+			}]
 			subtitle: "Planets and Dimensions"
 			tasks: [{
 				id: "11C05E6B57453D81"
@@ -733,9 +734,17 @@
 			description: [
 				"When the &3Plastim&r toxins hit, it mutated many people, and animals giving them extremely long lifespans, but left to roam the world mindlessly, becoming increasingly aggressive. "
 				""
+				"One of the more permanent changes to the world are &cPlastim Storms&r. These &boccur every 30 real life minutes&r, and tend to &cdestroy any items that are on the ground&r. "
+				""
 				"There hasn't been many adventurers, so many of these hostile monsters roam the planet today. "
 			]
 			id: "1FD9F68B6770093C"
+			rewards: [{
+				id: "1C9F49EEC8243D9C"
+				item: "pamhc2foodextended:gourmetporkburgeritem"
+				random_bonus: 4
+				type: "item"
+			}]
 			subtitle: "The Hostile Mobs"
 			tasks: [{
 				id: "3E66DA86F6C63715"

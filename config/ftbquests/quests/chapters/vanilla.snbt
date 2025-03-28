@@ -33,9 +33,9 @@
 		{
 			dependencies: ["54B3B59FDFF1B9C7"]
 			description: [
-				"It's advised to get a &3Bamboo,&r and &3Wheat&r farm as soon as possible."
+				"It's advised to get a &3Bamboo,&r and &3Wheat&r farm as soon as possible. If you're struggling with &3Bamboo&r, just progress the &dTools&r portion of &dAge 1&r and you will be rewarded with some when you complete the &dBone Shard&r quest."
 				""
-				"You can &9Haunt&r &3Wheat&r with Create to make &3Straw&r, or you can use a Farmers Delight knife to cut grass."
+				"You can &9Haunt&r &3Wheat&r with Create to make &3Straw&r, or you can use a &6Farmers Delight&r knife to cut grass."
 			]
 			id: "77D669BAA352C3BE"
 			subtitle: "Baskets are love, Baskets are life."

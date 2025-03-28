@@ -1169,4 +1169,5 @@
 		{ item: "vinery:storage_pot", weight: 50.0f }
 	]
 	title: "Bag of Hopes and Dreams"
+	use_title: true
 }

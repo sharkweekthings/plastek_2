@@ -21,7 +21,7 @@
 				""
 				"&6Natural Progression&r changes up the early game slightly, so heres what you need to know:"
 				""
-				"In order to make your first tool, the &3Flint Axe&r -- you'll need to find &3Sticks&r and &3Pebbles&r on the ground. Place some &3Pebbles&r on your hotbar, and some in your offhand and start smashing them together. This should get you some &3Flint&r!"
+				"In order to make your first tool, the &3Flint Axe&r -- you'll need to find &3Sticks&r and &3Pebbles&r on the ground. Place some &3Pebbles&r on your hotbar, and some in your offhand and start smashing them together by clicking your mouse. This should get you some &3Flint&r!"
 				""
 				"With &3Flint&r you can make a &3Flint Axe&r. "
 				""
@@ -32,11 +32,24 @@
 				"To make &31 Plank&r you will need to craft the &3Hatchet&r together with the &3Stripped Log&r. When you get your first &3Saw&r, you will be able to turn &31 Stripped Log&r into &34 Planks&r."
 			]
 			id: "47B600AF3A91F036"
-			rewards: [{
-				id: "6F03378EA34414EC"
-				item: "torchmaster:megatorch"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "6F03378EA34414EC"
+					item: "torchmaster:megatorch"
+					type: "item"
+				}
+				{
+					id: "600D21791C26C931"
+					item: {
+						Count: 1
+						id: "healingflasks:healing_flask"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
 			shape: "diamond"
 			subtitle: "Tree Punchers 101"
 			tasks: [{
