@@ -12,9 +12,7 @@
   ],
   "ingredients": [
     {
-      "type": "mysticalagriculture:crop_component",
-      "component": "material",
-      "crop": "mysticalagriculture:chicken"
+      "item": "minecraft:egg"
     },
     {
       "type": "mysticalagriculture:crop_component",
@@ -22,9 +20,7 @@
       "crop": "mysticalagriculture:chicken"
     },
     {
-      "type": "mysticalagriculture:crop_component",
-      "component": "material",
-      "crop": "mysticalagriculture:chicken"
+      "item": "minecraft:egg"
     },
     {
       "type": "mysticalagriculture:crop_component",
@@ -32,17 +28,13 @@
       "crop": "mysticalagriculture:chicken"
     },
     {
-      "type": "mysticalagriculture:crop_component",
-      "component": "material",
-      "crop": "mysticalagriculture:chicken"
+      "item": "minecraft:egg"
     },
     {
       "item": "biomancy:organic_compound"
     },
     {
-      "type": "mysticalagriculture:crop_component",
-      "component": "material",
-      "crop": "mysticalagriculture:chicken"
+      "item": "minecraft:egg"
     },
     {
       "type": "mysticalagriculture:crop_component",
