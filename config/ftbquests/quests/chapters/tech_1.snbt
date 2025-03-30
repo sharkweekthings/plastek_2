@@ -429,7 +429,7 @@
 			}]
 			tasks: [{
 				id: "6C5E09C7397829A9"
-				item: "chipped:cobbled_andesite"
+				item: "natprog:cobbled_andesite"
 				type: "item"
 			}]
 			x: -2.0d
@@ -446,7 +446,7 @@
 			}]
 			tasks: [{
 				id: "28374AA0BBF43B2E"
-				item: "chipped:cobbled_diorite"
+				item: "natprog:cobbled_diorite"
 				type: "item"
 			}]
 			x: 0.0d
