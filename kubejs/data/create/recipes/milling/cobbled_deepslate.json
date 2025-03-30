@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "natprog:cobbled_deepslate"
+      "item": "minecraft:cobbled_deepslate"
     }
   ],
   "processingTime": 300,
