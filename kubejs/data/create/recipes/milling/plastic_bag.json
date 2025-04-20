@@ -8,12 +8,12 @@
   "processingTime": 100,
   "results": [
     {
-      "count": 5,
+      "count": 3,
       "item": "ocean_recovery:plastic_shard"
     },
     {
       "chance": 0.15,
-      "count": 7,
+      "count": 2,
       "item": "ocean_recovery:plastic_shard"
     }
   ]

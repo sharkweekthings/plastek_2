@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "item": "create:brass_block"
+  },
+  "result": [
+    {
+      "item": "create:brass_casing",
+      "count": 2
+    }
+  ]
+}

@@ -366,7 +366,7 @@
 		}
 		{
 			description: [
-				"If you capture a chicken with an &3Animal Capture Net&r and feed it &25 Copper Ingots&r you can Automate &3Copper Ingots.&r"
+				"If you capture a chicken with an &3Animal Capture Net&r and feed it &d35 Copper Ingots&r you can Automate &3Copper Ingots.&r"
 				""
 				"By default the chicken &4won't output quickly&r, or plentifully. If you &2breed chickens together&r though, the &2baby will inherit it's parent stat plus more&r. Your chickens stats can increase to &2Growth 10, Gain 10, and Strength 10&r."
 				""

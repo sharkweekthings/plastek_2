@@ -329,11 +329,19 @@
 			dependencies: ["7F1D40E3D99C5160"]
 			hide_dependency_lines: true
 			id: "04FB9C09400F9C90"
-			rewards: [{
-				id: "5F33EB48E897E170"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "5F33EB48E897E170"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "622C8CBA47CEBDF7"
+					item: "minecraft:torch"
+					random_bonus: 63
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5D8AB06A5438472B"
 				item: {
@@ -922,7 +930,7 @@
 				""
 				"Once your &9Melter&r is setup, you can start making other &3Ingots&r, which will let you start crafting Tools, Armors, and Weapons. "
 				""
-				"This will unlock &dSilver Equipment&r."
+				"This will unlock &dSilver Equipment&r, and no longer will you need to cry at horrible Copper is. "
 			]
 			id: "1F6113D2234C39DD"
 			rewards: [
@@ -999,6 +1007,8 @@
 				"Crafting a &3Bone Pickaxe&r, &3Bone Knife&r, and a &9Blast Furnace&r is your next step. "
 				""
 				"This will allow you to start blasting &3Copper Ores&r into &3Ingots&r."
+				""
+				"From here you can make the more durable, but less effective &dCopper Tools&r!"
 			]
 			id: "7F1D40E3D99C5160"
 			rewards: [

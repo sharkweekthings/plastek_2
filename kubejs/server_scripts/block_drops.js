@@ -174,5 +174,7 @@ ServerEvents.blockLootTables(event => {
 // Overworld
 	oreLoot('minecraft:coal_ore', 'minecraft:coal', {min:1,max:2})
 	oreLoot('minecraft:emerald_ore', 'inventorypets:nugget_emerald', {min:1,max:1})
+	oreLoot('iceandfire:silver_ore', 'samurai_dynasty:raw_silver', {min:1,max:3})
+	oreLoot('iceandfire:deepslate_silver_ore', 'samurai_dynasty:raw_silver', {min:1,max:5})
 
 })

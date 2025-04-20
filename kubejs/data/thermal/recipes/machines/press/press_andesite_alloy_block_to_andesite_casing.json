@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "item": "create:andesite_alloy_block"
+  },
+  "result": [
+    {
+      "item": "create:andesite_casing",
+      "count": 2
+    }
+  ]
+}

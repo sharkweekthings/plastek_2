@@ -27,9 +27,9 @@ LootJS.modifiers(event => {
 // RANDOM IRON'S SCROLL
 LootJS.modifiers((e) => {
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.75)
+    .randomChance(0.65)
     .addWeightedLoot(
-      [1, 2], //1-3 rolls
+      [0, 2], //1-3 rolls
       [
   LootEntry.of("irons_spellbooks:scroll").customFunction({
             function: "irons_spellbooks:randomize_spell",
@@ -42,7 +42,7 @@ LootJS.modifiers((e) => {
 
 // TRINKETS & ARTIFACTS
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.50)
+    .randomChance(0.40)
     .addWeightedLoot(
       [0, 2], //0-2 rolls
       [
@@ -484,7 +484,7 @@ LootJS.modifiers((e) => {
   e.addLootTypeModifier(LootType.CHEST)
     .randomChance(0.85)
     .addWeightedLoot(
-      [1, 3], //1-3 rolls
+      [0, 3], //1-3 rolls
       [
   LootEntry.of("a_man_with_plushies:aggressive_eye_of_cthulhu_plush").withWeight(15).limitCount([0, 1]),
   LootEntry.of("a_man_with_plushies:aggressive_eye_of_cthulhu_plush_flying").withWeight(15).limitCount([0, 1]),
@@ -1151,7 +1151,7 @@ LootJS.modifiers((e) => {
   e.addLootTypeModifier(LootType.CHEST)
     .randomChance(0.85)
     .addWeightedLoot(
-      [1, 2], //1-2 rolls
+      [0, 2], //1-2 rolls
       [
   LootEntry.of("simplehats:acornhat").withWeight(15).limitCount([0, 1]),	
   LootEntry.of("simplehats:aegishat").withWeight(15).limitCount([0, 1]),	
@@ -1461,7 +1461,7 @@ LootJS.modifiers((e) => {
   e.addLootTypeModifier(LootType.CHEST)
     .randomChance(0.90)
     .addWeightedLoot(
-      [1, 4], //1-3 rolls
+      [0, 4], //1-3 rolls
       [
   LootEntry.of("nightlights:fairy_lights_blue").withWeight(15).limitCount([0, 1]),
   LootEntry.of("nightlights:octopus_pink").withWeight(15).limitCount([0, 1]),
@@ -2189,12 +2189,12 @@ LootJS.modifiers((e) => {
 
 // LOOT PASSIVE SKILL
   e.addLootTypeModifier(LootType.CHEST)
-    .randomChance(0.70)
+    .randomChance(0.60)
     .addWeightedLoot(
       [1], //1-3 rolls
       [
   LootEntry.of("skilltree:wisdom_scroll").withWeight(10).limitCount([0, 1]),
-  LootEntry.of("kubejs:fake_wisdom_scroll").withWeight(25).limitCount([0, 1])	
+  LootEntry.of("kubejs:fake_wisdom_scroll").withWeight(35).limitCount([0, 1])	
       ]);
 
 // LOOT APOTHEOSIS

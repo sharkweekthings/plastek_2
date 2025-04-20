@@ -17,3 +17,17 @@ ServerEvents.recipes(event => {
 //
 })
 //
+
+//
+ServerEvents.recipes(event => {
+//
+
+  //ADD
+
+
+// Alternate Straw
+  event.shapeless(Item.of('2x farmersdelight:straw'), ['minecraft:wheat', '#minecraft:soul_fire_base_blocks']).id('farmersdelight:straw_2')
+
+//    
+})
+//

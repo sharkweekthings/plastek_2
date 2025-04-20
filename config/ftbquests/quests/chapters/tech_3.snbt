@@ -202,18 +202,31 @@
 			]
 			id: "3A1F40DB1DA83113"
 			shape: "square"
-			tasks: [{
-				id: "4C7A90F8591534C5"
-				item: {
-					Count: 1
-					id: "itemfilters:tag"
-					tag: {
-						value: "forge:plates/electrum"
+			tasks: [
+				{
+					id: "4C7A90F8591534C5"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:plates/electrum"
+						}
 					}
+					title: "Electrum Plate"
+					type: "item"
 				}
-				title: "Electrum Plate"
-				type: "item"
-			}]
+				{
+					id: "05DACC3A7219FDD5"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "minecraft:logs"
+						}
+					}
+					type: "item"
+				}
+			]
 			x: -4.0d
 			y: -4.0d
 		}

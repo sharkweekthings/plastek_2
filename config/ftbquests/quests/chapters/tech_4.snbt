@@ -146,6 +146,7 @@
 			]
 			icon: "mekanism:sulfuric_acid_bucket"
 			id: "76E824CE8DB0B85A"
+			shape: "square"
 			tasks: [{
 				id: "6D72E578156E3FAF"
 				title: "Ok"
@@ -632,9 +633,11 @@
 				""
 				"#2 Send &3Water&r, &3Hydrogen&r, and the &3Bio Fuel&r into a &9Pressurized Reaction Chamber&r which will create &3Substrate&r and &3Ethylene&r."
 				""
-				"#3 Send &3Ethylene&r, &3Oxygen&r, and &3Substrate&r to another &9Pressurized Reaction Chamber&r and this should create the &3HDPE Pellet&r."
+				"#3 Send your &3Ethylene gas&r to the &9Rotary Condenstrator&r to make &3Ethylene fluid&r."
 				""
-				"#4 Now you'll need to use another &9Enrichment Chamber&r to turn the pellets into sheets."
+				"#4 Send &3Ethylene&r, &3Oxygen&r, and &3Substrate&r to another &9Pressurized Reaction Chamber&r and this should create the &3HDPE Pellet&r."
+				""
+				"#5 Now you'll need to use another &9Enrichment Chamber&r to turn the pellets into sheets."
 			]
 			id: "49FBB3232CB4E50B"
 			shape: "diamond"
@@ -1120,7 +1123,7 @@
 				item: "mekanism:electrolytic_separator"
 				type: "item"
 			}]
-			x: -10.0d
+			x: -10.5d
 			y: 0.0d
 		}
 		{
@@ -1459,7 +1462,7 @@
 			y: 5.5d
 		}
 		{
-			dependencies: ["3AD87E8909BCBC81"]
+			dependencies: ["6AC02C5DEB6F3E4F"]
 			description: [
 				"Now you have &3Polonium&r, and a massive quantity of power. You're ready to start making &5Anti-Matter&r! "
 				""
@@ -1534,6 +1537,20 @@
 		{
 			dependencies: ["16FB1CE7AF3E0490"]
 			id: "5D8542C39BDECE33"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "38C1CEBB31BC927B"
+					table_id: 4658539685949471833L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12BA533EA1A2F7DC"
+					table_id: 2698554318784890319L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			tasks: [{
 				id: "40FAB3F5EA8B5AD3"
@@ -1553,6 +1570,18 @@
 			}]
 			x: 13.5d
 			y: 4.0d
+		}
+		{
+			dependencies: ["49FBB3232CB4E50B"]
+			id: "04835DF39F0A0501"
+			shape: "square"
+			tasks: [{
+				id: "4DB92C2F6CD989C0"
+				item: "mekanism:rotary_condensentrator"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
 		}
 	]
 	title: "Tech"

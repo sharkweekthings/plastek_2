@@ -374,6 +374,7 @@
 			y: -2.5d
 		}
 		{
+			can_repeat: true
 			dependencies: ["3A56D7945D8B8C54"]
 			icon: {
 				Count: 1

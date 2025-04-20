@@ -5,6 +5,6 @@
   },
   "program": "laser",
   "result": {
-    "item": "create_connected:control_chip"
+    "item": "kubejs:temporary_control_chip"
   }
 }

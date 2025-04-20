@@ -100,7 +100,12 @@
 			y: -2.5d
 		}
 		{
-			description: ["A great way to start getting Fluid XP. "]
+			description: [
+				"&6Mob Grinding Utils&r will allow you to start producing &3Jelly Babies&r which are needed to make &3Infused Netherstone&r, the block that is used for a &dNether Portal&r."
+				""
+				""
+				"This is also a great way to start producing &3Fluid XP&r for later ages. "
+			]
 			id: "390EC93A12C269A2"
 			shape: "diamond"
 			tasks: [{
@@ -240,7 +245,7 @@
 				item: "mob_grinding_utils:xp_tap"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -3.0d
 			y: -3.0d
 		}
 		{
@@ -1213,11 +1218,6 @@
 					item: "tconstruct:seared_faucet"
 					type: "item"
 				}
-				{
-					id: "73B1D1B1051DB4A7"
-					item: "tconstruct:seared_drain"
-					type: "item"
-				}
 			]
 			title: "The Seared Melter"
 			x: -11.5d
@@ -1358,6 +1358,24 @@
 			title: "The Smeltery's Construction Blocks"
 			x: -10.0d
 			y: 7.0d
+		}
+		{
+			dependencies: ["6DBB07D40A8E9088"]
+			id: "06E1D34E9162C7E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C40C32C289F6EAE"
+				table_id: 4658539685949471833L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "2723111753C4393E"
+				item: "mob_grinding_utils:solid_xp_baby"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
 		}
 	]
 	title: "Utility"
