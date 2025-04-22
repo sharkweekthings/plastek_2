@@ -1,0 +1,5 @@
+{"type":"biomancy:bio_brewing","ingredients":[
+	{"item":"biomancy:bile"},
+	{"item":"biomancy:organic_matter"},
+	{"item":"biomancy:bone_fragments"},
+	{"item":"biomancy:stone_powder"}],"nutrientsCost":2,"processingTime":40,"reactant":{"item":"biomancy:vial"},"result":{"item":"biomancy:organic_compound"}}

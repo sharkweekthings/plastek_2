@@ -5,7 +5,7 @@
       "item": "industrialforegoing:machine_frame_simple"
     },
     {
-      "amount": 1000,
+      "amount": 150,
       "fluid": "pneumaticcraft:etching_acid",
       "nbt": {}
     }

@@ -6,12 +6,12 @@
   },
   "input1": {
     "type": "pneumaticcraft:fluid",
-    "amount": 50,
+    "amount": 25,
     "fluid": "pneumaticcraft:lpg"
   },
   "input2": {
     "type": "pneumaticcraft:fluid",
-    "amount": 50,
+    "amount": 75,
     "tag": "forge:experience"
   },
   "pressure": 2.0,

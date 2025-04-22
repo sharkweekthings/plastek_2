@@ -1,0 +1,2 @@
+{"type":"biomancy:bio_forging","bio_forge_tab":"biomancy:components","ingredients":[
+	{"count":1,"item":"minecraft:dirt"}],"nutrientsCost":4,"result":{"item":"farmersdelight:rich_soil"}}

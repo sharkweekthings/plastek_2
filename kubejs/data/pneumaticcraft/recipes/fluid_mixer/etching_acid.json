@@ -1,7 +1,7 @@
 {
   "type": "pneumaticcraft:fluid_mixer",
   "fluid_output": {
-    "amount": 50,
+    "amount": 75,
     "fluid": "pneumaticcraft:etching_acid"
   },
   "input1": {
@@ -11,7 +11,7 @@
   },
   "input2": {
     "type": "pneumaticcraft:fluid",
-    "amount": 25,
+    "amount": 50,
     "tag": "biomancy:acid"
   },
   "pressure": 2.0,

@@ -6,6 +6,17 @@
 ServerEvents.recipes(event => {
 //
 
+  //REMOVE
+  event.remove({id: 'biomancy:bio_forging/fertilizer'})
+
+//
+})
+//
+
+//
+ServerEvents.recipes(event => {
+//
+
   //ADD
 
 // Green Paste

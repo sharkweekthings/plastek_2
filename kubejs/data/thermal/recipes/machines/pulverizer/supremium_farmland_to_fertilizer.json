@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+      "item": "mysticalagriculture:supremium_farmland"
+  },
+  "result": [
+    {
+      "item": "biomancy:fertilizer",
+      "count": 1
+    }
+  ],
+  "experience": 0.2
+}
