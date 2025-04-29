@@ -72,7 +72,7 @@ ServerEvents.recipes(event => {
   event.shapeless(Item.of('kubejs:box_of_supreme_machine_frame_parts'), ['thermal:diamond_gear', 'create:iron_sheet', 'create:iron_sheet', 'create:sturdy_sheet', 'create:sturdy_sheet', 'pneumaticcraft:compressed_iron_gear', 'industrialforegoing:machine_frame_advanced', 'kubejs:empty_box']).id('p2:box_of_supreme_machine_frame_parts')
 
 // Box of Control Chip Parts
-  event.shapeless(Item.of('kubejs:box_of_control_chip_parts'), ['#forge:plates/gold', 'create:electron_tube', 'create:electron_tube', 'thermal:copper_gear', 'kubejs:empty_box']).id('p2:box_of_control_chip_parts')
+  event.shapeless(Item.of('kubejs:box_of_control_chip_parts'), ['create:precision_mechanism', 'create:electron_tube', 'create:electron_tube', 'thermal:copper_gear', 'kubejs:empty_box']).id('p2:box_of_control_chip_parts')
 
 // Box of Bow Grip Steel Cast Parts
   event.shapeless(Item.of('kubejs:box_of_bow_grip_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:bow_grip', 'kubejs:empty_box']).id('p2:box_of_bow_grip_steel_cast_parts')
