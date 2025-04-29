@@ -603,7 +603,7 @@
 			can_repeat: true
 			dependencies: ["15FB00D2E063E9D3"]
 			description: [
-				"For a little early/mid game flight before you get your &3Flugel Tiara&r; you can do this repeatable quest for a &3Potion of Flying&r. It wil grant &a15 minutes of Creative Flight&r. "
+				"For a little early/mid game flight before you get your &3Flugel Tiara&r; you can do this repeatable quest for a &3Potion of Flying&r. It will grant &a15 minutes of Creative Flight&r. "
 				""
 				"Who knows, you might even find a different way to fly."
 			]
