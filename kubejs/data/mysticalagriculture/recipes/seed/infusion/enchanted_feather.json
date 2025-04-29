@@ -1,0 +1,45 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:air"
+    },
+    {
+      "type": "mysticalagriculture:crop_has_material",
+      "crop": "mysticalagriculture:air"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:air_essence"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "mysticalagriculture:air_essence"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "mysticalagriculture:air_essence"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "mysticalagriculture:air_essence"
+    },
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "input": {
+      "item": "nameless_trinkets:unknown_fragment"
+  },
+  "result": {
+    "item": "kubejs:enchanted_feather"
+  }
+}

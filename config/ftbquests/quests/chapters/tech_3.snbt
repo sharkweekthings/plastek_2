@@ -967,7 +967,29 @@
 		}
 		{
 			dependencies: ["59B7D90D42BAD997"]
+			description: [
+				"These &3Draconium Bee Spawn Eggs&r will come in very handy, and you should set them up as soon as possible. "
+				""
+				"&aYou have a chance at filling up a whole hive&r, &cor just 1 lonely little bee&r. "
+				""
+				"GOOD LUCK!"
+			]
 			id: "070F2F50A2C725D3"
+			rewards: [{
+				id: "55ED3F1D86D2B180"
+				item: {
+					Count: 1
+					id: "productivebees:spawn_egg_configurable_bee"
+					tag: {
+						EntityTag: {
+							type: "productivebees:draconium"
+						}
+					}
+				}
+				random_bonus: 4
+				type: "item"
+			}]
+			subtitle: "With a little bonus!"
 			tasks: [{
 				id: "7A14C7BF511F6F56"
 				item: {

@@ -1,9 +1,9 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "create:golden_sheet"
+    "item": "create:precision_mechanism"
   },
-  "loops": 3,
+  "loops": 1,
   "results": [
     {
       "chance": 33.33,

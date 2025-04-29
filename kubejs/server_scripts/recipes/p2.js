@@ -49,12 +49,6 @@ ServerEvents.recipes(event => {
     ['111','1 1','111'], {
     1: '#forge:dusts/wood'}).id('p2:empty_box')
 
-// Empty Box
-  event.shaped('kubejs:enchanted_feather',
-    [' 1 ','121',' 1 '], {
-    1: 'botania:dragonstone',
-    2: 'minecraft:feather'}).id('p2:enchanted_feather')
-
 // Infused Nether Stone
   event.shaped('kubejs:infused_nether_stone',
     [' 2 ','212',' 2 '], {
