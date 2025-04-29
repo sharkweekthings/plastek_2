@@ -1557,7 +1557,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["3891B1B37D73E60D"]
+			dependencies: ["48568321D1EDA99F"]
 			icon: {
 				Count: 1
 				id: "endrem:wither_eye"
