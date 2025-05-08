@@ -15,7 +15,7 @@
       "tag": "forge:ingots/compressed_iron"
     },
     "Z": {
-      "item": "create_connected:control_chip"
+      "item": "kubejs:temporary_control_chip"
     }
   },
   "pattern": [
