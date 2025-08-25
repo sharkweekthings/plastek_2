@@ -488,6 +488,58 @@
 			x: -2.5d
 			y: 3.5d
 		}
+		{
+			dependencies: ["0174B8D037486CC7"]
+			description: [
+				"Did you do a naughty thing and eat something you shouldn't have? Maybe your &6DIET&r stats are being penalized?"
+				""
+				"Don't worry! Just take this pill "
+				""
+				"&4&ocrams it down your throat&r&r "
+				""
+				"You'll be pooping in no time."
+				""
+				"Whether you poop out the food you ate, or poop out your organs because you haven't eaten anything – this product is guaranteed to reset your &6DIET&r stats to default, or your money back!"
+				""
+				"Now go on, friend... Get to poopin :)"
+				""
+				"&oDon't forget to wipe!&r"
+				""
+				"The &3Toilet&r can be crafted on the &6Refurbished Furniture&r &9Workbench&r"
+			]
+			id: "79CC6022F3DD0477"
+			rewards: [{
+				command: "/diet reset @p"
+				elevate_perms: true
+				icon: "minecraft:cactus"
+				id: "507D2D2DEB993E3F"
+				title: "Wipe It Away"
+				type: "command"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "571A3AC41BA4F0F0"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "refurbished_furniture:wooden_toilets"
+						}
+					}
+					title: "Any Toilet"
+					type: "item"
+				}
+				{
+					id: "5F4BE5077FDD8E21"
+					title: "Ok"
+					type: "checkmark"
+				}
+			]
+			title: "Gotta Go Poop"
+			x: -5.0d
+			y: -1.5d
+		}
 	]
 	title: "Read Me!"
 }

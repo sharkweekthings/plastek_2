@@ -71,3 +71,5 @@ HARD START
  - Some of the Everlasting Ability totems show that they require a specific amount of experience, but they actually require more. If you can't learn the ability try to gain 1 extra level to see if that lets you learn it.
 
  - Andesite Alloy in the Metal Alloyer can be created with any variation of Andesite and Iron Ingot, despite there not being alternate recipes.
+
+ - Sorting your inventory is not possible when looking at any Metal Barrels containers.
