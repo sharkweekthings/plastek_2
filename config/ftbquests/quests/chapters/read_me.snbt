@@ -540,6 +540,40 @@
 			x: -5.0d
 			y: -1.5d
 		}
+		{
+			dependencies: ["79CC6022F3DD0477"]
+			description: [
+				"If you've taken a bite from the Forbidden Fruit, you are now eligible to pause your DIET status!"
+				""
+				"With DIET paused, you will be stuck at whatever default you were at, so you should pair this up with the previous quest to ensure you are at least defaulted to 25%. "
+				""
+				"&oThere is also probably nothing stopping you from getting to 100% then pausing it&r"
+			]
+			icon: "farmersdelight:dog_food"
+			id: "29F4AA8B50FC354A"
+			rewards: [{
+				command: "/diet pause @p"
+				icon: "farmersdelight:dog_food"
+				id: "51AC7259C96782A6"
+				type: "command"
+			}]
+			tasks: [
+				{
+					advancement: "vinery:main/forbidden_fruit"
+					criterion: ""
+					id: "77B3E906046F7FDA"
+					type: "advancement"
+				}
+				{
+					id: "1C3D76A27D651803"
+					title: "Ok"
+					type: "checkmark"
+				}
+			]
+			title: "I've Eaten The Fruit"
+			x: -5.0d
+			y: -3.0d
+		}
 	]
 	title: "Read Me!"
 }
