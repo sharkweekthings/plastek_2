@@ -599,7 +599,7 @@
 			id: "7FDF4B5A5348079A"
 			shape: "square"
 			tasks: [{
-				entity: "iceandfire:cockatrice"
+				entity: "aether:cockatrice"
 				id: "1E5D8A94D0C22917"
 				type: "kill"
 				value: 5L

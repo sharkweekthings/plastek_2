@@ -28,4 +28,6 @@ disableInSingleplayer = true
 disableInLonelyMultiplayer = false
 #The damage sources that kill a player instantly, without a K.O. period.
 instantDeathSources = ["minecraft:lava"]
+#The source entity types that kill a player instantly, without a K.O. period.
+instantDeathEntityTypes = []
 

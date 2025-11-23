@@ -207,23 +207,6 @@
 		}
 		{
 			dependencies: ["092FFCF408050E20"]
-			id: "20D8E7DA108FE50E"
-			tasks: [{
-				id: "77D509DB2061CD24"
-				item: {
-					Count: 1
-					id: "rftoolsutility:computer_module"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 5.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["092FFCF408050E20"]
 			id: "1650EBB48CF5A6B3"
 			tasks: [{
 				id: "0F7C11E3D8F8B758"
@@ -254,7 +237,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: -6.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["092FFCF408050E20"]
@@ -284,7 +267,7 @@
 				}
 			]
 			x: 5.5d
-			y: -7.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["092FFCF408050E20"]
