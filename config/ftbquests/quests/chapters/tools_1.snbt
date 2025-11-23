@@ -428,7 +428,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 5.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["06F8EC95A7718D92"]
@@ -452,7 +452,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: 5.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["7F1D40E3D99C5160"]
@@ -525,7 +525,7 @@
 				type: "item"
 			}]
 			x: 7.0d
-			y: 5.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["06F8EC95A7718D92"]
@@ -549,7 +549,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: 6.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["06F8EC95A7718D92"]
@@ -573,7 +573,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 6.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -595,7 +595,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: 7.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -617,7 +617,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 7.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -639,7 +639,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 7.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -661,7 +661,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -683,7 +683,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -705,7 +705,7 @@
 				type: "item"
 			}]
 			x: 9.5d
-			y: 7.1d
+			y: 8.1d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -727,7 +727,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: 7.1d
+			y: 8.1d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -749,7 +749,7 @@
 				type: "item"
 			}]
 			x: 11.5d
-			y: 7.1d
+			y: 8.1d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -771,7 +771,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 8.1d
+			y: 9.1d
 		}
 		{
 			dependencies: ["47CDFFB62C641DEB"]
@@ -793,7 +793,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 8.1d
+			y: 9.1d
 		}
 		{
 			dependencies: [
@@ -1074,7 +1074,7 @@
 			}]
 			title: "Unlock All Other Equipment"
 			x: 7.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -1147,6 +1147,34 @@
 			title: "Free Real Estate"
 			x: 5.0d
 			y: -4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["656B3891DDB47892"]
+			icon: {
+				Count: 1
+				id: "ultimine_addition:miner_certificate"
+				tag: { }
+			}
+			id: "2D4CBD54F4025DCB"
+			rewards: [{
+				id: "1A47E2A67178D188"
+				item: {
+					Count: 1
+					id: "ultimine_addition:miner_certificate"
+					tag: { }
+				}
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "450ABD0E72355605"
+				title: "Ok"
+				type: "checkmark"
+			}]
+			title: "Miner's Certificate"
+			x: 7.0d
+			y: 5.0d
 		}
 	]
 	title: "Tools"
