@@ -708,7 +708,7 @@
 				id: "1232E3838DAD0B47"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 10.5d
 			y: 4.0d
 		}
 		{
@@ -737,6 +737,7 @@
 		}
 		{
 			id: "3AD2C681CF9693F4"
+			invisible: true
 			subtitle: "Giant Mushroom"
 			tasks: [{
 				advancement: "dungeons_arise:find_giant_mushroom"
@@ -744,8 +745,8 @@
 				id: "14B70283F3924DA6"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 3.0d
+			x: 11.5d
+			y: 4.0d
 		}
 		{
 			id: "1FD9C40178318CEA"
@@ -772,9 +773,7 @@
 			y: 2.0d
 		}
 		{
-			description: ["removed from the game?"]
 			id: "4980380E621F7391"
-			invisible: true
 			subtitle: "Mushroom House"
 			tasks: [{
 				advancement: "dungeons_arise:find_mushroom_house"
@@ -782,8 +781,8 @@
 				id: "61355726F6967D58"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 4.0d
+			x: 11.0d
+			y: 3.0d
 		}
 		{
 			id: "6044600B2A07417C"
