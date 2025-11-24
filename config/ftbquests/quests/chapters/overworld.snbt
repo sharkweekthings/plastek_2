@@ -698,7 +698,9 @@
 			y: 2.0d
 		}
 		{
+			description: ["removed from the game?"]
 			id: "6778C02C99C9945C"
+			invisible: true
 			subtitle: "Small Praire House"
 			tasks: [{
 				advancement: "dungeons_arise:find_small_prairie_house"
@@ -706,8 +708,8 @@
 				id: "1232E3838DAD0B47"
 				type: "advancement"
 			}]
-			x: 12.5d
-			y: 3.0d
+			x: 11.5d
+			y: 4.0d
 		}
 		{
 			id: "12B7F409B78C7E6A"
@@ -718,7 +720,7 @@
 				id: "5EDB5337CB8AE8CF"
 				type: "advancement"
 			}]
-			x: 8.5d
+			x: 9.0d
 			y: 3.0d
 		}
 		{
@@ -730,7 +732,7 @@
 				id: "6B51418F78FD74FD"
 				type: "advancement"
 			}]
-			x: 9.5d
+			x: 10.0d
 			y: 3.0d
 		}
 		{
@@ -742,7 +744,7 @@
 				id: "14B70283F3924DA6"
 				type: "advancement"
 			}]
-			x: 10.5d
+			x: 11.0d
 			y: 3.0d
 		}
 		{
@@ -754,7 +756,7 @@
 				id: "5EBC71A3F713FC40"
 				type: "advancement"
 			}]
-			x: 11.5d
+			x: 12.0d
 			y: 3.0d
 		}
 		{
@@ -770,7 +772,9 @@
 			y: 2.0d
 		}
 		{
+			description: ["removed from the game?"]
 			id: "4980380E621F7391"
+			invisible: true
 			subtitle: "Mushroom House"
 			tasks: [{
 				advancement: "dungeons_arise:find_mushroom_house"
@@ -778,8 +782,8 @@
 				id: "61355726F6967D58"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 3.0d
+			x: 10.5d
+			y: 4.0d
 		}
 		{
 			id: "6044600B2A07417C"
@@ -790,8 +794,8 @@
 				id: "41043453A6E57811"
 				type: "advancement"
 			}]
-			x: 11.0d
-			y: 4.0d
+			x: 13.0d
+			y: 3.0d
 		}
 		{
 			description: [
