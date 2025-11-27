@@ -52,6 +52,7 @@ ServerEvents.recipes(event => {
   event.remove({id: 'mekanismgenerators:reactor/logic_adapter'})
   event.remove({id: 'mekanism:induction/casing'})
   event.remove({id: 'mekanism:induction/port'})
+  // event.remove({ output: '#forge:fuels/bio' })
 
 //
 })

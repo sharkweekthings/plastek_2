@@ -3288,6 +3288,12 @@ event.add('p2:wine_racks',
   'vinery:mangrove_wine_rack_big'
 ])
 
+event.add('curios:curios', 
+[
+  'tarotcards:tarot_deck',
+  'expatternprovider:wireless_ex_pat'
+])
+
 event.remove('tombstone:seeds', 
 [
   'mysticalagriculture:copper_alloy_seeds',
