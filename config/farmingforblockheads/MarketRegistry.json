@@ -190,6 +190,7 @@
     {"output": {"item": "apotheosis:rare_material","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 11},"category": "shopping"},
     {"output": {"item": "apotheosis:epic_material","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 14},"category": "shopping"},
     {"output": {"item": "apotheosis:uncommon_material","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 8},"category": "shopping"},
+    {"output": {"item": "inventorypets:temp_feed_bag","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 32},"category": "shopping"},
     {"output": {"item": "mob_grinding_utils:gm_chicken_feed_cursed","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "shopping"},
     {"output": {"item": "mob_grinding_utils:dark_oak_stone","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "shopping"},
     {"output": {"item": "mob_grinding_utils:nutritious_chicken_feed","count": 1},"payment": {"item": "ocean_recovery:plastic_shard","count": 35},"category": "shopping"},
