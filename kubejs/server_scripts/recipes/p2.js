@@ -120,16 +120,16 @@ ServerEvents.recipes(event => {
   event.shapeless(Item.of('kubejs:box_of_tool_handle_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:tool_handle', 'kubejs:empty_box']).id('p2:box_of_tool_handle_steel_cast_parts')
   
 // Box of Chestplate Plating Steel Cast Parts
-  event.shapeless(Item.of('kubejs:box_of_chestplate_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:chestplate_plating', 'kubejs:empty_box']).id('p2:box_of_chestplate_plating_steel_cast_parts')
+  event.shapeless(Item.of('kubejs:box_of_chestplate_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:armors/chestplates', 'kubejs:empty_box']).id('p2:box_of_chestplate_plating_steel_cast_parts')
   
 // Box of Helmet Plating Steel Cast Parts
-  event.shapeless(Item.of('kubejs:box_of_helmet_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:helmet_plating', 'kubejs:empty_box']).id('p2:box_of_helmet_plating_steel_cast_parts')
+  event.shapeless(Item.of('kubejs:box_of_helmet_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:armors/helmets', 'kubejs:empty_box']).id('p2:box_of_helmet_plating_steel_cast_parts')
   
 // Box of Leggings Steel Cast Parts
-  event.shapeless(Item.of('kubejs:box_of_leggings_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:leggings_plating', 'kubejs:empty_box']).id('p2:box_of_leggings_plating_steel_cast_parts')
+  event.shapeless(Item.of('kubejs:box_of_leggings_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:armors/leggings', 'kubejs:empty_box']).id('p2:box_of_leggings_plating_steel_cast_parts')
   
 // Box of Boots Steel Cast Parts
-  event.shapeless(Item.of('kubejs:box_of_boots_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:boots_plating', 'kubejs:empty_box']).id('p2:box_of_boots_plating_steel_cast_parts')
+  event.shapeless(Item.of('kubejs:box_of_boots_plating_steel_cast_parts'), ['kubejs:blank_steel_cast', '#forge:armors/boots', 'kubejs:empty_box']).id('p2:box_of_boots_plating_steel_cast_parts')
   
 // Box of Maille Steel Cast Parts
   event.shapeless(Item.of('kubejs:box_of_maille_steel_cast_parts'), ['kubejs:blank_steel_cast', 'tconstruct:maille', 'kubejs:empty_box']).id('p2:box_of_maille_steel_cast_parts')

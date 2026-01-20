@@ -5,7 +5,7 @@
 	group: "29E2459388A87C4C"
 	icon: "vinery:wandering_winemaker_spawn_egg"
 	id: "5AFF468507AC380D"
-	order_index: 5
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
